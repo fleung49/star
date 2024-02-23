@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/phoenixinfonews.png" group-title="NEWS YT",凤凰资讯
+https://www.youtube.com/watch?v=ALvxv4ZwK9c
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="NEWS YT",CGTN
+https://www.youtube.com/watch?v=Zv60F39Is_c
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cctv4.png" group-title="NEWS YT",CCTV4
+https://www.youtube.com/watch?v=bEZYrBMYNNg
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/CNA.jpg" group-title="NEWS YT",CNA
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="NEWS YT",SKY NEWS
+https://www.youtube.com/watch?v=w9uJg68CV4g
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-world-tr.svg" group-title="NEWS YT",TRT WORLD
+https://www.youtube.com/watch?v=5VF4aor94gw
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png" group-title="NEWS YT",AFRICANEWS
+https://www.youtube.com/watch?v=NQjabLGdP5g
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="NEWS YT",Al Jazeera
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARIRANG.png" group-title="NEWS YT",ARIRANG
+https://www.youtube.com/watch?v=e8HYOjaAId4
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/dw.png" group-title="NEWS YT",DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/EURONEWS/EURONEWS.jpg" group-title="NEWS YT",EURO NEWS
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="NEWS YT",FRANCE 24
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="NEWS YT",BLOOMBERG
+https://www.youtube.com/watch?v=iyOq8DhaMYw
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nhkworld.png" group-title="NEWS YT",NHK WORLD NEWS
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾新闻 YT",寰宇新闻台
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fanyuzonghe.jpg" group-title="台湾新闻 YT",寰宇台湾台
+https://www.youtube.com/watch?v=w87VGpgd90U
+#EXTINF:-1 tvg-logo="https://www.mnews.tw/_nuxt/img/mnews-blue.b5dfe4f.svg" group-title="台湾新闻 YT",鏡新闻
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="台湾新闻 YT",中天新闻
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="台湾新闻 YT",中天新闻 2
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="台湾新闻 YT",TVBS
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="台湾新闻 YT",TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="台湾新闻 YT",TVBS新闻台
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="台湾新闻 YT",东森新闻
+https://www.youtube.com/watch?v=2dfAzcDf8Zg
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ET-FINACIAL-NEWS.jpg" group-title="台湾新闻 YT",东森财经新闻
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1 tvg-logo="https://nysino.com/wp-content/uploads/elementor/thumbs/sino-tv--ppq82g4551dn1jknd1ukrgtmsh41lhvq8ldpnmvmco.png" group-title="台湾新闻 YT",華語電視 LA18
+https://www.youtube.com/watch?v=K65KwfFFZbI
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv.jpg" group-title="台湾新闻 YT",中视新闻
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv.jpg" group-title="台湾新闻 YT",中视
+https://www.youtube.com/watch?v=fl1iFkAWcVU
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ttvtv.jpg" group-title="台湾新闻 YT",台视新闻
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ftvnews.jpg" group-title="台湾新闻 YT",民视新闻
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/twcts.jpg" group-title="台湾新闻 YT",华视新闻
+https://www.youtube.com/watch?v=_pN_zrIUSZc
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/setinews.jpg" group-title="台湾新闻 YT",三立新闻
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ustv.jpg" group-title="台湾新闻 YT",非凡新闻
+https://www.youtube.com/watch?v=LSLKvjWTM98
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/08/large/20220308224749224158_75.jpg" group-title="USA NEWS YT",ABC NEWS LIVE
+https://www.youtube.com/watch?v=i01VWwC47eo
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kcbs_los_angeles.png" group-title="USA NEWS YT",ABC 7 LAX
+vhttps://www.youtube.com/watch?v=-E0AHOOGo24
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kcbs_los_angeles.png" group-title="USA NEWS YT",CBS 2 LAX
+https://www.youtube.com/watch?v=mTBOpJIyXco
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-news-now-us.png" group-title="USA NEWS YT",NBC NEWS NOW
+https://www.youtube.com/watch?v=lrA0uTAxipI
+#EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-weather/s/logos/fox-weather-logo-stacked-color.svg" group-title="USA NEWS YT",FOX Weather Live Stream
+https://www.youtube.com/watch?v=iesPl7zRbVY
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxnews.png" group-title="USA NEWS YT",LiveNOW from FOX
+https://www.youtube.com/watch?v=YDfiTGGPYCk
+#EXTINF:-1 group-title="MUSIC YT",电子琴演奏曲
+https://www.youtube.com/watch?v=4zK2VpBrcLM
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌1
+https://www.youtube.com/watch?v=J7uENlG1AAM
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌2
+https://www.youtube.com/watch?v=H7TjmiolcLQ
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌3
+https://www.youtube.com/watch?v=AyMU5LjMg3k
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌4
+https://www.youtube.com/watch?v=o8U0NbOsfho
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌5
+https://www.youtube.com/watch?v=pFbh9mPc0s8
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌6
+https://www.youtube.com/watch?v=dv6-IjHFE44
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌7
+https://www.youtube.com/watch?v=dv8SIcku_io
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌8
+https://www.youtube.com/watch?v=yMiLKR83cm4
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌9
+https://www.youtube.com/watch?v=TOLaG-sipkY
+#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌10
+https://www.youtube.com/watch?v=waYeCqs4I_Y
