@@ -1,0 +1,359 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,http://epg.pw/xmltv/epg.xml
+#EXTINF:-1 group-title="央视HHZT",CCTV1
+http://117.114.153.1:8180/TV00000000000000000099@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV2
+http://117.114.153.1:8180/TV00000000000000000140@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV3
+http://117.114.153.1:8180/TV00000000000000000104@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV4
+http://117.114.153.1:8180/TV00000000000000000001@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV5
+http://117.114.153.1:8180/TV00000000000000000105@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV5+
+http://117.114.153.1:8180/TV00000000000000000066@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV6
+http://117.114.153.1:8180/TV00000000000000000091@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV7
+http://117.114.153.1:8180/TV00000000000000000141@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV8
+http://117.114.153.1:8180/TV00000000000000000106@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV9
+http://117.114.153.1:8180/TV00000000000000000142@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV1O
+http://117.114.153.1:8180/TV00000000000000000143@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV11
+http://117.114.153.1:8180/TV00000000000000000002@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV12
+http://117.114.153.1:8180/TV00000000000000000144@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV13
+http://117.114.153.1:8180/TV00000000000000000003@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV14
+http://117.114.153.1:8180/TV00000000000000000005@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV15
+http://117.114.153.1:8180/TV00000000000000000004@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV16
+http://117.114.153.1:8180/TV00000000000000000136@HHZT
+#EXTINF:-1 group-title="央视HHZT",CCTV17
+http://117.114.153.1:8180/TV00000000000000000021@HHZT
+#EXTINF:-1 group-title="央视HHZT",CGTN
+http://117.114.153.1:8180/TV00000000000000000017@HHZT
+#EXTINF:-1 group-title="央视HHZT",CETV1
+http://117.114.153.1:8180/TV00000000000000000149@HHZT
+#EXTINF:-1 group-title="央视HHZT",CETV3
+http://117.114.153.1:8180/TV00000000000000000009@HHZT
+#EXTINF:-1 group-title="央视HHZT",CETV4
+http://117.114.153.1:8180/TV00000000000000000012@HHZT
+#EXTINF:-1 group-title="卫视HHZT",三沙卫视
+http://117.114.153.1:8180/TV00000000000000000041@HHZT
+#EXTINF:-1 group-title="卫视HHZT",东南卫视
+http://117.114.153.1:8180/TV00000000000000000156@HHZT
+#EXTINF:-1 group-title="卫视HHZT",东方卫视
+http://117.114.153.1:8180/TV00000000000000000138@HHZT
+#EXTINF:-1 group-title="卫视HHZT",云南卫视
+http://117.114.153.1:8180/TV00000000000000000028@HHZT
+#EXTINF:-1 group-title="卫视HHZT",内蒙古卫视
+http://117.114.153.1:8180/TV00000000000000000010@HHZT
+#EXTINF:-1 group-title="卫视HHZT",北京卫视
+http://117.114.153.1:8180/TV00000000000000000065@HHZT
+#EXTINF:-1 group-title="卫视HHZT",厦门卫视
+http://117.114.153.1:8180/TV00000000000000000044@HHZT
+#EXTINF:-1 group-title="卫视HHZT",吉林卫视
+http://117.114.153.1:8180/TV00000000000000000039@HHZT
+#EXTINF:-1 group-title="卫视HHZT",四川卫视
+http://117.114.153.1:8180/TV00000000000000000033@HHZT
+#EXTINF:-1 group-title="卫视HHZT",天津卫视
+http://117.114.153.1:8180/TV00000000000000000085@HHZT
+#EXTINF:-1 group-title="卫视HHZT",宁夏卫视
+http://117.114.153.1:8180/TV00000000000000000018@HHZT
+#EXTINF:-1 group-title="卫视HHZT",安徽卫视
+http://117.114.153.1:8180/TV00000000000000000087@HHZT
+#EXTINF:-1 group-title="卫视HHZT",山东卫视
+http://117.114.153.1:8180/TV00000000000000000083@HHZT
+#EXTINF:-1 group-title="卫视HHZT",山东教育卫视
+http://117.114.153.1:8180/TV00000000000000000036@HHZT
+#EXTINF:-1 group-title="卫视HHZT",山西卫视
+http://117.114.153.1:8180/TV00000000000000000030@HHZT
+#EXTINF:-1 group-title="卫视HHZT",广东卫视
+http://117.114.153.1:8180/TV00000000000000000027@HHZT
+#EXTINF:-1 group-title="卫视HHZT",广西卫视
+http://117.114.153.1:8180/TV00000000000000000037@HHZT
+#EXTINF:-1 group-title="卫视HHZT",新疆卫视
+http://117.114.153.1:8180/TV00000000000000000031@HHZ
+#EXTINF:-1 group-title="卫视HHZT",江苏卫视
+http://117.114.153.1:8180/TV00000000000000000089@HHZT
+#EXTINF:-1 group-title="卫视HHZT",江西卫视
+http://117.114.153.1:8180/TV00000000000000000019@HHZT
+#EXTINF:-1 group-title="卫视HHZT",河南卫视
+http://117.114.153.1:8180/TV00000000000000000016@HHZT
+#EXTINF:-1 group-title="卫视HHZT",浙江卫视
+http://117.114.153.1:8180/TV00000000000000000102@HHZT
+#EXTINF:-1 group-title="卫视HHZT",深圳卫视
+http://117.114.153.1:8180/TV00000000000000000101@HHZT
+#EXTINF:-1 group-title="卫视HHZT",湖北卫视
+http://117.114.153.1:8180/TV00000000000000000086@HHZT
+#EXTINF:-1 group-title="卫视HHZT",湖南卫视
+http://117.114.153.1:8180/TV00000000000000000148@HHZT
+#EXTINF:-1 group-title="卫视HHZT",甘肃卫视
+http://117.114.153.1:8180/TV00000000000000000014@HHZT
+#EXTINF:-1 group-title="卫视HHZT",西藏卫视
+http://117.114.153.1:8180/TV00000000000000000035@HHZT
+#EXTINF:-1 group-title="卫视HHZT",贵州卫视
+http://117.114.153.1:8180/TV00000000000000000040@HHZT
+#EXTINF:-1 group-title="卫视HHZT",辽宁卫视
+http://117.114.153.1:8180/TV00000000000000000119@HHZT
+#EXTINF:-1 group-title="卫视HHZT",重庆卫视
+http://117.114.153.1:8180/TV00000000000000000120@HHZT
+#EXTINF:-1 group-title="卫视HHZT",陕西卫视
+http://117.114.153.1:8180/TV00000000000000000038@HHZT
+#EXTINF:-1 group-title="卫视HHZT",青海卫视
+http://117.114.153.1:8180/TV00000000000000000034@HHZT
+#EXTINF:-1 group-title="卫视HHZT",黑龙江卫视
+http://117.114.153.1:8180/TV00000000000000000084@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",凤凰中文
+http://117.114.153.1:8180/TV00000000000000000069@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",凤凰电影
+http://117.114.153.1:8180/TV00000000000000000072@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",凤凰资讯
+http://117.114.153.1:8180/TV00000000000000000068@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",TVB星河
+http://117.114.153.1:8180/TV00000000000000000073@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",澳亚卫视
+http://117.114.153.1:8180/TV00000000000000000082@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",星空卫视
+http://117.114.153.1:8180/TV00000000000000000071@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",生活时尚
+http://117.114.153.1:8180/TV00000000000000000061@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",老故事
+http://117.114.153.1:8180/TV00000000000000000132@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",环球奇观
+http://117.114.153.1:8180/TV00000000000000000130@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",环球旅遊
+http://117.114.153.1:8180/TV00000000000000000054@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",收藏天下
+http://117.114.153.1:8180/TV00000000000000000122@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",发现之旅
+http://117.114.153.1:8180/TV00000000000000000131@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京体育休闲
+http://117.114.153.1:8180/TV00000000000000000146@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京少儿
+http://117.114.153.1:8180/TV00000000000000000026@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京影视
+http://117.114.153.1:8180/TV00000000000000000022@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京文艺
+http://117.114.153.1:8180/TV00000000000000000100@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京新闻
+http://117.114.153.1:8180/TV00000000000000000025@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京生活
+http://117.114.153.1:8180/TV00000000000000000023@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京纪实科教
+http://117.114.153.1:8180/TV00000000000000000020@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",北京财经
+http://117.114.153.1:8180/TV00000000000000000095@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",CHANNEL V
+http://117.114.153.1:8180/TV00000000000000000067@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",CHC动作电影
+http://117.114.153.1:8180/TV00000000000000000093@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",CHC家庭影院
+http://117.114.153.1:8180/TV00000000000000000092@HHZT
+#EXTINF:-1 group-title="港澳其他HHZT",CHC高清电影
+http://117.114.153.1:8180/TV00000000000000000094@HHZT
+#EXTINF:-1 group-title="美HHZT",axn
+http://117.114.153.1:8180/TV00000000000000000076@HHZT
+#EXTINF:-1 group-title="美HHZT",BLOOMBERG
+http://117.114.153.1:8180/TV00000000000000000163@HHZT
+#EXTINF:-1 group-title="美HHZT",CIMC
+http://117.114.153.1:8180/TV00000000000000000062@HHZT
+#EXTINF:-1 group-title="美HHZT",CINEMAX
+http://117.114.153.1:8180/TV00000000000000000109@HHZT
+#EXTINF:-1 group-title="美HHZT",CNBC
+http://117.114.153.1:8180/TV00000000000000000110@HHZT
+#EXTINF:-1 group-title="美HHZT",CNN
+http://117.114.153.1:8180/TV00000000000000000108@HHZT
+#EXTINF:-1 group-title="美HHZT",DISCOVERY
+http://117.114.153.1:8180/TV00000000000000000077@HHZT
+#EXTINF:-1 group-title="美HHZT",HBO（美）
+http://117.114.153.1:8180/TV00000000000000000074@HHZT
+#EXTINF:-1 group-title="美HHZT",KBS WORLD
+http://117.114.153.1:8180/TV00000000000000000166@HHZT
+#EXTINF:-1 group-title="美HHZT",NATGEO
+http://117.114.153.1:8180/TV00000000000000000112@HHZT
+#EXTINF:-1 group-title="美HHZT",STAR movies
+http://117.114.153.1:8180/TV00000000000000000075@HHZT
+#EXTINF:-1 group-title="美HHZT",STAR SPORTS
+http://117.114.153.1:8180/TV00000000000000000070@HHZT
+#EXTINF:-1 group-title="美HHZT",STAR SPORTS 2
+http://117.114.153.1:8180/TV00000000000000000111@HHZT
+#EXTINF:-1 group-title="香港台",NOW星影
+http://121.40.63.193:81/now星影/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="香港台",NOW爆谷
+http://121.40.63.193:81/now爆谷/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="香港台",TVB翡翠
+http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="香港台",广电翡翠
+http://121.40.63.193:81/广电翡翠/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="香港台",TVB翡翠台
+http://154.12.50.54:123/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港台",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="香港台",無綫新聞台
+http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 group-title="香港台",无线Plus备
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港台",TVB-Plus
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+#EXTINF:-1 group-title="香港台",TVB-Plus
+http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
+#EXTINF:-1 group-title="香港台",TVB星河
+http://117.114.153.1:8180/TV00000000000000000073@HHZT
+#EXTINF:-1 group-title="香港台",TVB星河
+https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB功夫
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB娱乐新闻
+https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVBJ1
+https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/uswest-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="香港台",凤凰资讯台
+http://194.87.101.118/live.m3u8?c=2
+#EXTINF:-1 group-title="香港台",凤凰资讯台
+http://www.hzz.pub:8889/rtp/239.93.0.118:2191
+#EXTINF:-1 group-title="香港台",凤凰中文台
+http://www.hzz.pub:8889/rtp/239.93.0.162:2192
+#EXTINF:-1 group-title="香港台",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="香港台",凤凰中文
+http://122.224.232.226:8888/udp/233.50.200.191:5140
+#EXTINF:-1 group-title="香港台",凤凰资讯
+http://122.224.232.226:8888/udp/233.50.200.192:5140
+#EXTINF:-1 group-title="香港台",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 group-title="香港台",香港32台
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港台",香港33台
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港台",香港34台
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港台",香港35台
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="台湾新闻",中天亚洲台
+http://194.87.101.118/live.m3u8?c=3
+#EXTINF:-1 group-title="台湾新闻",台视新闻
+http://194.87.101.118/live.m3u8?c=4
+#EXTINF:-1 group-title="台湾新闻",TVBS新闻
+http://194.87.101.118/live.m3u8?c=5
+#EXTINF:-1 group-title="台湾新闻",中视新闻
+http://194.87.101.118/live.m3u8?c=6
+#EXTINF:-1 group-title="台湾新闻",中天新闻
+http://194.87.101.118/live.m3u8?c=7
+#EXTINF:-1 group-title="台湾新闻",公视新闻
+http://194.87.101.118/live.m3u8?c=8
+#EXTINF:-1 group-title="台湾新闻",东森新闻
+http://194.87.101.118/live.m3u8?c=9
+#EXTINF:-1 group-title="台湾新闻",镜新闻
+http://194.87.101.118/live.m3u8?c=10
+#EXTINF:-1 group-title="台湾新闻",民视新闻
+http://194.87.101.118/live.m3u8?c=11
+#EXTINF:-1 group-title="台湾新闻",三立新闻
+http://194.87.101.118/live.m3u8?c=12
+#EXTINF:-1 group-title="台湾新闻",华视新闻
+http://194.87.101.118/live.m3u8?c=13
+#EXTINF:-1 group-title="台湾新闻",东森财经新闻
+http://194.87.101.118/live.m3u8?c=14
+#EXTINF:-1 group-title="",中天亞洲台
+http://154.201.73.159:8181/live.m3u8?c=1
+#EXTINF:-1 group-title="",中天新聞
+http://154.201.73.159:8181/live.m3u8?c=2
+#EXTINF:-1 group-title="",寰宇新聞台
+http://154.201.73.159:8181/live.m3u8?c=3
+#EXTINF:-1 group-title="",中天新聞2
+http://154.201.73.159:8181/live.m3u8?c=4
+#EXTINF:-1 group-title="",台視新聞
+http://154.201.73.159:8181/live.m3u8?c=5
+#EXTINF:-1 group-title="",三立iNEWS
+http://154.201.73.159:8181/live.m3u8?c=6
+#EXTINF:-1 group-title="",三立iNEWS+
+http://154.201.73.159:8181/live.m3u8?c=7
+#EXTINF:-1 group-title="",LIVE三立
+http://154.201.73.159:8181/live.m3u8?c=8
+#EXTINF:-1 group-title="",TVBS HD
+http://154.201.73.159:8181/live.m3u8?c=9
+#EXTINF:-1 group-title="",TVBS新聞台
+http://154.201.73.159:8181/live.m3u8?c=10
+#EXTINF:-1 group-title="",東森LIVE
+http://154.201.73.159:8181/live.m3u8?c=11
+#EXTINF:-1 group-title="",東森財經新聞
+http://154.201.73.159:8181/live.m3u8?c=12
+#EXTINF:-1 group-title="",中視新聞
+http://154.201.73.159:8181/live.m3u8?c=13
+#EXTINF:-1 group-title="",民視新聞
+http://154.201.73.159:8181/live.m3u8?c=14
+#EXTINF:-1 group-title="",公視新聞
+http://154.201.73.159:8181/live.m3u8?c=15
+#EXTINF:-1 group-title="",鏡新聞
+http://154.201.73.159:8181/live.m3u8?c=16
+#EXTINF:-1 group-title="",華視新聞
+http://154.201.73.159:8181/live.m3u8?c=18
+#EXTINF:-1 group-title="港澳斯玛特,",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="港澳斯玛特,",华丽翡翠
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 group-title="港澳斯玛特,",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳斯玛特,",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="港澳斯玛特,",TVB Plus备
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港澳斯玛特,",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="港澳斯玛特,",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳斯玛特,",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="港澳斯玛特,",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=tvbxinhe_twn
+#EXTINF:-1 group-title="港澳斯玛特,",TVB星河
+https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳斯玛特,",TVB星河台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港澳斯玛特,",TVB功夫台
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳斯玛特,",TVB娱乐新闻
+https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳斯玛特,",TVB经典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="港澳斯玛特,",TVB华丽台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="港澳斯玛特,",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳斯玛特,",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳斯玛特,",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳斯玛特,",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳斯玛特,",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="港澳斯玛特,",VIUTV6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳斯玛特,",VIUTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳斯玛特,",VIUTV
+http://php.jdshipin.com:8880/smt.php?id=viutv
+#EXTINF:-1 group-title="港澳斯玛特,",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港澳斯玛特,",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港澳斯玛特,",美亞電影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="港澳斯玛特,",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="港澳斯玛特,",广州南国都市
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzngds
+#EXTINF:-1 group-title="港澳斯玛特,",NOW星影
+http://121.40.63.193:81/now星影/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="港澳斯玛特,",NOW爆谷
+http://121.40.63.193:81/now爆谷/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="港澳斯玛特,",TVB翡翠
+http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.flv
+#EXTINF:-1 group-title="港澳斯玛特,",广电翡翠
+http://121.40.63.193:81/广电翡翠/香蕉哥专用.live.flv
