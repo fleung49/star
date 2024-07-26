@@ -1,26 +1,28 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,http://epg.pw/xmltv/epg.xml
 #EXTINF:-1 group-title="香港频道",翡翠台
-http://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+http://z02.ubtvfans.com/live/rx1/390/2aaf45955b88bc753effe41f9cb094d0/index.m3u8
+#EXTINF:-1 group-title="香港频道",翡翠台
+http://z02.ubtvfans.com/live/rx1/30/c42e16b9b557b6bf5ecd8e282c711ee8/index.m3u8
 #EXTINF:-1 group-title="香港频道",明珠台
 http://z02.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
 #EXTINF:-1 group-title="香港频道",无线新闻
-http://z02.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+http://z02.ubtvfans.com/live/rx1/45/480afc21cb6e660b63b14b1e2842b5fc/index.m3u8
 #EXTINF:-1 group-title="香港频道",无线新闻
-http://z02.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
+http://z02.ubtvfans.com/live/rx1/394/a1a220b8bbe279d4ed490d9233c7fd42/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB PLUS
-http://z02.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+http://z02.ubtvfans.com/live/rx1/392/f0a4f36cc4512c88feb32fe90dcdf284/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB PLUS
-http://z02.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2834/a62caf235434f94dacec9574c862183e/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB直播
-http://z02.ubtvfans.com/live/rx1/2743/4f144d9eee874c8d70c168c4b0c4b8d5/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2743/63e3073323655c75b2cc780f39e50147/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB DRAMA
 http://z02.ubtvfans.com/live/rx3/1243/75a6e75f5bdac50e94dcafa9a6e8da00/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB亞洲劇
-http://z02.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1048/967cba19213ea501424f0eca629b12e2/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB粵語片
-http://z02.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1589/1624461c43c7c271178724c93a0d5808/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB功夫台
-http://z02.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
+http://z02.ubtvfans.com/live/rx1/168/09a432a19cb9526b697914342a38afa0/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVBE
 http://z02.ubtvfans.com/live/rx3/1245/d7a701aa77e07df92ac0b3d16e45aba6/index.m3u8
 #EXTINF:-1 group-title="香港频道",TVB星河
@@ -32,37 +34,37 @@ http://z02.ubtvfans.com/live/rx3/1242/6045fc20e42766849008f7e4f94b01df/index.m3u
 #EXTINF:-1 group-title="香港频道",TVB J1
 http://z02.ubtvfans.com/live/rx3/1244/e5d0e60831caa7cbd6cb28685f3ce666/index.m3u8
 #EXTINF:-1 group-title="香港频道",HOY 77
-http://z02.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+http://z02.ubtvfans.com/live/rx1/401/854fed92a8ecbb0a02c1119d001ccfb5/index.m3u8
 #EXTINF:-1 group-title="香港频道",HOY资讯台
-http://z02.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+http://z02.ubtvfans.com/live/rx1/395/33828c5efff50928130552eef762d022/index.m3u8
 #EXTINF:-1 group-title="香港频道",HKIBC
-http://z02.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
+http://z02.ubtvfans.com/live/rx1/354/99db3b3c9d6f54c585cf30f97f45f3a9/index.m3u8
 #EXTINF:-1 group-title="香港频道",ViuTV
-http://z02.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2334/3d9e7fa4ea20135297395694ae635e7d/index.m3u8
 #EXTINF:-1 group-title="香港频道",Viutv
-http://z02.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+http://z02.ubtvfans.com/live/rx1/72/fe07d60572acf311c09c31c1823be2bd/index.m3u8
 #EXTINF:-1 group-title="香港频道",Viutv 6
-http://z02.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+http://z02.ubtvfans.com/live/rx1/176/b2b6957e3699957899727f34e90d7cf8/index.m3u8
 #EXTINF:-1 group-title="香港频道",鳳凰香港
-http://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2810/4fa266d15cefbf69f4a19d208a433fad/index.m3u8
 #EXTINF:-1 group-title="香港频道",鳳凰衛視
-http://z02.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2812/cdd29cdeafabc4f01b5a6b2e6c92b9fd/index.m3u8
 #EXTINF:-1 group-title="香港频道",鳳凰资讯
-http://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2811/54845f69305e59126a84ed015e085529/index.m3u8
 #EXTINF:-1 group-title="香港频道",鳳凰電影
-http://z02.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2814/4e85c6e79a8008c0eeee3b9fba980941/index.m3u8
 #EXTINF:-1 group-title="香港频道",星空衛視
-http://z02.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+http://z02.ubtvfans.com/live/rx1/56/1a0f4f99975f166b0d39157772cc34bd/index.m3u8
 #EXTINF:-1 group-title="香港频道",廣東珠江
-http://z02.ubtvfans.com/live/rx1/1034/ea91e47e0ce349e1923cbcb373067494/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1034/02ee843d33b0949fb2303a53ddd96679/index.m3u8
 #EXTINF:-1 group-title="香港频道",18台
-http://z02.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2813/aeb4576e4a832c36365a4e0a914524c3/index.m3u8
 #EXTINF:-1 group-title="香港频道",18台
 http://z02.ubtvfans.com/live/rx1/44/85341c5f70a65a7ffbe09dae086f1201/index.m3u8
 #EXTINF:-1 group-title="香港频道",澳門蓮花
-http://z02.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+http://z02.ubtvfans.com/live/rx1/70/37bc89b1fcd9da68c0a8710d3cf77138/index.m3u8
 #EXTINF:-1 group-title="香港频道",美亞電影
-http://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+http://z02.ubtvfans.com/live/rx1/375/f37775e6478032a0878def1864f31711/index.m3u8
 #EXTINF:-1 group-title="香港频道",SINOVISION
 http://z02.ubtvfans.com/live/rx3/1101/f8a0f0934acd1427fb7291e3cf9a95a4/index.m3u8
 #EXTINF:-1 group-title="香港频道",新時代東部
@@ -73,20 +75,16 @@ http://z02.ubtvfans.com/live/rx4/1287/3a88005925f3ccce0dc5d66070400e02/index.m3u
 http://z02.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
 #EXTINF:-1 group-title="香港频道",城市電視
 http://z02.ubtvfans.com/live/rx4/1289/0bae9e9455a9e8cf7ffda9d078043e09/index.m3u8
+#EXTINF:-1 group-title="香港频道",NOW新闻台
+http://z02.ubtvfans.com/live/rx1/1246/1e15ea2827def88ef1994f4c7e3799f6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",壹新闻
 http://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 #EXTINF:-1 group-title="台湾频道",壹电影
-http://z02.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2284/0bc14977af0178bcdc71d180e230321c/index.m3u8
 #EXTINF:-1 group-title="台湾频道",寰宇新闻台湾台
-http://z02.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
+http://z02.ubtvfans.com/live/rx1/87/4a23c542d935fa907129b1c6eebde86f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="台湾频道",中天新闻
-http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv
-#EXTINF:-1 group-title="台湾频道",中天新闻
-http://dl.yidiandian.online/11.php?id=141
-#EXTINF:-1 group-title="台湾频道",中天新闻 HD
-http://156.238.230.135:8888/channel/n1f633079/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 #EXTINF:-1 group-title="台湾频道",中天新闻 YT1
 http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 group-title="台湾频道",中天新闻 YT2
@@ -98,67 +96,69 @@ http://www.terrykang.xyz:35455/youtube/WPfPjbOLNfE
 #EXTINF:-1 group-title="台湾频道",中天新闻 C+ YT2
 https://tv.iill.top/youtube/WPfPjbOLNfE
 #EXTINF:-1 group-title="台湾频道",中天亚洲台
-http://z02.ubtvfans.com/live/rx1/322/b51b8d02c207db98c44228186a5310b1/index.m3u8
+http://z02.ubtvfans.com/live/rx1/322/adf09c9b125ca53d55e6d3504fb78dcb/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中天娱乐台
 http://z02.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中天综合台
-http://z02.ubtvfans.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
+http://z02.ubtvfans.com/live/rx1/3072/82fc353808368794fe365772f595ba93/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS
 http://z02.ubtvfans.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS亚洲
-http://z02.ubtvfans.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS
+http://z02.ubtvfans.com/live/rx1/2273/971d29df098a4eaf4714a260eeedd411/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS新闻台
 http://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS欢乐台
-http://z02.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+http://z02.ubtvfans.com/live/rx1/40/8ceb045b439bef6cb1f623464f39c519/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS精采台
-http://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
+http://z02.ubtvfans.com/live/rx1/66/57acefb7578c8b5b01f7e4d3a23e65f0/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立iNEWS
 http://z02.ubtvfans.com/live/rx4/6/ace194d81df2fcc859e24b08684d6db0/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立iNEWS
 http://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立台湾台
-http://z02.ubtvfans.com/live/rx1/21/54fd524201ab86f16a7988d59ec3b2a6/index.m3u8
+http://z02.ubtvfans.com/live/rx1/21/514be81a5a3cce9ec4f3d2a9d9e4b8e0/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立台湾台(备)
-http://z02.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+http://z02.ubtvfans.com/live/rx1/35/95b580d006ccfa063954e194114981bb/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立戏剧台
-http://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
+http://z02.ubtvfans.com/live/rx1/64/4c301b0cf679104b02233cf8f962d3ee/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新闻台
-http://z02.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2794/06cd115365b5095465cb62fa04427e1f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立综合台
 http://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立都会台
-http://z02.ubtvfans.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1001/1b3afbf9014c5c1010bdade40e68a01e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立国際
 http://z02.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森新闻台
 http://z02.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森新闻台(备)
-http://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2766/7c8313f0387637d3abec8b79823b551c/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森LIVE
 http://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森财经新闻台
 http://z02.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森亚洲卫视
-http://z02.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+http://z02.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森亚洲幼幼台
-http://z02.ubtvfans.com/live/rx1/293/25103d9c3ad2b7e2fffb4765fce2b7fb/index.m3u8
+http://z02.ubtvfans.com/live/rx1/293/b97bce651c119e363f86476c45894e3c/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森幼幼台
-http://z02.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+http://z02.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森戏剧台
-http://z02.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+http://z02.ubtvfans.com/live/rx1/321/6e310925fa2aa6e7274b236cc99685ac/index.m3u8
+#EXTINF:-1 group-title="台湾频道",东森戏剧台
+http://z02.ubtvfans.com/live/rx1/2825/27bc99acf387e6446aa6958bfc1d9444/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森洋片台
-http://z02.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森电影台
-http://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2720/0679a36ae9de135be5b7efb44f74a85b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森综合台
-http://z02.ubtvfans.com/live/rx1/372/e74ef965bcc4749aa8a2160a837e1aaa/index.m3u8
+http://z02.ubtvfans.com/live/rx1/372/be456746d41f8414c18f760897de0673/index.m3u8
 #EXTINF:-1 group-title="台湾频道",东森超视
-http://z02.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+http://z02.ubtvfans.com/live/rx1/80/b5d0c31ab2a655f6565c3d08c9e4b0f1/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中视
 http://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中视经典台
-http://z02.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
+http://z02.ubtvfans.com/live/rx2/185/83115db46f8caef42ca78906318f747e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中视菁采台
 http://z02.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 #EXTINF:-1 group-title="台湾频道",台视
@@ -166,27 +166,27 @@ http://z02.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 #EXTINF:-1 group-title="台湾频道",台视财经台
 http://z02.ubtvfans.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",公视
-http://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+http://z02.ubtvfans.com/live/rx1/86/64703ae4d9c596caa344b65be2e6cc67/index.m3u8
 #EXTINF:-1 group-title="台湾频道",公视3
 http://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",公視戲劇
 http://z02.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
 #EXTINF:-1 group-title="台湾频道",民视
-http://z02.ubtvfans.com/live/rx1/336/04632353b9ce8c6b81028fcce366dbea/index.m3u8
+http://z02.ubtvfans.com/live/rx1/336/52df001ee54d5a0069363a98d89b7d8b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",民视台湾台
 http://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 #EXTINF:-1 group-title="台湾频道",民视新闻台
 http://z02.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 #EXTINF:-1 group-title="台湾频道",华视
-http://z02.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
+http://z02.ubtvfans.com/live/rx1/32/9b44594fd83fa796452bff38162a3202/index.m3u8
 #EXTINF:-1 group-title="台湾频道",华视新闻
-http://z02.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2424/67ae228e0af437f5e3fe36689ac1cac9/index.m3u8
 #EXTINF:-1 group-title="台湾频道",年代新闻
 http://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
 #EXTINF:-1 group-title="台湾频道",年代MUCH
-http://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
+http://z02.ubtvfans.com/live/rx2/1359/fbf0b3f7e321783c7190f3224747230f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",非凡新闻台
-http://z02.ubtvfans.com/live/rx1/2795/b44cd902b99ca999ad3e54eddb516ad8/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2795/4b1b623041120e96c24bbb6c729c5b0d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",客家电视台
 http://z02.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
 #EXTINF:-1 group-title="台湾频道",好消息
@@ -200,45 +200,45 @@ http://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u
 #EXTINF:-1 group-title="台湾频道",豬哥亮歌廳秀
 http://z02.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
 #EXTINF:-1 group-title="台湾频道",八大精彩台
-http://z02.ubtvfans.com/live/rx1/1024/2ebca361d9557429a40fb2d738123d6e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1024/cf26366f182b8687bffa471185c1b81b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",八大綜合台
-http://z02.ubtvfans.com/live/rx1/2286/fc7a32e74208599504d7dd4cf92e79dd/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2286/7bb52274202aa973781023061ca2896a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",八大戏剧台
-http://z02.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/81/a3e860d21cf5f6252eb7d08ed1abd29b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",八大第一台
-http://z02.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
+http://z02.ubtvfans.com/live/rx1/318/e76cf0121722cdec755c818a67e5462a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",八大娱乐台
-http://z02.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+http://z02.ubtvfans.com/live/rx1/105/bc1daa0c7ab48bbec4ba74801befcad1/index.m3u8
 #EXTINF:-1 group-title="台湾频道",高点综合台
-http://z02.ubtvfans.com/live/rx1/99/1e23ead149cd0776368080a32b2a2279/index.m3u8
+http://z02.ubtvfans.com/live/rx1/99/18738768f6f66bc143d29a1cfd626281/index.m3u8
 #EXTINF:-1 group-title="台湾频道",国兴卫视
-http://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
+http://z02.ubtvfans.com/live/rx1/65/6cf1bba1b16518a5da5dda2c42e756cc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",美亚电影台HD
-http://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+http://z02.ubtvfans.com/live/rx1/375/f37775e6478032a0878def1864f31711/index.m3u8
 #EXTINF:-1 group-title="台湾频道",天映经典
 http://z02.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
 #EXTINF:-1 group-title="台湾频道",亚洲旅游台
-http://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2299/bb58cd1b255f58c6cf970519b8713c14/index.m3u8
 #EXTINF:-1 group-title="台湾频道",亚洲美食频道
 http://z02.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
 #EXTINF:-1 group-title="台湾频道",美食星球
 http://z02.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
 #EXTINF:-1 group-title="台湾频道",动物星球
-http://z02.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+http://z02.ubtvfans.com/live/rx1/367/eba980bb5160ef3f3b17794c7929d08c/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯无限台
 http://z02.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯无限二台
 http://z02.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯网球台
-http://z02.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+http://z02.ubtvfans.com/live/rx1/498/b9e30a5ae7d2da479ba459679baa3565/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯运动
-http://z02.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+http://z02.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯运动二台
-http://z02.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+http://z02.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球
-http://z02.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
+http://z02.ubtvfans.com/live/rx1/377/f601833be1fa0a590c9f736683e44236/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球二台
-http://z02.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
+http://z02.ubtvfans.com/live/rx1/378/2669fb9de7fb40084f47f8489c3414ab/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力网
 http://z02.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 #EXTINF:-1 group-title="台湾频道",历史频道
@@ -246,39 +246,39 @@ http://z02.ubtvfans.com/live/rx3/1413/8e2baabe125b5f1520dfa7321c3a2c8d/index.m3u
 #EXTINF:-1 group-title="台湾频道",国家地理频道
 http://z02.ubtvfans.com/live/rx3/2312/bedc9cc334b43d204c7afec27d68e02e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",国家地理野生频道
-http://z02.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1038/9b32fc6e57855ef8d8f0eec759f9ae0e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",好莱坞电影台
-http://z02.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+http://z02.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",尼克儿童频道
 http://z02.ubtvfans.com/live/rx3/3249/b795b9a9c282a6ddc9fd21a3ca1b6838/index.m3u8
 #EXTINF:-1 group-title="台湾频道",影迷数位电影台
 http://z02.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",探索频道
-http://z02.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2817/c90dc5a2c0fdb1fcbd4cd0c79b96110b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育1台
-http://z02.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+http://z02.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育2台
-http://z02.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+http://z02.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育3台
-http://z02.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达体育4台
 http://z02.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达影剧台
-http://z02.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
+http://z02.ubtvfans.com/live/rx1/500/08e0c7d7739bcfbf5b321211addc793f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",爱尔达综合台
-http://z02.ubtvfans.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1137/1b0fe62ac4c7f524733c208ea6f0ed21/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来体育台
-http://z02.ubtvfans.com/live/rx1/118/6e330a302423d0cbb38024cd3a583fd0/index.m3u8
+http://z02.ubtvfans.com/live/rx1/118/73f860632b916aedfe839b46ea58c630/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来戏剧台
 http://z02.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来日本
-http://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+http://z02.ubtvfans.com/live/rx1/337/937c1ee1a7a957e1396d657115d88871/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来电影台
-http://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2720/0679a36ae9de135be5b7efb44f74a85b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来精采
-http://z02.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2280/c21d1805875193b4cc64293a1f26d08d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",纬来育乐台
-http://z02.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
+http://z02.ubtvfans.com/live/rx1/338/43f031a4c6cbafd2ed47919a4cb84631/index.m3u8
 #EXTINF:-1 group-title="台湾频道",罪案侦缉频道
 http://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",采昌影剧台
@@ -286,7 +286,7 @@ http://z02.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天国际台
 http://z02.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通台
-http://z02.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+http://z02.ubtvfans.com/live/rx1/344/f2b38611a7331b79c3a6810a1f009503/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天戏剧台
 http://z02.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天日本台
@@ -302,7 +302,7 @@ http://z02.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育乐台
 http://z02.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天资讯台
-http://z02.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
+http://z02.ubtvfans.com/live/rx2/49/bbb48e07d09c6551bbbff08e47912853/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖洋卡通
 http://z02.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖洋戏剧台
@@ -314,71 +314,71 @@ http://z02.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华戏剧
 http://z02.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华电影
-http://z02.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
+http://z02.ubtvfans.com/live/rx1/311/6769e1d74f8e49779c875631eaf605a1/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华经典
-http://z02.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
+http://z02.ubtvfans.com/live/rx1/100/11455600333dc0d0e7ffc74bd012e95f/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华电影
-http://z02.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
+http://z02.ubtvfans.com/live/rx1/311/6769e1d74f8e49779c875631eaf605a1/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华洋片
-http://z02.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
+http://z02.ubtvfans.com/live/rx1/341/d460e01af1e2753e7f4424b4bf34522a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华日韓
-http://z02.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+http://z02.ubtvfans.com/live/rx1/382/18190f1b240aa61058c76fecf63c9f8e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龙祥电影
-http://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
+http://z02.ubtvfans.com/live/rx1/373/72ff9f42bc18b4d3f46d9a4a0847564e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",AMC最爱电影
 http://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Animax
-http://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
+http://z02.ubtvfans.com/live/rx1/59/6e4b04eb1943932fa4fde49e3959bf43/index.m3u8
 #EXTINF:-1 group-title="台湾频道",AXN臺灣
-http://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2816/e5ef36f1ac98bfb819d5f3232972d391/index.m3u8
 #EXTINF:-1 group-title="台湾频道",AXN亞洲
-http://z02.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1066/7bcad6f5cb60f69d6bed039e22bf90b6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",BBC Earth
-http://z02.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
+http://z02.ubtvfans.com/live/rx1/97/c89adde9761c66aa26f1d27de9de7c3a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",BBC Lifestyle
-http://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
+http://z02.ubtvfans.com/live/rx1/424/ddb4f5a5c05abc2bbff346115c978617/index.m3u8
 #EXTINF:-1 group-title="台湾频道",CatchPlay电影台
-http://z02.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+http://z02.ubtvfans.com/live/rx1/362/571d62381b0ca1a1f5b5de81330a3f97/index.m3u8
 #EXTINF:-1 group-title="台湾频道",CINEMAX
 http://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 #EXTINF:-1 group-title="台湾频道",CN卡通频道
-http://z02.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+http://z02.ubtvfans.com/live/rx1/107/2a996b4eec8a67c34db592186cfc9754/index.m3u8
 #EXTINF:-1 group-title="台湾频道",CNEX
 http://z02.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",DA VINCI
 http://z02.ubtvfans.com/live/rx3/68/362719c5d92bd192ea01bf1248e4a7fc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Discovery Asia
-http://z02.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
+http://z02.ubtvfans.com/live/rx1/306/40457770b1b221cc752c3b46e21975c6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Discovery科学频道
-http://z02.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/343/4649e63dd450ef96bc471e8eae798f65/index.m3u8
 #EXTINF:-1 group-title="台湾频道",DMAX
-http://z02.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
+http://z02.ubtvfans.com/live/rx1/335/e0f32fb3c0eb7f4ffda974a354c02815/index.m3u8
 #EXTINF:-1 group-title="台湾频道",ELEVEN SPORT 1
 http://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
 #EXTINF:-1 group-title="台湾频道",ELEVEN SPORT 2
-http://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+http://z02.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",EVE
 http://z02.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",EYETV戏剧台
-http://z02.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
+http://z02.ubtvfans.com/live/rx1/191/78413141b5531ed3c2d3eec76c5d0ec1/index.m3u8
 #EXTINF:-1 group-title="台湾频道",EYETV旅游台
-http://z02.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1494/a4a29b4fabc1169a378f13ccee13e88b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",FASHIONTV
 http://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 #EXTINF:-1 group-title="台湾频道",FOOD NETWORK
 http://z02.ubtvfans.com/live/rx4/1265/5ed3c78b7575c60ebd1a0a3d77f013da/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Globetrotter 環遊旅行家
-http://z02.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
+http://z02.ubtvfans.com/live/rx1/114/b486b29428a82907474eaa9d8924721b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HBO
-http://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+http://z02.ubtvfans.com/live/rx1/332/355b0e7c6284c5dd990074ade643ebb8/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HBO Family
 http://z02.ubtvfans.com/live/rx3/1113/891bc621d31d834fa5e8da8679c7997d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HBO原创巨献
-http://z02.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
+http://z02.ubtvfans.com/live/rx1/329/17436d1e6f9f65c789b3ce36100f16cb/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HBO强档巨献
-http://z02.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+http://z02.ubtvfans.com/live/rx1/330/672bf68a0a682cd02168cf83418d4aef/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HGTV居家乐活频道
-http://z02.ubtvfans.com/live/rx3/1538/43bf4195999f1ba0b5e8872e957cbcfd/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1538/ceb1b1d264098c8a08380ae9571d45a2/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HITS
 http://z02.ubtvfans.com/live/rx4/2972/f802bdd8b99b9f6469e33f98baa1ac21/index.m3u8
 #EXTINF:-1 group-title="台湾频道",HITS MOVIES
@@ -386,11 +386,11 @@ http://z02.ubtvfans.com/live/rx4/2985/d234f0694c8b91c8bf360b29117a7067/index.m3u
 #EXTINF:-1 group-title="台湾频道",i-Fun动漫台
 http://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8
 #EXTINF:-1 group-title="台湾频道",JET综合台
-http://z02.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
+http://z02.ubtvfans.com/live/rx1/41/b1f86feefa9dedac81122f3ea0567001/index.m3u8
 #EXTINF:-1 group-title="台湾频道",K PLUS
 http://z02.ubtvfans.com/live/rx4/3057/d44ff434338fb7efa6072202271cbba6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Lifetime
-http://z02.ubtvfans.com/live/rx3/1565/066cc69691631837a1742486bd1b37f8/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1565/472eadbfd97fcc3b0cb224f31c61b29b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Love Nature
 http://z02.ubtvfans.com/live/rx3/1263/2ee2a85a701bcd8faa3df3bf5d2180b8/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Mezzo Live
@@ -398,11 +398,11 @@ http://z02.ubtvfans.com/live/rx1/60/8793314eeab06f1a6c51ce220f3fa99b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",MOMO亲子台
 http://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",MTV
-http://z02.ubtvfans.com/live/rx3/1546/68247ba191b921b24b8e90860e0907e6/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1546/5ed7a6d9a6af82d86e3386f9beae5688/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Nick Jr
 http://z02.ubtvfans.com/live/rx3/1213/a2313e5f10a8787cb55492b543dec208/index.m3u8
 #EXTINF:-1 group-title="台湾频道",PET CLUB TV
-http://z02.ubtvfans.com/live/rx1/368/f25c20fcbe794a27958fddb774f065b5/index.m3u8
+http://z02.ubtvfans.com/live/rx1/368/649c4c56f424e2dd0fd31e60ba969932/index.m3u8
 #EXTINF:-1 group-title="台湾频道",ROCK ACTION
 http://z02.ubtvfans.com/live/rx4/3052/fafd2abb7bf5284ea37c0d7109af9762/index.m3u8
 #EXTINF:-1 group-title="台湾频道",ROCK ENTERTAINMENT
@@ -412,7 +412,7 @@ http://z02.ubtvfans.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Tech Storm
 http://z02.ubtvfans.com/live/rx4/3012/a32534057c81f4ca6e4b29a00f071c53/index.m3u8
 #EXTINF:-1 group-title="台湾频道",THRILL恐怖電影
-http://z02.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
+http://z02.ubtvfans.com/live/rx1/18/9396c2544377ae33b75b571c76726ee3/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TLC旅游生活
 http://z02.ubtvfans.com/live/rx4/2275/cc1eba5779124bd214ad0a7d8d9f88ff/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TRACE Sport Stars
@@ -422,21 +422,21 @@ http://z02.ubtvfans.com/live/rx1/1003/565b5263b2952757a4f53a3fc610b8ce/index.m3u
 #EXTINF:-1 group-title="台湾频道",tvN
 http://z02.ubtvfans.com/live/rx3/1170/8bd67d195c48b766ff7899ee309e25dd/index.m3u8
 #EXTINF:-1 group-title="台湾频道",WARNERTV
-http://z02.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
+http://z02.ubtvfans.com/live/rx1/83/baf111f9330624dce5003d1559e188ba/index.m3u8
 #EXTINF:-1 group-title="台湾频道",Z频道
-http://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1130/e739576b1aff666f9fdddf5a90b2cf92/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV1
 http://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV1
-http://z02.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2305/1723a01fe0caa8e902697b6e6bc8835b/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV2
-http://z02.ubtvfans.com/live/rx1/201/72c3320633f511d538db55c14a9fb809/index.m3u8
+http://z02.ubtvfans.com/live/rx1/201/3dfb74fc77a8963de811af79f066766a/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV2
 http://z02.ubtvfans.com/live/rx1/2763/d09f8cc20e776c222438f52476bab03a/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV3
 http://z02.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV3
-http://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2808/e578de4d2e8526214c8ae839d9ad4f2d/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV4
 http://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV4
@@ -444,55 +444,57 @@ http://z02.ubtvfans.com/live/rx1/2764/5dab88f91c31d691a2ec082226404cf1/index.m3u
 #EXTINF:-1 group-title="大陸頻道",CCTV5
 http://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV5
-http://z02.ubtvfans.com/live/rx1/2760/ef7b429ab611f4f754b38762aeaee07c/index.m3u8
-#EXTINF:-1 group-title="大陸頻道",CCTV5plus
+http://z02.ubtvfans.com/live/rx1/2760/2bf7da16801967343db750087c1626e2/index.m3u8
+#EXTINF:-1 group-title="大陸頻道",CCTV5+
 http://z02.ubtvfans.com/live/rx1/205/bbae16a4af97900c4a075180f6d001f9/index.m3u8
-#EXTINF:-1 group-title="大陸頻道",CCTV5plus
+#EXTINF:-1 group-title="大陸頻道",CCTV5+
 http://z02.ubtvfans.com/live/rx1/2759/78abaaa94e5e5b85ca7e9c554abb50d1/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV6
-http://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
+http://z02.ubtvfans.com/live/rx1/206/716166af946aec977e0927c8ea839ef4/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV6
 http://z02.ubtvfans.com/live/rx1/2758/8cb61b011e12f5097b0708e3a1913bb6/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV7
-http://z02.ubtvfans.com/live/rx1/207/439e4808970949d57722eea042cfff77/index.m3u8
+http://z02.ubtvfans.com/live/rx1/207/fbf3076f0799ad0c7a8076e3dd519183/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV7
 http://z02.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV8
-http://z02.ubtvfans.com/live/rx1/208/c11e1abfdb3e38f2c3427a2d50622889/index.m3u8
+http://z02.ubtvfans.com/live/rx1/208/ba233f109d2e38e7b5002b272037ef25/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV8
 http://z02.ubtvfans.com/live/rx1/2756/3264b53dafea8b85576d0327cc68a6c8/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV9
 http://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV9
-http://z02.ubtvfans.com/live/rx1/209/a4ec75f7403274e6b091bef73881603b/index.m3u8
+http://z02.ubtvfans.com/live/rx1/209/3c965ed1ff26036474304af0141290d5/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV10
-http://z02.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8
+http://z02.ubtvfans.com/live/rx1/210/56c183779b6b878fb60ca5ffe2540537/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV11
 http://z02.ubtvfans.com/live/rx1/2809/8305b7a0194bac43f9b4eac6a00a1824/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV11
 http://z02.ubtvfans.com/live/rx1/211/38b8233ac67e474eff44b4acacf8cca2/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV12
-http://z02.ubtvfans.com/live/rx1/212/b617c31586b3a320062ec62c7b4e93d5/index.m3u8
+http://z02.ubtvfans.com/live/rx1/212/f164da7125d898d80a9fecc962ac33b2/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV13
-http://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
+http://z02.ubtvfans.com/live/rx1/213/fe831ab5e14805db740234eeb71234e2/index.m3u8
+#EXTINF:-1 group-title="大陸頻道",CCTV14
+http://z02.ubtvfans.com/live/rx1/214/263d5992b4318745a17263662c242200/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV14
 http://z02.ubtvfans.com/live/rx1/2826/d67e1463762a9812875a58ce0777214a/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV15
 http://z02.ubtvfans.com/live/rx1/215/f205393253508a0862e35601340344ef/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV16
-http://z02.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2821/14c772528190ef8ce2b48e611b41e877/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CGTN
 http://z02.ubtvfans.com/live/rx4/2967/9f291dbd2ef7ceb673f26fb6cfe3a9ec/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CHC高清電影
-http://z02.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1345/206e60929cae88b70609e70c84c18a85/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CHC動作電影
-http://z02.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1346/45015239dbfbba4baedaf1072c84041f/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CHC家庭影院
-http://z02.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1347/361ec817dc054714e60f811a34a92d9c/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CBN歡笑劇場4K
-http://z02.ubtvfans.com/live/rx1/1348/5563a8ce2d5e0bb3ba0917e1b3ab3979/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1348/32fbdac930f35f7379c430a445a833a9/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",浙江卫视
-http://z02.ubtvfans.com/live/rx1/217/c92ed1fc7f9382552a0184d5e46fdbbc/index.m3u8
+http://z02.ubtvfans.com/live/rx1/217/879c4687fab5233ef907c474bd445ace/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",江苏卫视
 http://z02.ubtvfans.com/live/rx1/2829/077e7af98e1de16de437dc2b20634eb0/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",南方卫视
@@ -502,15 +504,15 @@ http://z02.ubtvfans.com/live/rx1/231/4af913dbb7327724e4dfeaf41bfed24d/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",广东卫视
 http://z02.ubtvfans.com/live/rx1/1499/146020831c5118e1fad955a8c38fc03f/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",东方卫视
-http://z02.ubtvfans.com/live/rx1/224/c54ace8dbf76790c64f75dc561d1414a/index.m3u8
+http://z02.ubtvfans.com/live/rx1/224/8f16b6bc7c2356bca2f95795fb18625d/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",湖南卫视
-http://z02.ubtvfans.com/live/rx1/3228/afbc51157b36c1dcafa21abdbe29e3d9/index.m3u8
+http://z02.ubtvfans.com/live/rx1/3228/98066e863b900d30e6549507037d6da2/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",湖北卫视
-http://z02.ubtvfans.com/live/rx1/3229/5379b2c437173788acedccd69a9dc994/index.m3u8
+http://z02.ubtvfans.com/live/rx1/3229/025906697c0aaea83a023054a264228e/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",深圳卫视
 http://z02.ubtvfans.com/live/rx1/3230/8b3ebb84d68a8ff94edb62deeaa73eb3/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",安徽卫视
-http://z02.ubtvfans.com/live/rx1/2830/6784d3e94e7e5ce76a21d9158379ca95/index.m3u8
+http://z02.ubtvfans.com/live/rx1/2830/0756db513462a155152f0035fa665357/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",安徽卫视
 http://z02.ubtvfans.com/live/rx1/232/37d076720cf1b27245d46398e1ccaef2/index.m3u8
 #EXTINF:-1 group-title="新马频道",ASTRO AEC
@@ -542,29 +544,29 @@ http://z02.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯无限二台
 http://z02.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯网球台
-http://z02.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+http://z02.ubtvfans.com/live/rx1/498/b9e30a5ae7d2da479ba459679baa3565/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯运动
-http://z02.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+http://z02.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯运动二台
-http://z02.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+http://z02.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯高球
-http://z02.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
+http://z02.ubtvfans.com/live/rx1/377/f601833be1fa0a590c9f736683e44236/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯高球二台
-http://z02.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
+http://z02.ubtvfans.com/live/rx1/378/2669fb9de7fb40084f47f8489c3414ab/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯魅力网
 http://z02.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育1
-http://z02.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+http://z02.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育2
-http://z02.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+http://z02.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育3
-http://z02.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育4
 http://z02.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELEVEN SPORT 1
 http://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELEVEN SPORT 2
-http://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+http://z02.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASSP1_HD
 http://z02.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASSP2_HD
@@ -626,7 +628,7 @@ http://z02.ubtvfans.com/live/rx3/1196/5e3e21b404dc7b98bcd8eb7a16ffd5eb/index.m3u
 #EXTINF:-1 group-title="體育频道",ESPN NEWS
 http://z02.ubtvfans.com/live/rx3/1363/f2e9f71723ea9b1450739866e318a612/index.m3u8
 #EXTINF:-1 group-title="體育频道",EUROSPORT
-http://z02.ubtvfans.com/live/rx1/1342/d8fbb3572f00e9fc78e17ae331a15070/index.m3u8
+http://z02.ubtvfans.com/live/rx1/1342/c2f7f8cb747b732cb12930b3db28d832/index.m3u8
 #EXTINF:-1 group-title="體育频道",EUROSPORT 1
 http://z02.ubtvfans.com/live/rx3/3226/746f1e614ee8106a2ef9932bfc3c6bb5/index.m3u8
 #EXTINF:-1 group-title="體育频道",EUROSPORT 2
@@ -700,7 +702,7 @@ http://z02.ubtvfans.com/live/rx4/1276/d28187684ff3010df0e3b25f1e2fa933/index.m3u
 #EXTINF:-1 group-title="體育频道",TSN 5
 http://z02.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
 #EXTINF:-1 group-title="欧美频道",ABC NEWS LIVE
-http://z02.ubtvfans.com/live/rx3/1516/3ab7062aa68098ce2d8452f2e5c493f4/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1516/a8a5af789c3fabf21e676b92a19f46e2/index.m3u8
 #EXTINF:-1 group-title="欧美频道",ALJAZEERA
 http://z02.ubtvfans.com/live/rx3/1415/066e50e2961dfaa06b678c0ae2316b14/index.m3u8
 #EXTINF:-1 group-title="欧美频道",Animal Planet
@@ -717,6 +719,8 @@ http://z02.ubtvfans.com/live/rx4/2962/d11d3f03e1a6fc3af0ba44336417e7a8/index.m3u
 http://z02.ubtvfans.com/live/rx3/1107/1bb65c7015607013d9af7df3b4472887/index.m3u8
 #EXTINF:-1 group-title="欧美频道",BNN BLOOMBERG
 http://z02.ubtvfans.com/live/rx4/1250/8052654c2247e8bc596314a3896cd5e9/index.m3u8
+#EXTINF:-1 group-title="欧美频道",BRAVO
+http://z02.ubtvfans.com/live/rx3/1525/3b913d3ca6b751c1ca53ce03810a8015/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CBC NEWS
 http://z02.ubtvfans.com/live/rx4/1248/dcb85905b797db802ab412226aef9e43/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CGTN
@@ -724,68 +728,107 @@ http://z02.ubtvfans.com/live/rx4/2967/9f291dbd2ef7ceb673f26fb6cfe3a9ec/index.m3u
 #EXTINF:-1 group-title="欧美频道",CNA
 http://z02.ubtvfans.com/live/rx4/2963/c37a7efa4b80368df055fb6e5fb6a0b8/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CNBC
-http://z02.ubtvfans.com/live/rx3/1555/75e540965d54403f6cdb0268477d91e8/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1555/ef98d2fbc6178acd3893ca5ee4808b69/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CNN
-http://z02.ubtvfans.com/live/rx2/1507/cefb4cbb5c347e7614e23e78d2aadce6/index.m3u8
+http://z02.ubtvfans.com/live/rx2/1507/c7fbe01410b1376200e6bd511d5cb4ec/index.m3u8
+#EXTINF:-1 group-title="欧美频道",CNN
+http://z02.ubtvfans.com/live/rx4/2964/2d21ad286bde1a2f7292440e56948d41/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CTV NEWS
 http://z02.ubtvfans.com/live/rx4/1249/f807312ebab634513a5a4e6f42e4158c/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CNN (備用）
 http://z02.ubtvfans.com/live/rx3/1102/89a1b45d296f1939acffaf27251223c6/index.m3u8
+#EXTINF:-1 group-title="欧美频道",CP24
+http://z02.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
 #EXTINF:-1 group-title="欧美频道",CW
 http://z02.ubtvfans.com/live/rx3/1220/675068cc34604af7b414aede2d0076c3/index.m3u8
+#EXTINF:-1 group-title="欧美频道",DISCOVERY
+http://z02.ubtvfans.com/live/rx3/1564/5bc1188205bc5a5d093efb6ab22680d1/index.m3u8
 #EXTINF:-1 group-title="欧美频道",DIY
-http://z02.ubtvfans.com/live/rx3/1528/d01eacd0fcf50173fd6dfd5a44352890/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1528/951d1d5aab8c3b78d9cc1612176bc332/index.m3u8
+#EXTINF:-1 group-title="欧美频道",DMAX
+http://z02.ubtvfans.com/live/rx4/2385/bbe87acb19389ed500ea29079eb8e5ae/index.m3u8
 #EXTINF:-1 group-title="欧美频道",E!
 http://z02.ubtvfans.com/live/rx3/1222/e0f83559f805f972960148da4690fe93/index.m3u8
+#EXTINF:-1 group-title="欧美频道",E
+http://z02.ubtvfans.com/live/rx3/1536/51c392df623c94cfce06440fc988d0f6/index.m3u8
+#EXTINF:-1 group-title="欧美频道",FOOD NETWORK
+http://z02.ubtvfans.com/live/rx3/1526/9837f6f16e610f97391868f1ff531c59/index.m3u8
 #EXTINF:-1 group-title="欧美频道",Fox Business
-http://z02.ubtvfans.com/live/rx3/1511/317bf7f5ed6e30d20423708e1634a1e7/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1511/e9408008ac936dbf893fdef5dc72f58a/index.m3u8
 #EXTINF:-1 group-title="欧美频道",Fox Business
 http://z02.ubtvfans.com/live/rx3/1108/4441060c14f52a9ae05cf2ba17517609/index.m3u8
-#EXTINF:-1 group-title="欧美频道",FOX
+#EXTINF:-1 group-title="欧美频道",FOX KTTV
 http://z02.ubtvfans.com/live/rx3/1218/bf99d9e7aa0eaa74ec98cb797e884b27/index.m3u8
 #EXTINF:-1 group-title="欧美频道",FOX NEWS
-http://z02.ubtvfans.com/live/rx3/1510/42b9e93ff3e3d385785291f23ee1ef2b/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1510/014d97aecb09d64c9b081b1d2422badf/index.m3u8
 #EXTINF:-1 group-title="欧美频道",FRANCE 24
 http://z02.ubtvfans.com/live/rx4/2961/248711bd6d696974c082e718f14875fb/index.m3u8
+#EXTINF:-1 group-title="欧美频道",FX
+http://z02.ubtvfans.com/live/rx3/1551/3fd2ed4573d0de5dba22e8f926ed5bfd/index.m3u8
 #EXTINF:-1 group-title="欧美频道",FYI
 http://z02.ubtvfans.com/live/rx3/1240/5dd1b3a2e67a83c007206002dd7a1902/index.m3u8
 #EXTINF:-1 group-title="欧美频道",Goltv
-http://z02.ubtvfans.com/live/rx3/1542/353af6ae6239c64f3b0190578fcef8e8/index.m3u
+http://z02.ubtvfans.com/live/rx3/1542/f7ca84827edd893db4befa357bdd06a7/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HALLMARK MOVIES
 http://z02.ubtvfans.com/live/rx3/1179/4e79eb29c9edb56a2bd0be7087e6f0a8/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO East
-http://z02.ubtvfans.com/live/rx3/1513/0c9a1f1ad30107964d9f6abd2c1c297d/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1513/81cb7601a4dc5eae09799af67c8ef76f/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO Family
 http://z02.ubtvfans.com/live/rx3/1113/891bc621d31d834fa5e8da8679c7997d/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO Comedy
-http://z02.ubtvfans.com/live/rx3/1109/119eea0d66d43ac6dd3138f63aa0aec1/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1109/81e4b8fc51d4a8d871211d1e8f0597a3/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO Family
-http://z02.ubtvfans.com/live/rx3/1512/fbe88190996eb10a5ec4dd6e26a2107b/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1512/b2107c753f9ae3e97e90501d1881efe1/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO Signature
 http://z02.ubtvfans.com/live/rx3/1112/e22acb0f869aa64ab138ee4959147a58/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO 2 US
 http://z02.ubtvfans.com/live/rx3/1111/0a9eca4ceca3ae1da396215b8ea2c7f4/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO One
-http://z02.ubtvfans.com/live/rx3/1514/fc3e6bb5d64f3724b5b0cbc1ba95e7d7/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1514/56cad54db18ddecadb9e7699752b713e/index.m3u8
 #EXTINF:-1 group-title="欧美频道",HBO 1 US
 http://z02.ubtvfans.com/live/rx3/1110/2ca7cf6666d4dea9a3df6ddeb1c3f130/index.m3u8
+#EXTINF:-1 group-title="欧美频道",HGTV
+http://z02.ubtvfans.com/live/rx3/1538/ceb1b1d264098c8a08380ae9571d45a2/index.m3u8
+#EXTINF:-1 group-title="欧美频道",HISTORY
+http://z02.ubtvfans.com/live/rx3/1530/7db2043729388f3ef29d18a6ca9eb23d/index.m3u8
 #EXTINF:-1 group-title="欧美频道",KCBS
 http://z02.ubtvfans.com/live/rx3/1219/317abcafd8f4083a9d56c0c82607c68c/index.m3u8
 #EXTINF:-1 group-title="欧美频道",KNBC LAX
 http://z02.ubtvfans.com/live/rx3/1217/a752a3aa6806e55489cdc358400bff14/index.m3u8
-#EXTINF:-1 group-title="欧美频道",NBC
-http://z02.ubtvfans.com/live/rx3/1509/c751c91137d02137cfc528c2198db41b/index.m3u8
-#EXTINF:-1 group-title="欧美频道",NHK WORLD
-http://z02.ubtvfans.com/live/rx2/2918/871ba896790e87007989411e7c9ab1eb/index.m3u8
+#EXTINF:-1 group-title="欧美频道",KTSF26
+http://z02.ubtvfans.com/live/rx3/1517/52a5cd7e2662128a796dc6528301882d/index.m3u8
+#EXTINF:-1 group-title="欧美频道",LIFETIME
+http://z02.ubtvfans.com/live/rx3/1565/472eadbfd97fcc3b0cb224f31c61b29b/index.m3u8
 #EXTINF:-1 group-title="欧美频道",MSNBC
-http://z02.ubtvfans.com/live/rx2/1541/7bdeecb23046f21488f5b59223c5fca1/index.m3u8
+http://z02.ubtvfans.com/live/rx2/1541/5e54b9857c4bac50d32c69b43d4490ee/index.m3u8
 #EXTINF:-1 group-title="欧美频道",MSNBC（備）
 http://z02.ubtvfans.com/live/rx3/1104/1a805147608eabf5c5ba0661c422f765/index.m3u8
+#EXTINF:-1 group-title="欧美频道",MTV
+http://z02.ubtvfans.com/live/rx3/1546/5ed7a6d9a6af82d86e3386f9beae5688/index.m3u8
+#EXTINF:-1 group-title="欧美频道",NATGEO WILD
+http://z02.ubtvfans.com/live/rx3/1521/c3bd5414ca855c10268ffa82088fe0e6/index.m3u8
+#EXTINF:-1 group-title="欧美频道",NBC
+http://z02.ubtvfans.com/live/rx3/1509/d8f728d60ac8c7e48350b5c34aa7d07a/index.m3u8
+#EXTINF:-1 group-title="欧美频道",NHK WORLD
+http://z02.ubtvfans.com/live/rx2/2918/871ba896790e87007989411e7c9ab1eb/index.m3u8
 #EXTINF:-1 group-title="欧美频道",RT
 http://z02.ubtvfans.com/live/rx4/2564/c6b57173a1621f53f182e5fc30740540/index.m3u8
 #EXTINF:-1 group-title="欧美频道",RT DOCUMENTARY
 http://z02.ubtvfans.com/live/rx4/2611/2430886587aeededee75529f4cf5229b/index.m3u8
 #EXTINF:-1 group-title="欧美频道",SKY NEWS
 http://z02.ubtvfans.com/live/rx3/169/8e870b0b0ca0864367bd6fff5395c42e/index.m3u8
+#EXTINF:-1 group-title="欧美频道",SYFY
+http://z02.ubtvfans.com/live/rx3/1537/29f6d268ced6ae70db4740a389d02c62/index.m3u8
+#EXTINF:-1 group-title="欧美频道",TBS
+http://z02.ubtvfans.com/live/rx3/1545/cad5c32927c1eb2c3dd1ed081aa16ea0/index.m3u8
+#EXTINF:-1 group-title="欧美频道",THE WEATHER CHANNEL
+http://z02.ubtvfans.com/live/rx3/1557/7e96d626f5f3e775a6cc67df14d43d40/index.m3u8
+#EXTINF:-1 group-title="欧美频道",TLC
+http://z02.ubtvfans.com/live/rx3/1533/ed4410c43ae2094bb66831a1b06b7c40/index.m3u8
+#EXTINF:-1 group-title="欧美频道",TNT
+http://z02.ubtvfans.com/live/rx3/1524/65d939cc18f0d92200d496a0666efe54/index.m3u8
 #EXTINF:-1 group-title="欧美频道",TRAVEL CHANNEL
-http://z02.ubtvfans.com/live/rx3/1515/b90f3807b2a9f3769f8aa25ec387520c/index.m3u8
+http://z02.ubtvfans.com/live/rx3/1515/0a61d8282e65a763e00ebe358ae5c4cd/index.m3u8
+#EXTINF:-1 group-title="欧美频道",TVG
+http://z02.ubtvfans.com/live/rx3/1543/c57c7225df25f0ef04a6f19d271a0908/index.m3u8
+
