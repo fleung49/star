@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,http://epg.pw/xmltv/epg.xml
+#EXTM3U
 #EXTINF:-1 group-title="香港频道",翡翠台
 http://z02.ubtvfans.com/live/rx1/390/2aaf45955b88bc753effe41f9cb094d0/index.m3u8
 #EXTINF:-1 group-title="香港频道",翡翠台
@@ -475,6 +475,8 @@ http://z02.ubtvfans.com/live/rx1/211/38b8233ac67e474eff44b4acacf8cca2/index.m3u8
 http://z02.ubtvfans.com/live/rx1/212/f164da7125d898d80a9fecc962ac33b2/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV13
 http://z02.ubtvfans.com/live/rx1/213/fe831ab5e14805db740234eeb71234e2/index.m3u8
+#EXTINF:-1 group-title="大陸頻道",CCTV13
+http://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV14
 http://z02.ubtvfans.com/live/rx1/214/263d5992b4318745a17263662c242200/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV14
@@ -515,6 +517,12 @@ http://z02.ubtvfans.com/live/rx1/3230/8b3ebb84d68a8ff94edb62deeaa73eb3/index.m3u
 http://z02.ubtvfans.com/live/rx1/2830/0756db513462a155152f0035fa665357/index.m3u8
 #EXTINF:-1 group-title="大陸頻道",安徽卫视
 http://z02.ubtvfans.com/live/rx1/232/37d076720cf1b27245d46398e1ccaef2/index.m3u8
+#EXTINF:-1 group-title="新马频道",AFN
+http://z02.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
+#EXTINF:-1 group-title="新马频道",ASTRO ARENA
+http://z02.ubtvfans.com/live/rx3/1172/4215632da030da54fcfc87b822cf0bec/index.m3u8
+#EXTINF:-1 group-title="新马频道",ASTRO AOD
+http://z02.ubtvfans.com/live/rx3/428/cb5370756c4b55b25c1bc5ac92ff661b/index.m3u8
 #EXTINF:-1 group-title="新马频道",ASTRO AEC
 http://z02.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 #EXTINF:-1 group-title="新马频道",ASTRO AEC
@@ -538,7 +546,7 @@ http://z02.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8
 #EXTINF:-1 group-title="新马频道",ASTRO 華麗
 http://z02.ubtvfans.com/live/rx3/429/0dde9804e5414c5bb68e1c4e99e82e2c/index.m3u8
 #EXTINF:-1 group-title="體育频道",魅力足球
-http://z02.ubtvfans.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8
+http://z02.ubtvfans.com/live/rx1/464/31af6ab18230501af80a62a9e62f16ae/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯无限台
 http://z02.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯无限二台
@@ -555,6 +563,8 @@ http://z02.ubtvfans.com/live/rx1/377/f601833be1fa0a590c9f736683e44236/index.m3u8
 http://z02.ubtvfans.com/live/rx1/378/2669fb9de7fb40084f47f8489c3414ab/index.m3u8
 #EXTINF:-1 group-title="體育频道",博斯魅力网
 http://z02.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
+#EXTINF:-1 group-title="體育频道",纬来体育台
+http://z02.ubtvfans.com/live/rx1/118/73f860632b916aedfe839b46ea58c630/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育1
 http://z02.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育2
@@ -563,10 +573,32 @@ http://z02.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
 http://z02.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELTA體育4
 http://z02.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
+#EXTINF:-1 group-title="體育频道",ELTA體育 MAX 1
+http://z02.ubtvfans.com/live/rx2/3204/40feb76fc65a25b3575b9676fd1469ce/index.m3u8
+#EXTINF:-1 group-title="體育频道",ELTA體育 MAX 2
+http://z02.ubtvfans.com/live/rx1/3201/fbb7a8ab5e4979805f608b82fe76810a/index.m3u8
+#EXTINF:-1 group-title="體育频道",ELTA體育 MAX 3
+http://z02.ubtvfans.com/live/rx2/3206/ee670cdc18d0b3c2b7ad86922d1cb442/index.m3u8
+#EXTINF:-1 group-title="體育频道",ELTA體育 MAX 4
+http://z02.ubtvfans.com/live/rx2/3207/417358576d3bc4a2ccee28879f0ec65b/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELEVEN SPORT 1
 http://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
 #EXTINF:-1 group-title="體育频道",ELEVEN SPORT 2
 http://z02.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPIC 1
+http://z02.ubtvfans.com/live/rx2/3173/f95bf0451ab12bfa69d109a278070c7c/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPIC 2
+http://z02.ubtvfans.com/live/rx2/3174/530dd5aeec38195d4274029d6b114d52/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPICS 1
+http://z02.ubtvfans.com/live/rx2/3169/779f6c79f867358202efcf76eb50bd8e/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPICS 2
+http://z02.ubtvfans.com/live/rx2/3170/d96f33c4a740021f4d55c1572490a8b7/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPICS 3
+http://z02.ubtvfans.com/live/rx1/3073/d86b0ec21887580d706afa6f903a80d9/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPICS 4
+http://z02.ubtvfans.com/live/rx4/3074/2b846710a8155e1d92b86fde5e75b296/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO OLYMPICS 5
+http://z02.ubtvfans.com/live/rx2/3198/167b451116edc4ffbc222278008f2b1e/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASSP1_HD
 http://z02.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASSP2_HD
@@ -577,6 +609,8 @@ http://z02.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
 http://z02.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASTRO SUPERSPORT 3
 http://z02.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
+#EXTINF:-1 group-title="體育频道",ASTRO SUPERSPORT 4
+http://z02.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
 #EXTINF:-1 group-title="體育频道",ASTRO SUPERSPORT 5
 http://z02.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
 #EXTINF:-1 group-title="體育频道",BEIN SOORTS USA
@@ -633,6 +667,18 @@ http://z02.ubtvfans.com/live/rx1/1342/c2f7f8cb747b732cb12930b3db28d832/index.m3u
 http://z02.ubtvfans.com/live/rx3/3226/746f1e614ee8106a2ef9932bfc3c6bb5/index.m3u8
 #EXTINF:-1 group-title="體育频道",EUROSPORT 2
 http://z02.ubtvfans.com/live/rx3/3227/53c287b4819145e199e757405a5536b6/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC 2
+http://z02.ubtvfans.com/live/rx2/3165/ae4dc0e3ac58641f2c85d702424a6d02/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC 3
+http://z02.ubtvfans.com/live/rx2/3166/ef9e065217f124765d5cf56360016c34/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC 4
+http://z02.ubtvfans.com/live/rx2/3167/06326b5e047c741cb98f7caf3818d7c6/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC 5
+http://z02.ubtvfans.com/live/rx2/3168/d059b49fe56683cf8525c8a169c1468c/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC LIVE
+http://z02.ubtvfans.com/live/rx2/3169/779f6c79f867358202efcf76eb50bd8e/index.m3u8
+#EXTINF:-1 group-title="體育频道",EUROSPORT OLYMPIC LIVE
+http://z02.ubtvfans.com/live/rx2/3170/d96f33c4a740021f4d55c1572490a8b7/index.m3u8
 #EXTINF:-1 group-title="體育频道",Fox Sport 1
 http://z02.ubtvfans.com/live/rx3/1186/7207ee6eb1fad6eaaa528b26917a0e5c/index.m3u8
 #EXTINF:-1 group-title="體育频道",Fox Sport 2
@@ -811,6 +857,8 @@ http://z02.ubtvfans.com/live/rx3/1521/c3bd5414ca855c10268ffa82088fe0e6/index.m3u
 http://z02.ubtvfans.com/live/rx3/1509/d8f728d60ac8c7e48350b5c34aa7d07a/index.m3u8
 #EXTINF:-1 group-title="欧美频道",NHK WORLD
 http://z02.ubtvfans.com/live/rx2/2918/871ba896790e87007989411e7c9ab1eb/index.m3u8
+#EXTINF:-1 group-title="欧美频道",RACING TV
+http://z02.ubtvfans.com/live/rx3/3241/c21c31b721c5fbfc98f278c448c3d474/index.m3u8
 #EXTINF:-1 group-title="欧美频道",RT
 http://z02.ubtvfans.com/live/rx4/2564/c6b57173a1621f53f182e5fc30740540/index.m3u8
 #EXTINF:-1 group-title="欧美频道",RT DOCUMENTARY
@@ -831,4 +879,3 @@ http://z02.ubtvfans.com/live/rx3/1524/65d939cc18f0d92200d496a0666efe54/index.m3u
 http://z02.ubtvfans.com/live/rx3/1515/0a61d8282e65a763e00ebe358ae5c4cd/index.m3u8
 #EXTINF:-1 group-title="欧美频道",TVG
 http://z02.ubtvfans.com/live/rx3/1543/c57c7225df25f0ef04a6f19d271a0908/index.m3u8
-
