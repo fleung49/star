@@ -1,99 +1,152 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/phoenixinfonews.png" group-title="NEWS YT",凤凰资讯
-https://www.youtube.com/watch?v=ALvxv4ZwK9c
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="NEWS YT",CGTN
-https://www.youtube.com/watch?v=Zv60F39Is_c
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cctv4.png" group-title="NEWS YT",CCTV4
-https://www.youtube.com/watch?v=bEZYrBMYNNg
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/CNA.jpg" group-title="NEWS YT",CNA
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="NEWS YT",SKY NEWS
-https://www.youtube.com/watch?v=w9uJg68CV4g
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-world-tr.svg" group-title="NEWS YT",TRT WORLD
-https://www.youtube.com/watch?v=5VF4aor94gw
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/africa_news_cg.png" group-title="NEWS YT",AFRICANEWS
-https://www.youtube.com/watch?v=NQjabLGdP5g
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="NEWS YT",Al Jazeera
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARIRANG.png" group-title="NEWS YT",ARIRANG
-https://www.youtube.com/watch?v=e8HYOjaAId4
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/dw.png" group-title="NEWS YT",DW
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/EURONEWS/EURONEWS.jpg" group-title="NEWS YT",EURO NEWS
-https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="NEWS YT",FRANCE 24
-https://www.youtube.com/watch?v=tkDUSYHoKxE
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="NEWS YT",BLOOMBERG
-https://www.youtube.com/watch?v=iyOq8DhaMYw
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nhkworld.png" group-title="NEWS YT",NHK WORLD NEWS
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾新闻 YT",寰宇新闻台
-https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fanyuzonghe.jpg" group-title="台湾新闻 YT",寰宇台湾台
-https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 tvg-logo="https://www.mnews.tw/_nuxt/img/mnews-blue.b5dfe4f.svg" group-title="台湾新闻 YT",鏡新闻
-https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="台湾新闻 YT",中天新闻
-https://www.youtube.com/watch?v=oIgbl7t0S_w
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="台湾新闻 YT",中天新闻 2
-https://www.youtube.com/watch?v=WPfPjbOLNfE
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="台湾新闻 YT",TVBS
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="台湾新闻 YT",TVBS NEWS
-https://www.youtube.com/watch?v=m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="台湾新闻 YT",TVBS新闻台
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="台湾新闻 YT",东森新闻
-https://www.youtube.com/watch?v=2dfAzcDf8Zg
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ET-FINACIAL-NEWS.jpg" group-title="台湾新闻 YT",东森财经新闻
-https://www.youtube.com/watch?v=LbS-xQ67fos
-#EXTINF:-1 tvg-logo="https://nysino.com/wp-content/uploads/elementor/thumbs/sino-tv--ppq82g4551dn1jknd1ukrgtmsh41lhvq8ldpnmvmco.png" group-title="台湾新闻 YT",華語電視 LA18
-https://www.youtube.com/watch?v=K65KwfFFZbI
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv.jpg" group-title="台湾新闻 YT",中视新闻
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv.jpg" group-title="台湾新闻 YT",中视
-https://www.youtube.com/watch?v=fl1iFkAWcVU
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ttvtv.jpg" group-title="台湾新闻 YT",台视新闻
-https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ftvnews.jpg" group-title="台湾新闻 YT",民视新闻
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/twcts.jpg" group-title="台湾新闻 YT",华视新闻
-https://www.youtube.com/watch?v=_pN_zrIUSZc
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/setinews.jpg" group-title="台湾新闻 YT",三立新闻
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ustv.jpg" group-title="台湾新闻 YT",非凡新闻
-https://www.youtube.com/watch?v=LSLKvjWTM98
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/08/large/20220308224749224158_75.jpg" group-title="USA NEWS YT",ABC NEWS LIVE
-https://www.youtube.com/watch?v=i01VWwC47eo
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kcbs_los_angeles.png" group-title="USA NEWS YT",ABC 7 LAX
-vhttps://www.youtube.com/watch?v=-E0AHOOGo24
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kcbs_los_angeles.png" group-title="USA NEWS YT",CBS 2 LAX
-https://www.youtube.com/watch?v=mTBOpJIyXco
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-news-now-us.png" group-title="USA NEWS YT",NBC NEWS NOW
-https://www.youtube.com/watch?v=lrA0uTAxipI
-#EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-weather/s/logos/fox-weather-logo-stacked-color.svg" group-title="USA NEWS YT",FOX Weather Live Stream
-https://www.youtube.com/watch?v=iesPl7zRbVY
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxnews.png" group-title="USA NEWS YT",LiveNOW from FOX
-https://www.youtube.com/watch?v=YDfiTGGPYCk
-#EXTINF:-1 group-title="MUSIC YT",电子琴演奏曲
-https://www.youtube.com/watch?v=4zK2VpBrcLM
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌1
-https://www.youtube.com/watch?v=J7uENlG1AAM
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌2
-https://www.youtube.com/watch?v=H7TjmiolcLQ
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌3
-https://www.youtube.com/watch?v=AyMU5LjMg3k
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌4
-https://www.youtube.com/watch?v=o8U0NbOsfho
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌5
-https://www.youtube.com/watch?v=pFbh9mPc0s8
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌6
-https://www.youtube.com/watch?v=dv6-IjHFE44
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌7
-https://www.youtube.com/watch?v=dv8SIcku_io
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌8
-https://www.youtube.com/watch?v=yMiLKR83cm4
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌9
-https://www.youtube.com/watch?v=TOLaG-sipkY
-#EXTINF:-1 group-title="MUSIC YT",萨克斯金曲100首老歌10
-https://www.youtube.com/watch?v=waYeCqs4I_Y
+YouTube新聞,#genre#
+凤凰卫视资讯,https://www.youtube.com/watch?v=HFib76ySpbU
+CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
+寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞 CTI+,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中天亞洲台,https://www.youtube.com/watch?v=YfeacCN2ORs
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+东森新聞,https://www.youtube.com/watch?v=E0zhe2gkXBs
+东森财经新闻,https://www.youtube.com/watch?v=WHEPzbFA3hw
+公視,https://www.youtube.com/watch?v=4Uc00FPs27M
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
+东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+澳洲ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
+ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
+ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+BLOOMBERG,https://www.youtube.com/watch?v=iEpJwprxDdk
+CGTN,https://www.youtube.com/watch?v=6blQbAzX6N8
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+CNN,https://www.youtube.com/watch?v=78UnBnAidZ0-
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+Fox NEWS,https://www.youtube.com/watch?v=YDfiTGGPYCk
+FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
+KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
+Nat geo wild,https://www.youtube.com/watch?v=BJ3Yv572V1A
+NBC NEWS,https://www.youtube.com/watch?v=7-JR7DjKF_c
+NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
+
+YouTube音乐直播,#genre#
+刀郎2024知交线上演唱会.https://www.youtube.com/watch?v=byA7iYDCMy0
+抖音熱歌1,https://youtu.be/L3bBSc7u1uw?feature=shared
+抖音熱歌2,https://youtu.be/p3m5tsKJf-I?feature=shared
+抖音熱歌3,https://youtu.be/eiWqrxg-SwE?feature=shared
+抖音熱歌4,https://youtu.be/Wmdo3cPA5ts?feature=shared
+抖音熱歌5,https://youtu.be/pT6ebY-32rs?feature=shared
+抖音熱歌6,https://youtu.be/EyyCf3icRY0?feature=shared
+抖音熱歌7,https://youtu.be/TNxPxjGtfEY?feature=shared
+40首超好聽的流行歌曲,https://youtu.be/MsJKeV1nO5k?feature=shared
+2024華語流行歌曲,https://youtu.be/RRpsTKGTkzQ?feature=shared
+张碧晨,https://youtu.be/7uyoyzeyofY?feature=shared
+張學友,https://youtu.be/EyNRzEC4ouI?feature=shared
+盧巧音,https://youtu.be/z4ojAi89ozc?feature=shared
+周深,https://youtu.be/NMaolvuRSWk?feature=shared
+Beyond,https://youtu.be/oJlEgKChj40?feature=shared
+黎明,https://youtu.be/7_3v9NpYLvA?feature=shared
+林俊杰,https://youtu.be/kZjGd-tISW0?feature=shared
+郁可唯,https://youtu.be/oKbP7NFrRHI?feature=shared
+陈奕迅,https://youtu.be/ioTbRNJSKGg?feature=shared
+单依纯,https://youtu.be/6S0QDCy1QEU?feature=shared
+許冠傑,https://youtu.be/e-YEccMlX4c?feature=shared
+林子祥,https://youtu.be/V4JzFHw5BSU?feature=shared
+刘德华 经典无损高音质歌曲60首合集,https://youtu.be/uO8l0Ch2IYg?feature=shared
+劉德華,https://youtu.be/RmazaDCeYAs?feature=shared
+周华健,https://youtu.be/HCmU8aDTqho?feature=shared
+王傑,https://youtu.be/t-9KpD_drdk?feature=shared
+周杰倫,https://youtu.be/SgKiVFzLkY8?feature=shared
+任然,https://youtu.be/_4gQYXc4Kd0?feature=shared
+薛之谦,https://youtu.be/ZWUB_FraMuY?feature=shared
+半噸兄弟,https://youtu.be/GJCWBbsGGJg?feature=shared
+姜育恆,https://youtu.be/rtCtO8nFcoU?feature=shared
+潘美辰1,https://youtu.be/44-LdXet4iM?feature=shared
+潘美辰2https://youtu.be/FIaYoTv0-kI?feature=shared
+伍佰,https://youtu.be/AHiSwX5XIAg?feature=shared
+游鴻明,https://youtu.be/BVtuVXi9oNU?feature=shared
+百万live现场,https://youtu.be/zfFxfIyQJSE?feature=shared
+时光音乐会,https://youtu.be/jyWG381IaFI?feature=shared
+我们的歌 4,https://youtu.be/zNGropoM0e4?feature=shared
+天赐的声音 1,https://youtu.be/G0wrdc6F51U?feature=shared
+天赐的声音 2,https://youtu.be/vzj7YNoFQZQ?feature=shared
+天赐的声音 3,https://youtu.be/KVN_HZkbYTc?feature=shared
+天赐的声音 4,https://youtu.be/NwMBoKV-v6c?feature=shared
+最受欢迎舞台TOP20,https://youtu.be/eLd_A7SWEQQ?feature=shared
+声生不息 20首,https://youtu.be/vcB5BFMoyKY?feature=shared
+男女对唱歌曲,https://youtu.be/S1sDgOiRN0c?feature=shared
+经典老歌1,https://youtu.be/1nCkLqxrf0w?feature=shared
+经典老歌2,https://youtu.be/mnnzZKbsrqM?feature=shared
+经典老歌3,https://www.youtube.com/live/5n6q34aHEyA?feature=shared
+经典老歌4,https://www.youtube.com/live/QwTKS5iWAMM?feature=shared
+经典老歌5,https://youtu.be/-pt9RCHVUYw?feature=shared
+热门歌曲top100,https://youtu.be/2XZG_uwHAcE?feature=shared
+经典粤语歌曲,https://youtu.be/DRaYnlu8LWc?feature=shared
+Dj娜娜,https://youtu.be/Tytx74ApGmg?feature=shared
+黎明電音舞曲,https://youtu.be/pPs_NcTd4zI?feature=shared
+DJ抖音版2023,https://youtu.be/rDVZIxpSjLM?feature=shared
+抖音DJ串烧,https://youtu.be/c79X07hXy3k?feature=shared
+粤语经典串烧1,https://youtu.be/wqBNNFddM14?feature=shared
+粤语经典串烧2,https://youtu.be/XwiXuoZW8zc?feature=shared
+粤语经典串烧3,https://youtu.be/5s3tOn2pAR8?feature=shared
+粤语经典串烧4,https://youtu.be/TQfj6n46OUQ?feature=shared
+粤语经典串烧5,https://youtu.be/9K6rAGUtWbE?feature=shared
+粤语经典串烧6,https://youtu.be/XsNE3jJ7iRc?feature=shared
+粤语经典串烧7,https://youtu.be/8yJSmjCdXLE?feature=shared
+粤语经典串烧8,https://youtu.be/6V-5-F5B9AQ?feature=shared
+粤语经典串烧9,https://youtu.be/lPJU13Fb1kE?feature=shared
+粤语经典串烧10,https://youtu.be/5s3tOn2pAR8?feature=shared
+粤语老歌DJ精选,https://youtu.be/CaaeGbu2HKU?feature=shared
+DJ CK,https://youtu.be/5DJ-M9jgzkU?feature=shared
+DJ'AM 1,https://youtu.be/mCogWe26Gk4?feature=shared
+DJ'AM 2,https://youtu.be/GWwqMhgBZtQ?feature=shared
+DJ'AM 3,https://youtu.be/rlUy1cAnqyI?feature=shared
+DJ'AM 4,https://youtu.be/aF-7JNbjrbo?feature=shared
+DJ'AM 5,https://youtu.be/Ktpl4Sggrks?feature=shared
+DJ'AM 6,https://youtu.be/ogP7IfM1DmM?feature=shared
+DJ'AM 7,https://youtu.be/x3tkEPN_rZE?feature=shared
+DJ'AM 8,https://youtu.be/7J_nOdr0xnI?feature=shared
+DJ'AM 9,https://youtu.be/3OO8uoKsKRI?feature=shared
+DJ'AM 10,https://youtu.be/ogP7IfM1DmM?feature=shared
+DJ'AM 11,https://youtu.be/x3tkEPN_rZE?feature=shared
+DJ'AM 12,https://youtu.be/seCCImmAKbY?feature=shared
+DJ粤语女声,https://youtu.be/4q-l2lfE8jE?feature=shared
+2023夜店舞曲1,https://youtu.be/s4Z29V871nI?feature=shared
+2023夜店舞曲2,https://youtu.be/WqLoKpfeuGA?feature=shared
+2023夜店舞曲3,https://youtu.be/gb5b7jQ1ciU?feature=shared
+2023夜店舞曲4,https://youtu.be/UkVT0vYdadE?feature=shared
+2023夜店舞曲5,https://youtu.be/Cjgq5MbRJRk?feature=shared
+2022夜店舞曲,https://youtu.be/L0stkLJ-UdI?feature=shared
+2023 全中文dj舞曲,https://youtu.be/3fUP2cbtd_I?feature=shared
+
+YouTube演唱會,#genre#
+Taylor Swift The 1989 World Tour Live 4k,https://youtu.be/P5JLMp08GC0?feature=shared
+黄伟文作品展 2012 1/3,https://youtu.be/KOv5aEHbjeU?feature=shared
+黄伟文作品展 2012 2/3,https://youtu.be/wPQyg6cF6Gc?feature=shared
+黄伟文作品展 2012 3/3,https://youtu.be/LzuZR-G3RMg?feature=shared
+张学友醒着做梦音乐会4K,https://youtu.be/8kDNi2Du2-g?feature=shared
+张学友活出生命live演唱会4K,https://youtu.be/M1MXFEljBjQ?feature=shared
+張學友光年世界巡迴演唱會 香港站,https://youtu.be/Pv6IsfaLDtk?feature=shared
+張學友光年世界巡迴演唱會 臺北 Disc 1,https://youtu.be/z5aNalvxWog?feature=shared
+張學友光年世界巡迴演唱會 臺北 Disc 2,https://youtu.be/cLWw5CLRsg4?feature=shared
+劉德華香港演唱會2007,https://youtu.be/5kOzsNOODrU?feature=shared
+譚詠麟 1994年 純金曲演唱會 4K,https://youtu.be/6LRe_ZQARnc?feature=shared
+周杰伦 2004【无与伦比演唱会】4K,https://youtu.be/aLUIpVecJKw?feature=shared
+周杰伦 | 嘉年华世界巡回演唱会 4K,https://youtu.be/VMtyoH5e2z0?feature=shared
+陳奕迅~DUO演唱會2010,https://youtu.be/DOPEzhk8u28?feature=shared
+李宗盛：既然青春留不住 高清演唱会,https://youtu.be/_-03nHxD1OQ?feature=shared
+周深｜「深深感谢你」2023演唱会全程（上）,https://youtu.be/oXXei627MtQ?feature=shared
+单依纯《给你勇敢》演唱会完整版,https://youtu.be/UMI76Tudd8w?feature=shared
+容祖兒演唱會,https://youtu.be/7E9cnXXM3Yk?feature=shared
+梁咏琪香港演唱会,https://youtu.be/8sX9K-dEIqI?feature=shared
+張敬軒 THE NEXT 20 HINS LIVE IN HONG KONG 演唱會 2022 DISC1 4K,https://youtu.be/3l9UwNfXOlY?feature=shared
+2023扬帆远航大湾区音乐会,https://www.youtube.com/live/ubLGCO3cX3M?feature=shared
