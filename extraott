@@ -1,1445 +1,1445 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 group-title="AS | CHINA",✦●✦CN| CHINA ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/400453016.ts
-#EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg",HK| 无线新闻
-http://extraott.com:80/live/3586573392/7591141273/62824.ts
+http://extraott.com:80/live/7175313183/6473142259/400453016.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg",美洲| 无线新闻
-http://extraott.com:80/live/3586573392/7591141273/473570.ts
+http://extraott.com:80/live/7175313183/6473142259/473570.ts
+#EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg",HK| 无线新闻
+http://extraott.com:80/live/7175313183/6473142259/62824.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg",HK| 翡翠台
-http://extraott.com:80/live/3586573392/7591141273/62827.ts
+http://extraott.com:80/live/7175313183/6473142259/62827.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbyule.jpg",HK| TVB娱乐新闻台
-http://extraott.com:80/live/3586573392/7591141273/82169.ts
+http://extraott.com:80/live/7175313183/6473142259/82169.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092850/01_TVB1-Banner_1920x1080-1.jpg",HK| TVB1
-http://extraott.com:80/live/3586573392/7591141273/473567.ts
+http://extraott.com:80/live/7175313183/6473142259/473567.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092850/01_TVB1-Banner_1920x1080-1.jpg",美洲| TVB1
-http://extraott.com:80/live/3586573392/7591141273/473571.ts
+http://extraott.com:80/live/7175313183/6473142259/473571.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092840/03_TVB-Drama-Banner_1920x1080-1.jpg",美洲| TVB drama
-http://extraott.com:80/live/3586573392/7591141273/473568.ts
+http://extraott.com:80/live/7175313183/6473142259/473568.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092853/02_TVBe-Banner_1920x1080-1.jpg",美洲| TVBe
-http://extraott.com:80/live/3586573392/7591141273/473569.ts
+http://extraott.com:80/live/7175313183/6473142259/473569.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-xinhe.jpg",HK| TVB星河
-http://extraott.com:80/live/3586573392/7591141273/192007.ts
+http://extraott.com:80/live/7175313183/6473142259/192007.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg",HK| 凤凰资讯
-http://extraott.com:80/live/3586573392/7591141273/62829.ts
+http://extraott.com:80/live/7175313183/6473142259/62829.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg",HK| 凤凰美洲
-http://extraott.com:80/live/3586573392/7591141273/473556.ts
+http://extraott.com:80/live/7175313183/6473142259/473556.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhxgt.jpg",HK| 凤凰美洲
-http://extraott.com:80/live/3586573392/7591141273/473557.ts
+http://extraott.com:80/live/7175313183/6473142259/473557.ts
 #EXTINF:-1 group-title="AS | HK" tvg-logo="https://lo1.in/china/chine.png",HK| 耀才财经
-http://extraott.com:80/live/3586573392/7591141273/40119.ts
+http://extraott.com:80/live/7175313183/6473142259/40119.ts
 #EXTINF:-1 group-title="AS | MACAU" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmty.jpg",CN| 澳门体育
-http://extraott.com:80/live/3586573392/7591141273/40120.ts
+http://extraott.com:80/live/7175313183/6473142259/40120.ts
 #EXTINF:-1 group-title="AS | MACAU" tvg-logo="http://www.tvyan.com/uploads/dianshi/aoshi.jpg",CN| 澳视葡文
-http://extraott.com:80/live/3586573392/7591141273/40121.ts
+http://extraott.com:80/live/7175313183/6473142259/40121.ts
 #EXTINF:-1 group-title="AS | MACAU" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg",CN| 澳视澳门
-http://extraott.com:80/live/3586573392/7591141273/40122.ts
+http://extraott.com:80/live/7175313183/6473142259/40122.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CN| CCTV-1 HD
-http://extraott.com:80/live/3586573392/7591141273/400251749.ts
+http://extraott.com:80/live/7175313183/6473142259/400251749.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CN| CCTV-2 HD
-http://extraott.com:80/live/3586573392/7591141273/400251748.ts
+http://extraott.com:80/live/7175313183/6473142259/400251748.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CN| CCTV-3 HD
-http://extraott.com:80/live/3586573392/7591141273/62860.ts
+http://extraott.com:80/live/7175313183/6473142259/62860.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",MY| CCTV4 HD
-http://extraott.com:80/live/3586573392/7591141273/400251746.ts
+http://extraott.com:80/live/7175313183/6473142259/400251746.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CN| CCTV-5 HD
-http://extraott.com:80/live/3586573392/7591141273/62859.ts
+http://extraott.com:80/live/7175313183/6473142259/62859.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CN| CCTV-5+ HD
-http://extraott.com:80/live/3586573392/7591141273/400251745.ts
+http://extraott.com:80/live/7175313183/6473142259/400251745.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CN| CCTV-6 HD
-http://extraott.com:80/live/3586573392/7591141273/400251744.ts
+http://extraott.com:80/live/7175313183/6473142259/400251744.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CN| CCTV-7 HD
-http://extraott.com:80/live/3586573392/7591141273/62858.ts
+http://extraott.com:80/live/7175313183/6473142259/62858.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CN| CCTV-8 HD
-http://extraott.com:80/live/3586573392/7591141273/62857.ts
+http://extraott.com:80/live/7175313183/6473142259/62857.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CN| CCTV-9 HD
-http://extraott.com:80/live/3586573392/7591141273/62856.ts
+http://extraott.com:80/live/7175313183/6473142259/62856.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CN| CCTV-10 HD
-http://extraott.com:80/live/3586573392/7591141273/62855.ts
+http://extraott.com:80/live/7175313183/6473142259/62855.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",,CN| CCTV-12 HD
-http://extraott.com:80/live/3586573392/7591141273/400251738.ts
+http://extraott.com:80/live/7175313183/6473142259/400251738.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CN| CCTV-13 HD
-http://extraott.com:80/live/3586573392/7591141273/62853.ts
+http://extraott.com:80/live/7175313183/6473142259/62853.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CN| CGTN
-http://extraott.com:80/live/3586573392/7591141273/400251734.ts
+http://extraott.com:80/live/7175313183/6473142259/400251734.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CN| CGTN ESPAÑOL
-http://extraott.com:80/live/3586573392/7591141273/400252832.ts
+http://extraott.com:80/live/7175313183/6473142259/400252832.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/MALAY/astroiq.png",CN| IQIYI FHD
-http://extraott.com:80/live/3586573392/7591141273/13092.ts
+http://extraott.com:80/live/7175313183/6473142259/13092.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 广东卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62841.ts
+http://extraott.com:80/live/7175313183/6473142259/62841.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 深圳卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62828.ts
+http://extraott.com:80/live/7175313183/6473142259/62828.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 广东南方卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62847.ts
+http://extraott.com:80/live/7175313183/6473142259/62847.ts
 #EXTINF:-1 group-title="AS | CHINA",CN| 珠江台 HD
-http://extraott.com:80/live/3586573392/7591141273/62846.ts
+http://extraott.com:80/live/7175313183/6473142259/62846.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 福建东南卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62836.ts
+http://extraott.com:80/live/7175313183/6473142259/62836.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 广西卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62837.ts
+http://extraott.com:80/live/7175313183/6473142259/62837.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 湖北卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62840.ts
+http://extraott.com:80/live/7175313183/6473142259/62840.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 北京卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62843.ts
+http://extraott.com:80/live/7175313183/6473142259/62843.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 江苏卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62848.ts
+http://extraott.com:80/live/7175313183/6473142259/62848.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 浙江卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62849.ts
+http://extraott.com:80/live/7175313183/6473142259/62849.ts
 #EXTINF:-1 group-title="AS | CHINA",CN| 湖南卫视 HD
-http://extraott.com:80/live/3586573392/7591141273/62851.ts
+http://extraott.com:80/live/7175313183/6473142259/62851.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 萧山新闻综合
-http://extraott.com:80/live/3586573392/7591141273/400252743.ts
+http://extraott.com:80/live/7175313183/6473142259/400252743.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 余姚新闻综合
-http://extraott.com:80/live/3586573392/7591141273/400252813.ts
+http://extraott.com:80/live/7175313183/6473142259/400252813.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 上虞3新商都
-http://extraott.com:80/live/3586573392/7591141273/400252825.ts
+http://extraott.com:80/live/7175313183/6473142259/400252825.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 上虞1新闻综合
-http://extraott.com:80/live/3586573392/7591141273/400252826.ts
+http://extraott.com:80/live/7175313183/6473142259/400252826.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 青州文化旅游
-http://extraott.com:80/live/3586573392/7591141273/400252729.ts
+http://extraott.com:80/live/7175313183/6473142259/400252729.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 青州生活
-http://extraott.com:80/live/3586573392/7591141273/40114.ts
+http://extraott.com:80/live/7175313183/6473142259/40114.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 萬州綜合頻道
-http://extraott.com:80/live/3586573392/7591141273/40115.ts
+http://extraott.com:80/live/7175313183/6473142259/40115.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 萬州科教頻道
-http://extraott.com:80/live/3586573392/7591141273/40116.ts
+http://extraott.com:80/live/7175313183/6473142259/40116.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 萬州影視文藝
-http://extraott.com:80/live/3586573392/7591141273/40117.ts
+http://extraott.com:80/live/7175313183/6473142259/40117.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 武进新闻
-http://extraott.com:80/live/3586573392/7591141273/40136.ts
+http://extraott.com:80/live/7175313183/6473142259/40136.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 晋中综合
-http://extraott.com:80/live/3586573392/7591141273/40137.ts
+http://extraott.com:80/live/7175313183/6473142259/40137.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 晋中公共
-http://extraott.com:80/live/3586573392/7591141273/40138.ts
+http://extraott.com:80/live/7175313183/6473142259/40138.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 延边卫视
-http://extraott.com:80/live/3586573392/7591141273/40143.ts
+http://extraott.com:80/live/7175313183/6473142259/40143.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 巴中综合
-http://extraott.com:80/live/3586573392/7591141273/40144.ts
+http://extraott.com:80/live/7175313183/6473142259/40144.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 唯心電視
-http://extraott.com:80/live/3586573392/7591141273/40146.ts
+http://extraott.com:80/live/7175313183/6473142259/40146.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 云南 Ⅰ 文山综合台
-http://extraott.com:80/live/3586573392/7591141273/40150.ts
+http://extraott.com:80/live/7175313183/6473142259/40150.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 万州综合
-http://extraott.com:80/live/3586573392/7591141273/40152.ts
+http://extraott.com:80/live/7175313183/6473142259/40152.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 万州科教
-http://extraott.com:80/live/3586573392/7591141273/40153.ts
+http://extraott.com:80/live/7175313183/6473142259/40153.ts
 #EXTINF:-1 group-title="AS | CHINA" tvg-logo="https://lo1.in/china/chine.png",CN| 万州影视
-http://extraott.com:80/live/3586573392/7591141273/40154.ts
+http://extraott.com:80/live/7175313183/6473142259/40154.ts
 
 EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 壹电视新闻台 HD
-http://extraott.com:80/live/3586573392/7591141273/5532.ts
+http://extraott.com:80/live/7175313183/6473142259/5532.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 壹电视旅游台 HD
-http://extraott.com:80/live/3586573392/7591141273/5533.ts
+http://extraott.com:80/live/7175313183/6473142259/5533.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",TW| 寰宇新闻 HD
-http://extraott.com:80/live/3586573392/7591141273/5523.ts
+http://extraott.com:80/live/7175313183/6473142259/5523.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 寰宇财经 HD
-http://extraott.com:80/live/3586573392/7591141273/5525.ts
+http://extraott.com:80/live/7175313183/6473142259/5525.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg",TW| 中天新闻 HD
-http://extraott.com:80/live/3586573392/7591141273/5553.ts
+http://extraott.com:80/live/7175313183/6473142259/5553.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png",TW| 中天亚洲台 HD
-http://extraott.com:80/live/3586573392/7591141273/5555.ts
+http://extraott.com:80/live/7175313183/6473142259/5555.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_entertainment.png",TW| 中天娱乐 HD
-http://extraott.com:80/live/3586573392/7591141273/5554.ts
+http://extraott.com:80/live/7175313183/6473142259/5554.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_comprehensive.png",TW| 中天综合 HD
-http://extraott.com:80/live/3586573392/7591141273/5552.ts
+http://extraott.com:80/live/7175313183/6473142259/5552.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 中视 HD
-http://extraott.com:80/live/3586573392/7591141273/5486.ts
+http://extraott.com:80/live/7175313183/6473142259/5486.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 中视高清 HD
-http://extraott.com:80/live/3586573392/7591141273/5485.ts
+http://extraott.com:80/live/7175313183/6473142259/5485.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 中视新闻台 HD
-http://extraott.com:80/live/3586573392/7591141273/5484.ts
+http://extraott.com:80/live/7175313183/6473142259/5484.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg",TW| TVBS HD
-http://extraott.com:80/live/3586573392/7591141273/5496.ts
+http://extraott.com:80/live/7175313183/6473142259/5496.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TW| TVBS N HD
-http://extraott.com:80/live/3586573392/7591141273/5499.ts
+http://extraott.com:80/live/7175313183/6473142259/5499.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TW| TVBS ASIA HD
-http://extraott.com:80/live/3586573392/7591141273/33015.ts
+http://extraott.com:80/live/7175313183/6473142259/33015.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| TVBS欢乐台 HD
-http://extraott.com:80/live/3586573392/7591141273/5497.ts
+http://extraott.com:80/live/7175313183/6473142259/5497.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",TW| 东森新闻 HD
-http://extraott.com:80/live/3586573392/7591141273/5536.ts
+http://extraott.com:80/live/7175313183/6473142259/5536.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 东森亚洲 HD
-http://extraott.com:80/live/3586573392/7591141273/5540.ts
+http://extraott.com:80/live/7175313183/6473142259/5540.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",TW| 东森财经 HD
-http://extraott.com:80/live/3586573392/7591141273/5539.ts
+http://extraott.com:80/live/7175313183/6473142259/5539.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 东森戏剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5538.ts
+http://extraott.com:80/live/7175313183/6473142259/5538.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212541056390_80.jpg",TW| 东森电影 HD
-http://extraott.com:80/live/3586573392/7591141273/5537.ts
+http://extraott.com:80/live/7175313183/6473142259/5537.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 东森洋片 HD
-http://extraott.com:80/live/3586573392/7591141273/5534.ts
+http://extraott.com:80/live/7175313183/6473142259/5534.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 东森MOMO HD
-http://extraott.com:80/live/3586573392/7591141273/5510.ts
+http://extraott.com:80/live/7175313183/6473142259/5510.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| JET TV HD
-http://extraott.com:80/live/3586573392/7591141273/5522.ts
+http://extraott.com:80/live/7175313183/6473142259/5522.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 三立都会 HD
-http://extraott.com:80/live/3586573392/7591141273/5506.ts
+http://extraott.com:80/live/7175313183/6473142259/5506.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 三立台湾 HD
-http://extraott.com:80/live/3586573392/7591141273/5505.ts
+http://extraott.com:80/live/7175313183/6473142259/5505.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 三立戏剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5504.ts
+http://extraott.com:80/live/7175313183/6473142259/5504.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 三立综合 HD
-http://extraott.com:80/live/3586573392/7591141273/5503.ts
+http://extraott.com:80/live/7175313183/6473142259/5503.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 年代新闻 HD
-http://extraott.com:80/live/3586573392/7591141273/5509.ts
+http://extraott.com:80/live/7175313183/6473142259/5509.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 年代电视 HD
-http://extraott.com:80/live/3586573392/7591141273/5508.ts
+http://extraott.com:80/live/7175313183/6473142259/5508.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 非凡新闻 HD
-http://extraott.com:80/live/3586573392/7591141273/5531.ts
+http://extraott.com:80/live/7175313183/6473142259/5531.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 民视高清台 HD
-http://extraott.com:80/live/3586573392/7591141273/5530.ts
+http://extraott.com:80/live/7175313183/6473142259/5530.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 民视新闻台 HD
-http://extraott.com:80/live/3586573392/7591141273/5529.ts
+http://extraott.com:80/live/7175313183/6473142259/5529.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 民视台湾台 HD
-http://extraott.com:80/live/3586573392/7591141273/5528.ts
+http://extraott.com:80/live/7175313183/6473142259/5528.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 台视台湾台 HD
-http://extraott.com:80/live/3586573392/7591141273/5502.ts
+http://extraott.com:80/live/7175313183/6473142259/5502.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 台视新闻台 HD
-http://extraott.com:80/live/3586573392/7591141273/5501.ts
+http://extraott.com:80/live/7175313183/6473142259/5501.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 台视综合台 HD
-http://extraott.com:80/live/3586573392/7591141273/5500.ts
+http://extraott.com:80/live/7175313183/6473142259/5500.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 华视 HD
-http://extraott.com:80/live/3586573392/7591141273/5551.ts
+http://extraott.com:80/live/7175313183/6473142259/5551.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 公视2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5549.ts
+http://extraott.com:80/live/7175313183/6473142259/5549.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 大爱2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5548.ts
+http://extraott.com:80/live/7175313183/6473142259/5548.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 大爱1台 HD
-http://extraott.com:80/live/3586573392/7591141273/5547.ts
+http://extraott.com:80/live/7175313183/6473142259/5547.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 好电视2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5527.ts
+http://extraott.com:80/live/7175313183/6473142259/5527.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 亚洲美食台 HD
-http://extraott.com:80/live/3586573392/7591141273/5566.ts
+http://extraott.com:80/live/7175313183/6473142259/5566.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 亚洲旅游台 HD
-http://extraott.com:80/live/3586573392/7591141273/5565.ts
+http://extraott.com:80/live/7175313183/6473142259/5565.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 八大戏剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5564.ts
+http://extraott.com:80/live/7175313183/6473142259/5564.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 八大第一 HD
-http://extraott.com:80/live/3586573392/7591141273/5562.ts
+http://extraott.com:80/live/7175313183/6473142259/5562.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 八大综合 HD
-http://extraott.com:80/live/3586573392/7591141273/5561.ts
+http://extraott.com:80/live/7175313183/6473142259/5561.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| Arirang HD
-http://extraott.com:80/live/3586573392/7591141273/5521.ts
+http://extraott.com:80/live/7175313183/6473142259/5521.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 靖天国际 HD
-http://extraott.com:80/live/3586573392/7591141273/5519.ts
+http://extraott.com:80/live/7175313183/6473142259/5519.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 卫视中文台 HD
-http://extraott.com:80/live/3586573392/7591141273/5489.ts
+http://extraott.com:80/live/7175313183/6473142259/5489.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 星卫电影 HD
-http://extraott.com:80/live/3586573392/7591141273/5488.ts
+http://extraott.com:80/live/7175313183/6473142259/5488.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 星卫娱乐 HD
-http://extraott.com:80/live/3586573392/7591141273/5487.ts
+http://extraott.com:80/live/7175313183/6473142259/5487.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙华经典 HD
-http://extraott.com:80/live/3586573392/7591141273/5517.ts
+http://extraott.com:80/live/7175313183/6473142259/5517.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙华偶像 HD
-http://extraott.com:80/live/3586573392/7591141273/5518.ts
+http://extraott.com:80/live/7175313183/6473142259/5518.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙华电影 HD
-http://extraott.com:80/live/3586573392/7591141273/5516.ts
+http://extraott.com:80/live/7175313183/6473142259/5516.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙华洋片 HD
-http://extraott.com:80/live/3586573392/7591141273/5515.ts
+http://extraott.com:80/live/7175313183/6473142259/5515.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙华戏剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5514.ts
+http://extraott.com:80/live/7175313183/6473142259/5514.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 龙祥时代 HD
-http://extraott.com:80/live/3586573392/7591141273/5513.ts
+http://extraott.com:80/live/7175313183/6473142259/5513.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 好莱坞电影 HD
-http://extraott.com:80/live/3586573392/7591141273/5526.ts
+http://extraott.com:80/live/7175313183/6473142259/5526.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 纬来电视 HD
-http://extraott.com:80/live/3586573392/7591141273/5491.ts
+http://extraott.com:80/live/7175313183/6473142259/5491.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 纬来电影 HD
-http://extraott.com:80/live/3586573392/7591141273/5493.ts
+http://extraott.com:80/live/7175313183/6473142259/5493.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达戏剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5546.ts
+http://extraott.com:80/live/7175313183/6473142259/5546.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达体育台 HD
-http://extraott.com:80/live/3586573392/7591141273/5543.ts
+http://extraott.com:80/live/7175313183/6473142259/5543.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达体育2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5545.ts
+http://extraott.com:80/live/7175313183/6473142259/5545.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达体育3台 HD
-http://extraott.com:80/live/3586573392/7591141273/5544.ts
+http://extraott.com:80/live/7175313183/6473142259/5544.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达影剧 HD
-http://extraott.com:80/live/3586573392/7591141273/5542.ts
+http://extraott.com:80/live/7175313183/6473142259/5542.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 爱尔达综合 HD
-http://extraott.com:80/live/3586573392/7591141273/5541.ts
+http://extraott.com:80/live/7175313183/6473142259/5541.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 纬来日本 HD
-http://extraott.com:80/live/3586573392/7591141273/5495.ts
+http://extraott.com:80/live/7175313183/6473142259/5495.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 纬来精彩 HD
-http://extraott.com:80/live/3586573392/7591141273/5494.ts
+http://extraott.com:80/live/7175313183/6473142259/5494.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 纬来体育 HD
-http://extraott.com:80/live/3586573392/7591141273/5492.ts
+http://extraott.com:80/live/7175313183/6473142259/5492.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 博斯网球 HD
-http://extraott.com:80/live/3586573392/7591141273/5556.ts
+http://extraott.com:80/live/7175313183/6473142259/5556.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 博斯高球2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5559.ts
+http://extraott.com:80/live/7175313183/6473142259/5559.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 博斯体育1台 HD
-http://extraott.com:80/live/3586573392/7591141273/5558.ts
+http://extraott.com:80/live/7175313183/6473142259/5558.ts
 #EXTINF:-1 group-title="AS | TAIWAN" tvg-logo="https://lo1.in/tai/taiwan.png",TW| 博斯体育2台 HD
-http://extraott.com:80/live/3586573392/7591141273/5557.ts
+http://extraott.com:80/live/7175313183/6473142259/5557.ts
 
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/flg.png",✦●✦ INDONESIA ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/185747.ts
+http://extraott.com:80/live/7175313183/6473142259/185747.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/cnb.png",ID| CNBC INDONESIA HD
-http://extraott.com:80/live/3586573392/7591141273/191789.ts
+http://extraott.com:80/live/7175313183/6473142259/191789.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/rad.png",ID| RADIO 51 TV
-http://extraott.com:80/live/3586573392/7591141273/191800.ts
+http://extraott.com:80/live/7175313183/6473142259/191800.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/inw.png",ID| INEWS TV HD
-http://extraott.com:80/live/3586573392/7591141273/400200744.ts
+http://extraott.com:80/live/7175313183/6473142259/400200744.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/tra1.png",ID| TRANS TV HD
-http://extraott.com:80/live/3586573392/7591141273/191805.ts
+http://extraott.com:80/live/7175313183/6473142259/191805.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/tvu.png",ID| TVKU HD
-http://extraott.com:80/live/3586573392/7591141273/191807.ts
+http://extraott.com:80/live/7175313183/6473142259/191807.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/uk/animal.png",ID| ANIMAL PLANET HD
-http://extraott.com:80/live/3586573392/7591141273/191811.ts
+http://extraott.com:80/live/7175313183/6473142259/191811.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/bert.png",ID| BERITASATU ENGLISH
-http://extraott.com:80/live/3586573392/7591141273/191813.ts
+http://extraott.com:80/live/7175313183/6473142259/191813.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/cn.png",ID| CARTOON NETWORK HD
-http://extraott.com:80/live/3586573392/7591141273/191815.ts
+http://extraott.com:80/live/7175313183/6473142259/191815.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/celm.png",ID| CELESTIAL MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/400200748.ts
+http://extraott.com:80/live/7175313183/6473142259/400200748.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/rct.png",ID| RCTI HD
-http://extraott.com:80/live/3586573392/7591141273/400200742.ts
+http://extraott.com:80/live/7175313183/6473142259/400200742.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/t2.png",ID| TVRI HD
-http://extraott.com:80/live/3586573392/7591141273/400200741.ts
+http://extraott.com:80/live/7175313183/6473142259/400200741.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/cgt.png",ID| CGTN HD
-http://extraott.com:80/live/3586573392/7591141273/45000.ts
+http://extraott.com:80/live/7175313183/6473142259/45000.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/nhk1.png",ID| NHK WORLD PREMIUM HD
-http://extraott.com:80/live/3586573392/7591141273/45003.ts
+http://extraott.com:80/live/7175313183/6473142259/45003.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/him.png",ID| HITS MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/45024.ts
+http://extraott.com:80/live/7175313183/6473142259/45024.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/fr2.png",ID| FRANCE 24 HD
-http://extraott.com:80/live/3586573392/7591141273/45033.ts
+http://extraott.com:80/live/7175313183/6473142259/45033.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/ari.png",ID| ARIRANG HD
-http://extraott.com:80/live/3586573392/7591141273/45035.ts
+http://extraott.com:80/live/7175313183/6473142259/45035.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/hi.png",ID| HISTORY HD
-http://extraott.com:80/live/3586573392/7591141273/45040.ts
+http://extraott.com:80/live/7175313183/6473142259/45040.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/ntw.png",ID| NAT GEO WILD HD
-http://extraott.com:80/live/3586573392/7591141273/45041.ts
+http://extraott.com:80/live/7175313183/6473142259/45041.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/ntg.png",ID| NAT GEO HD
-http://extraott.com:80/live/3586573392/7591141273/45042.ts
+http://extraott.com:80/live/7175313183/6473142259/45042.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/nhk.png",ID| NHK WORLD TV HD
-http://extraott.com:80/live/3586573392/7591141273/45044.ts
+http://extraott.com:80/live/7175313183/6473142259/45044.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/ani.png",ID| ANIMAX HD
-http://extraott.com:80/live/3586573392/7591141273/45057.ts
+http://extraott.com:80/live/7175313183/6473142259/45057.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/ewt.png",ID| EWTN HD
-http://extraott.com:80/live/3586573392/7591141273/45067.ts
+http://extraott.com:80/live/7175313183/6473142259/45067.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/tvm.png",ID| TVMU HD
-http://extraott.com:80/live/3586573392/7591141273/45069.ts
+http://extraott.com:80/live/7175313183/6473142259/45069.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/bbt.png",ID| BABY TV HD
-http://extraott.com:80/live/3586573392/7591141273/45081.ts
+http://extraott.com:80/live/7175313183/6473142259/45081.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/mia.png",ID| MIAO MI HD
-http://extraott.com:80/live/3586573392/7591141273/45083.ts
+http://extraott.com:80/live/7175313183/6473142259/45083.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/nkjr.png",ID| NICK JR. HD
-http://extraott.com:80/live/3586573392/7591141273/45084.ts
+http://extraott.com:80/live/7175313183/6473142259/45084.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/cin.png",ID| CINEMA WORLD HD
-http://extraott.com:80/live/3586573392/7591141273/45086.ts
+http://extraott.com:80/live/7175313183/6473142259/45086.ts
 #EXTINF:-1 group-title="AS | INDONESIA",ID| &TVHD
-http://extraott.com:80/live/3586573392/7591141273/157041.ts
+http://extraott.com:80/live/7175313183/6473142259/157041.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/v1.png",ID| TVONE HD
-http://extraott.com:80/live/3586573392/7591141273/45097.ts
+http://extraott.com:80/live/7175313183/6473142259/45097.ts
 #EXTINF:-1 group-title="AS | INDONESIA" tvg-logo="https://lo1.in/indo/indo.png",ID| INDOSIAR HD
-http://extraott.com:80/live/3586573392/7591141273/45098.ts
+http://extraott.com:80/live/7175313183/6473142259/45098.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/abp.png",BD| ABP ANANDA HD
-http://extraott.com:80/live/3586573392/7591141273/400248337.ts
+http://extraott.com:80/live/7175313183/6473142259/400248337.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/atb.png",BD| ATN BANGLA FHD
-http://extraott.com:80/live/3586573392/7591141273/400248334.ts
+http://extraott.com:80/live/7175313183/6473142259/400248334.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/atw.png",BD| ATN NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/400248332.ts
+http://extraott.com:80/live/7175313183/6473142259/400248332.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ch.png",BD| CHANNEL 24 HD
-http://extraott.com:80/live/3586573392/7591141273/400248323.ts
+http://extraott.com:80/live/7175313183/6473142259/400248323.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/flg.png",BD| TIME TV SD
-http://extraott.com:80/live/3586573392/7591141273/79100.ts
+http://extraott.com:80/live/7175313183/6473142259/79100.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/pb.png",BD| IBTV USA
-http://extraott.com:80/live/3586573392/7591141273/400368489.ts
+http://extraott.com:80/live/7175313183/6473142259/400368489.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ind.png",BD| INDEPENDENT TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248306.ts
+http://extraott.com:80/live/7175313183/6473142259/400248306.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/iqr.png",BD| IQRA BANGLA SD
-http://extraott.com:80/live/3586573392/7591141273/400248297.ts
+http://extraott.com:80/live/7175313183/6473142259/400248297.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/new2.png",BD| NEWS 24 HD
-http://extraott.com:80/live/3586573392/7591141273/400248275.ts
+http://extraott.com:80/live/7175313183/6473142259/400248275.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ntv.png",BD| NTV HD
-http://extraott.com:80/live/3586573392/7591141273/400248294.ts
+http://extraott.com:80/live/7175313183/6473142259/400248294.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ntu.png",BD| NTV UK HD
-http://extraott.com:80/live/3586573392/7591141273/400248295.ts
+http://extraott.com:80/live/7175313183/6473142259/400248295.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/rtv.png",BD| RTV HD
-http://extraott.com:80/live/3586573392/7591141273/400248291.ts
+http://extraott.com:80/live/7175313183/6473142259/400248291.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/sg.png",BD| SANGEET BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248289.ts
+http://extraott.com:80/live/7175313183/6473142259/400248289.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/son1.png",BD| SONY AATH HD
-http://extraott.com:80/live/3586573392/7591141273/400248284.ts
+http://extraott.com:80/live/7175313183/6473142259/400248284.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/zee.png",BD| ZEE 24 GHANTA HD
-http://extraott.com:80/live/3586573392/7591141273/400248342.ts
+http://extraott.com:80/live/7175313183/6473142259/400248342.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/flg.png",BD|  AAKAASH BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248339.ts
+http://extraott.com:80/live/7175313183/6473142259/400248339.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/bij.png",BD| BIJOY TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248328.ts
+http://extraott.com:80/live/7175313183/6473142259/400248328.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/btv.png",BD| BTV HD
-http://extraott.com:80/live/3586573392/7591141273/400248324.ts
+http://extraott.com:80/live/7175313183/6473142259/400248324.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/btw.png",BD| BTV WORLD HD
-http://extraott.com:80/live/3586573392/7591141273/400248325.ts
+http://extraott.com:80/live/7175313183/6473142259/400248325.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/chn.png",BD| CHANNEL I HD
-http://extraott.com:80/live/3586573392/7591141273/400248320.ts
+http://extraott.com:80/live/7175313183/6473142259/400248320.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/chns.png",BD| CHANNEL S HD
-http://extraott.com:80/live/3586573392/7591141273/159703.ts
+http://extraott.com:80/live/7175313183/6473142259/159703.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/co.png",BD| COLORS BANGLA FHD
-http://extraott.com:80/live/3586573392/7591141273/400248343.ts
+http://extraott.com:80/live/7175313183/6473142259/400248343.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/cbv.png",BD| DBC NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/400248317.ts
+http://extraott.com:80/live/7175313183/6473142259/400248317.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/em.png",BD| EMAN TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248261.ts
+http://extraott.com:80/live/7175313183/6473142259/400248261.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ent.png",BD| ENTER 10 BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248243.ts
+http://extraott.com:80/live/7175313183/6473142259/400248243.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/isl.png",BD| ISLAM CHANNEL
-http://extraott.com:80/live/3586573392/7591141273/400248218.ts
+http://extraott.com:80/live/7175313183/6473142259/400248218.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/ja.png",BD| STAR JALSHA MOVIES FHD
-http://extraott.com:80/live/3586573392/7591141273/400248341.ts
+http://extraott.com:80/live/7175313183/6473142259/400248341.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/mad.png",BD| MADANI TV BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248257.ts
+http://extraott.com:80/live/7175313183/6473142259/400248257.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/mov.png",BD| MOVIE BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248300.ts
+http://extraott.com:80/live/7175313183/6473142259/400248300.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/new1.png",BD| NEWS 18 BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248219.ts
+http://extraott.com:80/live/7175313183/6473142259/400248219.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/rang.png",BD| RANG TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248225.ts
+http://extraott.com:80/live/7175313183/6473142259/400248225.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/rup.png",BD| RUPASHI HD
-http://extraott.com:80/live/3586573392/7591141273/159720.ts
+http://extraott.com:80/live/7175313183/6473142259/159720.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/som.png",BD|  SOMOY NEWS TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248285.ts
+http://extraott.com:80/live/7175313183/6473142259/400248285.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/strj.png",BD|  STAR JHALSA MOVIES
-http://extraott.com:80/live/3586573392/7591141273/400248283.ts
+http://extraott.com:80/live/7175313183/6473142259/400248283.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/tbh.png",BD| TBN UK HD
-http://extraott.com:80/live/3586573392/7591141273/400248232.ts
+http://extraott.com:80/live/7175313183/6473142259/400248232.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/v2.png",BD| V2BEAT TV HD
-http://extraott.com:80/live/3586573392/7591141273/400248249.ts
+http://extraott.com:80/live/7175313183/6473142259/400248249.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/zee1.png",BD| ZEE BANGLA HD
-http://extraott.com:80/live/3586573392/7591141273/400248274.ts
+http://extraott.com:80/live/7175313183/6473142259/400248274.ts
 #EXTINF:-1 group-title="AS |  BANGLADESH" tvg-logo="https://lo1.in/ban/zee2.png",BD| ZEE BANGLA CINEMA HD
-http://extraott.com:80/live/3586573392/7591141273/400248278.ts
+http://extraott.com:80/live/7175313183/6473142259/400248278.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv1.png",MY| TV1 HD
-http://extraott.com:80/live/3586573392/7591141273/192001.ts
+http://extraott.com:80/live/7175313183/6473142259/192001.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv1.png",MY| TV1 FHD
-http://extraott.com:80/live/3586573392/7591141273/79326.ts
+http://extraott.com:80/live/7175313183/6473142259/79326.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv2.png",MY| TV2 HD
-http://extraott.com:80/live/3586573392/7591141273/192002.ts
+http://extraott.com:80/live/7175313183/6473142259/192002.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv2.png",MY| TV2 FHD
-http://extraott.com:80/live/3586573392/7591141273/79325.ts
+http://extraott.com:80/live/7175313183/6473142259/79325.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv3.png",MY| TV3 HD
-http://extraott.com:80/live/3586573392/7591141273/400200329.ts
+http://extraott.com:80/live/7175313183/6473142259/400200329.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv3.png",MY| TV3 [BK] HD
-http://extraott.com:80/live/3586573392/7591141273/400437966.ts
+http://extraott.com:80/live/7175313183/6473142259/400437966.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroaw.png",MY| ASTRO AWANI FHD
-http://extraott.com:80/live/3586573392/7591141273/29657.ts
+http://extraott.com:80/live/7175313183/6473142259/29657.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroaw.png",MY| ASTRO AWANI HD
-http://extraott.com:80/live/3586573392/7591141273/191859.ts
+http://extraott.com:80/live/7175313183/6473142259/191859.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrooas.png",MY| ASTRO OASIS FHD
-http://extraott.com:80/live/3586573392/7591141273/29654.ts
+http://extraott.com:80/live/7175313183/6473142259/29654.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrooas.png",MY| ASTRO OASIS HD
-http://extraott.com:80/live/3586573392/7591141273/191864.ts
+http://extraott.com:80/live/7175313183/6473142259/191864.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrow.png",MY| ASTRO WARNA HD
-http://extraott.com:80/live/3586573392/7591141273/191874.ts
+http://extraott.com:80/live/7175313183/6473142259/191874.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrow.png",MY| ASTRO WARNA [BK] HD
-http://extraott.com:80/live/3586573392/7591141273/79322.ts
+http://extraott.com:80/live/7175313183/6473142259/79322.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/awsm.png",MY| AWESOME TV HD
-http://extraott.com:80/live/3586573392/7591141273/400200777.ts
+http://extraott.com:80/live/7175313183/6473142259/400200777.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/awsm.png",MY| AWESOME TV FHD
-http://extraott.com:80/live/3586573392/7591141273/5232.ts
+http://extraott.com:80/live/7175313183/6473142259/5232.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astror.png",MY| ASTRO RANIA HD
-http://extraott.com:80/live/3586573392/7591141273/191866.ts
+http://extraott.com:80/live/7175313183/6473142259/191866.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astror.png",MY| ASTRO RANIA FHD
-http://extraott.com:80/live/3586573392/7591141273/13076.ts
+http://extraott.com:80/live/7175313183/6473142259/13076.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroaur.png",MY| ASTRO AURA FHD
-http://extraott.com:80/live/3586573392/7591141273/13073.ts
+http://extraott.com:80/live/7175313183/6473142259/13073.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroaec.png",MY| ASTRO AEC [BK] HD
-http://extraott.com:80/live/3586573392/7591141273/79320.ts
+http://extraott.com:80/live/7175313183/6473142259/79320.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hijrah.png",MY| TV ALHIJRAH FHD
-http://extraott.com:80/live/3586573392/7591141273/29649.ts
+http://extraott.com:80/live/7175313183/6473142259/29649.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hijrah.png",MY| TV ALHIJRAH HD
-http://extraott.com:80/live/3586573392/7591141273/192000.ts
+http://extraott.com:80/live/7175313183/6473142259/192000.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/ntv7.png",MY| NTV7 HD
-http://extraott.com:80/live/3586573392/7591141273/191968.ts
+http://extraott.com:80/live/7175313183/6473142259/191968.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/8tv.png",MY| TV8 HD
-http://extraott.com:80/live/3586573392/7591141273/192003.ts
+http://extraott.com:80/live/7175313183/6473142259/192003.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/8tv.png",MY| TV8 [BK] HD
-http://extraott.com:80/live/3586573392/7591141273/79324.ts
+http://extraott.com:80/live/7175313183/6473142259/79324.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv9.png",MY| TV9 HD
-http://extraott.com:80/live/3586573392/7591141273/192004.ts
+http://extraott.com:80/live/7175313183/6473142259/192004.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv9.png",MY| TV9 [BK] HD
-http://extraott.com:80/live/3586573392/7591141273/79323.ts
+http://extraott.com:80/live/7175313183/6473142259/79323.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroshp.png",MY| GO SHOP 1 HD
-http://extraott.com:80/live/3586573392/7591141273/191940.ts
+http://extraott.com:80/live/7175313183/6473142259/191940.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/SENSASI.png",MY| ASTRO SENSASI HD
-http://extraott.com:80/live/3586573392/7591141273/13490.ts
+http://extraott.com:80/live/7175313183/6473142259/13490.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroad.png",MY| ADITHYA HD
-http://extraott.com:80/live/3586573392/7591141273/191840.ts
+http://extraott.com:80/live/7175313183/6473142259/191840.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroiq.png",MY| IQIYI HD
-http://extraott.com:80/live/3586573392/7591141273/191950.ts
+http://extraott.com:80/live/7175313183/6473142259/191950.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroiq.png",MY| IQIYI FHD
-http://extraott.com:80/live/3586573392/7591141273/13092.ts
+http://extraott.com:80/live/7175313183/6473142259/13092.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroqu.png",MY| ASTRO QUAN JIA HD
-http://extraott.com:80/live/3586573392/7591141273/191974.ts
+http://extraott.com:80/live/7175313183/6473142259/191974.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/ctas.png",MY| CTI ASIA FHD
-http://extraott.com:80/live/3586573392/7591141273/29615.ts
+http://extraott.com:80/live/7175313183/6473142259/29615.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/ctas.png",MY| CTI ASIA HD
-http://extraott.com:80/live/3586573392/7591141273/191911.ts
+http://extraott.com:80/live/7175313183/6473142259/191911.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tvbxh.png",MY| TVB XING HE HD
-http://extraott.com:80/live/3586573392/7591141273/192007.ts
+http://extraott.com:80/live/7175313183/6473142259/192007.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrohhd.png",MY| ASTRO HUA HEE DAI FHD
-http://extraott.com:80/live/3586573392/7591141273/29655.ts
+http://extraott.com:80/live/7175313183/6473142259/29655.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrohhd.png",MY| ASTRO HUA HEE DAI HD
-http://extraott.com:80/live/3586573392/7591141273/191948.ts
+http://extraott.com:80/live/7175313183/6473142259/191948.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrohhd.png",MY| ASTRO HUA LEE HD
-http://extraott.com:80/live/3586573392/7591141273/5230.ts
+http://extraott.com:80/live/7175313183/6473142259/5230.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroohk.png",MY| ASTRO OHK HD
-http://extraott.com:80/live/3586573392/7591141273/5231.ts
+http://extraott.com:80/live/7175313183/6473142259/5231.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cc4.png",MY| CCTV4 HD
-http://extraott.com:80/live/3586573392/7591141273/191897.ts
+http://extraott.com:80/live/7175313183/6473142259/191897.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",MY| DREAMWORKS FHD
-http://extraott.com:80/live/3586573392/7591141273/13088.ts
+http://extraott.com:80/live/7175313183/6473142259/13088.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",MY| ASTRO VELLITHIRAI HD
-http://extraott.com:80/live/3586573392/7591141273/12305.ts
+http://extraott.com:80/live/7175313183/6473142259/12305.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",MY| ASTRO VELLITHIRAI FHD
-http://extraott.com:80/live/3586573392/7591141273/13083.ts
+http://extraott.com:80/live/7175313183/6473142259/13083.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/one.png",MY| ONE FHD
-http://extraott.com:80/live/3586573392/7591141273/29581.ts
+http://extraott.com:80/live/7175313183/6473142259/29581.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/one.png",MY| ONE HD
-http://extraott.com:80/live/3586573392/7591141273/191970.ts
+http://extraott.com:80/live/7175313183/6473142259/191970.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrovv.png",MY| ASTRO VAANAVIL FHD
-http://extraott.com:80/live/3586573392/7591141273/29660.ts
+http://extraott.com:80/live/7175313183/6473142259/29660.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrovv.png",MY| ASTRO VAANAVIL HD
-http://extraott.com:80/live/3586573392/7591141273/192011.ts
+http://extraott.com:80/live/7175313183/6473142259/192011.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cgtn.png",MY| CGTN FHD
-http://extraott.com:80/live/3586573392/7591141273/29622.ts
+http://extraott.com:80/live/7175313183/6473142259/29622.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cgtn.png",MY| CGTN HD
-http://extraott.com:80/live/3586573392/7591141273/33017.ts
+http://extraott.com:80/live/7175313183/6473142259/33017.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/kbswrld.png",MY| KBS WORLD HD
-http://extraott.com:80/live/3586573392/7591141273/191953.ts
+http://extraott.com:80/live/7175313183/6473142259/191953.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/kbswrld.png",MY| KBS WORLD FHD
-http://extraott.com:80/live/3586573392/7591141273/13097.ts
+http://extraott.com:80/live/7175313183/6473142259/13097.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/brnm.png",MY| BERNAMA TV
-http://extraott.com:80/live/3586573392/7591141273/400274059.ts
+http://extraott.com:80/live/7175313183/6473142259/400274059.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbcns.png",MY| BBC NEWS FHD
-http://extraott.com:80/live/3586573392/7591141273/29642.ts
+http://extraott.com:80/live/7175313183/6473142259/29642.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbcns.png",MY| BBC NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/191880.ts
+http://extraott.com:80/live/7175313183/6473142259/191880.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cnbc.png",MY| CNBC ASIA FHD
-http://extraott.com:80/live/3586573392/7591141273/29620.ts
+http://extraott.com:80/live/7175313183/6473142259/29620.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cnbc.png",MY| CNBC ASIA HD
-http://extraott.com:80/live/3586573392/7591141273/191904.ts
+http://extraott.com:80/live/7175313183/6473142259/191904.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/cna.png",MY| CNA HD
-http://extraott.com:80/live/3586573392/7591141273/13039.ts
+http://extraott.com:80/live/7175313183/6473142259/13039.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/ind/cnn.png",MY| CNN HD
-http://extraott.com:80/live/3586573392/7591141273/13041.ts
+http://extraott.com:80/live/7175313183/6473142259/13041.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/blmbrg.png",MY| BLOOMBERG TV FHD
-http://extraott.com:80/live/3586573392/7591141273/29628.ts
+http://extraott.com:80/live/7175313183/6473142259/29628.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/blmbrg.png",MY| BLOOMBERG TV HD
-http://extraott.com:80/live/3586573392/7591141273/191886.ts
+http://extraott.com:80/live/7175313183/6473142259/191886.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/fr24.png",MY| FRANCE 24 HD
-http://extraott.com:80/live/3586573392/7591141273/191936.ts
+http://extraott.com:80/live/7175313183/6473142259/191936.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/kpls.png",MY| KPLUS HD
-http://extraott.com:80/live/3586573392/7591141273/191955.ts
+http://extraott.com:80/live/7175313183/6473142259/191955.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tlc.png",MY| TLC HD
-http://extraott.com:80/live/3586573392/7591141273/191994.ts
+http://extraott.com:80/live/7175313183/6473142259/191994.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/jayamx.png",MY| JAYA MAX HD
-http://extraott.com:80/live/3586573392/7591141273/191951.ts
+http://extraott.com:80/live/7175313183/6473142259/191951.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bluaex.png",MY| BLUE ANT EXTREME
-http://extraott.com:80/live/3586573392/7591141273/191888.ts
+http://extraott.com:80/live/7175313183/6473142259/191888.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hrvstar.png",MY| HARVEST TV ARABIA
-http://extraott.com:80/live/3586573392/7591141273/380228.ts
+http://extraott.com:80/live/7175313183/6473142259/380228.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sny.png",MY| SONY TV HD
-http://extraott.com:80/live/3586573392/7591141273/191991.ts
+http://extraott.com:80/live/7175313183/6473142259/191991.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/snysetmx.png",MY| SONY MAX HD
-http://extraott.com:80/live/3586573392/7591141273/191990.ts
+http://extraott.com:80/live/7175313183/6473142259/191990.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/GSZ.png",MY| GLOBAL TREKKER HD
-http://extraott.com:80/live/3586573392/7591141273/54898.ts
+http://extraott.com:80/live/7175313183/6473142259/54898.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/GSZ.png",MY| GLOBAL TREKKER FHD
-http://extraott.com:80/live/3586573392/7591141273/54897.ts
+http://extraott.com:80/live/7175313183/6473142259/54897.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",✦●✦| SPORTS |✦●✦
-http://extraott.com:80/live/3586573392/7591141273/212421.ts
+http://extraott.com:80/live/7175313183/6473142259/212421.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroar.png",MY| ASTRO ARENA HD
-http://extraott.com:80/live/3586573392/7591141273/191853.ts
+http://extraott.com:80/live/7175313183/6473142259/191853.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroar.png",MY| ASTRO ARENA FHD
-http://extraott.com:80/live/3586573392/7591141273/29658.ts
+http://extraott.com:80/live/7175313183/6473142259/29658.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroarn2.png",MY| ASTRO ARENA 2 HD
-http://extraott.com:80/live/3586573392/7591141273/185822.ts
+http://extraott.com:80/live/7175313183/6473142259/185822.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroar.png",MY| ASTRO ARENA BOLA HD
-http://extraott.com:80/live/3586573392/7591141273/23931.ts
+http://extraott.com:80/live/7175313183/6473142259/23931.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroar.png",MY| ASTRO ARENA BOLA 2 HD
-http://extraott.com:80/live/3586573392/7591141273/23930.ts
+http://extraott.com:80/live/7175313183/6473142259/23930.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrossp.png",MY| ASTRO SUPERSPORT UHD
-http://extraott.com:80/live/3586573392/7591141273/7841.ts
+http://extraott.com:80/live/7175313183/6473142259/7841.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrossp.png",MY| ASTRO SUPERSPORT 1 FHD
-http://extraott.com:80/live/3586573392/7591141273/191869.ts
+http://extraott.com:80/live/7175313183/6473142259/191869.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrossp.png",MY| ASTRO SUPERSPORT 1 HD
-http://extraott.com:80/live/3586573392/7591141273/6590.ts
+http://extraott.com:80/live/7175313183/6473142259/6590.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrossp.png",MY| ASTRO SUPERSPORT 1 HEVC
-http://extraott.com:80/live/3586573392/7591141273/6591.ts
+http://extraott.com:80/live/7175313183/6473142259/6591.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrossp.png",MY| ASTRO SUPERSPORT 2 HEVC
-http://extraott.com:80/live/3586573392/7591141273/7840.ts
+http://extraott.com:80/live/7175313183/6473142259/7840.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp2.png",MY| ASTRO SUPERSPORT 2 FHD
-http://extraott.com:80/live/3586573392/7591141273/191870.ts
+http://extraott.com:80/live/7175313183/6473142259/191870.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp2.png",MY| ASTRO SUPERSPORT 2 HD
-http://extraott.com:80/live/3586573392/7591141273/6589.ts
+http://extraott.com:80/live/7175313183/6473142259/6589.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp3.png",MY| ASTRO SUPERSPORT 3 FHD
-http://extraott.com:80/live/3586573392/7591141273/191871.ts
+http://extraott.com:80/live/7175313183/6473142259/191871.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp3.png",MY| ASTRO SUPERSPORT 3 HD
-http://extraott.com:80/live/3586573392/7591141273/6588.ts
+http://extraott.com:80/live/7175313183/6473142259/6588.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp4.png",MY| ASTRO SUPERSPORT 4 FHD
-http://extraott.com:80/live/3586573392/7591141273/191872.ts
+http://extraott.com:80/live/7175313183/6473142259/191872.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroassp4.png",MY| ASTRO SUPERSPORT 4 HD
-http://extraott.com:80/live/3586573392/7591141273/6592.ts
+http://extraott.com:80/live/7175313183/6473142259/6592.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrocri.png",MY| ASTRO CRICKET FHD
-http://extraott.com:80/live/3586573392/7591141273/191861.ts
+http://extraott.com:80/live/7175313183/6473142259/191861.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrocri.png",MY| ASTRO CRICKET HD
-http://extraott.com:80/live/3586573392/7591141273/6587.ts
+http://extraott.com:80/live/7175313183/6473142259/6587.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/rgbypass.png",MY| RUGBY PASS TV HD
-http://extraott.com:80/live/3586573392/7591141273/191868.ts
+http://extraott.com:80/live/7175313183/6473142259/191868.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/spot.png",MY| SPORTS SPO TV HD
-http://extraott.com:80/live/3586573392/7591141273/400251883.ts
+http://extraott.com:80/live/7175313183/6473142259/400251883.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/spot.png",MY| SPORTS SPO TV FHD
-http://extraott.com:80/live/3586573392/7591141273/13132.ts
+http://extraott.com:80/live/7175313183/6473142259/13132.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/spot.png",MY| SPORTS SPO TV 2 HD
-http://extraott.com:80/live/3586573392/7591141273/400459082.ts
+http://extraott.com:80/live/7175313183/6473142259/400459082.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/spot.png",MY| SPORTS SPO TV 2 FHD
-http://extraott.com:80/live/3586573392/7591141273/13131.ts
+http://extraott.com:80/live/7175313183/6473142259/13131.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/prtm.png",MY| RTM SPORTS HD
-http://extraott.com:80/live/3586573392/7591141273/5233.ts
+http://extraott.com:80/live/7175313183/6473142259/5233.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bs.png",MY| BEIN SPORTS HD
-http://extraott.com:80/live/3586573392/7591141273/191881.ts
+http://extraott.com:80/live/7175313183/6473142259/191881.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bs.png",MY| BEIN SPORTS 2 HD
-http://extraott.com:80/live/3586573392/7591141273/29639.ts
+http://extraott.com:80/live/7175313183/6473142259/29639.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bs.png",MY| BEIN SPORTS 2 FHD
-http://extraott.com:80/live/3586573392/7591141273/13119.ts
+http://extraott.com:80/live/7175313183/6473142259/13119.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bs.png",MY| BEIN SPORTS 3 HD
-http://extraott.com:80/live/3586573392/7591141273/29637.ts
+http://extraott.com:80/live/7175313183/6473142259/29637.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/eursp.png",MY| EUROSPORT FHD
-http://extraott.com:80/live/3586573392/7591141273/29610.ts
+http://extraott.com:80/live/7175313183/6473142259/29610.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/eursp.png",MY| EUROSPORT HD
-http://extraott.com:80/live/3586573392/7591141273/191924.ts
+http://extraott.com:80/live/7175313183/6473142259/191924.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/glfch.png",MY| GOLF CHANNEL HD
-http://extraott.com:80/live/3586573392/7591141273/191942.ts
+http://extraott.com:80/live/7175313183/6473142259/191942.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/prsp.png",MY| PREMIER SPORTS HD
-http://extraott.com:80/live/3586573392/7591141273/33005.ts
+http://extraott.com:80/live/7175313183/6473142259/33005.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/wwenw.png",MY| WWE NETWORK HD
-http://extraott.com:80/live/3586573392/7591141273/192015.ts
+http://extraott.com:80/live/7175313183/6473142259/192015.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sny.png",MY| SONY TEN 1
-http://extraott.com:80/live/3586573392/7591141273/29566.ts
+http://extraott.com:80/live/7175313183/6473142259/29566.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sny.png",MY| SONY TEN 2
-http://extraott.com:80/live/3586573392/7591141273/29565.ts
+http://extraott.com:80/live/7175313183/6473142259/29565.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sny.png",MY| SONY TEN 3
-http://extraott.com:80/live/3586573392/7591141273/29564.ts
+http://extraott.com:80/live/7175313183/6473142259/29564.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",✦●✦| MOVIES |✦●✦
-http://extraott.com:80/live/3586573392/7591141273/212422.ts
+http://extraott.com:80/live/7175313183/6473142259/212422.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/clmov.png",MY| CELESTIAL MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/191899.ts
+http://extraott.com:80/live/7175313183/6473142259/191899.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/clmov.png",MY| CELESTIAL MOVIES FHD
-http://extraott.com:80/live/3586573392/7591141273/13087.ts
+http://extraott.com:80/live/7175313183/6473142259/13087.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/ccm.png",MY| CELESTIAL CLASSIC MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/191896.ts
+http://extraott.com:80/live/7175313183/6473142259/191896.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hits.png",MY| HITS HD
-http://extraott.com:80/live/3586573392/7591141273/191946.ts
+http://extraott.com:80/live/7175313183/6473142259/191946.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hits.png",MY| HITS FHD
-http://extraott.com:80/live/3586573392/7591141273/13095.ts
+http://extraott.com:80/live/7175313183/6473142259/13095.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hmov.png",MY| HITS MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/191947.ts
+http://extraott.com:80/live/7175313183/6473142259/191947.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hmov.png",MY| HITS MOVIES FHD
-http://extraott.com:80/live/3586573392/7591141273/13094.ts
+http://extraott.com:80/live/7175313183/6473142259/13094.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrostrv.png",MY| STAR VIJAY HD
-http://extraott.com:80/live/3586573392/7591141273/191992.ts
+http://extraott.com:80/live/7175313183/6473142259/191992.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/nhd.png",MY| TVN FHD
-http://extraott.com:80/live/3586573392/7591141273/29547.ts
+http://extraott.com:80/live/7175313183/6473142259/29547.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/nhd.png",MY| TVN HD
-http://extraott.com:80/live/3586573392/7591141273/192009.ts
+http://extraott.com:80/live/7175313183/6473142259/192009.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/nmov.png",MY| TVN MOVIES FHD
-http://extraott.com:80/live/3586573392/7591141273/29546.ts
+http://extraott.com:80/live/7175313183/6473142259/29546.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tvnmovies.png",MY| TVN MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/192010.ts
+http://extraott.com:80/live/7175313183/6473142259/192010.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/boo.png",MY| ASTRO BOO FHD
-http://extraott.com:80/live/3586573392/7591141273/29626.ts
+http://extraott.com:80/live/7175313183/6473142259/29626.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",MY| ASTRO PREMIER HD
-http://extraott.com:80/live/3586573392/7591141273/38023.ts
+http://extraott.com:80/live/7175313183/6473142259/38023.ts
 #EXTINF:-1 group-title="AS | MALAYSIA",MY| COMEDY CENTRAL
-http://extraott.com:80/live/3586573392/7591141273/157038.ts
+http://extraott.com:80/live/7175313183/6473142259/157038.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrozt.png",MY| ZEE TAMIL HD
-http://extraott.com:80/live/3586573392/7591141273/192017.ts
+http://extraott.com:80/live/7175313183/6473142259/192017.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/clrs.png",MY| COLORS HD
-http://extraott.com:80/live/3586573392/7591141273/400205157.ts
+http://extraott.com:80/live/7175313183/6473142259/400205157.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astroclrta.png",MY| COLORS TAMIL HD
-http://extraott.com:80/live/3586573392/7591141273/400205156.ts
+http://extraott.com:80/live/7175313183/6473142259/400205156.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN TV HD
-http://extraott.com:80/live/3586573392/7591141273/400205155.ts
+http://extraott.com:80/live/7175313183/6473142259/400205155.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sunmus.png",MY| SUN MUSIC HD
-http://extraott.com:80/live/3586573392/7591141273/191993.ts
+http://extraott.com:80/live/7175313183/6473142259/191993.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN TV FHD
-http://extraott.com:80/live/3586573392/7591141273/13015.ts
+http://extraott.com:80/live/7175313183/6473142259/13015.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN NEWS FHD
-http://extraott.com:80/live/3586573392/7591141273/13016.ts
+http://extraott.com:80/live/7175313183/6473142259/13016.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sunmus.png",MY| SUN MUSIC FHD
-http://extraott.com:80/live/3586573392/7591141273/13017.ts
+http://extraott.com:80/live/7175313183/6473142259/13017.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN LIFE FHD
-http://extraott.com:80/live/3586573392/7591141273/13018.ts
+http://extraott.com:80/live/7175313183/6473142259/13018.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/13019.ts
+http://extraott.com:80/live/7175313183/6473142259/13019.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/sun.png",MY| SUN LIFE HD
-http://extraott.com:80/live/3586573392/7591141273/13020.ts
+http://extraott.com:80/live/7175313183/6473142259/13020.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/lftm.png",MY| LIFETIME HD
-http://extraott.com:80/live/3586573392/7591141273/400251890.ts
+http://extraott.com:80/live/7175313183/6473142259/400251890.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bl1.png",MY| ASTRO BOX OFFICE BOLLYONE HD
-http://extraott.com:80/live/3586573392/7591141273/191890.ts
+http://extraott.com:80/live/7175313183/6473142259/191890.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/okey.png",MY| TV OKEY HD
-http://extraott.com:80/live/3586573392/7591141273/400205152.ts
+http://extraott.com:80/live/7175313183/6473142259/400205152.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/okey.png",MY| TV OKEY FHD
-http://extraott.com:80/live/3586573392/7591141273/13022.ts
+http://extraott.com:80/live/7175313183/6473142259/13022.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/por/axnhd.png",MY| AXN FHD
-http://extraott.com:80/live/3586573392/7591141273/29645.ts
+http://extraott.com:80/live/7175313183/6473142259/29645.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/por/axnhd.png",MY| AXN HD
-http://extraott.com:80/live/3586573392/7591141273/191876.ts
+http://extraott.com:80/live/7175313183/6473142259/191876.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/tvbssia.png",MY| TVBS ASIA HD
-http://extraott.com:80/live/3586573392/7591141273/33015.ts
+http://extraott.com:80/live/7175313183/6473142259/33015.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrotpt3.png",MY| ASTRO TUTOR TV PT3 HD
-http://extraott.com:80/live/3586573392/7591141273/191996.ts
+http://extraott.com:80/live/7175313183/6473142259/191996.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrotspm.png",MY| ASTRO TUTOR TV SPM HD
-http://extraott.com:80/live/3586573392/7591141273/191997.ts
+http://extraott.com:80/live/7175313183/6473142259/191997.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrotup.png",MY| ASTRO TUTOR TV UPSR HD
-http://extraott.com:80/live/3586573392/7591141273/191998.ts
+http://extraott.com:80/live/7175313183/6473142259/191998.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",✦●✦| DOCUMANTARY |✦●✦
-http://extraott.com:80/live/3586573392/7591141273/212424.ts
+http://extraott.com:80/live/7175313183/6473142259/212424.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/trvlchn.png",MY| TRAVEL CHANNEL HD
-http://extraott.com:80/live/3586573392/7591141273/191995.ts
+http://extraott.com:80/live/7175313183/6473142259/191995.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/anplnt.png",MY| ANIMAL PLANET FHD
-http://extraott.com:80/live/3586573392/7591141273/29647.ts
+http://extraott.com:80/live/7175313183/6473142259/29647.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/anplnt.png",MY| ANIMAL PLANET HD
-http://extraott.com:80/live/3586573392/7591141273/191844.ts
+http://extraott.com:80/live/7175313183/6473142259/191844.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/crmin.png",MY| CRIME INVESTIGATION HD
-http://extraott.com:80/live/3586573392/7591141273/191910.ts
+http://extraott.com:80/live/7175313183/6473142259/191910.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/dmx.png",MY| DMAX FHD
-http://extraott.com:80/live/3586573392/7591141273/29612.ts
+http://extraott.com:80/live/7175313183/6473142259/29612.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/dmx.png",MY| DMAX HD
-http://extraott.com:80/live/3586573392/7591141273/191918.ts
+http://extraott.com:80/live/7175313183/6473142259/191918.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/his.png",MY| HISTORY HD
-http://extraott.com:80/live/3586573392/7591141273/191945.ts
+http://extraott.com:80/live/7175313183/6473142259/191945.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/fdnw.png",MY| FOOD NETWORK HD
-http://extraott.com:80/live/3586573392/7591141273/191925.ts
-#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbclfst.png",MY| BBC LIFE STYLE HD
-http://extraott.com:80/live/3586573392/7591141273/400200779.ts
-#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbclfst.png",MY| BBC LIFE STYLE FHD
-http://extraott.com:80/live/3586573392/7591141273/29643.ts
+http://extraott.com:80/live/7175313183/6473142259/191925.ts
+#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbclfst.png",MY| BBC LIFE STYLE HD
+http://extraott.com:80/live/7175313183/6473142259/400200779.ts
+#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/bbclfst.png",MY| BBC LIFE STYLE FHD
+http://extraott.com:80/live/7175313183/6473142259/29643.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/hgtv.png",MY| HGTV HD
-http://extraott.com:80/live/3586573392/7591141273/191944.ts
+http://extraott.com:80/live/7175313183/6473142259/191944.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/flag.png",✦●✦| KIDS |✦●✦
-http://extraott.com:80/live/3586573392/7591141273/212423.ts
+http://extraott.com:80/live/7175313183/6473142259/212423.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrocer.png",MY| ASTRO CERIA FHD
-http://extraott.com:80/live/3586573392/7591141273/29656.ts
+http://extraott.com:80/live/7175313183/6473142259/29656.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/astrocer.png",MY| ASTRO CERIA HD
-http://extraott.com:80/live/3586573392/7591141273/191860.ts
+http://extraott.com:80/live/7175313183/6473142259/191860.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/nickjr.png",MY| NICK JUNIOR HD
-http://extraott.com:80/live/3586573392/7591141273/191964.ts
+http://extraott.com:80/live/7175313183/6473142259/191964.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/nickjr.png",MY| NICK JUNIOR FHD
-http://extraott.com:80/live/3586573392/7591141273/13123.ts
+http://extraott.com:80/live/7175313183/6473142259/13123.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/dstv/moonbug.png",MY| MOONBUG KIDS FHD
-http://extraott.com:80/live/3586573392/7591141273/13099.ts
+http://extraott.com:80/live/7175313183/6473142259/13099.ts
 #EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/MALAY/anipls.png",MY| ANIPLUS HD
-http://extraott.com:80/live/3586573392/7591141273/191846.ts
-#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/uk/cbeb.png",MY| BBC CBEEBIES HD
-http://extraott.com:80/live/3586573392/7591141273/400200778.ts
-#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/uk/cbeb.png",MY| BBC CBEEBIES FHD
-http://extraott.com:80/live/3586573392/7591141273/13085.ts
+http://extraott.com:80/live/7175313183/6473142259/191846.ts
+#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/uk/cbeb.png",MY| BBC CBEEBIES HD
+http://extraott.com:80/live/7175313183/6473142259/400200778.ts
+#EXTINF:-1 group-title="AS | MALAYSIA" tvg-logo="https://lo1.in/uk/cbeb.png",MY| BBC CBEEBIES FHD
+http://extraott.com:80/live/7175313183/6473142259/13085.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/sg.png",✦●✦ SINGAPORE ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/153857.ts
+http://extraott.com:80/live/7175313183/6473142259/153857.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/cna.png",SG| CNA HD
-http://extraott.com:80/live/3586573392/7591141273/191903.ts
+http://extraott.com:80/live/7175313183/6473142259/191903.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/cna.png",SG| CNA FHD
-http://extraott.com:80/live/3586573392/7591141273/6671.ts
+http://extraott.com:80/live/7175313183/6473142259/6671.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/cna.png",SG| CNA SD
-http://extraott.com:80/live/3586573392/7591141273/6670.ts
+http://extraott.com:80/live/7175313183/6473142259/6670.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/cna.png",SG| CHANNEL NEWS ASIA
-http://extraott.com:80/live/3586573392/7591141273/13054.ts
+http://extraott.com:80/live/7175313183/6473142259/13054.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/sur.png",SG| SURIA HD
-http://extraott.com:80/live/3586573392/7591141273/33004.ts
+http://extraott.com:80/live/7175313183/6473142259/33004.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/sur.png",SG| SURIA FHD
-http://extraott.com:80/live/3586573392/7591141273/6675.ts
+http://extraott.com:80/live/7175313183/6473142259/6675.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/sur.png",SG| SURIA SD
-http://extraott.com:80/live/3586573392/7591141273/6674.ts
+http://extraott.com:80/live/7175313183/6473142259/6674.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/chu.png",SG| CH U HD
-http://extraott.com:80/live/3586573392/7591141273/33002.ts
+http://extraott.com:80/live/7175313183/6473142259/33002.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/chu.png",SG| CH U FHD
-http://extraott.com:80/live/3586573392/7591141273/6677.ts
+http://extraott.com:80/live/7175313183/6473142259/6677.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/chu.png",SG| CH U SD
-http://extraott.com:80/live/3586573392/7591141273/6676.ts
+http://extraott.com:80/live/7175313183/6473142259/6676.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch8.png",SG| CH 8 HD
-http://extraott.com:80/live/3586573392/7591141273/33000.ts
+http://extraott.com:80/live/7175313183/6473142259/33000.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch8.png",SG| CH 8 FHD
-http://extraott.com:80/live/3586573392/7591141273/6679.ts
+http://extraott.com:80/live/7175313183/6473142259/6679.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch8.png",SG| CH 8 SD
-http://extraott.com:80/live/3586573392/7591141273/6678.ts
+http://extraott.com:80/live/7175313183/6473142259/6678.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch5.png",SG| CH 5 FHD
-http://extraott.com:80/live/3586573392/7591141273/6681.ts
+http://extraott.com:80/live/7175313183/6473142259/6681.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch5.png",SG| CH 5 HD
-http://extraott.com:80/live/3586573392/7591141273/33003.ts
+http://extraott.com:80/live/7175313183/6473142259/33003.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/ch5.png",SG| CH 5 SD
-http://extraott.com:80/live/3586573392/7591141273/6680.ts
+http://extraott.com:80/live/7175313183/6473142259/6680.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/anmx.png",SG| ANIMAX HD
-http://extraott.com:80/live/3586573392/7591141273/191845.ts
+http://extraott.com:80/live/7175313183/6473142259/191845.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/vasnth.png",SG| VASANTHAM HD
-http://extraott.com:80/live/3586573392/7591141273/33001.ts
+http://extraott.com:80/live/7175313183/6473142259/33001.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/vasnth.png",SG| VASANTHAM FHD
-http://extraott.com:80/live/3586573392/7591141273/6673.ts
+http://extraott.com:80/live/7175313183/6473142259/6673.ts
 #EXTINF:-1 group-title="AS | SINGAPORE" tvg-logo="https://lo1.in/MALAY/vasnth.png",SG| VASANTHAM SD
-http://extraott.com:80/live/3586573392/7591141273/6672.ts
+http://extraott.com:80/live/7175313183/6473142259/6672.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/jazera.png",AU| AL JAZEERA HD
-http://extraott.com:80/live/3586573392/7591141273/400254537.ts
+http://extraott.com:80/live/7175313183/6473142259/400254537.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/espn1.png",AU| ESPN 1 HD
-http://extraott.com:80/live/3586573392/7591141273/400254620.ts
+http://extraott.com:80/live/7175313183/6473142259/400254620.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/bs1.png",AU| BEIN SPORTS 1 HD
-http://extraott.com:80/live/3586573392/7591141273/355734.ts
+http://extraott.com:80/live/7175313183/6473142259/355734.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/bs2.png",AU| BEIN SPORTS 2 HD
-http://extraott.com:80/live/3586573392/7591141273/400200340.ts
+http://extraott.com:80/live/7175313183/6473142259/400200340.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/bs3.png",AU| BEIN SPORTS 3 HD
-http://extraott.com:80/live/3586573392/7591141273/355737.ts
+http://extraott.com:80/live/7175313183/6473142259/355737.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/blmbrg.png",AU| BLOOMBERG TV
-http://extraott.com:80/live/3586573392/7591141273/355738.ts
+http://extraott.com:80/live/7175313183/6473142259/355738.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxspnssyd.png",AU| FOX SPORTS NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/400254525.ts
+http://extraott.com:80/live/7175313183/6473142259/400254525.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp501.png",AU| FOX SPORTS 501 HD
-http://extraott.com:80/live/3586573392/7591141273/355747.ts
+http://extraott.com:80/live/7175313183/6473142259/355747.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp502.png",AU| FOX SPORTS 502 HD
-http://extraott.com:80/live/3586573392/7591141273/355748.ts
+http://extraott.com:80/live/7175313183/6473142259/355748.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp503.png",AU| FOX SPORTS 503 HD
-http://extraott.com:80/live/3586573392/7591141273/355749.ts
+http://extraott.com:80/live/7175313183/6473142259/355749.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp504.png",AU| FOX SPORTS 504 HD
-http://extraott.com:80/live/3586573392/7591141273/355750.ts
+http://extraott.com:80/live/7175313183/6473142259/355750.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp505.png",AU| FOX SPORTS 505 HD
-http://extraott.com:80/live/3586573392/7591141273/400365590.ts
+http://extraott.com:80/live/7175313183/6473142259/400365590.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp506.png",AU| FOX SPORTS 506 HD
-http://extraott.com:80/live/3586573392/7591141273/355751.ts
+http://extraott.com:80/live/7175313183/6473142259/355751.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fxsp507.png",AU| FOX SPORTS 507 HD
-http://extraott.com:80/live/3586573392/7591141273/400365591.ts
+http://extraott.com:80/live/7175313183/6473142259/400365591.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/otdrch.png",AU| OUTDOOR CHANNEL HD
-http://extraott.com:80/live/3586573392/7591141273/355761.ts
+http://extraott.com:80/live/7175313183/6473142259/355761.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/redbul.png",AU| REDBULL TV
-http://extraott.com:80/live/3586573392/7591141273/355770.ts
+http://extraott.com:80/live/7175313183/6473142259/355770.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/skyrcg1.png",AU| SKY RACING 1 HD
-http://extraott.com:80/live/3586573392/7591141273/355775.ts
+http://extraott.com:80/live/7175313183/6473142259/355775.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/skyrcg2.png",AU| SKY RACING 2 HD
-http://extraott.com:80/live/3586573392/7591141273/355776.ts
+http://extraott.com:80/live/7175313183/6473142259/355776.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsbrs.png",AU| SBS CANBERRA
-http://extraott.com:80/live/3586573392/7591141273/355778.ts
+http://extraott.com:80/live/7175313183/6473142259/355778.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsfdmel.png",AU| SBS FOOD MELBOURNE HD
-http://extraott.com:80/live/3586573392/7591141273/355781.ts
+http://extraott.com:80/live/7175313183/6473142259/355781.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsfddar.png",AU| SBS FOOD PERTH HD
-http://extraott.com:80/live/3586573392/7591141273/355783.ts
+http://extraott.com:80/live/7175313183/6473142259/355783.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsper.png",AU| SBS SYDNEY
-http://extraott.com:80/live/3586573392/7591141273/355786.ts
+http://extraott.com:80/live/7175313183/6473142259/355786.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbssyd.png",AU| SBS HD
-http://extraott.com:80/live/3586573392/7591141273/355787.ts
+http://extraott.com:80/live/7175313183/6473142259/355787.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsvlndmel.png",AU| SBS VICELAND MELBOURNE
-http://extraott.com:80/live/3586573392/7591141273/355789.ts
+http://extraott.com:80/live/7175313183/6473142259/355789.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsfdnat.png",AU| SBS VICELAND NATIONAL HD
-http://extraott.com:80/live/3586573392/7591141273/400254522.ts
+http://extraott.com:80/live/7175313183/6473142259/400254522.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsvlndper.png",AU| SBS VICELAND PERTH
-http://extraott.com:80/live/3586573392/7591141273/355790.ts
+http://extraott.com:80/live/7175313183/6473142259/355790.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbsvlndnat.png",AU| SBS WORLD MOVIES NATIONAL
-http://extraott.com:80/live/3586573392/7591141273/355793.ts
+http://extraott.com:80/live/7175313183/6473142259/355793.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/sbswrldmovper.png",AU| SBS WORLD MOVIES PERTH
-http://extraott.com:80/live/3586573392/7591141273/355794.ts
+http://extraott.com:80/live/7175313183/6473142259/355794.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/skynsaus.png",AU| SKY NEWS AUSTRALIA HD
-http://extraott.com:80/live/3586573392/7591141273/355801.ts
+http://extraott.com:80/live/7175313183/6473142259/355801.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA",AU| NITV
-http://extraott.com:80/live/3586573392/7591141273/157059.ts
+http://extraott.com:80/live/7175313183/6473142259/157059.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcme.png",AU| ABC ME HD
-http://extraott.com:80/live/3586573392/7591141273/355721.ts
+http://extraott.com:80/live/7175313183/6473142259/355721.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcme.png",AU| ABC ME NATIONAL
-http://extraott.com:80/live/3586573392/7591141273/355722.ts
+http://extraott.com:80/live/7175313183/6473142259/355722.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcns.png",AU| ABC NEWS Melbourne
-http://extraott.com:80/live/3586573392/7591141273/355725.ts
+http://extraott.com:80/live/7175313183/6473142259/355725.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcmesyd.png",AU| ABC ME SYDNEY HD
-http://extraott.com:80/live/3586573392/7591141273/400254538.ts
+http://extraott.com:80/live/7175313183/6473142259/400254538.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abckdscbr.png",AU| ABC KIDS CANBERRA HD
-http://extraott.com:80/live/3586573392/7591141273/400254549.ts
+http://extraott.com:80/live/7175313183/6473142259/400254549.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abckdsade.png",AU| ABC KIDS ADELAIDE HD
-http://extraott.com:80/live/3586573392/7591141273/400254551.ts
+http://extraott.com:80/live/7175313183/6473142259/400254551.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abchob.png",AU| ABC HOBART HD
-http://extraott.com:80/live/3586573392/7591141273/400254552.ts
+http://extraott.com:80/live/7175313183/6473142259/400254552.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcdar.png",AU| ABC DARWIN HD
-http://extraott.com:80/live/3586573392/7591141273/400254553.ts
+http://extraott.com:80/live/7175313183/6473142259/400254553.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abccbr.png",AU| ABC Perth HD
-http://extraott.com:80/live/3586573392/7591141273/400254556.ts
+http://extraott.com:80/live/7175313183/6473142259/400254556.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abccdl.png",AU| ABC ADELAIDE HD
-http://extraott.com:80/live/3586573392/7591141273/400254557.ts
+http://extraott.com:80/live/7175313183/6473142259/400254557.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/fuel.png",AU| FUEL TV HD
-http://extraott.com:80/live/3586573392/7591141273/355752.ts
+http://extraott.com:80/live/7175313183/6473142259/355752.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/rcgcomnat.png",AU| RACING.COM HD
-http://extraott.com:80/live/3586573392/7591141273/355767.ts
+http://extraott.com:80/live/7175313183/6473142259/355767.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/rcgcomper.png",AU| RACING.COM PERTH
-http://extraott.com:80/live/3586573392/7591141273/355768.ts
+http://extraott.com:80/live/7175313183/6473142259/355768.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/abcns.png",AU| ABC NEWS CANBERRA
-http://extraott.com:80/live/3586573392/7591141273/400254617.ts
+http://extraott.com:80/live/7175313183/6473142259/400254617.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/chan7.png",AU| SEVEN Brisbane
-http://extraott.com:80/live/3586573392/7591141273/176934.ts
+http://extraott.com:80/live/7175313183/6473142259/176934.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/chan7.png",AU| SEVEN Melbourne
-http://extraott.com:80/live/3586573392/7591141273/355740.ts
+http://extraott.com:80/live/7175313183/6473142259/355740.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO HOBART HD
-http://extraott.com:80/live/3586573392/7591141273/400254583.ts
+http://extraott.com:80/live/7175313183/6473142259/400254583.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO MELBOURNE HD
-http://extraott.com:80/live/3586573392/7591141273/400254582.ts
+http://extraott.com:80/live/7175313183/6473142259/400254582.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO SYDNEY HD
-http://extraott.com:80/live/3586573392/7591141273/400254580.ts
+http://extraott.com:80/live/7175313183/6473142259/400254580.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxadl.png",AU| 7FLIX
-http://extraott.com:80/live/3586573392/7591141273/355669.ts
+http://extraott.com:80/live/7175313183/6473142259/355669.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flxbrs7.png",AU| 7FLIX BRISBANE HD
-http://extraott.com:80/live/3586573392/7591141273/355670.ts
+http://extraott.com:80/live/7175313183/6473142259/355670.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/matepe7.png",AU| 7MATE PERTH
-http://extraott.com:80/live/3586573392/7591141273/355676.ts
+http://extraott.com:80/live/7175313183/6473142259/355676.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO PERTH HD
-http://extraott.com:80/live/3586573392/7591141273/400254581.ts
+http://extraott.com:80/live/7175313183/6473142259/400254581.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO DARWIN HD
-http://extraott.com:80/live/3586573392/7591141273/400254584.ts
+http://extraott.com:80/live/7175313183/6473142259/400254584.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO CANBERRA HD
-http://extraott.com:80/live/3586573392/7591141273/400254585.ts
+http://extraott.com:80/live/7175313183/6473142259/400254585.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO BRISBANE HD
-http://extraott.com:80/live/3586573392/7591141273/400254586.ts
+http://extraott.com:80/live/7175313183/6473142259/400254586.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/two7.png",AU| 7TWO ADELAIDE HD
-http://extraott.com:80/live/3586573392/7591141273/400254587.ts
+http://extraott.com:80/live/7175313183/6473142259/400254587.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7matesyd.png",AU| 7MATE SYDNEY HD
-http://extraott.com:80/live/3586573392/7591141273/400254588.ts
+http://extraott.com:80/live/7175313183/6473142259/400254588.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7matesyd.png",AU| 7MATE MELBOURNE HD
-http://extraott.com:80/live/3586573392/7591141273/400254589.ts
+http://extraott.com:80/live/7175313183/6473142259/400254589.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7matesyd.png",AU| 7MATE HOBART HD
-http://extraott.com:80/live/3586573392/7591141273/400254590.ts
+http://extraott.com:80/live/7175313183/6473142259/400254590.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7matesyd.png",AU| 7MATE DARWIN HD
-http://extraott.com:80/live/3586573392/7591141273/400254591.ts
+http://extraott.com:80/live/7175313183/6473142259/400254591.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7matesyd.png",AU| 7MATE BRISBANE HD
-http://extraott.com:80/live/3586573392/7591141273/400254592.ts
+http://extraott.com:80/live/7175313183/6473142259/400254592.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxper.png",AU| 7FLIX CANBERRA HD
-http://extraott.com:80/live/3586573392/7591141273/400254593.ts
+http://extraott.com:80/live/7175313183/6473142259/400254593.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxper.png",AU| 7FLIX PERTH HD
-http://extraott.com:80/live/3586573392/7591141273/400254594.ts
+http://extraott.com:80/live/7175313183/6473142259/400254594.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxhob.png",AU| 7FLIX HOBART HD
-http://extraott.com:80/live/3586573392/7591141273/400254595.ts
+http://extraott.com:80/live/7175313183/6473142259/400254595.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxdar.png",AU| 7FLIX DARWIN HD
-http://extraott.com:80/live/3586573392/7591141273/400254596.ts
+http://extraott.com:80/live/7175313183/6473142259/400254596.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/7flxadl.png",AU| 7FLIX ADELAIDE HD
-http://extraott.com:80/live/3586573392/7591141273/400254597.ts
+http://extraott.com:80/live/7175313183/6473142259/400254597.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/9.png",AU| CHANNEL 9 HD
-http://extraott.com:80/live/3586573392/7591141273/355699.ts
+http://extraott.com:80/live/7175313183/6473142259/355699.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/9lf.png",AU| 9LIFE HD
-http://extraott.com:80/live/3586573392/7591141273/355704.ts
+http://extraott.com:80/live/7175313183/6473142259/355704.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/9rushmel.png",AU| 9RUSH MELBOURNE HD
-http://extraott.com:80/live/3586573392/7591141273/400254559.ts
+http://extraott.com:80/live/7175313183/6473142259/400254559.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/10shkcbr.png",AU| 10 SHAKE CANBERRA HD
-http://extraott.com:80/live/3586573392/7591141273/400254602.ts
+http://extraott.com:80/live/7175313183/6473142259/400254602.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",✦●✦ STAN SPORTS EVENT ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/34580.ts
+http://extraott.com:80/live/7175313183/6473142259/34580.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 02 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34561.ts
+http://extraott.com:80/live/7175313183/6473142259/34561.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 03 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34562.ts
+http://extraott.com:80/live/7175313183/6473142259/34562.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 04 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34563.ts
+http://extraott.com:80/live/7175313183/6473142259/34563.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 05 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34564.ts
+http://extraott.com:80/live/7175313183/6473142259/34564.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 06 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34565.ts
+http://extraott.com:80/live/7175313183/6473142259/34565.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 07 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34566.ts
+http://extraott.com:80/live/7175313183/6473142259/34566.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 09 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34568.ts
+http://extraott.com:80/live/7175313183/6473142259/34568.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 10 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34569.ts
+http://extraott.com:80/live/7175313183/6473142259/34569.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 11 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34570.ts
+http://extraott.com:80/live/7175313183/6473142259/34570.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 13 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34572.ts
+http://extraott.com:80/live/7175313183/6473142259/34572.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 14 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34573.ts
+http://extraott.com:80/live/7175313183/6473142259/34573.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 15 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34574.ts
+http://extraott.com:80/live/7175313183/6473142259/34574.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 16 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34575.ts
+http://extraott.com:80/live/7175313183/6473142259/34575.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 17 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34576.ts
+http://extraott.com:80/live/7175313183/6473142259/34576.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 18 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34577.ts
+http://extraott.com:80/live/7175313183/6473142259/34577.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 19 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34578.ts
+http://extraott.com:80/live/7175313183/6473142259/34578.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 20 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/34579.ts
+http://extraott.com:80/live/7175313183/6473142259/34579.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",AU| STAN SPORT AU EVENT 21 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/30396.ts
+http://extraott.com:80/live/7175313183/6473142259/30396.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/flg.png",✦●✦ AU OPTUS EVENT ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/37402.ts
+http://extraott.com:80/live/7175313183/6473142259/37402.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 01 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37401.ts
+http://extraott.com:80/live/7175313183/6473142259/37401.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 02 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37400.ts
+http://extraott.com:80/live/7175313183/6473142259/37400.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 03 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37399.ts
+http://extraott.com:80/live/7175313183/6473142259/37399.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 05 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37397.ts
+http://extraott.com:80/live/7175313183/6473142259/37397.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 06 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37396.ts
+http://extraott.com:80/live/7175313183/6473142259/37396.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 07 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37395.ts
+http://extraott.com:80/live/7175313183/6473142259/37395.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 08 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37394.ts
+http://extraott.com:80/live/7175313183/6473142259/37394.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 09 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37393.ts
+http://extraott.com:80/live/7175313183/6473142259/37393.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 10 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37392.ts
+http://extraott.com:80/live/7175313183/6473142259/37392.ts
 #EXTINF:-1 group-title="AS | AUSTRALIA" tvg-logo="https://lo1.in/ppvs/optus.png",AU| OPTUS 11 [EVENT ONLY]
-http://extraott.com:80/live/3586573392/7591141273/37391.ts
+http://extraott.com:80/live/7175313183/6473142259/37391.ts
 #EXTINF:-1 group-title="AS | NEW ZEALAND",✦●✦NZ| NEW ZEALAND ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/400427296.ts
+http://extraott.com:80/live/7175313183/6473142259/400427296.ts
 #EXTINF:-1 group-title="AS | NEW ZEALAND" tvg-logo="https://lo1.in/uk/bbc1.png",NZ| BBC UKTV HD
-http://extraott.com:80/live/3586573392/7591141273/32022.ts
+http://extraott.com:80/live/7175313183/6473142259/32022.ts
 #EXTINF:-1 group-title="AS | NEW ZEALAND" tvg-logo="https://lo1.in/ger/skysph.png",NZ| SKY SPORT 1 HD
-http://extraott.com:80/live/3586573392/7591141273/710948.ts
+http://extraott.com:80/live/7175313183/6473142259/710948.ts
 #EXTINF:-1 group-title="AS | NEW ZEALAND" tvg-logo="https://lo1.in/ger/skysph.png",NZ| SKY SPORT 2 HD
-http://extraott.com:80/live/3586573392/7591141273/710947.ts
+http://extraott.com:80/live/7175313183/6473142259/710947.ts
 #EXTINF:-1 group-title="AS | NEW ZEALAND",NZ| SKY SPORTS SELECT FHD
-http://extraott.com:80/live/3586573392/7591141273/83011.ts
+http://extraott.com:80/live/7175313183/6473142259/83011.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png",PH| PBA RUSH FHD
-http://extraott.com:80/live/3586573392/7591141273/14453.ts
+http://extraott.com:80/live/7175313183/6473142259/14453.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png",PH| One News FHD
-http://extraott.com:80/live/3586573392/7591141273/14454.ts
+http://extraott.com:80/live/7175313183/6473142259/14454.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png",PH| TV 5 PHIL HD
-http://extraott.com:80/live/3586573392/7591141273/400415435.ts
+http://extraott.com:80/live/7175313183/6473142259/400415435.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/cinemoi.png",PH| Crime + Investigation
-http://extraott.com:80/live/3586573392/7591141273/400252274.ts
+http://extraott.com:80/live/7175313183/6473142259/400252274.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/thrill.png",PH| CRIME INVESTIGATION
-http://extraott.com:80/live/3586573392/7591141273/400252269.ts
+http://extraott.com:80/live/7175313183/6473142259/400252269.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/cinmo.png",PH| CINEMA ONE HD
-http://extraott.com:80/live/3586573392/7591141273/400252266.ts
+http://extraott.com:80/live/7175313183/6473142259/400252266.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/axn.png",PH| AXN HD
-http://extraott.com:80/live/3586573392/7591141273/400252264.ts
+http://extraott.com:80/live/7175313183/6473142259/400252264.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/pbo.png",PH| PBO HD
-http://extraott.com:80/live/3586573392/7591141273/400252260.ts
+http://extraott.com:80/live/7175313183/6473142259/400252260.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/oneph.png",PH| ONE PH HD
-http://extraott.com:80/live/3586573392/7591141273/400252249.ts
+http://extraott.com:80/live/7175313183/6473142259/400252249.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/MALAY/astrossp.png",PH| ASTRO SUPERSPORT 1 HD
-http://extraott.com:80/live/3586573392/7591141273/380133.ts
+http://extraott.com:80/live/7175313183/6473142259/380133.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/MALAY/astrossp.png",PH| ASTRO SUPERSPORT 2 HD
-http://extraott.com:80/live/3586573392/7591141273/380134.ts
+http://extraott.com:80/live/7175313183/6473142259/380134.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/MALAY/astrossp.png",PH| ASTRO SUPERSPORT 3 HD
-http://extraott.com:80/live/3586573392/7591141273/380135.ts
+http://extraott.com:80/live/7175313183/6473142259/380135.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/MALAY/astrossp.png",PH| ASTRO SUPERSPORT 4 HD
-http://extraott.com:80/live/3586573392/7591141273/380136.ts
+http://extraott.com:80/live/7175313183/6473142259/380136.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/bs1.png",PH| BEIN SPORTS 1 HD
-http://extraott.com:80/live/3586573392/7591141273/194620.ts
+http://extraott.com:80/live/7175313183/6473142259/194620.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/bs2.png",PH| BEIN SPORTS 2 HD
-http://extraott.com:80/live/3586573392/7591141273/194621.ts
+http://extraott.com:80/live/7175313183/6473142259/194621.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/cnnet.png",PH| CARTOON NETWORK HD
-http://extraott.com:80/live/3586573392/7591141273/380128.ts
+http://extraott.com:80/live/7175313183/6473142259/380128.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/clscmov.png",PH| CLASSIC MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/380127.ts
+http://extraott.com:80/live/7175313183/6473142259/380127.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gctv.png",PH| GREAT COMMISSION TV (GCTV) HD
-http://extraott.com:80/live/3586573392/7591141273/400200803.ts
+http://extraott.com:80/live/7175313183/6473142259/400200803.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/dzbb.png",PH| SUPER RADYO DZBB HD
-http://extraott.com:80/live/3586573392/7591141273/400200802.ts
+http://extraott.com:80/live/7175313183/6473142259/400200802.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/uk/tlc.png",PH| TLC HD
-http://extraott.com:80/live/3586573392/7591141273/380109.ts
+http://extraott.com:80/live/7175313183/6473142259/380109.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/bein/aplanet.png",PH| ANIMAL PLANET
-http://extraott.com:80/live/3586573392/7591141273/380106.ts
+http://extraott.com:80/live/7175313183/6473142259/380106.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/anc.png",PH| ANC HD
-http://extraott.com:80/live/3586573392/7591141273/380105.ts
+http://extraott.com:80/live/7175313183/6473142259/380105.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gma7.png",PH| GMA LIFE
-http://extraott.com:80/live/3586573392/7591141273/194636.ts
+http://extraott.com:80/live/7175313183/6473142259/194636.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gmalf.png",PH| GMA NEWS TV
-http://extraott.com:80/live/3586573392/7591141273/194637.ts
+http://extraott.com:80/live/7175313183/6473142259/194637.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gmapino.png",PH| GMA PINOY TV
-http://extraott.com:80/live/3586573392/7591141273/194638.ts
+http://extraott.com:80/live/7175313183/6473142259/194638.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/lifestyle.png",PH| LIFESTYLE NETWORK
-http://extraott.com:80/live/3586573392/7591141273/194650.ts
+http://extraott.com:80/live/7175313183/6473142259/194650.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/osport.png",PH| ONE SPORT HD
-http://extraott.com:80/live/3586573392/7591141273/291432.ts
+http://extraott.com:80/live/7175313183/6473142259/291432.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/osport.png",PH| ONE SPORT+ HD
-http://extraott.com:80/live/3586573392/7591141273/77807.ts
+http://extraott.com:80/live/7175313183/6473142259/77807.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/smni.png",PH| SMNI
-http://extraott.com:80/live/3586573392/7591141273/290496.ts
+http://extraott.com:80/live/7175313183/6473142259/290496.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/tfc.png",PH| TFC HD
-http://extraott.com:80/live/3586573392/7591141273/291431.ts
+http://extraott.com:80/live/7175313183/6473142259/291431.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/WarnerTV.png",PH| Bloomberg TV Asia Live Event
-http://extraott.com:80/live/3586573392/7591141273/27184.ts
+http://extraott.com:80/live/7175313183/6473142259/27184.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/thrill.png",PH| Bloomberg TV
-http://extraott.com:80/live/3586573392/7591141273/27185.ts
+http://extraott.com:80/live/7175313183/6473142259/27185.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png",PH| WARNER TV FR
-http://extraott.com:80/live/3586573392/7591141273/27186.ts
+http://extraott.com:80/live/7175313183/6473142259/27186.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/ann.png",PH| ASIA News HD
-http://extraott.com:80/live/3586573392/7591141273/27193.ts
+http://extraott.com:80/live/7175313183/6473142259/27193.ts
 #EXTINF:-1 group-title="AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/tfc.png",PH| TFC CANADA HD
-http://extraott.com:80/live/3586573392/7591141273/27197.ts
+http://extraott.com:80/live/7175313183/6473142259/27197.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",✦●✦ THAILLAND ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/400280344.ts
+http://extraott.com:80/live/7175313183/6473142259/400280344.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/30.png",TH| 30A MUSIC HD
-http://extraott.com:80/live/3586573392/7591141273/377496.ts
+http://extraott.com:80/live/7175313183/6473142259/377496.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| 69 TV
-http://extraott.com:80/live/3586573392/7591141273/62959.ts
+http://extraott.com:80/live/7175313183/6473142259/62959.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/pic.png",TH| &PICTURES FHD
-http://extraott.com:80/live/3586573392/7591141273/400252959.ts
+http://extraott.com:80/live/7175313183/6473142259/400252959.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/ast.png",TH| ASTRO CRICKET HD
-http://extraott.com:80/live/3586573392/7591141273/400252979.ts
+http://extraott.com:80/live/7175313183/6473142259/400252979.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/astr.png",TH| ASTRO SUPERSPORTS 1 HD
-http://extraott.com:80/live/3586573392/7591141273/377339.ts
+http://extraott.com:80/live/7175313183/6473142259/377339.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/astr1.png",TH| ASTRO SUPERSPORTS 2 HD
-http://extraott.com:80/live/3586573392/7591141273/400252981.ts
+http://extraott.com:80/live/7175313183/6473142259/400252981.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/MALAY/astroassp3.png",TH| ASTRO SUPERSPORTS 3 HD
-http://extraott.com:80/live/3586573392/7591141273/377340.ts
+http://extraott.com:80/live/7175313183/6473142259/377340.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/astr2.png",TH| ASTRO SUPERSPORTS 4 HD
-http://extraott.com:80/live/3586573392/7591141273/400252980.ts
+http://extraott.com:80/live/7175313183/6473142259/400252980.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/altv.png",TH| ALTV 4 HD
-http://extraott.com:80/live/3586573392/7591141273/41254.ts
+http://extraott.com:80/live/7175313183/6473142259/41254.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| ADL USA TV
-http://extraott.com:80/live/3586573392/7591141273/62971.ts
+http://extraott.com:80/live/7175313183/6473142259/62971.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| AIR TV
-http://extraott.com:80/live/3586573392/7591141273/62972.ts
+http://extraott.com:80/live/7175313183/6473142259/62972.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| AS TV THAI HD
-http://extraott.com:80/live/3586573392/7591141273/62973.ts
+http://extraott.com:80/live/7175313183/6473142259/62973.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/bbw.png",TH| BBC WORLD NEWS HD
-http://extraott.com:80/live/3586573392/7591141273/400252939.ts
+http://extraott.com:80/live/7175313183/6473142259/400252939.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| BTV NEWS KHMER
-http://extraott.com:80/live/3586573392/7591141273/62968.ts
+http://extraott.com:80/live/7175313183/6473142259/62968.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| BRIAN TV
-http://extraott.com:80/live/3586573392/7591141273/62969.ts
+http://extraott.com:80/live/7175313183/6473142259/62969.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| BAYON HD KHMER
-http://extraott.com:80/live/3586573392/7591141273/62974.ts
+http://extraott.com:80/live/7175313183/6473142259/62974.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/ch1.png",TH| CHANNEL 8
-http://extraott.com:80/live/3586573392/7591141273/377235.ts
+http://extraott.com:80/live/7175313183/6473142259/377235.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| CVA HMONG FRESNO
-http://extraott.com:80/live/3586573392/7591141273/62964.ts
+http://extraott.com:80/live/7175313183/6473142259/62964.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| CTV 8 KHMER
-http://extraott.com:80/live/3586573392/7591141273/62965.ts
+http://extraott.com:80/live/7175313183/6473142259/62965.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| CAMBODIA TV
-http://extraott.com:80/live/3586573392/7591141273/62967.ts
+http://extraott.com:80/live/7175313183/6473142259/62967.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| DAO LANE XANG
-http://extraott.com:80/live/3586573392/7591141273/62963.ts
+http://extraott.com:80/live/7175313183/6473142259/62963.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/des.png",TH| DESI CHANNEL HD
-http://extraott.com:80/live/3586573392/7591141273/377515.ts
+http://extraott.com:80/live/7175313183/6473142259/377515.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| DOPA CHANNEL
-http://extraott.com:80/live/3586573392/7591141273/62962.ts
+http://extraott.com:80/live/7175313183/6473142259/62962.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlt.png",TH| DLTV1 HD
-http://extraott.com:80/live/3586573392/7591141273/377472.ts
+http://extraott.com:80/live/7175313183/6473142259/377472.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv4.png",TH| DLTV2 HD
-http://extraott.com:80/live/3586573392/7591141273/377473.ts
+http://extraott.com:80/live/7175313183/6473142259/377473.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv5.png",TH| DLTV3 HD
-http://extraott.com:80/live/3586573392/7591141273/377474.ts
+http://extraott.com:80/live/7175313183/6473142259/377474.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv6.png",TH| DLTV4 HD
-http://extraott.com:80/live/3586573392/7591141273/377475.ts
+http://extraott.com:80/live/7175313183/6473142259/377475.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv7.png",TH| DLTV5 HD
-http://extraott.com:80/live/3586573392/7591141273/377476.ts
+http://extraott.com:80/live/7175313183/6473142259/377476.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv12.png",TH| DLTV6 HD
-http://extraott.com:80/live/3586573392/7591141273/377477.ts
+http://extraott.com:80/live/7175313183/6473142259/377477.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl1.png",TH| DLTV7 HD
-http://extraott.com:80/live/3586573392/7591141273/377478.ts
+http://extraott.com:80/live/7175313183/6473142259/377478.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl2.png",TH| DLTV8 HD
-http://extraott.com:80/live/3586573392/7591141273/377479.ts
+http://extraott.com:80/live/7175313183/6473142259/377479.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl3.png",TH| DLTV9 HD
-http://extraott.com:80/live/3586573392/7591141273/377480.ts
+http://extraott.com:80/live/7175313183/6473142259/377480.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl10.png",TH| DLTV10 HD
-http://extraott.com:80/live/3586573392/7591141273/377481.ts
+http://extraott.com:80/live/7175313183/6473142259/377481.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv.png",TH| DLTV11 HD
-http://extraott.com:80/live/3586573392/7591141273/377482.ts
+http://extraott.com:80/live/7175313183/6473142259/377482.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv1.png",TH| DLTV12 HD
-http://extraott.com:80/live/3586573392/7591141273/377483.ts
+http://extraott.com:80/live/7175313183/6473142259/377483.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/clv2.png",TH| DLTV13 HD
-http://extraott.com:80/live/3586573392/7591141273/377484.ts
+http://extraott.com:80/live/7175313183/6473142259/377484.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv2.png",TH| DLTV14 HD
-http://extraott.com:80/live/3586573392/7591141273/377485.ts
+http://extraott.com:80/live/7175313183/6473142259/377485.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv3.png",TH| DLTV15 HD
-http://extraott.com:80/live/3586573392/7591141273/377486.ts
+http://extraott.com:80/live/7175313183/6473142259/377486.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| ETV KHMER
-http://extraott.com:80/live/3586573392/7591141273/62961.ts
+http://extraott.com:80/live/7175313183/6473142259/62961.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/gtv.png",TH| GOOD IDEA TV
-http://extraott.com:80/live/3586573392/7591141273/34501.ts
+http://extraott.com:80/live/7175313183/6473142259/34501.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| GMM ONE THAI HD
-http://extraott.com:80/live/3586573392/7591141273/62958.ts
+http://extraott.com:80/live/7175313183/6473142259/62958.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/him.png",TH| HITS MOVIES HD
-http://extraott.com:80/live/3586573392/7591141273/400252964.ts
+http://extraott.com:80/live/7175313183/6473142259/400252964.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| HOUNG FA
-http://extraott.com:80/live/3586573392/7591141273/62943.ts
+http://extraott.com:80/live/7175313183/6473142259/62943.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| HMONG USA TV
-http://extraott.com:80/live/3586573392/7591141273/62945.ts
+http://extraott.com:80/live/7175313183/6473142259/62945.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| HMONG STAR TV
-http://extraott.com:80/live/3586573392/7591141273/62948.ts
+http://extraott.com:80/live/7175313183/6473142259/62948.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| HMONG LAO TV  HD
-http://extraott.com:80/live/3586573392/7591141273/62950.ts
+http://extraott.com:80/live/7175313183/6473142259/62950.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| HMONG FRESNO TV
-http://extraott.com:80/live/3586573392/7591141273/62951.ts
+http://extraott.com:80/live/7175313183/6473142259/62951.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/ist.png",TH| IS TV
-http://extraott.com:80/live/3586573392/7591141273/377247.ts
+http://extraott.com:80/live/7175313183/6473142259/377247.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| ISTV
-http://extraott.com:80/live/3586573392/7591141273/62941.ts
+http://extraott.com:80/live/7175313183/6473142259/62941.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| JOO MUSIC
-http://extraott.com:80/live/3586573392/7591141273/62960.ts
+http://extraott.com:80/live/7175313183/6473142259/62960.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| KHOMSANH TV
-http://extraott.com:80/live/3586573392/7591141273/62940.ts
+http://extraott.com:80/live/7175313183/6473142259/62940.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAOS PLANET TV
-http://extraott.com:80/live/3586573392/7591141273/176071.ts
+http://extraott.com:80/live/7175313183/6473142259/176071.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LONE SINH LAO TV
-http://extraott.com:80/live/3586573392/7591141273/175905.ts
+http://extraott.com:80/live/7175313183/6473142259/175905.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO TV FREE ASIA
-http://extraott.com:80/live/3586573392/7591141273/62921.ts
+http://extraott.com:80/live/7175313183/6473142259/62921.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO THAI TV
-http://extraott.com:80/live/3586573392/7591141273/62922.ts
+http://extraott.com:80/live/7175313183/6473142259/62922.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO SV TV
-http://extraott.com:80/live/3586573392/7591141273/62924.ts
+http://extraott.com:80/live/7175313183/6473142259/62924.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO PEOPLE POWER
-http://extraott.com:80/live/3586573392/7591141273/62929.ts
+http://extraott.com:80/live/7175313183/6473142259/62929.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO NATIONAL TV 3
-http://extraott.com:80/live/3586573392/7591141273/62930.ts
+http://extraott.com:80/live/7175313183/6473142259/62930.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO NATIONAL TV 1
-http://extraott.com:80/live/3586573392/7591141273/62932.ts
+http://extraott.com:80/live/7175313183/6473142259/62932.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LAO AMERICAN
-http://extraott.com:80/live/3586573392/7591141273/62938.ts
+http://extraott.com:80/live/7175313183/6473142259/62938.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H12 TV
-http://extraott.com:80/live/3586573392/7591141273/40094.ts
+http://extraott.com:80/live/7175313183/6473142259/40094.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/mvhub.png",TH| MVHUB PLUS
-http://extraott.com:80/live/3586573392/7591141273/34511.ts
+http://extraott.com:80/live/7175313183/6473142259/34511.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/mco.png",TH| MCOT HD
-http://extraott.com:80/live/3586573392/7591141273/377465.ts
+http://extraott.com:80/live/7175313183/6473142259/377465.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MSJ TV KHMER
-http://extraott.com:80/live/3586573392/7591141273/42201.ts
+http://extraott.com:80/live/7175313183/6473142259/42201.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H2
-http://extraott.com:80/live/3586573392/7591141273/62975.ts
+http://extraott.com:80/live/7175313183/6473142259/62975.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H9
-http://extraott.com:80/live/3586573392/7591141273/62976.ts
+http://extraott.com:80/live/7175313183/6473142259/62976.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H2 2
-http://extraott.com:80/live/3586573392/7591141273/62978.ts
+http://extraott.com:80/live/7175313183/6473142259/62978.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H14
-http://extraott.com:80/live/3586573392/7591141273/62979.ts
+http://extraott.com:80/live/7175313183/6473142259/62979.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV MIXMAJOR HD
-http://extraott.com:80/live/3586573392/7591141273/62980.ts
+http://extraott.com:80/live/7175313183/6473142259/62980.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H11
-http://extraott.com:80/live/3586573392/7591141273/62981.ts
+http://extraott.com:80/live/7175313183/6473142259/62981.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV MVLAO HD
-http://extraott.com:80/live/3586573392/7591141273/62982.ts
+http://extraott.com:80/live/7175313183/6473142259/62982.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H15
-http://extraott.com:80/live/3586573392/7591141273/62983.ts
+http://extraott.com:80/live/7175313183/6473142259/62983.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV TVB
-http://extraott.com:80/live/3586573392/7591141273/62984.ts
+http://extraott.com:80/live/7175313183/6473142259/62984.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/263515",TH| MVTV THAIBAAN HD
-http://extraott.com:80/live/3586573392/7591141273/62985.ts
+http://extraott.com:80/live/7175313183/6473142259/62985.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV TVD MONO
-http://extraott.com:80/live/3586573392/7591141273/62986.ts
+http://extraott.com:80/live/7175313183/6473142259/62986.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MVTV V2H13
-http://extraott.com:80/live/3586573392/7591141273/62987.ts
+http://extraott.com:80/live/7175313183/6473142259/62987.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/mvtv.png",TH| MVTV HD
-http://extraott.com:80/live/3586573392/7591141273/377264.ts
+http://extraott.com:80/live/7175313183/6473142259/377264.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/nf.png",TH| NFL HD
-http://extraott.com:80/live/3586573392/7591141273/400252983.ts
+http://extraott.com:80/live/7175313183/6473142259/400252983.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/nba.png",TH| NBA HD
-http://extraott.com:80/live/3586573392/7591141273/400252984.ts
+http://extraott.com:80/live/7175313183/6473142259/400252984.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/nrwi.png",TH| NRWISION HD
-http://extraott.com:80/live/3586573392/7591141273/34504.ts
+http://extraott.com:80/live/7175313183/6473142259/34504.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/nw.png",TH| NEWS 1 HD
-http://extraott.com:80/live/3586573392/7591141273/400252925.ts
+http://extraott.com:80/live/7175313183/6473142259/400252925.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| NAT TV
-http://extraott.com:80/live/3586573392/7591141273/28264.ts
+http://extraott.com:80/live/7175313183/6473142259/28264.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/ong.png",TH| ONEGOLF HD
-http://extraott.com:80/live/3586573392/7591141273/377365.ts
+http://extraott.com:80/live/7175313183/6473142259/377365.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| OY LAO TV
-http://extraott.com:80/live/3586573392/7591141273/36384.ts
+http://extraott.com:80/live/7175313183/6473142259/36384.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| PPTV HD
-http://extraott.com:80/live/3586573392/7591141273/35385.ts
+http://extraott.com:80/live/7175313183/6473142259/35385.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| PNTV
-http://extraott.com:80/live/3586573392/7591141273/36239.ts
+http://extraott.com:80/live/7175313183/6473142259/36239.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| PNN TV HD
-http://extraott.com:80/live/3586573392/7591141273/36357.ts
+http://extraott.com:80/live/7175313183/6473142259/36357.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/reb.png",TH| RED BULL TV HD
-http://extraott.com:80/live/3586573392/7591141273/377360.ts
+http://extraott.com:80/live/7175313183/6473142259/377360.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/rem.png",TH| RETRO MUSIC TV SD
-http://extraott.com:80/live/3586573392/7591141273/377269.ts
+http://extraott.com:80/live/7175313183/6473142259/377269.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/sk1.png",TH| SKY SPORTS FOOTBALL HD
-http://extraott.com:80/live/3586573392/7591141273/377384.ts
+http://extraott.com:80/live/7175313183/6473142259/377384.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/sk.png",TH| SKY RACING 2 HD
-http://extraott.com:80/live/3586573392/7591141273/377371.ts
+http://extraott.com:80/live/7175313183/6473142259/377371.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/sy.png",TH| SKY RACING 1 HD
-http://extraott.com:80/live/3586573392/7591141273/377370.ts
+http://extraott.com:80/live/7175313183/6473142259/377370.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/suwa.png",TH| SUWANNABHUMI TV
-http://extraott.com:80/live/3586573392/7591141273/34506.ts
+http://extraott.com:80/live/7175313183/6473142259/34506.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| SEA TV NEWS
-http://extraott.com:80/live/3586573392/7591141273/33965.ts
+http://extraott.com:80/live/7175313183/6473142259/33965.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/ger/tva.png",TH| TVA
-http://extraott.com:80/live/3586573392/7591141273/34503.ts
+http://extraott.com:80/live/7175313183/6473142259/34503.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TATV
-http://extraott.com:80/live/3586573392/7591141273/33671.ts
+http://extraott.com:80/live/7175313183/6473142259/33671.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/tre.png",TH| TRUE SPORTS 2
-http://extraott.com:80/live/3586573392/7591141273/377324.ts
+http://extraott.com:80/live/7175313183/6473142259/377324.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/tre.png",TH| TRUE SPORTS 3
-http://extraott.com:80/live/3586573392/7591141273/377325.ts
+http://extraott.com:80/live/7175313183/6473142259/377325.ts
 #EXTINF:-1 group-title="AS | THAILLAND",TH| TEST 43
-http://extraott.com:80/live/3586573392/7591141273/34502.ts
+http://extraott.com:80/live/7175313183/6473142259/34502.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TV 5 THAI HD
-http://extraott.com:80/live/3586573392/7591141273/8516.ts
+http://extraott.com:80/live/7175313183/6473142259/8516.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TV 5 KHMER
-http://extraott.com:80/live/3586573392/7591141273/8518.ts
+http://extraott.com:80/live/7175313183/6473142259/8518.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TV9 KHMER
-http://extraott.com:80/live/3586573392/7591141273/8515.ts
+http://extraott.com:80/live/7175313183/6473142259/8515.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| THAI 8 HD
-http://extraott.com:80/live/3586573392/7591141273/33667.ts
+http://extraott.com:80/live/7175313183/6473142259/33667.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TVK KHMER
-http://extraott.com:80/live/3586573392/7591141273/8514.ts
+http://extraott.com:80/live/7175313183/6473142259/8514.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TEA TV KHMER
-http://extraott.com:80/live/3586573392/7591141273/33668.ts
+http://extraott.com:80/live/7175313183/6473142259/33668.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| TEA TV HD
-http://extraott.com:80/live/3586573392/7591141273/33669.ts
+http://extraott.com:80/live/7175313183/6473142259/33669.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/th1.png",TH| THAIPBS FHD
-http://extraott.com:80/live/3586573392/7591141273/377455.ts
+http://extraott.com:80/live/7175313183/6473142259/377455.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| UNIQUELY THAI
-http://extraott.com:80/live/3586573392/7591141273/187247.ts
+http://extraott.com:80/live/7175313183/6473142259/187247.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| WHITE CHANNEL HD
-http://extraott.com:80/live/3586573392/7591141273/41223.ts
+http://extraott.com:80/live/7175313183/6473142259/41223.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| VATI LAO
-http://extraott.com:80/live/3586573392/7591141273/376110.ts
+http://extraott.com:80/live/7175313183/6473142259/376110.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| Yateem TV
-http://extraott.com:80/live/3586573392/7591141273/397456.ts
+http://extraott.com:80/live/7175313183/6473142259/397456.ts
 #EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/workp.png",TH| WORK POINT HD
-http://extraott.com:80/live/3586573392/7591141273/377460.ts
+http://extraott.com:80/live/7175313183/6473142259/377460.ts
 
 #
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",✦●✦ VIETNAM✦●✦
-http://extraott.com:80/live/3586573392/7591141273/380077.ts
+http://extraott.com:80/live/7175313183/6473142259/380077.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC1
-http://extraott.com:80/live/3586573392/7591141273/20376.ts
+http://extraott.com:80/live/7175313183/6473142259/20376.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC2
-http://extraott.com:80/live/3586573392/7591141273/20375.ts
+http://extraott.com:80/live/7175313183/6473142259/20375.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC3
-http://extraott.com:80/live/3586573392/7591141273/20374.ts
+http://extraott.com:80/live/7175313183/6473142259/20374.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC4
-http://extraott.com:80/live/3586573392/7591141273/20373.ts
+http://extraott.com:80/live/7175313183/6473142259/20373.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC5
-http://extraott.com:80/live/3586573392/7591141273/20372.ts
+http://extraott.com:80/live/7175313183/6473142259/20372.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC6
-http://extraott.com:80/live/3586573392/7591141273/20371.ts
+http://extraott.com:80/live/7175313183/6473142259/20371.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC7
-http://extraott.com:80/live/3586573392/7591141273/20370.ts
+http://extraott.com:80/live/7175313183/6473142259/20370.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC8
-http://extraott.com:80/live/3586573392/7591141273/20369.ts
+http://extraott.com:80/live/7175313183/6473142259/20369.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC9
-http://extraott.com:80/live/3586573392/7591141273/20368.ts
+http://extraott.com:80/live/7175313183/6473142259/20368.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC10
-http://extraott.com:80/live/3586573392/7591141273/20367.ts
+http://extraott.com:80/live/7175313183/6473142259/20367.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTC11
-http://extraott.com:80/live/3586573392/7591141273/20366.ts
+http://extraott.com:80/live/7175313183/6473142259/20366.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| VTV1
-http://extraott.com:80/live/3586573392/7591141273/20450.ts
+http://extraott.com:80/live/7175313183/6473142259/20450.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/antv.png",VIETNAM| ANTV
-http://extraott.com:80/live/3586573392/7591141273/380056.ts
+http://extraott.com:80/live/7175313183/6473142259/380056.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/china/chine.png",VIETNAM| ANTV HD
-http://extraott.com:80/live/3586573392/7591141273/400252834.ts
+http://extraott.com:80/live/7175313183/6473142259/400252834.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| ISTV
-http://extraott.com:80/live/3586573392/7591141273/20433.ts
+http://extraott.com:80/live/7175313183/6473142259/20433.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Hmong TV Network
-http://extraott.com:80/live/3586573392/7591141273/20429.ts
+http://extraott.com:80/live/7175313183/6473142259/20429.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Hmong Star TV
-http://extraott.com:80/live/3586573392/7591141273/20428.ts
+http://extraott.com:80/live/7175313183/6473142259/20428.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Lao Net
-http://extraott.com:80/live/3586573392/7591141273/20356.ts
+http://extraott.com:80/live/7175313183/6473142259/20356.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Khmer TV
-http://extraott.com:80/live/3586573392/7591141273/20354.ts
+http://extraott.com:80/live/7175313183/6473142259/20354.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Ning
-http://extraott.com:80/live/3586573392/7591141273/20353.ts
+http://extraott.com:80/live/7175313183/6473142259/20353.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Tea TV 2
-http://extraott.com:80/live/3586573392/7591141273/20350.ts
+http://extraott.com:80/live/7175313183/6473142259/20350.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Vanphenh TV
-http://extraott.com:80/live/3586573392/7591141273/20343.ts
+http://extraott.com:80/live/7175313183/6473142259/20343.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Vati Lao TV
-http://extraott.com:80/live/3586573392/7591141273/20342.ts
+http://extraott.com:80/live/7175313183/6473142259/20342.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Uniquely Thai
-http://extraott.com:80/live/3586573392/7591141273/20341.ts
+http://extraott.com:80/live/7175313183/6473142259/20341.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Tea TV
-http://extraott.com:80/live/3586573392/7591141273/20340.ts
+http://extraott.com:80/live/7175313183/6473142259/20340.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| DANANG TV1 HD (ĐÀ NẴNG)
-http://extraott.com:80/live/3586573392/7591141273/20332.ts
+http://extraott.com:80/live/7175313183/6473142259/20332.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Tien Giang HD
-http://extraott.com:80/live/3586573392/7591141273/20309.ts
+http://extraott.com:80/live/7175313183/6473142259/20309.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| QRT (QUẢNG NAM)
-http://extraott.com:80/live/3586573392/7591141273/20301.ts
+http://extraott.com:80/live/7175313183/6473142259/20301.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| QRTV (QUẢNG TRỊ)
-http://extraott.com:80/live/3586573392/7591141273/20297.ts
+http://extraott.com:80/live/7175313183/6473142259/20297.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Supreme Master TV
-http://extraott.com:80/live/3586573392/7591141273/20290.ts
+http://extraott.com:80/live/7175313183/6473142259/20290.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| PNTV
-http://extraott.com:80/live/3586573392/7591141273/20289.ts
+http://extraott.com:80/live/7175313183/6473142259/20289.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| Oh Muang Lao TV
-http://extraott.com:80/live/3586573392/7591141273/20287.ts
+http://extraott.com:80/live/7175313183/6473142259/20287.ts
 #EXTINF:-1 group-title="AS | VIETNAM",VIETNAM| LS TV
-http://extraott.com:80/live/3586573392/7591141273/20286.ts
+http://extraott.com:80/live/7175313183/6473142259/20286.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",VIETNAM| Laos Planet TV
-http://extraott.com:80/live/3586573392/7591141273/20274.ts
+http://extraott.com:80/live/7175313183/6473142259/20274.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| BBC EARTH HD
-http://extraott.com:80/live/3586573392/7591141273/473520.ts
+http://extraott.com:80/live/7175313183/6473142259/473520.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| BBC NEWS
-http://extraott.com:80/live/3586573392/7591141273/473521.ts
+http://extraott.com:80/live/7175313183/6473142259/473521.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| NHK WORLD HD
-http://extraott.com:80/live/3586573392/7591141273/473522.ts
+http://extraott.com:80/live/7175313183/6473142259/473522.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| ANIMAL PLANET HD
-http://extraott.com:80/live/3586573392/7591141273/473527.ts
+http://extraott.com:80/live/7175313183/6473142259/473527.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| DISCOVERY ASIA HD
-http://extraott.com:80/live/3586573392/7591141273/473528.ts
+http://extraott.com:80/live/7175313183/6473142259/473528.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| DISCOVERY HD
-http://extraott.com:80/live/3586573392/7591141273/473529.ts
+http://extraott.com:80/live/7175313183/6473142259/473529.ts
 #EXTINF:-1 group-title="AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png",VIETNAM| Air TV
-http://extraott.com:80/live/3586573392/7591141273/473532.ts
+http://extraott.com:80/live/7175313183/6473142259/473532.ts
 
 #EXTINF:-1 group-title="AS | SRI LANKA" tvg-logo="https://lo1.in/sl/flg.png",✦●✦SRI LANKA✦●✦
-http://extraott.com:80/live/3586573392/7591141273/380103.ts
+http://extraott.com:80/live/7175313183/6473142259/380103.ts
 #EXTINF:-1 group-title="AS | SRI LANKA" tvg-logo="https://lo1.in/sl/derana.png",SRI LANKA| DERANA TV
-http://extraott.com:80/live/3586573392/7591141273/380100.ts
+http://extraott.com:80/live/7175313183/6473142259/380100.ts
 #EXTINF:-1 group-title="AS | SRI LANKA" tvg-logo="https://lo1.in/sl/hiru.png",SRI LANKA| HIRU TV
-http://extraott.com:80/live/3586573392/7591141273/380096.ts
+http://extraott.com:80/live/7175313183/6473142259/380096.ts
 #EXTINF:-1 group-title="AS | SRI LANKA" tvg-logo="https://lo1.in/sl/nasagrd5.png",SRI LANKA| NENASA TV GRADE 5
-http://extraott.com:80/live/3586573392/7591141273/380086.ts
+http://extraott.com:80/live/7175313183/6473142259/380086.ts
 #EXTINF:-1 group-title="AS | JAPAN" tvg-logo="https://lo1.in/jpa/qvcjpa.png",JP| QVC JAPAN
-http://extraott.com:80/live/3586573392/7591141273/191041.ts
+http://extraott.com:80/live/7175313183/6473142259/191041.ts
 #EXTINF:-1 group-title="AS | JAPAN" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.525.png",JP| QVC
-http://extraott.com:80/live/3586573392/7591141273/37684.ts
+http://extraott.com:80/live/7175313183/6473142259/37684.ts
 #EXTINF:-1 group-title="AS | JAPAN" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.523.png",JP| ショップチャンネル
-http://extraott.com:80/live/3586573392/7591141273/37685.ts
+http://extraott.com:80/live/7175313183/6473142259/37685.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/bayon.png",KH| BAYON TV
-http://extraott.com:80/live/3586573392/7591141273/400194016.ts
+http://extraott.com:80/live/7175313183/6473142259/400194016.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/can8.png",KH| CHANNEL 8
-http://extraott.com:80/live/3586573392/7591141273/400194015.ts
+http://extraott.com:80/live/7175313183/6473142259/400194015.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/pnn.png",KH| PNN
-http://extraott.com:80/live/3586573392/7591141273/400194013.ts
+http://extraott.com:80/live/7175313183/6473142259/400194013.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/tv9.png",KH| TV9
-http://extraott.com:80/live/3586573392/7591141273/400194012.ts
+http://extraott.com:80/live/7175313183/6473142259/400194012.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/tvk.png",KH| TVK
-http://extraott.com:80/live/3586573392/7591141273/400194011.ts
+http://extraott.com:80/live/7175313183/6473142259/400194011.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/candivya.png",KH| CHANNEL DIVYA
-http://extraott.com:80/live/3586573392/7591141273/400194008.ts
+http://extraott.com:80/live/7175313183/6473142259/400194008.ts
 #EXTINF:-1 group-title="AS | CAMBODIA" tvg-logo="https://lo1.in/camb/flg.png",KH| WIKI TV SD
-http://extraott.com:80/live/3586573392/7591141273/7104.ts
+http://extraott.com:80/live/7175313183/6473142259/7104.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/flg.png",✦●✦ KP| KOREA ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/185820.ts
+http://extraott.com:80/live/7175313183/6473142259/185820.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ari.png",KP| ARIRANG HD
-http://extraott.com:80/live/3586573392/7591141273/191051.ts
+http://extraott.com:80/live/7175313183/6473142259/191051.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/bbs.png",KP| BBS TV HD
-http://extraott.com:80/live/3586573392/7591141273/380179.ts
+http://extraott.com:80/live/7175313183/6473142259/380179.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/cts.png",KP| CTS HD
-http://extraott.com:80/live/3586573392/7591141273/380183.ts
+http://extraott.com:80/live/7175313183/6473142259/380183.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebs4.png",KP| EBS E HD
-http://extraott.com:80/live/3586573392/7591141273/380184.ts
+http://extraott.com:80/live/7175313183/6473142259/380184.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebs2.png",KP| EBS1  HD
-http://extraott.com:80/live/3586573392/7591141273/380190.ts
+http://extraott.com:80/live/7175313183/6473142259/380190.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebs3.png",KP| EBS2  HD
-http://extraott.com:80/live/3586573392/7591141273/380191.ts
+http://extraott.com:80/live/7175313183/6473142259/380191.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebs.png",KP| EBS+1 HD
-http://extraott.com:80/live/3586573392/7591141273/380187.ts
+http://extraott.com:80/live/7175313183/6473142259/380187.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebs1.png",KP| EBS+2  HD
-http://extraott.com:80/live/3586573392/7591141273/380189.ts
+http://extraott.com:80/live/7175313183/6473142259/380189.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/gc.png",KP| GCN HD
-http://extraott.com:80/live/3586573392/7591141273/380193.ts
+http://extraott.com:80/live/7175313183/6473142259/380193.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/gu.png",KP| GUGBANG TV HD
-http://extraott.com:80/live/3586573392/7591141273/191062.ts
+http://extraott.com:80/live/7175313183/6473142259/191062.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/kb5.png",KP| KBS WORLD 24 HD
-http://extraott.com:80/live/3586573392/7591141273/380200.ts
+http://extraott.com:80/live/7175313183/6473142259/380200.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/kt.png",KP| KTV
-http://extraott.com:80/live/3586573392/7591141273/380177.ts
+http://extraott.com:80/live/7175313183/6473142259/380177.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/lo.png",KP| LOTTE HOM ESHOPPING HD
-http://extraott.com:80/live/3586573392/7591141273/380203.ts
+http://extraott.com:80/live/7175313183/6473142259/380203.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/nb.png",KP| NBS KOREA AGRICULTURAL BROADCASTING HD
-http://extraott.com:80/live/3586573392/7591141273/191070.ts
+http://extraott.com:80/live/7175313183/6473142259/191070.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/tw.png",KP| TVWORKNET HD
-http://extraott.com:80/live/3586573392/7591141273/191076.ts
+http://extraott.com:80/live/7175313183/6473142259/191076.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/flg.png",✦●✦ KP| SPORTS ✦●✦
-http://extraott.com:80/live/3586573392/7591141273/400201206.ts
+http://extraott.com:80/live/7175313183/6473142259/400201206.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/ebsk.png",KP| EBS KIDS  HD
-http://extraott.com:80/live/3586573392/7591141273/380188.ts
+http://extraott.com:80/live/7175313183/6473142259/380188.ts
 #EXTINF:-1 group-title="AS | KOREA" tvg-logo="https://lo1.in/kor/k.png",KP| K+ HD
-http://extraott.com:80/live/3586573392/7591141273/191063.ts
+http://extraott.com:80/live/7175313183/6473142259/191063.ts
