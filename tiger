@@ -1,3 +1,22 @@
+测试频道,#genre#
+无线新闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade2/jade.stream/chunklist.m3u8
+功夫台,https://edge6a.v2h-cdn.com/asia_action1/1asia_action.stream/chunklist.m3u8
+娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB生活台,https://edge6a.v2h-cdn.com/finance2/finance2.stream/chunklist.m3u8
+TVB Live Shows,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe_1/xinghe_1.stream/chunklist.m3u8
+CCTV4,https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/chunklist.m3u8
+湖南卫视,https://edge6a.v2h-cdn.com/hunnantv/hunnantv.stream/chunklist.m3u8
+浙江卫视,https://edge6a.v2h-cdn.com/ztv/ztv.stream/chunklist.m3u8
+江蘇卫视,https://edge6a.v2h-cdn.com/jsbc/jsbc.stream/chunklist.m3u8
+北京卫视,https://edge6a.v2h-cdn.com/btv/btv.stream/chunklist.m3u8
+深圳卫视,https://edge6a.v2h-cdn.com/shenzhentv/shenzhentv.stream/chunklist.m3u8
+东南卫视,https://edge6a.v2h-cdn.com/fjtv/fjtv.stream/chunklist.m3u8
+广西卫视,https://edge6a.v2h-cdn.com/guangxitv/guangxitv.stream/chunklist.m3u8
+四川卫视,https://edge6a.v2h-cdn.com/sichuantv1/sichuantv1.stream/chunklist.m3u8
+吉林卫视,https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
+
 4GTV新聞財經,#genre#
 民視新聞台,https://smartv2024.koyeb.app/litv/litv-ftv13
 中視新聞台,https://smartv2024.koyeb.app/litv/4gtv-4gtv074
