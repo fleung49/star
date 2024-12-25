@@ -4,6 +4,7 @@
 J2,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/j2_twn/playlist.m3u8
 J5,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/j5_twn/playlist.m3u8
 明珠台,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/pearl_twn/playlist.m3u8
+无线财经资讯台,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/tvbcaijing_twn/playlist.m3u8
 TVB 星河,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/tvbxinhe_twn/playlist.m3u8
 VIUTV1,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/viu1_twn/playlist.m3u8
 VIUTVSIX,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/viusix_twn/playlist.m3u8
@@ -44,9 +45,10 @@ CCTV-15,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/cctv15/play
 广东体育 GDSports,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/gdsports/playlist.m3u8
 
 台灣頻道,#genre#
-TVBS News 新闻台,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8
+TVBS新闻台,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/tvbs_n/playlist.m3u8
 TVBS 欢乐台 （备份）,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8
 TVBS HD,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/tvbs/playlist.m3u8
+TVBS ASIA,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/Tvbasia/playlist.m3u8
 中天新闻 HD,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/ctinews/playlist.m3u8
 中天娱乐 CTI Entertaiment,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/ctient/playlist.m3u8
 中天综合 CTI Metro,http://wanjiatv.net/smrt.php?playurl=http://50.7.234.10:8278/ctizhonghe/playlist.m3u8
