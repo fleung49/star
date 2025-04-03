@@ -1,1013 +1,525 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
-http://www.insurancegogogo.com/4987/inews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠.png" group-title="港澳台",TVB翡翠
-https://www.insurancegogogo.com/4987/jade_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://www.insurancegogogo.com/4987/Wlt/playlist.m3u8
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经
-https://www.insurancegogogo.com/4987/tvbcaijing_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://epg.112114.xyz/logo/TVBJADE.png" group-title="港澳台",TVB Jade
-https://www.insurancegogogo.com/4987/Tvbjade/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="https://epg.112114.xyz/logo/TVBASIA.png" group-title="港澳台",TVB Asia
-https://www.insurancegogogo.com/4987/Tvbasia/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="港澳台",TVB娱乐新闻
-https://www.insurancegogogo.com/4987/Tvbentertainment/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="https://epg.112114.xyz/logo/TVBCLASSIC.png" group-title="港澳台",TVB Classic
-https://www.insurancegogogo.com/4987/Tvbclassic/playlist.m3u8
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",J2
-https://www.insurancegogogo.com/4987/j2_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
-https://www.insurancegogogo.com/4987/Xinhe/playlist.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-https://www.insurancegogogo.com/4987/pearl_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB Magic" tvg-name="TVB Magic" tvg-logo="https://epg.112114.xyz/logo/TVBMAGIC.png" group-title="港澳台",TVB Magic
-https://www.insurancegogogo.com/4987/Tvbmagic/playlist.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
-https://www.insurancegogogo.com/4987/hkphoenix_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视
-https://www.insurancegogogo.com/4987/phoenixtv_hd/playlist.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-https://www.insurancegogogo.com/4987/phoenixinfo_hd/playlist.m3u8
-#EXTINF:-1,tvg-id="RHK31" tvg-name="RHK31" tvg-logo="https://epg.112114.xyz/logo/RHK31.png" group-title="其他",RHK31
-https://www.insurancegogogo.com/4987/rhk31_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="RHK32" tvg-name="RHK32" tvg-logo="https://epg.112114.xyz/logo/RHK32.png" group-title="其他",RHK32
-https://www.insurancegogogo.com/4987/rhk32_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",VIUTV1
-https://www.insurancegogogo.com/4987/viu1_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",VIUTV6
-https://www.insurancegogogo.com/4987/viusix_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",ViuTV69
-https://www.insurancegogogo.com/4987/viutv69_hkdavid/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1综合
-https://www.insurancegogogo.com/4987/cctv1/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2财经
-https://www.insurancegogogo.com/4987/cctv2/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3综艺
-https://www.insurancegogogo.com/4987/cctv3/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4中文国际
-https://www.insurancegogogo.com/4987/cctv4/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-https://www.insurancegogogo.com/4987/Cctv4/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5体育
-https://www.insurancegogogo.com/4987/cctv5/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-https://www.insurancegogogo.com/4987/cctv5plus/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6电影
-https://www.insurancegogogo.com/4987/cctv6/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
-https://www.insurancegogogo.com/4987/cctv7/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8电视剧
-https://www.insurancegogogo.com/4987/cctv8hd/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9记录
-https://www.insurancegogogo.com/4987/cctv9hd/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10科教
-https://www.insurancegogogo.com/4987/cctv10hd/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11戏曲
-https://www.insurancegogogo.com/4987/cctv11/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12社会与法
-https://www.insurancegogogo.com/4987/cctv12/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13新闻频道
-https://www.insurancegogogo.com/4987/cctv13/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14少儿
-https://www.insurancegogogo.com/4987/cctv14/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15音乐
-https://www.insurancegogogo.com/4987/cctv15/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
-https://www.insurancegogogo.com/4987/cctv17/playlist.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-https://www.insurancegogogo.com/4987/Hunan/playlist.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-https://www.insurancegogogo.com/4987/Zhejiang/playlist.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://www.insurancegogogo.com/4987/Jiangsu/playlist.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-https://www.insurancegogogo.com/4987/shenzhen/playlist.m3u8
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-https://www.insurancegogogo.com/4987/fujian/playlist.m3u8
-#EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="卫视",南方卫视
-https://www.insurancegogogo.com/4987/nanfang_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-https://www.insurancegogogo.com/4987/guangdongweishi_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-https://www.insurancegogogo.com/4987/beijing/playlist.m3u8
-#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="其他",珠江台
-https://www.insurancegogogo.com/4987/zhujiang/playlist.m3u8
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-https://www.insurancegogogo.com/4987/guangxi/playlist.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://www.insurancegogogo.com/4987/hubei/playlist.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-https://www.insurancegogogo.com/4987/sichuan_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视
-https://www.insurancegogogo.com/4987/phoenixtv_hd/playlist.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-https://www.insurancegogogo.com/4987/dongfangweishi_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="其他",公视
-https://www.insurancegogogo.com/4987/ctv_taiwan/playlist.m3u8
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
-https://www.insurancegogogo.com/4987/ttv_taiwan/playlist.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-https://www.insurancegogogo.com/4987/zhongshihd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
-https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-https://www.insurancegogogo.com/4987/ctshd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" group-title="港澳台",大爱2台
-https://www.insurancegogogo.com/4987/catchplay_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
-https://www.insurancegogogo.com/4987/tvbs/playlist.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
-https://www.insurancegogogo.com/4987/tvbs_n/playlist.m3u8
-#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
-https://www.insurancegogogo.com/4987/tvbshuanle_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="港澳台",年代新闻
-https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="其他",中天新闻
-https://www.insurancegogogo.com/4987/ctinews/playlist.m3u8
-#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="其他",中天娱乐
-https://www.insurancegogogo.com/4987/ctient/playlist.m3u8
-#EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="其他",中天综合
-https://www.insurancegogogo.com/4987/ctizhonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="其他",中天亚洲
-https://www.insurancegogogo.com/4987/ctiasia_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
-https://www.insurancegogogo.com/4987/ttvnews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://epg.112114.xyz/logo/台视综合台.png" group-title="港澳台",台视综合
-https://www.insurancegogogo.com/4987/ttvzhonghe_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/中视经典.png" group-title="港澳台",中视经典
-https://www.insurancegogogo.com/4987/zhongshi_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
-https://www.insurancegogogo.com/4987/zhongshinews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="其他",非凡新闻
-http://https://www.insurancegogogo.com/4987/feifannews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
-https://www.insurancegogogo.com/4987/ftvnew_taiwan/playlist.m3u8
-#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台湾",民视台湾
-https://www.insurancegogogo.com/4987/ftvtaiwan_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="其他",八大第一
-https://www.insurancegogogo.com/4987/badafirst/playlist.m3u8
-#EXTINF:-1,tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" group-title="其他",八大综合
-https://www.insurancegogogo.com/4987/badazhonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://epg.112114.xyz/logo/八大戏剧台.png" group-title="其他",八大戏剧
-https://www.insurancegogogo.com/4987/badadrama/playlist.m3u8
-#EXTINF:-1,tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://epg.112114.xyz/logo/八大娱乐台.png" group-title="其他",八大娱乐
-https://www.insurancegogogo.com/4987/badaentertain/playlist.m3u8
-#EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="台湾",三立台湾
-https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
-#EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.112114.xyz/logo/三立综合台.png" group-title="其他",三立综合
-https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="其他",三立戏剧
-https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="其他",三立新闻
-https://www.insurancegogogo.com/4987/inews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/东森综合台.png" group-title="港澳台",东森综合
-https://www.insurancegogogo.com/4987/ettvzhonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
-https://www.insurancegogogo.com/4987/ettvsuper/playlist.m3u8
-#EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/东森戏剧台.png" group-title="港澳台",东森戏剧
-https://www.insurancegogogo.com/4987/ettvdrama/playlist.m3u8
-#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="港澳台",东森财经
-https://www.insurancegogogo.com/4987/ettvcaijing_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
-https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
-https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8
-#EXTINF:-1,tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.112114.xyz/logo/东森幼幼台.png" group-title="港澳台",东森幼幼
-https://www.insurancegogogo.com/4987/yoyo_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="其他",龙华洋片
-https://www.insurancegogogo.com/4987/lunghuawestern_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="龙详时代" tvg-name="龙详时代" tvg-logo="https://epg.112114.xyz/logo/龙详时代.png" group-title="其他",龙详时代
-https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="其他",龙华戏剧
-https://www.insurancegogogo.com/4987/lunghuaxiju_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="其他",龙华偶像
-https://www.insurancegogogo.com/4987/lunghuaidol_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://epg.112114.xyz/logo/龙华卡通.png" group-title="其他",龙华卡通
-https://www.insurancegogogo.com/4987/jingtiancartoon_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="其他",靖天卡通
-https://www.insurancegogogo.com/4987/jingtiancartoon_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="其他",靖天国际
-https://www.insurancegogogo.com/4987/jingtianintl_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="https://epg.112114.xyz/logo/探索亚洲.png" group-title="其他",探索亚洲
-https://www.insurancegogogo.com/4987/discoverytwn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="卫视",卫视中文
-https://www.insurancegogogo.com/4987/weishichinese_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="卫视",卫视电影
-https://www.insurancegogogo.com/4987/weishimovie_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="其他",美亚电影
-https://www.insurancegogogo.com/4987/meiyamovie_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://epg.112114.xyz/logo/星卫电影.png" group-title="其他",星卫电影
-https://www.insurancegogogo.com/4987/xingwei_movie/playlist.m3u8
-#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" group-title="其他",旅游生活
-https://www.insurancegogogo.com/4987/tlc_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="其他",亚洲旅游
-https://www.insurancegogogo.com/4987/asiatravel_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="其他",亚洲美食
-https://www.insurancegogogo.com/4987/afc_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="其他",美食星球
-https://www.insurancegogogo.com/4987/foodplanet_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="其他",动物星球
-https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="其他",动物星球1
-https://www.insurancegogogo.com/4987/animalplanet_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯网球台.png" group-title="港澳台",博斯网球
-https://www.insurancegogogo.com/4987/bositennis_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="港澳台",博斯运动1
-https://www.insurancegogogo.com/4987/bosisport1_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="港澳台",博斯高球2
-https://www.insurancegogogo.com/4987/bosigolf2_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="港澳台",博斯运动2
-https://www.insurancegogogo.com/4987/bosisport2_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="其他",国家地理
-https://www.insurancegogogo.com/4987/natgeohd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="野生动物" tvg-name="野生动物" tvg-logo="https://epg.112114.xyz/logo/野生动物.png" group-title="其他",野生动物
-https://www.insurancegogogo.com/4987/natgeowild_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://epg.112114.xyz/logo/国家地理野生.png" group-title="其他",地理野生
-https://www.insurancegogogo.com/4987/natgeowildtamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" group-title="其他",EYETV戏剧
-https://www.insurancegogogo.com/4987/eyetvxiju_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" group-title="其他",EYETV旅游
-https://www.insurancegogogo.com/4987/?id=eyetvtravel_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="其他",好莱坞电影
-https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="其他",爱尔达体育2
-https://www.insurancegogogo.com/4987/eltasport2_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="其他",爱尔达体育3
-https://www.insurancegogogo.com/4987/eltasport3_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="其他",GOODTV真理
-https://www.insurancegogogo.com/4987/good2_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="华丽台 HD" tvg-name="华丽台 HD" tvg-logo="https://epg.112114.xyz/logo/华丽台.png" group-title="其他",华丽台 HD
-https://www.insurancegogogo.com/4987/Wlt/playlist.m3u8
-#EXTINF:-1,tvg-id="欢喜台 HD" tvg-name="欢喜台 HD" tvg-logo="https://epg.112114.xyz/logo/欢喜台.png" group-title="其他",欢喜台 HD
-https://www.insurancegogogo.com/4987/Huahee/playlist.m3u8
-#EXTINF:-1,tvg-id="欢喜台 backup" tvg-name="欢喜台 backup" tvg-logo="https://epg.112114.xyz/logo/欢喜台BACKUP.png" group-title="其他",欢喜台 backup
-https://www.insurancegogogo.com/4987/Huahee_backup/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/ASTROQJ.png" group-title="港澳台",Astro QJ
-https://www.insurancegogogo.com/4987/Quanjia/playlist.m3u8
-#EXTINF:-1,tvg-id="爱奇艺 iQiyi" tvg-name="爱奇艺 iQiyi" tvg-logo="https://epg.112114.xyz/logo/爱奇艺IQIYI.png" group-title="其他",爱奇艺 iQiyi
-https://www.insurancegogogo.com/4987/Qiyi/playlist.m3u8
-#EXTINF:-1,tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.112114.xyz/logo/AOD.png" group-title="其他",AOD
-https://www.insurancegogogo.com/4987/AodHD/playlist.m3u8
-#EXTINF:-1,tvg-id="AEC" tvg-name="AEC" tvg-logo="https://epg.112114.xyz/logo/AEC.png" group-title="其他",AEC
-https://www.insurancegogogo.com/4987/AEC/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro Premier" tvg-name="Astro Premier" tvg-logo="https://epg.112114.xyz/logo/ASTROPREMIER.png" group-title="港澳台",Astro Premier
-https://www.insurancegogogo.com/4987/Astropremier/playlist.m3u8
-#EXTINF:-1,tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://epg.112114.xyz/logo/ALHIJRAH.png" group-title="其他",Al-Hijrah
-https://www.insurancegogogo.com/4987/Alhijrah/playlist.m3u8
-#EXTINF:-1,tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="https://epg.112114.xyz/logo/ALHIJRAHBACKUP.png" group-title="其他",Al-Hijrah backup
-https://www.insurancegogogo.com/4987/Alhijrah_backup/playlist.m3u8
-#EXTINF:-1,tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET(ENG).png" group-title="其他",Animal Planet (Eng)
-https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,tvg-id="Awani" tvg-name="Awani" tvg-logo="https://epg.112114.xyz/logo/AWANI.png" group-title="其他",Awani
-https://www.insurancegogogo.com/4987/Awani/playlist.m3u8
-#EXTINF:-1,tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="https://epg.112114.xyz/logo/AWESOMETV.png" group-title="其他",Awesome TV
-https://www.insurancegogogo.com/4987/Dsangat/playlist.m3u8
-#EXTINF:-1,tvg-id="Aura" tvg-name="Aura" tvg-logo="https://epg.112114.xyz/logo/AURA.png" group-title="其他",Aura
-https://www.insurancegogogo.com/4987/Aura/playlist.m3u8
-#EXTINF:-1,tvg-id="Bernama" tvg-name="Bernama" tvg-logo="https://epg.112114.xyz/logo/BERNAMA.png" group-title="其他",Bernama
-https://www.insurancegogogo.com/4987/Bernama/playlist.m3u8
-#EXTINF:-1,tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://epg.112114.xyz/logo/BOOMERANG.png" group-title="其他",Boo
-https://www.insurancegogogo.com/4987/Boo/playlist.m3u8
-#EXTINF:-1,tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/CARTOONNETWORK.png" group-title="其他",Cartoon Network
-https://www.insurancegogogo.com/4987/Cn/playlist.m3u8
-#EXTINF:-1,tvg-id="Ceria" tvg-name="Ceria" tvg-logo="https://epg.112114.xyz/logo/CERIA.png" group-title="其他",Ceria
-https://www.insurancegogogo.com/4987/Ceria/playlist.m3u8
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Citra
-https://www.insurancegogogo.com/4987/Citra_xue/playlist.m3u8
-#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="其他",Dreamworks
-https://www.insurancegogogo.com/4987/Dreamworks/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
-https://www.insurancegogogo.com/4987/Hbo/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBOSIGNATURE.png" group-title="港澳台",HBO Signature
-https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="其他",Hits HD
-https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSWORLD.png" group-title="其他",KBS World
-https://www.insurancegogogo.com/4987/KBS/playlist.m3u8
-#EXTINF:-1,tvg-id="Prima" tvg-name="Prima" tvg-logo="https://epg.112114.xyz/logo/PRIMA.png" group-title="其他",Prima
-https://www.insurancegogogo.com/4987/Prima-0 Prima/playlist.m3u8
-#EXTINF:-1,tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="https://epg.112114.xyz/logo/PRIMABACKUP.png" group-title="其他",Prima backup
-https://www.insurancegogogo.com/4987/Prima_xue/playlist.m3u8
-#EXTINF:-1,tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="https://epg.112114.xyz/logo/MECCALIVE.png" group-title="其他",Mecca Live HD
-https://www.insurancegogogo.com/4987/quran_mido/playlist.m3u8
-#EXTINF:-1,tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="https://epg.112114.xyz/logo/MADINAH.png" group-title="其他",Madinah HD
-https://www.insurancegogogo.com/4987/sunnah_mido/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/NATGEOWILD.png" group-title="其他",NatGeo Wild HD
-https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="其他",Nickelodeon
-https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="其他",Nick Jr
-http://172.63.16:9630/Smartv.php?id=Nickjr/playlist.m3u8
-#EXTINF:-1,tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://epg.112114.xyz/logo/NTV7.png" group-title="其他",NTV7
-https://www.insurancegogogo.com/4987/NTV7/playlist.m3u8
-#EXTINF:-1,tvg-id="Oasis" tvg-name="Oasis" tvg-logo="https://epg.112114.xyz/logo/OASIS.png" group-title="其他",Oasis
-https://www.insurancegogogo.com/4987/Oasis HBO/playlist.m3u8
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",One
-https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Rania" tvg-name="Rania" tvg-logo="https://epg.112114.xyz/logo/RANIA.png" group-title="其他",Rania
-https://www.insurancegogogo.com/4987/Rani/playlist.m3u8
-#EXTINF:-1,tvg-id="Ria" tvg-name="Ria" tvg-logo="https://epg.112114.xyz/logo/RIA.png" group-title="其他",Ria
-https://www.insurancegogogo.com/4987/Ria-0/playlist.m3u8
-#EXTINF:-1,tvg-id="Ria backup" tvg-name="Ria backup" tvg-logo="https://epg.112114.xyz/logo/RIABACKUP.png" group-title="其他",Ria backup
-https://www.insurancegogogo.com/4987/Ri/playlist.m3u8
-#EXTINF:-1,tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="https://epg.112114.xyz/logo/SENSASI.png" group-title="其他",Sensasi
-https://www.insurancegogogo.com/4987/Sensasi/playlist.m3u8
-#EXTINF:-1,tvg-id="SONYMAX" tvg-name="SONYMAX" tvg-logo="https://epg.112114.xyz/logo/SONYMAX.png" group-title="其他",Sony HD
-https://www.insurancegogogo.com/4987/SetOne/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="其他",TV1
-https://www.insurancegogogo.com/4987/TV1/playlist.m3u8
-#EXTINF:-1,tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="https://epg.112114.xyz/logo/TV1BACKUP.png" group-title="其他",TV1 backup
-https://www.insurancegogogo.com/4987/TV1_backup/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="其他",TV2
-https://www.insurancegogogo.com/4987/TV2/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="其他",TV3
-https://www.insurancegogogo.com/4987/TV3/playlist.m3u8
-#EXTINF:-1,tvg-id="TV3 backup" tvg-name="TV3 backup" tvg-logo="https://epg.112114.xyz/logo/TV3BACKUP.png" group-title="其他",TV3 backup
-https://www.insurancegogogo.com/4987/tv3_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="其他",TV8
-https://www.insurancegogogo.com/4987/TV8/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="其他",TV9
-https://www.insurancegogogo.com/4987/TV9/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="其他",TvN
-https://www.insurancegogogo.com/4987/TVN/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="其他",tvN Movie
-https://www.insurancegogogo.com/4987/Tvnmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="Warna" tvg-name="Warna" tvg-logo="https://epg.112114.xyz/logo/WARNA.png" group-title="其他",Warna
-https://www.insurancegogogo.com/4987/Warna-O/playlist.m3u8
-#EXTINF:-1,tvg-id="Warna backup" tvg-name="Warna backup" tvg-logo="https://epg.112114.xyz/logo/WARNABACKUP.png" group-title="其他",Warna backup
-https://www.insurancegogogo.com/4987/Warna/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="其他",Channel 5
-https://www.insurancegogogo.com/4987/Channel5HD/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel 5 backup" tvg-name="Channel 5 backup" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5BACKUP.png" group-title="其他",Channel 5 backup
-https://www.insurancegogogo.com/4987/Ch5_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="其他",Channel 8
-https://www.insurancegogogo.com/4987/Channel8HD/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel 8 backup" tvg-name="Channel 8 backup" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8BACKUP.png" group-title="其他",Channel 8 backup
-https://www.insurancegogogo.com/4987/Ch8_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/CHANNELU.png" group-title="其他",Channel U
-https://www.insurancegogogo.com/4987/ChannelU/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel U backup" tvg-name="Channel U backup" tvg-logo="https://epg.112114.xyz/logo/CHANNELUBACKUP.png" group-title="其他",Channel U backup
-https://www.insurancegogogo.com/4987/ChU_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="其他",CNA
-https://www.insurancegogogo.com/4987/cna/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="https://epg.112114.xyz/logo/CNABACKUP.png" group-title="其他",CNA backup
-https://www.insurancegogogo.com/4987/cna_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Suria" tvg-name="Suria" tvg-logo="https://epg.112114.xyz/logo/SURIA.png" group-title="其他",Suria
-https://www.insurancegogogo.com/4987/Suria Suria/playlist.m3u8
-#EXTINF:-1,tvg-id="Suria backup" tvg-name="Suria backup" tvg-logo="https://epg.112114.xyz/logo/SURIABACKUP.png" group-title="其他",Suria backup
-https://www.insurancegogogo.com/4987/Suria_backup/playlist.m3u8
-#EXTINF:-1,tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://epg.112114.xyz/logo/VASANTHAM.png" group-title="其他",Vasantham
-https://www.insurancegogogo.com/4987/Vasantham/playlist.m3u8
-#EXTINF:-1,tvg-id="Vasantham backup" tvg-name="Vasantham backup" tvg-logo="https://epg.112114.xyz/logo/VASANTHAMBACKUP.png" group-title="其他",Vasantham backup
-https://www.insurancegogogo.com/4987/Vasantham_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Arena" tvg-name="Arena" tvg-logo="https://epg.112114.xyz/logo/ARENA.png" group-title="其他",Arena
-https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
-#EXTINF:-1,tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="https://epg.112114.xyz/logo/ARENA2.png" group-title="其他",Arena 2
-https://www.insurancegogogo.com/4987/Arena2/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/ASTROCRICKET.png" group-title="港澳台",Astro Cricket
-https://www.insurancegogogo.com/4987/Acricket_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="https://epg.112114.xyz/logo/ASTROGOLF.png" group-title="港澳台",Astro Golf
-https://www.insurancegogogo.com/4987/Agolf/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 1 English" tvg-name="Bein 1 English" tvg-logo="https://epg.112114.xyz/logo/BEIN1ENGLISH.png" group-title="其他",Bein 1 English
-https://www.insurancegogogo.com/4987/bein1eng_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 1 Premium" tvg-name="Bein 1 Premium" tvg-logo="https://epg.112114.xyz/logo/BEIN1PREMIUM.png" group-title="其他",Bein 1 Premium
-https://www.insurancegogogo.com/4987/bein1pre_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 1 Xtra" tvg-name="Bein 1 Xtra" tvg-logo="https://epg.112114.xyz/logo/BEIN1XTRA.png" group-title="其他",Bein 1 Xtra
-https://www.insurancegogogo.com/4987/bein1xtra_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 2 Premium" tvg-name="Bein 2 Premium" tvg-logo="https://epg.112114.xyz/logo/BEIN2PREMIUM.png" group-title="其他",Bein 2 Premium
-https://www.insurancegogogo.com/4987/bein2pre_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 2HD" tvg-name="Bein 2HD" tvg-logo="https://epg.112114.xyz/logo/BEIN2.png" group-title="其他",Bein 2HD
-https://www.insurancegogogo.com/4987/Beinhd/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 3 English" tvg-name="Bein 3 English" tvg-logo="https://epg.112114.xyz/logo/BEIN3ENGLISH.png" group-title="其他",Bein 3 English
-https://www.insurancegogogo.com/4987/bein3eng_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 3 Premium" tvg-name="Bein 3 Premium" tvg-logo="https://epg.112114.xyz/logo/BEIN3PREMIUM.png" group-title="其他",Bein 3 Premium
-https://www.insurancegogogo.com/4987/bein3pre_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 4 Sports" tvg-name="Bein 4 Sports" tvg-logo="https://epg.112114.xyz/logo/BEIN4SPORTS.png" group-title="其他",Bein 4 Sports
-https://www.insurancegogogo.com/4987/bein4_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein 5 Sports" tvg-name="Bein 5 Sports" tvg-logo="https://epg.112114.xyz/logo/BEIN5SPORTS.png" group-title="其他",Bein 5 Sports
-https://www.insurancegogogo.com/4987/bein5_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein sports 2 HD" tvg-name="Bein sports 2 HD" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS2.png" group-title="其他",Bein sports 2 HD
-http://https://www.insurancegogogo.com/4987/Bein2hd/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein sports HD" tvg-name="Bein sports HD" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS.png" group-title="其他",Bein sports HD
-https://www.insurancegogogo.com/4987/Besports/playlist.m3u8
-#EXTINF:-1,tvg-id="Bein sports Rugby" tvg-name="Bein sports Rugby" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTSRUGBY.png" group-title="其他",Bein sports Rugby
-https://www.insurancegogogo.com/4987/go_beinsrugby/playlist.m3u8
-#EXTINF:-1,tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/BOLAARENA1.png" group-title="其他",BolaArena 1
-https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
-#EXTINF:-1,tvg-id="Champion 5EPL" tvg-name="Champion 5EPL" tvg-logo="https://epg.112114.xyz/logo/CHAMPION5EPL.png" group-title="其他",Champion 5EPL
-https://www.insurancegogogo.com/4987/Champion5epl/playlist.m3u8
-#EXTINF:-1,tvg-id="Champion 6 EPL" tvg-name="Champion 6 EPL" tvg-logo="https://epg.112114.xyz/logo/CHAMPION6EPL.png" group-title="其他",Champion 6 EPL
-https://www.insurancegogogo.com/4987/Champion6epl/playlist.m3u8
-#EXTINF:-1,tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="其他",Fight Sports
-https://www.insurancegogogo.com/4987/Fs/playlist.m3u8
-#EXTINF:-1,tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBATV.png" group-title="其他",NBA TV
-https://www.insurancegogogo.com/4987/nbatv_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Network
-https://www.insurancegogogo.com/4987/ufc_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/RTMSPORTS.png" group-title="其他",RTM Sports HD
-https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
-#EXTINF:-1,tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/RUGBYPASSTV.png" group-title="其他",Rugby Pass TV
-https://www.insurancegogogo.com/4987/Rugbypasstv/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports Arena" tvg-name="Skysports Arena" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSARENA.png" group-title="其他",Skysports Arena
-https://www.insurancegogogo.com/4987/tiankongarena/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSCRICKET.png" group-title="其他",Skysports Cricket
-https://www.insurancegogogo.com/4987/tiankongcricket/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSEPL.png" group-title="其他",Skysports EPL
-https://www.insurancegogogo.com/4987/tiankongepl/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSF1.png" group-title="其他",Skysports F1
-https://www.insurancegogogo.com/4987/tiankongf1/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports Football" tvg-name="Skysports Football" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSFOOTBALL.png" group-title="其他",Skysports Football
-https://www.insurancegogogo.com/4987/tiankongfootball/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports Golf" tvg-name="Skysports Golf" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSGOLF.png" group-title="其他",Skysports Golf
-https://www.insurancegogogo.com/4987/tiankonggolf/playlist.m3u8
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="其他",Skysports Main Event
-https://www.insurancegogogo.com/4987/tiankongmain/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSMIX.png" group-title="其他",Skysports Mix
-https://www.insurancegogogo.com/4987/tiankongmix/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSNEWS.png" group-title="其他",Skysports News
-https://www.insurancegogogo.com/4987/tiankongnews/playlist.m3u8
-#EXTINF:-1,tvg-id="Skysports NFL" tvg-name="Skysports NFL" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSNFL.png" group-title="其他",Skysports NFL
-https://www.insurancegogogo.com/4987/tiankongnfl/playlist.m3u8
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Skysports Racing
-https://www.insurancegogogo.com/4987/tiankongracing/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Six HD" tvg-name="Sony Six HD" tvg-logo="https://epg.112114.xyz/logo/SONYSIX.png" group-title="其他",Sony Six HD
-https://www.insurancegogogo.com/4987/sonysix_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/SONYTEN1.png" group-title="其他",Sony Ten 1
-https://www.insurancegogogo.com/4987/ten1_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/SONYTEN2.png" group-title="其他",Sony Ten 2
-https://www.insurancegogogo.com/4987/ten2_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/SONYTEN3.png" group-title="其他",Sony Ten 3
-https://www.insurancegogogo.com/4987/ten3_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="https://epg.112114.xyz/logo/SPOTV2.png" group-title="其他",SPO TV 2
-https://www.insurancegogogo.com/4987/go_spotv2/playlist.m3u8
-#EXTINF:-1,tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="https://epg.112114.xyz/logo/SPOTV1.png" group-title="其他",SPOTV 1 HD
-https://www.insurancegogogo.com/4987/go_spotv/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS1.png" group-title="其他",Supersports 1
-https://www.insurancegogogo.com/4987/Assp1/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 1 backup" tvg-name="Supersports 1 backup" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS1BACKUP.png" group-title="其他",Supersports 1 backup
-https://www.insurancegogogo.com/4987/go_assp1/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS2.png" group-title="其他",Supersports 2
-https://www.insurancegogogo.com/4987/Assp2/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 2 backup" tvg-name="Supersports 2 backup" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS2BACKUP.png" group-title="其他",Supersports 2 backup
-https://www.insurancegogogo.com/4987/go_assp2/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS3.png" group-title="其他",Supersports 3
-https://www.insurancegogogo.com/4987/Assp3/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 3 backup" tvg-name="Supersports 3 backup" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS3BACKUP.png" group-title="其他",Supersports 3 backup
-https://www.insurancegogogo.com/4987/go_assp3/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 3 backup2" tvg-name="Supersports 3 backup2" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS3BACKUP2.png" group-title="其他",Supersports 3 backup2
-https://www.insurancegogogo.com/4987/Assp3_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS4.png" group-title="其他",Supersports 4
-https://www.insurancegogogo.com/4987/Assp4_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 4 backup" tvg-name="Supersports 4 backup" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS4BACKUP.png" group-title="其他",Supersports 4 backup
-https://www.insurancegogogo.com/4987/go_assp4/playlist.m3u8
-#EXTINF:-1,tvg-id="Supersports 5" tvg-name="Supersports 5" tvg-logo="https://epg.112114.xyz/logo/SUPERSPORTS5.png" group-title="其他",Supersports 5
-https://www.insurancegogogo.com/4987/go_assp5/playlist.m3u8
-#EXTINF:-1,tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://epg.112114.xyz/logo/TNTSPORTS1.png" group-title="其他",TNT Sports 1
-https://www.insurancegogogo.com/4987/beeone/playlist.m3u8
-#EXTINF:-1,tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/TNTSPORTS2.png" group-title="其他",TNT Sports 2
-https://www.insurancegogogo.com/4987/beetwo/playlist.m3u8
-#EXTINF:-1,tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://epg.112114.xyz/logo/TNTSPORTS3.png" group-title="其他",TNT Sports 3
-https://www.insurancegogogo.com/4987/beethree/playlist.m3u8
-#EXTINF:-1,tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/TNTSPORTS4.png" group-title="其他",TNT Sports 4
-https://www.insurancegogogo.com/4987/beefour/playlist.m3u8
-#EXTINF:-1,tvg-id="WWE" tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE.png" group-title="其他",WWE
-https://www.insurancegogogo.com/4987/Wwe/playlist.m3u8
-#EXTINF:-1,tvg-id="﻿ABC News" tvg-name="﻿ABC News" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="其他",﻿ABC News
-https://www.insurancegogogo.com/4987/abcnews_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="Actions" tvg-name="Actions" tvg-logo="https://epg.112114.xyz/logo/ACTIONS.png" group-title="其他",Actions
-https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
-#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="其他",Al-Jazeera
-https://www.insurancegogogo.com/4987/aljazeera_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET(ENG).png" group-title="其他",Animal Planet (Eng)
-https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="其他",Animax
-https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
-#EXTINF:-1,tvg-id="Arena" tvg-name="Arena" tvg-logo="https://epg.112114.xyz/logo/ARENA.png" group-title="其他",Arena
-https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
-#EXTINF:-1,tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/ASTROLKPLUS.png" group-title="港澳台",Astrol Kplus
-https://www.insurancegogogo.com/4987/Kplus/playlist.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",Axn HD
-https://www.insurancegogogo.com/4987/Axn/playlist.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN Taiwan
-https://www.insurancegogogo.com/4987/axn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="https://epg.112114.xyz/logo/BBC1.png" group-title="其他",BBC 1
-http://
-#EXTINF:-1,tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="https://epg.112114.xyz/logo/BBC2.png" group-title="其他",BBC 2
-https://www.insurancegogogo.com/4987/bbc2_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="其他",BBC Earth HD
-https://www.insurancegogogo.com/4987/bbcearth_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCLIFESTYLE" tvg-name="BBCLIFESTYLE" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png" group-title="其他",BBC Lifestyle
-https://www.insurancegogogo.com/4987/bbclifestyle_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",BBC World News
-https://www.insurancegogogo.com/4987/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",BBC World News 2
-https://www.insurancegogogo.com/4987/bbcnews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="其他",BBC News
-https://www.insurancegogogo.com/4987/Bbcnews/playlist.m3u8
-#EXTINF:-1,tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/BOLAARENA1.png" group-title="其他",BolaArena 1
-https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
-#EXTINF:-1,tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://epg.112114.xyz/logo/BOOMERANG.png" group-title="其他",Boomerang
-https://www.insurancegogogo.com/4987/Boomerang/playlist.m3u8
-#EXTINF:-1,tvg-id="CBBC" tvg-name="CBBC" tvg-logo="https://epg.112114.xyz/logo/CBBC.png" group-title="其他",CBBC
-https://www.insurancegogogo.com/4987/cbbc_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="其他",CBeebies
-https://www.insurancegogogo.com/4987/Cbeebies/playlist.m3u8
-#EXTINF:-1,tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="其他",CBS HD
-https://www.insurancegogogo.com/4987/cbshd_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" group-title="其他",CBSN HD
-https://www.insurancegogogo.com/4987/cbsn_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="其他",Celestial Movies HD
-https://www.insurancegogogo.com/4987/Celestial_megaArena/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="其他",Celestial Movies
-https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
-#EXTINF:-1,tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://epg.112114.xyz/logo/CHANNEL4.png" group-title="其他",Channel 4
-https://www.insurancegogogo.com/4987/channel4_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="其他",Cinemax
-https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Cinemax_
-https://www.insurancegogogo.com/4987/cinemax_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Classic" tvg-name="Classic" tvg-logo="https://epg.112114.xyz/logo/CLASSIC.png" group-title="其他",Classic
-https://www.insurancegogogo.com/4987/Celestial2/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="其他",CNA
-https://www.insurancegogogo.com/4987/cna/playlist.m3u8
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="其他",CNBC
-http://https://www.insurancegogogo.com/4987/cnbc_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN backup
-https://www.insurancegogogo.com/4987/cnn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN International
-https://www.insurancegogogo.com/4987/Cnn/playlist.m3u8
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",DW (Deutsch)
-https://www.insurancegogogo.com/4987/dw_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",Euronews
-https://www.insurancegogogo.com/4987/euronews_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Food network Hd
-https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="港澳台",Fox News
-https://www.insurancegogogo.com/4987/foxnews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="其他",France 24
-https://www.insurancegogogo.com/4987/france24_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Freesports" tvg-name="Freesports" tvg-logo="https://epg.112114.xyz/logo/FREESPORTS.png" group-title="其他",Freesports
-https://www.insurancegogogo.com/4987/freesports_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="https://epg.112114.xyz/logo/GMMCHANNEL.png" group-title="其他",Gmm Channel
-https://www.insurancegogogo.com/4987/gmmchannel_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="Goshop" tvg-name="Goshop" tvg-logo="https://epg.112114.xyz/logo/GOSHOP.png" group-title="其他",Goshop
-https://www.insurancegogogo.com/4987/Goshop/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://epg.112114.xyz/logo/HBOFAMILY.png" group-title="港澳台",HBO Family
-https://www.insurancegogogo.com/4987/Hbofamily/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
-https://www.insurancegogogo.com/4987/Hbo/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="港澳台",HBO Hits HD
-https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBOSIGNATURE.png" group-title="港澳台",HBO Signature
-https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO_HD
-https://www.insurancegogogo.com/4987/hbohd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO_HITS
-https://www.insurancegogogo.com/4987/hbohits_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="HGTV居家乐活" tvg-name="HGTV居家乐活" tvg-logo="https://epg.112114.xyz/logo/HGTV居家乐活.png" group-title="其他",HGTV
-https://www.insurancegogogo.com/4987/HGTV/playlist.m3u8
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="其他",History
-https://www.insurancegogogo.com/4987/History/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="其他",Hits
-https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="其他",Hits Movie
-https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOODMOVIES.png" group-title="其他",Hollywood Movies
-https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="itv 1" tvg-name="itv 1" tvg-logo="https://epg.112114.xyz/logo/ITV1.png" group-title="其他",itv 1
-https://www.insurancegogogo.com/4987/itv1/playlist.m3u8
-#EXTINF:-1,tvg-id="itv 2" tvg-name="itv 2" tvg-logo="https://epg.112114.xyz/logo/ITV2.png" group-title="其他",itv 2
-https://www.insurancegogogo.com/4987/itv2/playlist.m3u8
-#EXTINF:-1,tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="https://epg.112114.xyz/logo/KIDSTV.png" group-title="其他",Kids TV
-https://www.insurancegogogo.com/4987/KidsTV/playlist.m3u8
-#EXTINF:-1,tvg-id="More4" tvg-name="More4" tvg-logo="https://epg.112114.xyz/logo/MORE4.png" group-title="其他",More4
-https://www.insurancegogogo.com/4987/more4_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/MOVIESNOW.png" group-title="其他",Movies Now HD
-https://www.insurancegogogo.com/4987/moviesnow_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="其他",MTV Live
-https://www.insurancegogogo.com/4987/mtvhd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/NATGEO.png" group-title="其他",NatGeo HD
-https://www.insurancegogogo.com/4987/Natgeo/playlist.m3u8
-#EXTINF:-1,tvg-id="Nation" tvg-name="Nation" tvg-logo="https://epg.112114.xyz/logo/NATION.png" group-title="其他",Nation
-https://www.insurancegogogo.com/4987/nation_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="Nbt" tvg-name="Nbt" tvg-logo="https://epg.112114.xyz/logo/NBT.png" group-title="其他",Nbt
-https://www.insurancegogogo.com/4987/nbt_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Network
-https://www.insurancegogogo.com/4987/Paramountnetwork/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",New
-https://www.insurancegogogo.com/4987/new_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",News
-https://www.insurancegogogo.com/4987/bloomberg_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="港澳台",NHK World
-https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="其他",Nick Jr
-https://www.insurancegogogo.com/4987/Nickjr/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="其他",Nickelodeon
-https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",One
-https://www.insurancegogogo.com/4987/One_mega/playlist.m3/playlist.m3u8u8
-#EXTINF:-1,tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="https://epg.112114.xyz/logo/PICKTV.png" group-title="其他",Pick TV
-https://www.insurancegogogo.com/4987/picktv_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/ROCKENTERTAINMENT.png" group-title="其他",Rock Entertainment
-https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
-#EXTINF:-1,tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/RTMSPORTS.png" group-title="其他",RTM Sports HD
-https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
-#EXTINF:-1,tvg-id="Showcase" tvg-name="Showcase" tvg-logo="https://epg.112114.xyz/logo/SHOWCASE.png" group-title="其他",Showcase
-https://www.insurancegogogo.com/4987/Showcase_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="其他",Skynews
-https://www.insurancegogogo.com/4987/skynews_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Pix HD" tvg-name="Sony Pix HD" tvg-logo="https://epg.112114.xyz/logo/SONYPIX.png" group-title="其他",Sony Pix HD
-https://www.insurancegogogo.com/4987/sonypix_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="STARMOVIESHD" tvg-name="STARMOVIESHD" tvg-logo="https://epg.112114.xyz/logo/STARMOVIESHD.png" group-title="其他",Star Movies HD
-https://www.insurancegogogo.com/4987/starmovies_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Thairath" tvg-name="Thairath" tvg-logo="https://epg.112114.xyz/logo/THAIRATH.png" group-title="其他",Thairath
-https://www.insurancegogogo.com/4987/thairath_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill
-https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
-#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" group-title="其他",TLC
-https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
-#EXTINF:-1,tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="https://epg.112114.xyz/logo/TNN24.png" group-title="其他",Tnn24
-https://www.insurancegogogo.com/4987/tnn24_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="tpbs" tvg-name="tpbs" tvg-logo="https://epg.112114.xyz/logo/TPBS.png" group-title="其他",tpbs
-https://www.insurancegogogo.com/4987/tpbs_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="TPTV" tvg-name="TPTV" tvg-logo="https://epg.112114.xyz/logo/TPTV.png" group-title="其他",TPTV
-https://www.insurancegogogo.com/4987/tptv_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="其他",Warner TV
-https://www.insurancegogogo.com/4987/WarnerTV/playlist.m3u8
-#EXTINF:-1,tvg-id="Wild HD" tvg-name="Wild HD" tvg-logo="https://epg.112114.xyz/logo/WILD.png" group-title="其他",Wild HD
-https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
-#EXTINF:-1,tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="https://epg.112114.xyz/logo/WORKPOINT.png" group-title="其他",Workpoint
-https://www.insurancegogogo.com/4987/workpoint_pat/playlist.m3u8
-#EXTINF:-1,tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="其他",ABC News
-https://www.insurancegogogo.com/4987/abcnews_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="Actions" tvg-name="Actions" tvg-logo="https://epg.112114.xyz/logo/ACTIONS.png" group-title="其他",Actions
-https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
-#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="其他",Al-Jazeera
-https://www.insurancegogogo.com/4987/aljazeera_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="其他",Animax
-https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
-#EXTINF:-1,tvg-id="Arena" tvg-name="Arena" tvg-logo="https://epg.112114.xyz/logo/ARENA.png" group-title="其他",Arena
-https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
-#EXTINF:-1,tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/ASTROLKPLUS.png" group-title="港澳台",Astrol Kplus
-https://www.insurancegogogo.com/4987/Kplus/playlist.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",Axn HD
-https://www.insurancegogogo.com/4987/Axn/playlist.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN Taiwan
-https://www.insurancegogogo.com/4987/axn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",BBC World News
-https://www.insurancegogogo.com/4987/bbcnews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="其他",BBC News
-https://www.insurancegogogo.com/4987/Bbcnews/playlist.m3u8
-#EXTINF:-1,tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGNEWS.png" group-title="其他",Bloomberg News
-https://www.insurancegogogo.com/4987/bloomberg_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/BOLAARENA1.png" group-title="其他",BolaArena 1
-https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
-#EXTINF:-1,tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="其他",CBS HD
-https://www.insurancegogogo.com/4987/cbshd_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" group-title="其他",CBSN HD
-https://www.insurancegogogo.com/4987/cbsn_glo/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="其他",Celestial Movies HD
-https://www.insurancegogogo.com/4987/Celestial_megaArena/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="其他",Celestial Movies
-https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
-#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="其他",CINEMAX
-https://www.insurancegogogo.com/4987/cinemax_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CINEMAX_
-https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestia Classic" tvg-name="Celestia Classic" tvg-logo="https://epg.112114.xyz/logo/CELESTIACLASSIC.png" group-title="其他",Celestia Classic
-https://www.insurancegogogo.com/4987/Celestial2/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="其他",CNA
-https://www.insurancegogogo.com/4987/cna/playlist.m3u8
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="其他",CNBC
-https://www.insurancegogogo.com/4987/cnbc_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN backup
-https://www.insurancegogogo.com/4987/cnn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN International
-https://www.insurancegogogo.com/4987/Cnn/playlist.m3u8
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",DW (Deutsch)
-https://www.insurancegogogo.com/4987/dw_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Foodnetwork Hd
-https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="港澳台",Fox News
-https://www.insurancegogogo.com/4987/foxnews_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="其他",France 24
-https://www.insurancegogogo.com/4987/france24_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Goshop" tvg-name="Goshop" tvg-logo="https://epg.112114.xyz/logo/GOSHOP.png" group-title="其他",Goshop
-https://www.insurancegogogo.com/4987/Goshop/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://epg.112114.xyz/logo/HBOFAMILY.png" group-title="港澳台",HBO Family
-https://www.insurancegogogo.com/4987/Hbofamily/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="港澳台",HBO Hits HD
-https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBOSIGNATURE.png" group-title="港澳台",HBO Signature
-https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO_HD
-https://www.insurancegogogo.com/4987/hbohd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO_HITS
-https://www.insurancegogogo.com/4987/hbohits_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="HGTV居家乐活" tvg-name="HGTV居家乐活" tvg-logo="https://epg.112114.xyz/logo/HGTV居家乐活.png" group-title="其他",HGTV
-https://www.insurancegogogo.com/4987/HGTV/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="其他",Hits
-https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="其他",Hits Movie
-https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOODMOVIES.png" group-title="其他",Hollywood Movies
-https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/MOVIESNOW.png" group-title="其他",Movies Now HD
-https://www.insurancegogogo.com/4987/moviesnow_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Network
-https://www.insurancegogogo.com/4987/Paramountnetwork/playlist.m3u8
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="港澳台",NHK World
-https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",One
-https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/ROCKENTERTAINMENT.png" group-title="其他",Rock Entertainment
-https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
-#EXTINF:-1,tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/RTMSPORTS.png" group-title="其他",RTM Sports HD
-https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
-#EXTINF:-1,tvg-id="Showcase" tvg-name="Showcase" tvg-logo="https://epg.112114.xyz/logo/SHOWCASE.png" group-title="其他",Showcase
-https://www.insurancegogogo.com/4987/Showcase_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="其他",Skynews
-https://www.insurancegogogo.com/4987/skynews_antik/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Pix HD" tvg-name="Sony Pix HD" tvg-logo="https://epg.112114.xyz/logo/SONYPIX.png" group-title="其他",Sony Pix HD
-https://www.insurancegogogo.com/4987/sonypix_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="STARMOVIESHD" tvg-name="STARMOVIESHD" tvg-logo="https://epg.112114.xyz/logo/STARMOVIESHD.png" group-title="其他",Star Movies HD
-https://www.insurancegogogo.com/4987/starmovies_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill
-https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
-#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" group-title="其他",TLC
-https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="其他",Warner TV
-https://www.insurancegogogo.com/4987/WarnerTV/playlist.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK-総合-2
-https://www.insurancegogogo.com/4987/nhkg_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK-E
-https://www.insurancegogogo.com/4987/nhke_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="Asahi TV" tvg-name="Asahi TV" tvg-logo="https://epg.112114.xyz/logo/ASAHITV.png" group-title="其他",Asahi TV
-https://www.insurancegogogo.com/4987/asahitv_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="JET 綜合" tvg-name="JET 綜合" tvg-logo="https://epg.112114.xyz/logo/JET綜合.png" group-title="其他",JET 綜合
-https://www.insurancegogogo.com/4987/jettv_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="テレビ東京" tvg-name="テレビ東京" tvg-logo="https://epg.112114.xyz/logo/テレビ東京.png" group-title="其他",テレビ東京
-https://www.insurancegogogo.com/4987/tokyotv_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="TOKYOMX" tvg-name="TOKYOMX" tvg-logo="https://epg.112114.xyz/logo/TOKYOMX.png" group-title="其他",TOKYOMX
-https://www.insurancegogogo.com/4987/tokyomx_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHKBS1
-https://www.insurancegogogo.com/4987/nhkbs1_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHKBSプレミアPremium
-https://www.insurancegogogo.com/4987/nhkpremium_japan
-#EXTINF:-1,tvg-id="BSジャパン" tvg-name="BSジャパン" tvg-logo="https://epg.112114.xyz/logo/BSジャパン.png" group-title="其他",BSジャパン
-https://www.insurancegogogo.com/4987/bs181_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="BSフジ BS Fuji" tvg-name="BSフジ BS Fuji" tvg-logo="https://epg.112114.xyz/logo/BSフジBSFUJI.png" group-title="其他",BSフジ BS Fuji
-https://www.insurancegogogo.com/4987/bsfuji_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA Japan" tvg-name="CNA Japan" tvg-logo="https://epg.112114.xyz/logo/CNAJAPAN.png" group-title="其他",CNA Japan
-https://www.insurancegogogo.com/4987/cna_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="BS-TBS" tvg-name="BS-TBS" tvg-logo="https://epg.112114.xyz/logo/BSTBS.png" group-title="其他",BS-TBS
-https://www.insurancegogogo.com/4987/bstbs_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK Oaska
-https://www.insurancegogogo.com/4987/nhkosaka_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="港澳台",NHK World
-https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="其他",Baby TV Eng
-https://www.insurancegogogo.com/4987/Babytv/playlist.m3u8
-#EXTINF:-1,tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="其他",CBeebies
-https://www.insurancegogogo.com/4987/Cbeebies/playlist.m3u8
-#EXTINF:-1,tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="https://epg.112114.xyz/logo/KIDSTV.png" group-title="其他",Kids TV
-https://www.insurancegogogo.com/4987/KidsTV/playlist.m3u8
-#EXTINF:-1,tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://epg.112114.xyz/logo/BOOMERANG.png" group-title="其他",Boomerang
-https://www.insurancegogogo.com/4987/Boomerang/playlist.m3u8
-#EXTINF:-1,tvg-id="DISNEY" tvg-name="DISNEY" tvg-logo="https://epg.112114.xyz/logo/DISNEY.png" group-title="其他",Disney Taiwan
-https://www.insurancegogogo.com/4987/disneytwn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="https://epg.112114.xyz/logo/MOMOTV.png" group-title="其他",Momo TV
-https://www.insurancegogogo.com/4987/momo1_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="其他",Animax
-https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
-#EXTINF:-1,tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://epg.112114.xyz/logo/BOOMERANG.png" group-title="其他",Boomerang Taiwan
-https://www.insurancegogogo.com/4987/boomerang_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="其他",Baby TV
-https://www.insurancegogogo.com/4987/babytv_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="https://epg.112114.xyz/logo/MIAOMI.png" group-title="其他",MiaoMi
-https://www.insurancegogogo.com/4987/MiaoMi/playlist.m3u8
-#EXTINF:-1,tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/CARTOONNETWORK.png" group-title="其他",Cartoon Network
-https://www.insurancegogogo.com/4987/Cn/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="其他",Nickelodeon
-https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
-#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="其他",Nick Jr
-https://www.insurancegogogo.com/4987/Nickjr/playlist.m3u8
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="其他",Arirang HD
-https://www.insurancegogogo.com/4987/arirang_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="Yonhap News" tvg-name="Yonhap News" tvg-logo="https://epg.112114.xyz/logo/YONHAPNEWS.png" group-title="其他",Yonhap News
-https://www.insurancegogogo.com/4987/yonhapnews_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="CBS" tvg-name="CBS" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="其他",CBS
-https://www.insurancegogogo.com/4987/cbs_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="EBS 1" tvg-name="EBS 1" tvg-logo="https://epg.112114.xyz/logo/EBS1.png" group-title="其他",EBS 1
-https://www.insurancegogogo.com/4987/ebs1_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="EBS2" tvg-name="EBS2" tvg-logo="https://epg.112114.xyz/logo/EBS2.png" group-title="其他",EBS2
-https://www.insurancegogogo.com/4987/ebs2_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="EBS Plus2" tvg-name="EBS Plus2" tvg-logo="https://epg.112114.xyz/logo/EBSPLUS2.png" group-title="其他",EBS Plus2
-https://www.insurancegogogo.com/4987/ebsplus2_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS Plus" tvg-name="SBS Plus" tvg-logo="https://epg.112114.xyz/logo/SBSPLUS.png" group-title="其他",SBS Plus
-https://www.insurancegogogo.com/4987/sbsplus_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://epg.112114.xyz/logo/YTN.png" group-title="其他",YTN
-https://www.insurancegogogo.com/4987/ytn_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="KBS World 24" tvg-name="KBS World 24" tvg-logo="https://epg.112114.xyz/logo/KBSWORLD24.png" group-title="其他",KBS World 24
-https://www.insurancegogogo.com/4987/kbsworld24_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",YTN Science
-https://www.insurancegogogo.com/4987/ytnscience_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="YTN Korean" tvg-name="YTN Korean" tvg-logo="https://epg.112114.xyz/logo/YTNKOREAN.png" group-title="其他",YTN Korean
-https://www.insurancegogogo.com/4987/ytnkorean_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="YTN DMB" tvg-name="YTN DMB" tvg-logo="https://epg.112114.xyz/logo/YTNDMB.png" group-title="其他",YTN DMB
-https://www.insurancegogogo.com/4987/ytndmb_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="Apps TV" tvg-name="Apps TV" tvg-logo="https://epg.112114.xyz/logo/APPSTV.png" group-title="其他",Apps TV
-https://www.insurancegogogo.com/4987/appongoogle_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="All the Kpop" tvg-name="All the Kpop" tvg-logo="https://epg.112114.xyz/logo/ALLTHEKPOP.png" group-title="其他",All the Kpop
-https://www.insurancegogogo.com/4987/allthekpop_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="J the Kpop" tvg-name="J the Kpop" tvg-logo="https://epg.112114.xyz/logo/JTHEKPOP.png" group-title="其他",J the Kpop
-https://www.insurancegogogo.com/4987/jthekpop_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="https://epg.112114.xyz/logo/EBSKIDS.png" group-title="其他",EBS Kids
-https://www.insurancegogogo.com/4987/ebskids_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="CGNTV" tvg-name="CGNTV" tvg-logo="https://epg.112114.xyz/logo/CGNTV.png" group-title="其他",CGNTV
-https://www.insurancegogogo.com/4987/cgntv_korea/playlist.m3u8
-#EXTINF:-1,tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://epg.112114.xyz/logo/ADITHYA.png" group-title="其他",Adithya
-https://www.insurancegogogo.com/4987/Adithya/playlist.m3u8
-#EXTINF:-1,tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="https://epg.112114.xyz/logo/ALQURANALKAREEM.png" group-title="其他",AlQuran AlKareem
-https://www.insurancegogogo.com/4987/AlQuran/playlist.m3u8
-#EXTINF:-1,tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET(ENG).png" group-title="其他",Animal Planet (Eng)
-https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL_PLANET.png" group-title="其他",Animal_Planet
-https://www.insurancegogogo.com/4987/animalplanet_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="其他",Animax
-https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
-#EXTINF:-1,tvg-id="AnTV" tvg-name="AnTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="其他",AnTV
-https://www.insurancegogogo.com/4987/Antv/playlist.m3u8
-#EXTINF:-1,tvg-id="Asia Travel" tvg-name="Asia Travel" tvg-logo="https://epg.112114.xyz/logo/ASIATRAVEL.png" group-title="其他",Asia Travel
-https://www.insurancegogogo.com/4987/asiatravel_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Asianet" tvg-name="Asianet" tvg-logo="https://epg.112114.xyz/logo/ASIANET.png" group-title="其他",Asianet
-https://www.insurancegogogo.com/4987/asianet_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="https://epg.112114.xyz/logo/ASIANETNEWS.png" group-title="其他",Asianet News
-https://www.insurancegogogo.com/4987/asianetnews_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="https://epg.112114.xyz/logo/ASTROSUNLIFE.png" group-title="港澳台",Astro Sunlife
-https://www.insurancegogogo.com/4987/Sunlife/playlist.m3u8
-#EXTINF:-1,tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://epg.112114.xyz/logo/ASTROVAANAVIL.png" group-title="港澳台",Astro Vaanavil
-https://www.insurancegogogo.com/4987/Vaanavil/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="其他",BBC Earth HD
-https://www.insurancegogogo.com/4987/bbcearth_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="其他",BBC Earth Lifestyle
-https://www.insurancegogogo.com/4987/bbclifestyle_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="其他",BBC Earth Tamil
-https://www.insurancegogogo.com/4987/bbcearthtam_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="https://epg.112114.xyz/logo/BERITASATU.png" group-title="其他",Berita Satu
-https://www.insurancegogogo.com/4987/BeritaSatu_eko/playlist.m3u8
-#EXTINF:-1,tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="https://epg.112114.xyz/logo/BOLLYONE.png" group-title="其他",Bollyone
-https://www.insurancegogogo.com/4987/Bollyone/playlist.m3u8
-#EXTINF:-1,tvg-id="Cartoon Network Tamil" tvg-name="Cartoon Network Tamil" tvg-logo="https://epg.112114.xyz/logo/CARTOONNETWORKTAMIL.png" group-title="其他",Cartoon Network Tamil
-https://www.insurancegogogo.com/4987/cntamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="其他",Celestial Movies HD
-https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
-#EXTINF:-1,tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://epg.112114.xyz/logo/CINEMAWORLD.png" group-title="其他",Cinema HD
-https://www.insurancegogogo.com/4987/Zeecinemahd/playlist.m3u8
-#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="其他",Cinemax
-https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
-#EXTINF:-1,tvg-id="Color HD" tvg-name="Color HD" tvg-logo="https://epg.112114.xyz/logo/COLOR.png" group-title="其他",Color HD
-https://www.insurancegogogo.com/4987/Colorhd/playlist.m3u8
-#EXTINF:-1,tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="https://epg.112114.xyz/logo/COLORSTAMIL.png" group-title="其他",Colors Tamil
-https://www.insurancegogogo.com/4987/Colorstam_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="https://epg.112114.xyz/logo/DAAITV.png" group-title="其他",Daai TV
-https://www.insurancegogogo.com/4987/DaaiTV/playlist.m3u8
-#EXTINF:-1,tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYASIA.png" group-title="其他",Discovery Asia
-https://www.insurancegogogo.com/4987/discoverytwn_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery HD
-https://www.insurancegogogo.com/4987/discoveryhd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery Kids Tamil
-https://www.insurancegogogo.com/4987/discoverykidtamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery Tamil
-https://www.insurancegogogo.com/4987/discoverytamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",DiscoveryWorld Tamil
-https://www.insurancegogogo.com/4987/discoveryworldtam_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="BLUEANTENTERTAINMENT" tvg-name="BLUEANTENTERTAINMENT" tvg-logo="https://epg.112114.xyz/logo/BLUEANTENTERTAINMENT.png" group-title="其他",Entertain
-https://www.insurancegogogo.com/4987/Entertain/playlist.m3u8
-#EXTINF:-1,tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://epg.112114.xyz/logo/EWTN.png" group-title="其他",EWTN
-https://www.insurancegogogo.com/4987/Ewtn/playlist.m3u8
-#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="其他",Fashion TV
-https://www.insurancegogogo.com/4987/fashiontv_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="其他",Foodnetwork Hd
-https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="其他",GTV
-https://www.insurancegogogo.com/4987/Gtv/playlist.m3u8
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="其他",History
-https://www.insurancegogogo.com/4987/History/playlist.m3u8
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="其他",History Tamil
-https://www.insurancegogogo.com/4987/historytam_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="其他",Hits
-https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="其他",HitsMovie
-https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="IndosiarHD" tvg-name="IndosiarHD" tvg-logo="https://epg.112114.xyz/logo/INDOSIAR.png" group-title="其他",IndosiarHD
-https://www.insurancegogogo.com/4987/Indosiar/playlist.m3u8
-#EXTINF:-1,tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="https://epg.112114.xyz/logo/INEWSTV.png" group-title="其他",iNews TV
-https://www.insurancegogogo.com/4987/Inewstv/playlist.m3u8
-#EXTINF:-1,tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="https://epg.112114.xyz/logo/JAKTV.png" group-title="其他",Jak TV
-https://www.insurancegogogo.com/4987/JakTV/playlist.m3u8
-#EXTINF:-1,tvg-id="JTV" tvg-name="JTV" tvg-logo="https://epg.112114.xyz/logo/JTV.png" group-title="其他",JTV
-https://www.insurancegogogo.com/4987/JTV_eko/playlist.m3u8
-#EXTINF:-1,tvg-id="KTV UK" tvg-name="KTV UK" tvg-logo="https://epg.112114.xyz/logo/KTVUK.png" group-title="其他",KTV UK
-https://www.insurancegogogo.com/4987/ktvuk_tamil/playlist.m3u8
-#EXTINF:-1,tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="https://epg.112114.xyz/logo/LIFESTYLE&FASHION.png" group-title="其他",Lifestyle&Fashion
-https://www.insurancegogogo.com/4987/Lifestyle/playlist.m3u8
-#EXTINF:-1,tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="https://epg.112114.xyz/logo/MAKKALTV.png" group-title="其他",Makkal TV
-https://www.insurancegogogo.com/4987/Makkaltv/playlist.m3u8
-#EXTINF:-1,tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://epg.112114.xyz/logo/MNCTV.png" group-title="其他",MNC TV
-https://www.insurancegogogo.com/4987/Mnctv/playlist.m3u8
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="其他",MTV Live
-https://www.insurancegogogo.com/4987/mtvhd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Music TV" tvg-name="Music TV" tvg-logo="https://epg.112114.xyz/logo/MUSICTV.png" group-title="其他",Music TV
-https://www.insurancegogogo.com/4987/MusicTV/playlist.m3u8
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="其他",Muslim TV
-https://www.insurancegogogo.com/4987/MuslimTV/playlist.m3u8
-#EXTINF:-1,tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/NATGEO_.png" group-title="其他",Natgeo_HD
-https://www.insurancegogogo.com/4987/natgeohd_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/NATGEO.png" group-title="其他",NatGeo HD
-https://www.insurancegogogo.com/4987/Natgeo/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="https://epg.112114.xyz/logo/NATGEOTAMIL.png" group-title="其他",NatGeo Tamil
-https://www.insurancegogogo.com/4987/natgeotamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/NATGEOWILD.png" group-title="其他",NatGeo Wild HD
-https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
-#EXTINF:-1,tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="https://epg.112114.xyz/logo/NATGEOWILDTAMIL.png" group-title="其他",Natgeo Wild Tamil
-https://www.insurancegogogo.com/4987/natgeowildtamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/NATGEO_WILD.png" group-title="其他",NatGeo_Wild HD
-https://www.insurancegogogo.com/4987/natgeowild_twn/playlist.m3u8
-#EXTINF:-1,tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://epg.112114.xyz/logo/NETTV.png" group-title="其他",Net TV
-https://www.insurancegogogo.com/4987/NetTV/playlist.m3u8
-#EXTINF:-1,tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="https://epg.112114.xyz/logo/NEWS18TAMIL.png" group-title="其他",News 18 Tamil
-https://www.insurancegogogo.com/4987/news18tamil_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",One
-https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="https://epg.112114.xyz/logo/PICTURE.png" group-title="其他",Picture HD
-https://www.insurancegogogo.com/4987/Npicture/playlist.m3u8
-#EXTINF:-1,tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://epg.112114.xyz/logo/RCTI.png" group-title="其他",RCTI
-https://www.insurancegogogo.com/4987/Rcti/playlist.m3u8
-#EXTINF:-1,tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://epg.112114.xyz/logo/ROCKACTIONS.png" group-title="其他",Rock Actions
-https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
-#EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/ROCKENTERTAINMENT.png" group-title="其他",Rock Entertainment
-https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="其他",RTV
-https://www.insurancegogogo.com/4987/Rtv/playlist.m3u8
-#EXTINF:-1,tvg-id="SCM" tvg-name="SCM" tvg-logo="https://epg.112114.xyz/logo/SCM.png" group-title="其他",SCM
-https://www.insurancegogogo.com/4987/Weishimovie/playlist.m3u8
-#EXTINF:-1,tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://epg.112114.xyz/logo/SCTV2.png" group-title="其他",SCTV
-https://www.insurancegogogo.com/4987/SCTV/playlist.m3u8
-#EXTINF:-1,tvg-id="Sony Pix HD" tvg-name="Sony Pix HD" tvg-logo="https://epg.112114.xyz/logo/SONYPIX.png" group-title="其他",Sony Pix HD
-https://www.insurancegogogo.com/4987/sonypix_mega
-#EXTINF:-1,tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="https://epg.112114.xyz/logo/SONYYAYTAMIL.png" group-title="其他",Sony Yay Tamil
-https://www.insurancegogogo.com/4987/sonyyaytam_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="其他",Sports
-https://www.insurancegogogo.com/4987/Fs/playlist.m3u8
-#EXTINF:-1,tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://epg.112114.xyz/logo/STARVIJAY.png" group-title="其他",Star Vijay
-https://www.insurancegogogo.com/4987/Starvijay/playlist.m3u8
-#EXTINF:-1,tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="https://epg.112114.xyz/logo/STARMAA.png" group-title="其他",Starmaa HD
-https://www.insurancegogogo.com/4987/starmaa_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="https://epg.112114.xyz/logo/STARMAAMOVIES.png" group-title="其他",Starmaa Movies HD
-https://www.insurancegogogo.com/4987/starmaamovies_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="https://epg.112114.xyz/logo/SUNMUSIC.png" group-title="其他",Sun Music
-https://www.insurancegogogo.com/4987/Sunmusic/playlist.m3u8
-#EXTINF:-1,tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="https://epg.112114.xyz/logo/SUNTV.png" group-title="其他",Sun TV HD
-https://www.insurancegogogo.com/4987/Suntv/playlist.m3u8
-#EXTINF:-1,tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="https://epg.112114.xyz/logo/SUNTVINDIA.png" group-title="其他",Sun TV India
-https://www.insurancegogogo.com/4987/suntv_raj/playlist.m3u8
-#EXTINF:-1,tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="https://epg.112114.xyz/logo/TAWAFTV.png" group-title="其他",Tawaf TV
-https://www.insurancegogogo.com/4987/TawafTV/playlist.m3u8
-#EXTINF:-1,tvg-id="Thanthi TV" tvg-name="Thanthi TV" tvg-logo="https://epg.112114.xyz/logo/THANTHITV.png" group-title="其他",Thanthi TV
-https://www.insurancegogogo.com/4987/thanthitv/playlist.m3u8
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill
-https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
-#EXTINF:-1,tvg-id="Times Now" tvg-name="Times Now" tvg-logo="https://epg.112114.xyz/logo/TIMESNOW.png" group-title="其他",Times Now
-https://www.insurancegogogo.com/4987/timesnow_mega/playlist.m3u8
-#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" group-title="其他",TLC
-https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
-#EXTINF:-1,tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://epg.112114.xyz/logo/TRANS7.png" group-title="其他",Trans 7
-https://www.insurancegogogo.com/4987/Trans7_eko/playlist.m3u8
-#EXTINF:-1,tvg-id="Transtv" tvg-name="Transtv" tvg-logo="https://epg.112114.xyz/logo/TRANSTV.png" group-title="其他",Transtv
-https://www.insurancegogogo.com/4987/Transtv/playlist.m3u8
-#EXTINF:-1,tvg-id="TVMU" tvg-name="TVMU" tvg-logo="https://epg.112114.xyz/logo/TVMU.png" group-title="其他",TVMU
-https://www.insurancegogogo.com/4987/TVMU_eko/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="其他",tvN Movie
-https://www.insurancegogogo.com/4987/Tvnmovie/playlist.m3u8
-#EXTINF:-1,tvg-id="Tvone" tvg-name="Tvone" tvg-logo="https://epg.112114.xyz/logo/TVONE.png" group-title="其他",Tvone
-https://www.insurancegogogo.com/4987/Tvone/playlist.m3u8
-#EXTINF:-1,tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="https://epg.112114.xyz/logo/TVRINATIONAL.png" group-title="其他",TVRI National
-https://www.insurancegogogo.com/4987/TVRI/playlist.m3u8
-#EXTINF:-1,tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="https://epg.112114.xyz/logo/VISIONPRIME.png" group-title="其他",Vision Prime
-https://www.insurancegogogo.com/4987/VisionPrime/playlist.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",Zee Action
-https://www.insurancegogogo.com/4987/Zeeaction/playlist.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",Zee Business
-https://www.insurancegogogo.com/4987/Zeebusiness/playlist.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",Zee Tamil
-https://www.insurancegogogo.com/4987/Zeetamil/playlist.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",Zee TV HD
-https://www.insurancegogogo.com/4987/Zeetvhd/playlist.m3u8
+香港 Hongkong,#genre#
+无线新闻,http://www.insurancegogogo.com/4987/inews_twn/playlist.m3u8
+TVB翡翠,https://www.insurancegogogo.com/4987/jade_twn/playlist.m3u8
+翡翠台,http://www.insurancegogogo.com/4987/Wlt/playlist.m3u8
+无线财经,https://www.insurancegogogo.com/4987/tvbcaijing_twn/playlist.m3u8
+TVB Jade,https://www.insurancegogogo.com/4987/Tvbjade/playlist.m3u8
+TVB Asia,https://www.insurancegogogo.com/4987/Tvbasia/playlist.m3u8
+TVB娱乐新闻,https://www.insurancegogogo.com/4987/Tvbentertainment/playlist.m3u8
+TVB Classic,https://www.insurancegogogo.com/4987/Tvbclassic/playlist.m3u8
+J2,https://www.insurancegogogo.com/4987/j2_twn/playlist.m3u8
+TVB星河,https://www.insurancegogogo.com/4987/Xinhe/playlist.m3u8
+明珠台,https://www.insurancegogogo.com/4987/pearl_twn/playlist.m3u8
+TVB Magic,https://www.insurancegogogo.com/4987/Tvbmagic/playlist.m3u8
+凤凰香港,https://www.insurancegogogo.com/4987/hkphoenix_twn/playlist.m3u8
+凤凰卫视,https://www.insurancegogogo.com/4987/phoenixtv_hd/playlist.m3u8
+凤凰资讯,https://www.insurancegogogo.com/4987/phoenixinfo_hd/playlist.m3u8
+RHK31,https://www.insurancegogogo.com/4987/rhk31_twn/playlist.m3u8
+RHK32,https://www.insurancegogogo.com/4987/rhk32_twn/playlist.m3u8
+VIUTV1,https://www.insurancegogogo.com/4987/viu1_twn/playlist.m3u8
+VIUTV6,https://www.insurancegogogo.com/4987/viusix_twn/playlist.m3u8
+ViuTV69,https://www.insurancegogogo.com/4987/viutv69_hkdavid/playlist.m3u8
+
+中國 China,#genre#
+CCTV-1综合,https://www.insurancegogogo.com/4987/cctv1/playlist.m3u8
+CCTV-2财经,https://www.insurancegogogo.com/4987/cctv2/playlist.m3u8
+CCTV-3综艺,https://www.insurancegogogo.com/4987/cctv3/playlist.m3u8
+CCTV-4中文国际,https://www.insurancegogogo.com/4987/cctv4/playlist.m3u8
+CCTV4,https://www.insurancegogogo.com/4987/Cctv4/playlist.m3u8
+CCTV-5体育,https://www.insurancegogogo.com/4987/cctv5/playlist.m3u8
+CCTV-5+体育赛事,https://www.insurancegogogo.com/4987/cctv5plus/playlist.m3u8
+CCTV-6电影,https://www.insurancegogogo.com/4987/cctv6/playlist.m3u8
+CCTV-7国防军事,https://www.insurancegogogo.com/4987/cctv7/playlist.m3u8
+CCTV-8电视剧,https://www.insurancegogogo.com/4987/cctv8hd/playlist.m3u8
+CCTV-9记录,https://www.insurancegogogo.com/4987/cctv9hd/playlist.m3u8
+CCTV-10科教,https://www.insurancegogogo.com/4987/cctv10hd/playlist.m3u8
+CCTV-11戏曲,https://www.insurancegogogo.com/4987/cctv11/playlist.m3u8
+CCTV-12社会与法,https://www.insurancegogogo.com/4987/cctv12/playlist.m3u8
+CCTV-13新闻频道,https://www.insurancegogogo.com/4987/cctv13/playlist.m3u8
+CCTV-14少儿,https://www.insurancegogogo.com/4987/cctv14/playlist.m3u8
+CCTV-15音乐,https://www.insurancegogogo.com/4987/cctv15/playlist.m3u8
+CCTV-17,https://www.insurancegogogo.com/4987/cctv17/playlist.m3u8
+CGTN,https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
+湖南卫视,https://www.insurancegogogo.com/4987/Hunan/playlist.m3u8
+浙江卫视,https://www.insurancegogogo.com/4987/Zhejiang/playlist.m3u8
+江苏卫视,https://www.insurancegogogo.com/4987/Jiangsu/playlist.m3u8
+深圳卫视,https://www.insurancegogogo.com/4987/shenzhen/playlist.m3u8
+东南卫视,https://www.insurancegogogo.com/4987/fujian/playlist.m3u8
+南方卫视,https://www.insurancegogogo.com/4987/nanfang_twn/playlist.m3u8
+广东卫视,https://www.insurancegogogo.com/4987/guangdongweishi_twn/playlist.m3u8
+北京卫视,https://www.insurancegogogo.com/4987/beijing/playlist.m3u8
+珠江台,https://www.insurancegogogo.com/4987/zhujiang/playlist.m3u8
+广西卫视,https://www.insurancegogogo.com/4987/guangxi/playlist.m3u8
+湖北卫视,https://www.insurancegogogo.com/4987/hubei/playlist.m3u8
+四川卫视,https://www.insurancegogogo.com/4987/sichuan_twn/playlist.m3u8
+凤凰卫视,https://www.insurancegogogo.com/4987/phoenixtv_hd/playlist.m3u8
+东方卫视,https://www.insurancegogogo.com/4987/dongfangweishi_twn/playlist.m3u8
+
+臺灣 Taiwan,#genre#
+公视,https://www.insurancegogogo.com/4987/ctv_taiwan/playlist.m3u8
+台视,https://www.insurancegogogo.com/4987/ttv_taiwan/playlist.m3u8
+中视,https://www.insurancegogogo.com/4987/zhongshihd_twn/playlist.m3u8
+民视,https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
+华视,https://www.insurancegogogo.com/4987/ctshd_twn/playlist.m3u8
+大爱2台,https://www.insurancegogogo.com/4987/catchplay_twn/playlist.m3u8
+TVBS,https://www.insurancegogogo.com/4987/tvbs/playlist.m3u8
+TVBS新闻,https://www.insurancegogogo.com/4987/tvbs_n/playlist.m3u8
+TVBS欢乐,https://www.insurancegogogo.com/4987/tvbshuanle_twn/playlist.m3u8
+年代新闻,https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
+中天新闻,https://www.insurancegogogo.com/4987/ctinews/playlist.m3u8
+中天娱乐,https://www.insurancegogogo.com/4987/ctient/playlist.m3u8
+中天综合,https://www.insurancegogogo.com/4987/ctizhonghe/playlist.m3u8
+中天亚洲,https://www.insurancegogogo.com/4987/ctiasia_twn/playlist.m3u8
+台视新闻,https://www.insurancegogogo.com/4987/ttvnews_twn/playlist.m3u8
+台视综合,https://www.insurancegogogo.com/4987/ttvzhonghe_twn/playlist.m3u8
+中视经典,https://www.insurancegogogo.com/4987/zhongshi_twn/playlist.m3u8
+中视新闻,https://www.insurancegogogo.com/4987/zhongshinews_twn/playlist.m3u8
+非凡新闻,http://https://www.insurancegogogo.com/4987/feifannews_twn/playlist.m3u8
+民视新闻,https://www.insurancegogogo.com/4987/ftvnew_taiwan/playlist.m3u8
+民视台湾,https://www.insurancegogogo.com/4987/ftvtaiwan_twn/playlist.m3u8
+八大第一,https://www.insurancegogogo.com/4987/badafirst/playlist.m3u8
+八大综合,https://www.insurancegogogo.com/4987/badazhonghe/playlist.m3u8
+八大戏剧,https://www.insurancegogogo.com/4987/badadrama/playlist.m3u8
+八大娱乐,https://www.insurancegogogo.com/4987/badaentertain/playlist.m3u8
+三立台湾,https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
+三立综合,https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
+三立戏剧,https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
+三立新闻,https://www.insurancegogogo.com/4987/inews_twn/playlist.m3u8
+东森综合,https://www.insurancegogogo.com/4987/ettvzhonghe/playlist.m3u8
+东森超视,https://www.insurancegogogo.com/4987/ettvsuper/playlist.m3u8
+东森戏剧,https://www.insurancegogogo.com/4987/ettvdrama/playlist.m3u8
+东森财经,https://www.insurancegogogo.com/4987/ettvcaijing_twn/playlist.m3u8
+东森电影,https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8
+东森洋片,https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8
+东森幼幼,https://www.insurancegogogo.com/4987/yoyo_twn/playlist.m3u8
+龙华洋片,https://www.insurancegogogo.com/4987/lunghuawestern_twn/playlist.m3u8
+龙详时代,https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8
+龙华戏剧,https://www.insurancegogogo.com/4987/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,https://www.insurancegogogo.com/4987/lunghuaidol_twn/playlist.m3u8
+龙华卡通,https://www.insurancegogogo.com/4987/jingtiancartoon_twn/playlist.m3u8
+靖天卡通,https://www.insurancegogogo.com/4987/jingtiancartoon_twn/playlist.m3u8
+靖天国际,https://www.insurancegogogo.com/4987/jingtianintl_twn/playlist.m3u8
+探索亚洲,https://www.insurancegogogo.com/4987/discoverytwn_twn/playlist.m3u8
+卫视中文,https://www.insurancegogogo.com/4987/weishichinese_twn/playlist.m3u8
+卫视电影,https://www.insurancegogogo.com/4987/weishimovie_twn/playlist.m3u8
+美亚电影,https://www.insurancegogogo.com/4987/meiyamovie_twn/playlist.m3u8
+星卫电影,https://www.insurancegogogo.com/4987/xingwei_movie/playlist.m3u8
+旅游生活,https://www.insurancegogogo.com/4987/tlc_twn/playlist.m3u8
+亚洲旅游,https://www.insurancegogogo.com/4987/asiatravel_twn/playlist.m3u8
+亚洲美食,https://www.insurancegogogo.com/4987/afc_twn/playlist.m3u8
+美食星球,https://www.insurancegogogo.com/4987/foodplanet_twn/playlist.m3u8
+动物星球,https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
+动物星球1,https://www.insurancegogogo.com/4987/animalplanet_twn/playlist.m3u8
+博斯网球,https://www.insurancegogogo.com/4987/bositennis_twn/playlist.m3u8
+博斯运动1,https://www.insurancegogogo.com/4987/bosisport1_twn/playlist.m3u8
+博斯高球2,https://www.insurancegogogo.com/4987/bosigolf2_twn/playlist.m3u8
+博斯运动2,https://www.insurancegogogo.com/4987/bosisport2_twn/playlist.m3u8
+国家地理,https://www.insurancegogogo.com/4987/natgeohd_twn/playlist.m3u8
+野生动物,https://www.insurancegogogo.com/4987/natgeowild_twn/playlist.m3u8
+地理野生,https://www.insurancegogogo.com/4987/natgeowildtamil_raj/playlist.m3u8
+EYETV戏剧,https://www.insurancegogogo.com/4987/eyetvxiju_twn/playlist.m3u8
+EYETV旅游,https://www.insurancegogogo.com/4987/?id=eyetvtravel_twn/playlist.m3u8
+好莱坞电影,https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
+爱尔达体育2,https://www.insurancegogogo.com/4987/eltasport2_twn/playlist.m3u8
+爱尔达体育3,https://www.insurancegogogo.com/4987/eltasport3_twn/playlist.m3u8
+GOODTV真理,https://www.insurancegogogo.com/4987/good2_twn/playlist.m3u8
+
+馬來西亞 Malaysia,#genre#
+华丽台 HD,https://www.insurancegogogo.com/4987/Wlt/playlist.m3u8
+欢喜台 HD,https://www.insurancegogogo.com/4987/Huahee/playlist.m3u8
+欢喜台 backup,https://www.insurancegogogo.com/4987/Huahee_backup/playlist.m3u8
+Astro QJ,https://www.insurancegogogo.com/4987/Quanjia/playlist.m3u8
+爱奇艺 iQiyi,https://www.insurancegogogo.com/4987/Qiyi/playlist.m3u8
+AOD,https://www.insurancegogogo.com/4987/AodHD/playlist.m3u8
+AEC,https://www.insurancegogogo.com/4987/AEC/playlist.m3u8
+Astro Premier,https://www.insurancegogogo.com/4987/Astropremier/playlist.m3u8
+Al-Hijrah,https://www.insurancegogogo.com/4987/Alhijrah/playlist.m3u8
+Al-Hijrah backup,https://www.insurancegogogo.com/4987/Alhijrah_backup/playlist.m3u8
+Animal Planet (Eng),https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
+Awani,https://www.insurancegogogo.com/4987/Awani/playlist.m3u8
+Awesome TV,https://www.insurancegogogo.com/4987/Dsangat/playlist.m3u8
+Aura,https://www.insurancegogogo.com/4987/Aura/playlist.m3u8
+Bernama,https://www.insurancegogogo.com/4987/Bernama/playlist.m3u8
+Boo,https://www.insurancegogogo.com/4987/Boo/playlist.m3u8
+Cartoon Network,https://www.insurancegogogo.com/4987/Cn/playlist.m3u8
+Ceria,https://www.insurancegogogo.com/4987/Ceria/playlist.m3u8
+Citra,https://www.insurancegogogo.com/4987/Citra_xue/playlist.m3u8
+Dreamworks,https://www.insurancegogogo.com/4987/Dreamworks/playlist.m3u8
+HBO HD,https://www.insurancegogogo.com/4987/Hbo/playlist.m3u8
+HBO Signature,https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
+Hits HD,https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
+KBS World,https://www.insurancegogogo.com/4987/KBS/playlist.m3u8
+Prima,https://www.insurancegogogo.com/4987/Prima-0 Prima/playlist.m3u8
+Prima backup,https://www.insurancegogogo.com/4987/Prima_xue/playlist.m3u8
+Mecca Live HD,https://www.insurancegogogo.com/4987/quran_mido/playlist.m3u8
+Madinah HD,https://www.insurancegogogo.com/4987/sunnah_mido/playlist.m3u8
+NatGeo Wild HD,https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
+Nickelodeon,https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
+Nick Jr,http://172.63.16:9630/Smartv.php?id=Nickjr/playlist.m3u8
+NTV7,https://www.insurancegogogo.com/4987/NTV7/playlist.m3u8
+Oasis,https://www.insurancegogogo.com/4987/Oasis HBO/playlist.m3u8
+One,https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
+Rania,https://www.insurancegogogo.com/4987/Rani/playlist.m3u8
+Ria,https://www.insurancegogogo.com/4987/Ria-0/playlist.m3u8
+Ria backup,https://www.insurancegogogo.com/4987/Ri/playlist.m3u8
+Sensasi,https://www.insurancegogogo.com/4987/Sensasi/playlist.m3u8
+Sony HD,https://www.insurancegogogo.com/4987/SetOne/playlist.m3u8
+TV1,https://www.insurancegogogo.com/4987/TV1/playlist.m3u8
+TV1 backup,https://www.insurancegogogo.com/4987/TV1_backup/playlist.m3u8
+TV2,https://www.insurancegogogo.com/4987/TV2/playlist.m3u8
+TV3,https://www.insurancegogogo.com/4987/TV3/playlist.m3u8
+TV3 backup,https://www.insurancegogogo.com/4987/tv3_twn/playlist.m3u8
+TV8,https://www.insurancegogogo.com/4987/TV8/playlist.m3u8
+TV9,https://www.insurancegogogo.com/4987/TV9/playlist.m3u8
+TvN,https://www.insurancegogogo.com/4987/TVN/playlist.m3u8
+tvN Movie,https://www.insurancegogogo.com/4987/Tvnmovie/playlist.m3u8
+Warna,https://www.insurancegogogo.com/4987/Warna-O/playlist.m3u8
+Warna backup,https://www.insurancegogogo.com/4987/Warna/playlist.m3u8
+
+新加坡 Singapore,#genre#
+Channel 5,https://www.insurancegogogo.com/4987/Channel5HD/playlist.m3u8
+Channel 5 backup,https://www.insurancegogogo.com/4987/Ch5_mega/playlist.m3u8
+Channel 8,https://www.insurancegogogo.com/4987/Channel8HD/playlist.m3u8
+Channel 8 backup,https://www.insurancegogogo.com/4987/Ch8_mega/playlist.m3u8
+Channel U,https://www.insurancegogogo.com/4987/ChannelU/playlist.m3u8
+Channel U backup,https://www.insurancegogogo.com/4987/ChU_mega/playlist.m3u8
+CNA,https://www.insurancegogogo.com/4987/cna/playlist.m3u8
+CNA backup,https://www.insurancegogogo.com/4987/cna_twn/playlist.m3u8
+Suria,https://www.insurancegogogo.com/4987/Suria Suria/playlist.m3u8
+Suria backup,https://www.insurancegogogo.com/4987/Suria_backup/playlist.m3u8
+Vasantham,https://www.insurancegogogo.com/4987/Vasantham/playlist.m3u8
+Vasantham backup,https://www.insurancegogogo.com/4987/Vasantham_mega/playlist.m3u8
+
+體育 Sports,#genre#
+Arena,https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
+Arena 2,https://www.insurancegogogo.com/4987/Arena2/playlist.m3u8
+Astro Cricket,https://www.insurancegogogo.com/4987/Acricket_mega/playlist.m3u8
+Astro Golf,https://www.insurancegogogo.com/4987/Agolf/playlist.m3u8
+Bein 1 English,https://www.insurancegogogo.com/4987/bein1eng_mega/playlist.m3u8
+Bein 1 Premium,https://www.insurancegogogo.com/4987/bein1pre_mega/playlist.m3u8
+Bein 1 Xtra,https://www.insurancegogogo.com/4987/bein1xtra_mega/playlist.m3u8
+Bein 2 Premium,https://www.insurancegogogo.com/4987/bein2pre_mega/playlist.m3u8
+Bein 2HD,https://www.insurancegogogo.com/4987/Beinhd/playlist.m3u8
+Bein 3 English,https://www.insurancegogogo.com/4987/bein3eng_mega/playlist.m3u8
+Bein 3 Premium,https://www.insurancegogogo.com/4987/bein3pre_mega/playlist.m3u8
+Bein 4 Sports,https://www.insurancegogogo.com/4987/bein4_mega/playlist.m3u8
+Bein 5 Sports,https://www.insurancegogogo.com/4987/bein5_mega/playlist.m3u8
+Bein sports 2 HD,http://https://www.insurancegogogo.com/4987/Bein2hd/playlist.m3u8
+Bein sports HD,https://www.insurancegogogo.com/4987/Besports/playlist.m3u8
+Bein sports Rugby,https://www.insurancegogogo.com/4987/go_beinsrugby/playlist.m3u8
+BolaArena 1,https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
+Champion 5EPL,https://www.insurancegogogo.com/4987/Champion5epl/playlist.m3u8
+Champion 6 EPL,https://www.insurancegogogo.com/4987/Champion6epl/playlist.m3u8
+Fight Sports,https://www.insurancegogogo.com/4987/Fs/playlist.m3u8
+NBA TV,https://www.insurancegogogo.com/4987/nbatv_twn/playlist.m3u8
+Network,https://www.insurancegogogo.com/4987/ufc_mega/playlist.m3u8
+RTM Sports HD,https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
+Rugby Pass TV,https://www.insurancegogogo.com/4987/Rugbypasstv/playlist.m3u8
+Skysports Arena,https://www.insurancegogogo.com/4987/tiankongarena/playlist.m3u8
+Skysports Cricket,https://www.insurancegogogo.com/4987/tiankongcricket/playlist.m3u8
+Skysports EPL,https://www.insurancegogogo.com/4987/tiankongepl/playlist.m3u8
+Skysports F1,https://www.insurancegogogo.com/4987/tiankongf1/playlist.m3u8
+Skysports Football,https://www.insurancegogogo.com/4987/tiankongfootball/playlist.m3u8
+Skysports Golf,https://www.insurancegogogo.com/4987/tiankonggolf/playlist.m3u8
+Skysports Main Event,https://www.insurancegogogo.com/4987/tiankongmain/playlist.m3u8
+Skysports Mix,https://www.insurancegogogo.com/4987/tiankongmix/playlist.m3u8
+Skysports News,https://www.insurancegogogo.com/4987/tiankongnews/playlist.m3u8
+Skysports NFL,https://www.insurancegogogo.com/4987/tiankongnfl/playlist.m3u8
+Skysports Racing,https://www.insurancegogogo.com/4987/tiankongracing/playlist.m3u8
+Sony Six HD,https://www.insurancegogogo.com/4987/sonysix_raj/playlist.m3u8
+Sony Ten 1,https://www.insurancegogogo.com/4987/ten1_raj/playlist.m3u8
+Sony Ten 2,https://www.insurancegogogo.com/4987/ten2_raj/playlist.m3u8
+Sony Ten 3,https://www.insurancegogogo.com/4987/ten3_raj/playlist.m3u8
+SPO TV 2,https://www.insurancegogogo.com/4987/go_spotv2/playlist.m3u8
+SPOTV 1 HD,https://www.insurancegogogo.com/4987/go_spotv/playlist.m3u8
+Supersports 1,https://www.insurancegogogo.com/4987/Assp1/playlist.m3u8
+Supersports 1 backup,https://www.insurancegogogo.com/4987/go_assp1/playlist.m3u8
+Supersports 2,https://www.insurancegogogo.com/4987/Assp2/playlist.m3u8
+Supersports 2 backup,https://www.insurancegogogo.com/4987/go_assp2/playlist.m3u8
+Supersports 3,https://www.insurancegogogo.com/4987/Assp3/playlist.m3u8
+Supersports 3 backup,https://www.insurancegogogo.com/4987/go_assp3/playlist.m3u8
+Supersports 3 backup2,https://www.insurancegogogo.com/4987/Assp3_mega/playlist.m3u8
+Supersports 4,https://www.insurancegogogo.com/4987/Assp4_mega/playlist.m3u8
+Supersports 4 backup,https://www.insurancegogogo.com/4987/go_assp4/playlist.m3u8
+Supersports 5,https://www.insurancegogogo.com/4987/go_assp5/playlist.m3u8
+TNT Sports 1,https://www.insurancegogogo.com/4987/beeone/playlist.m3u8
+TNT Sports 2,https://www.insurancegogogo.com/4987/beetwo/playlist.m3u8
+TNT Sports 3,https://www.insurancegogogo.com/4987/beethree/playlist.m3u8
+TNT Sports 4,https://www.insurancegogogo.com/4987/beefour/playlist.m3u8
+WWE,https://www.insurancegogogo.com/4987/Wwe/playlist.m3u8
+
+美國,#genre#
+﻿ABC News,https://www.insurancegogogo.com/4987/abcnews_glo/playlist.m3u8
+Actions,https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
+Al-Jazeera,https://www.insurancegogogo.com/4987/aljazeera_twn/playlist.m3u8
+Animal Planet (Eng),https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
+Animax,https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
+Arena,https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
+Astrol Kplus,https://www.insurancegogogo.com/4987/Kplus/playlist.m3u8
+Axn HD,https://www.insurancegogogo.com/4987/Axn/playlist.m3u8
+AXN Taiwan,https://www.insurancegogogo.com/4987/axn_twn/playlist.m3u8
+BBC 1,http://,https://www.insurancegogogo.com/4987/bbc1_antik/playlist.m3u8
+BBC 2,https://www.insurancegogogo.com/4987/bbc2_antik/playlist.m3u8
+BBC Earth HD,https://www.insurancegogogo.com/4987/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,https://www.insurancegogogo.com/4987/bbclifestyle_twn/playlist.m3u8
+BBC World News,https://www.insurancegogogo.com/4987/bbcworldnews_antik/playlist.m3u8
+BBC World News 2,https://www.insurancegogogo.com/4987/bbcnews_twn/playlist.m3u8
+BBC News,https://www.insurancegogogo.com/4987/Bbcnews/playlist.m3u8
+BolaArena 1,https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
+Boomerang,https://www.insurancegogogo.com/4987/Boomerang/playlist.m3u8
+CBBC,https://www.insurancegogogo.com/4987/cbbc_antik/playlist.m3u8
+CBeebies,https://www.insurancegogogo.com/4987/Cbeebies/playlist.m3u8
+CBS HD,https://www.insurancegogogo.com/4987/cbshd_glo/playlist.m3u8
+CBSN HD,https://www.insurancegogogo.com/4987/cbsn_glo/playlist.m3u8
+Celestial Movies HD,https://www.insurancegogogo.com/4987/Celestial_megaArena/playlist.m3u8
+Celestial Movies,https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
+CGTN,https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
+Channel 4,https://www.insurancegogogo.com/4987/channel4_antik/playlist.m3u8
+Cinemax,https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
+Cinemax_,https://www.insurancegogogo.com/4987/cinemax_twn/playlist.m3u8
+Classic,https://www.insurancegogogo.com/4987/Celestial2/playlist.m3u8
+CNA,https://www.insurancegogogo.com/4987/cna/playlist.m3u8
+CNBC,http://https://www.insurancegogogo.com/4987/cnbc_twn/playlist.m3u8
+CNN backup,https://www.insurancegogogo.com/4987/cnn_twn/playlist.m3u8
+CNN International,https://www.insurancegogogo.com/4987/Cnn/playlist.m3u8
+DW (Deutsch),https://www.insurancegogogo.com/4987/dw_twn/playlist.m3u8
+Euronews,https://www.insurancegogogo.com/4987/euronews_antik/playlist.m3u8
+Food network Hd,https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
+Fox News,https://www.insurancegogogo.com/4987/foxnews_twn/playlist.m3u8
+France 24,https://www.insurancegogogo.com/4987/france24_twn/playlist.m3u8
+Freesports,https://www.insurancegogogo.com/4987/freesports_antik/playlist.m3u8
+Gmm Channel,https://www.insurancegogogo.com/4987/gmmchannel_pat/playlist.m3u8
+Goshop,https://www.insurancegogogo.com/4987/Goshop/playlist.m3u8
+HBO Family,https://www.insurancegogogo.com/4987/Hbofamily/playlist.m3u8
+HBO HD,https://www.insurancegogogo.com/4987/Hbo/playlist.m3u8
+HBO Hits HD,https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
+HBO Signature,https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
+HBO_HD,https://www.insurancegogogo.com/4987/hbohd_twn/playlist.m3u8
+HBO_HITS,https://www.insurancegogogo.com/4987/hbohits_twn/playlist.m3u8
+HGTV,https://www.insurancegogogo.com/4987/HGTV/playlist.m3u8
+History,https://www.insurancegogogo.com/4987/History/playlist.m3u8
+Hits,https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
+Hits Movie,https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
+Hollywood Movies,https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
+itv 1,https://www.insurancegogogo.com/4987/itv1/playlist.m3u8
+itv 2,https://www.insurancegogogo.com/4987/itv2/playlist.m3u8
+Kids TV,https://www.insurancegogogo.com/4987/KidsTV/playlist.m3u8
+More4,https://www.insurancegogogo.com/4987/more4_antik/playlist.m3u8
+Movies Now HD,https://www.insurancegogogo.com/4987/moviesnow_raj/playlist.m3u8
+MTV Live,https://www.insurancegogogo.com/4987/mtvhd_twn/playlist.m3u8
+NatGeo HD,https://www.insurancegogogo.com/4987/Natgeo/playlist.m3u8
+Nation,https://www.insurancegogogo.com/4987/nation_pat/playlist.m3u8
+Nbt,https://www.insurancegogogo.com/4987/nbt_pat/playlist.m3u8
+Network,https://www.insurancegogogo.com/4987/Paramountnetwork/playlist.m3u8
+New,https://www.insurancegogogo.com/4987/new_pat/playlist.m3u8
+News,https://www.insurancegogogo.com/4987/bloomberg_twn/playlist.m3u8
+NHK World,https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
+Nick Jr,https://www.insurancegogogo.com/4987/Nickjr/playlist.m3u8
+Nickelodeon,https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
+One,https://www.insurancegogogo.com/4987/One_mega/playlist.m3/playlist.m3u8u8
+Pick TV,https://www.insurancegogogo.com/4987/picktv_antik/playlist.m3u8
+Rock Entertainment,https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
+RTM Sports HD,https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
+Showcase,https://www.insurancegogogo.com/4987/Showcase_mega/playlist.m3u8
+Skynews,https://www.insurancegogogo.com/4987/skynews_antik/playlist.m3u8
+Sony Pix HD,https://www.insurancegogogo.com/4987/sonypix_mega/playlist.m3u8
+Star Movies HD,https://www.insurancegogogo.com/4987/starmovies_raj/playlist.m3u8
+Thairath,https://www.insurancegogogo.com/4987/thairath_pat/playlist.m3u8
+Thrill,https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
+TLC,https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
+Tnn24,https://www.insurancegogogo.com/4987/tnn24_pat/playlist.m3u8
+tpbs,https://www.insurancegogogo.com/4987/tpbs_pat/playlist.m3u8
+TPTV,https://www.insurancegogogo.com/4987/tptv_pat/playlist.m3u8
+Warner TV,https://www.insurancegogogo.com/4987/WarnerTV/playlist.m3u8
+Wild HD,https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
+Workpoint,https://www.insurancegogogo.com/4987/workpoint_pat/playlist.m3u8
+
+英國 United Kingdom,#genre#
+ABC News,https://www.insurancegogogo.com/4987/abcnews_glo/playlist.m3u8
+Actions,https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
+Al-Jazeera,https://www.insurancegogogo.com/4987/aljazeera_twn/playlist.m3u8
+Animax,https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
+Arena,https://www.insurancegogogo.com/4987/Arena/playlist.m3u8
+Astrol Kplus,https://www.insurancegogogo.com/4987/Kplus/playlist.m3u8
+Axn HD,https://www.insurancegogogo.com/4987/Axn/playlist.m3u8
+AXN Taiwan,https://www.insurancegogogo.com/4987/axn_twn/playlist.m3u8
+BBC World News,https://www.insurancegogogo.com/4987/bbcnews_twn/playlist.m3u8
+BBC News,https://www.insurancegogogo.com/4987/Bbcnews/playlist.m3u8
+Bloomberg News,https://www.insurancegogogo.com/4987/bloomberg_twn/playlist.m3u8
+BolaArena 1,https://www.insurancegogogo.com/4987/Bolaarena1/playlist.m3u8
+CBS HD,https://www.insurancegogogo.com/4987/cbshd_glo/playlist.m3u8
+CBSN HD,https://www.insurancegogogo.com/4987/cbsn_glo/playlist.m3u8
+Celestial Movies HD,https://www.insurancegogogo.com/4987/Celestial_megaArena/playlist.m3u8
+Celestial Movies,https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
+CGTN,https://www.insurancegogogo.com/4987/CGTN/playlist.m3u8
+CINEMAX,https://www.insurancegogogo.com/4987/cinemax_twn/playlist.m3u8
+CINEMAX_,https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
+Celestia Classic,https://www.insurancegogogo.com/4987/Celestial2/playlist.m3u8
+CNA,https://www.insurancegogogo.com/4987/cna/playlist.m3u8
+CNBC,https://www.insurancegogogo.com/4987/cnbc_twn/playlist.m3u8
+CNN backup,https://www.insurancegogogo.com/4987/cnn_twn/playlist.m3u8
+CNN International,https://www.insurancegogogo.com/4987/Cnn/playlist.m3u8
+DW (Deutsch),https://www.insurancegogogo.com/4987/dw_twn/playlist.m3u8
+Foodnetwork Hd,https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
+Fox News,https://www.insurancegogogo.com/4987/foxnews_twn/playlist.m3u8
+France 24,https://www.insurancegogogo.com/4987/france24_twn/playlist.m3u8
+Goshop,https://www.insurancegogogo.com/4987/Goshop/playlist.m3u8
+HBO Family,https://www.insurancegogogo.com/4987/Hbofamily/playlist.m3u8
+HBO Hits HD,https://www.insurancegogogo.com/4987/Hbohits/playlist.m3u8
+HBO Signature,https://www.insurancegogogo.com/4987/Hbosignature/playlist.m3u8
+HBO_HD,https://www.insurancegogogo.com/4987/hbohd_twn/playlist.m3u8
+HBO_HITS,https://www.insurancegogogo.com/4987/hbohits_twn/playlist.m3u8
+HGTV,https://www.insurancegogogo.com/4987/HGTV/playlist.m3u8
+Hits,https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
+Hits Movie,https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
+Hollywood Movies,https://www.insurancegogogo.com/4987/hollywoodmovies_twn/playlist.m3u8
+Movies Now HD,https://www.insurancegogogo.com/4987/moviesnow_raj/playlist.m3u8
+Network,https://www.insurancegogogo.com/4987/Paramountnetwork/playlist.m3u8
+NHK World,https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
+One,https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
+Rock Entertainment,https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
+RTM Sports HD,https://www.insurancegogogo.com/4987/Rtmsport/playlist.m3u8
+Showcase,https://www.insurancegogogo.com/4987/Showcase_mega/playlist.m3u8
+Skynews,https://www.insurancegogogo.com/4987/skynews_antik/playlist.m3u8
+Sony Pix HD,https://www.insurancegogogo.com/4987/sonypix_mega/playlist.m3u8
+Star Movies HD,https://www.insurancegogogo.com/4987/starmovies_raj/playlist.m3u8
+Thrill,https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
+TLC,https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
+Warner TV,https://www.insurancegogogo.com/4987/WarnerTV/playlist.m3u8
+
+日本 Japan,#genre#
+NHK-総合-2,https://www.insurancegogogo.com/4987/nhkg_japan/playlist.m3u8
+NHK-E,https://www.insurancegogogo.com/4987/nhke_japan/playlist.m3u8
+Asahi TV,https://www.insurancegogogo.com/4987/asahitv_japan/playlist.m3u8
+JET 綜合,https://www.insurancegogogo.com/4987/jettv_japan/playlist.m3u8
+テレビ東京,https://www.insurancegogogo.com/4987/tokyotv_japan/playlist.m3u8
+TOKYOMX,https://www.insurancegogogo.com/4987/tokyomx_japan/playlist.m3u8
+NHKBS1,https://www.insurancegogogo.com/4987/nhkbs1_japan/playlist.m3u8
+NHKBSプレミアPremium,https://www.insurancegogogo.com/4987/nhkpremium_japan
+BSジャパン,https://www.insurancegogogo.com/4987/bs181_japan/playlist.m3u8
+BSフジ BS Fuji,https://www.insurancegogogo.com/4987/bsfuji_japan/playlist.m3u8
+CNA Japan,https://www.insurancegogogo.com/4987/cna_japan/playlist.m3u8
+BS-TBS,https://www.insurancegogogo.com/4987/bstbs_japan/playlist.m3u8
+NHK Oaska,https://www.insurancegogogo.com/4987/nhkosaka_japan/playlist.m3u8
+NHK World,https://www.insurancegogogo.com/4987/nhkworld_japan/playlist.m3u8
+Baby TV Eng,https://www.insurancegogogo.com/4987/Babytv/playlist.m3u8
+CBeebies,https://www.insurancegogogo.com/4987/Cbeebies/playlist.m3u8
+Kids TV,https://www.insurancegogogo.com/4987/KidsTV/playlist.m3u8
+Boomerang,https://www.insurancegogogo.com/4987/Boomerang/playlist.m3u8
+Disney Taiwan,https://www.insurancegogogo.com/4987/disneytwn_twn/playlist.m3u8
+Momo TV,https://www.insurancegogogo.com/4987/momo1_twn/playlist.m3u8
+Animax,https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
+Boomerang Taiwan,https://www.insurancegogogo.com/4987/boomerang_twn/playlist.m3u8
+Baby TV,https://www.insurancegogogo.com/4987/babytv_twn/playlist.m3u8
+MiaoMi,https://www.insurancegogogo.com/4987/MiaoMi/playlist.m3u8
+Cartoon Network,https://www.insurancegogogo.com/4987/Cn/playlist.m3u8
+Nickelodeon,https://www.insurancegogogo.com/4987/Nickelodeon/playlist.m3u8
+Nick Jr,https://www.insurancegogogo.com/4987/Nickjr/playlist.m3u8
+Arirang HD,https://www.insurancegogogo.com/4987/arirang_korea/playlist.m3u8
+Yonhap News,https://www.insurancegogogo.com/4987/yonhapnews_korea/playlist.m3u8
+CBS,https://www.insurancegogogo.com/4987/cbs_korea/playlist.m3u8
+EBS 1,https://www.insurancegogogo.com/4987/ebs1_korea/playlist.m3u8
+EBS2,https://www.insurancegogogo.com/4987/ebs2_korea/playlist.m3u8
+EBS Plus2,https://www.insurancegogogo.com/4987/ebsplus2_korea/playlist.m3u8
+SBS Plus,https://www.insurancegogogo.com/4987/sbsplus_korea/playlist.m3u8
+YTN,https://www.insurancegogogo.com/4987/ytn_korea/playlist.m3u8
+KBS World 24,https://www.insurancegogogo.com/4987/kbsworld24_korea/playlist.m3u8
+YTN Science,https://www.insurancegogogo.com/4987/ytnscience_korea/playlist.m3u8
+YTN Korean,https://www.insurancegogogo.com/4987/ytnkorean_korea/playlist.m3u8
+YTN DMB,https://www.insurancegogogo.com/4987/ytndmb_korea/playlist.m3u8
+Apps TV,https://www.insurancegogogo.com/4987/appongoogle_korea/playlist.m3u8
+All the Kpop,https://www.insurancegogogo.com/4987/allthekpop_korea/playlist.m3u8
+J the Kpop,https://www.insurancegogogo.com/4987/jthekpop_korea/playlist.m3u8
+EBS Kids,https://www.insurancegogogo.com/4987/ebskids_korea/playlist.m3u8
+CGNTV,https://www.insurancegogogo.com/4987/cgntv_korea/playlist.m3u8
+
+其它,#genre#
+Adithya,https://www.insurancegogogo.com/4987/Adithya/playlist.m3u8
+AlQuran AlKareem,https://www.insurancegogogo.com/4987/AlQuran/playlist.m3u8
+Animal Planet (Eng),https://www.insurancegogogo.com/4987/AnimalPlanet/playlist.m3u8
+Animal_Planet,https://www.insurancegogogo.com/4987/animalplanet_twn/playlist.m3u8
+Animax,https://www.insurancegogogo.com/4987/Animax/playlist.m3u8
+AnTV,https://www.insurancegogogo.com/4987/Antv/playlist.m3u8
+Asia Travel,https://www.insurancegogogo.com/4987/asiatravel_twn/playlist.m3u8
+Asianet,https://www.insurancegogogo.com/4987/asianet_raj/playlist.m3u8
+Asianet News,https://www.insurancegogogo.com/4987/asianetnews_raj/playlist.m3u8
+Astro Sunlife,https://www.insurancegogogo.com/4987/Sunlife/playlist.m3u8
+Astro Vaanavil,https://www.insurancegogogo.com/4987/Vaanavil/playlist.m3u8
+BBC Earth HD,https://www.insurancegogogo.com/4987/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,https://www.insurancegogogo.com/4987/bbclifestyle_twn/playlist.m3u8
+BBC Earth Tamil,https://www.insurancegogogo.com/4987/bbcearthtam_raj/playlist.m3u8
+Berita Satu,https://www.insurancegogogo.com/4987/BeritaSatu_eko/playlist.m3u8
+Bollyone,https://www.insurancegogogo.com/4987/Bollyone/playlist.m3u8
+Cartoon Network Tamil,https://www.insurancegogogo.com/4987/cntamil_raj/playlist.m3u8
+Celestial Movies HD,https://www.insurancegogogo.com/4987/Celestialindo/playlist.m3u8
+Cinema HD,https://www.insurancegogogo.com/4987/Zeecinemahd/playlist.m3u8
+Cinemax,https://www.insurancegogogo.com/4987/Cinemax/playlist.m3u8
+Color HD,https://www.insurancegogogo.com/4987/Colorhd/playlist.m3u8
+Colors Tamil,https://www.insurancegogogo.com/4987/Colorstam_mega/playlist.m3u8
+Daai TV,https://www.insurancegogogo.com/4987/DaaiTV/playlist.m3u8
+Discovery Asia,https://www.insurancegogogo.com/4987/discoverytwn_twn/playlist.m3u8
+Discovery HD,https://www.insurancegogogo.com/4987/discoveryhd_twn/playlist.m3u8
+Discovery Kids Tamil,https://www.insurancegogogo.com/4987/discoverykidtamil_raj/playlist.m3u8
+Discovery Tamil,https://www.insurancegogogo.com/4987/discoverytamil_raj/playlist.m3u8
+DiscoveryWorld Tamil,https://www.insurancegogogo.com/4987/discoveryworldtam_raj/playlist.m3u8
+Entertain,https://www.insurancegogogo.com/4987/Entertain/playlist.m3u8
+EWTN,https://www.insurancegogogo.com/4987/Ewtn/playlist.m3u8
+Fashion TV,https://www.insurancegogogo.com/4987/fashiontv_twn/playlist.m3u8
+Foodnetwork Hd,https://www.insurancegogogo.com/4987/Foodnetwork_mega/playlist.m3u8
+GTV,https://www.insurancegogogo.com/4987/Gtv/playlist.m3u8
+History,https://www.insurancegogogo.com/4987/History/playlist.m3u8
+History Tamil,https://www.insurancegogogo.com/4987/historytam_raj/playlist.m3u8
+Hits,https://www.insurancegogogo.com/4987/Hits/playlist.m3u8
+HitsMovie,https://www.insurancegogogo.com/4987/Hitsmovie/playlist.m3u8
+IndosiarHD,https://www.insurancegogogo.com/4987/Indosiar/playlist.m3u8
+iNews TV,https://www.insurancegogogo.com/4987/Inewstv/playlist.m3u8
+Jak TV,https://www.insurancegogogo.com/4987/JakTV/playlist.m3u8
+JTV,https://www.insurancegogogo.com/4987/JTV_eko/playlist.m3u8
+KTV UK,https://www.insurancegogogo.com/4987/ktvuk_tamil/playlist.m3u8
+Lifestyle&Fashion,https://www.insurancegogogo.com/4987/Lifestyle/playlist.m3u8
+Makkal TV,https://www.insurancegogogo.com/4987/Makkaltv/playlist.m3u8
+MNC TV,https://www.insurancegogogo.com/4987/Mnctv/playlist.m3u8
+MTV Live,https://www.insurancegogogo.com/4987/mtvhd_twn/playlist.m3u8
+Music TV,https://www.insurancegogogo.com/4987/MusicTV/playlist.m3u8
+Muslim TV,https://www.insurancegogogo.com/4987/MuslimTV/playlist.m3u8
+Natgeo_HD,https://www.insurancegogogo.com/4987/natgeohd_twn/playlist.m3u8
+NatGeo HD,https://www.insurancegogogo.com/4987/Natgeo/playlist.m3u8
+NatGeo Tamil,https://www.insurancegogogo.com/4987/natgeotamil_raj/playlist.m3u8
+NatGeo Wild HD,https://www.insurancegogogo.com/4987/Natgeowild/playlist.m3u8
+Natgeo Wild Tamil,https://www.insurancegogogo.com/4987/natgeowildtamil_raj/playlist.m3u8
+NatGeo_Wild HD,https://www.insurancegogogo.com/4987/natgeowild_twn/playlist.m3u8
+Net TV,https://www.insurancegogogo.com/4987/NetTV/playlist.m3u8
+News 18 Tamil,https://www.insurancegogogo.com/4987/news18tamil_raj/playlist.m3u8
+One,https://www.insurancegogogo.com/4987/One_mega/playlist.m3u8
+Picture HD,https://www.insurancegogogo.com/4987/Npicture/playlist.m3u8
+RCTI,https://www.insurancegogogo.com/4987/Rcti/playlist.m3u8
+Rock Actions,https://www.insurancegogogo.com/4987/Rockaction/playlist.m3u8
+Rock Entertainment,https://www.insurancegogogo.com/4987/Rockentertain/playlist.m3u8
+RTV,https://www.insurancegogogo.com/4987/Rtv/playlist.m3u8
+SCM,https://www.insurancegogogo.com/4987/Weishimovie/playlist.m3u8
+SCTV,https://www.insurancegogogo.com/4987/SCTV/playlist.m3u8
+Sony Pix HD,https://www.insurancegogogo.com/4987/sonypix_mega
+Sony Yay Tamil,https://www.insurancegogogo.com/4987/sonyyaytam_raj/playlist.m3u8
+Sports,https://www.insurancegogogo.com/4987/Fs/playlist.m3u8
+Star Vijay,https://www.insurancegogogo.com/4987/Starvijay/playlist.m3u8
+Starmaa HD,https://www.insurancegogogo.com/4987/starmaa_raj/playlist.m3u8
+Starmaa Movies HD,https://www.insurancegogogo.com/4987/starmaamovies_raj/playlist.m3u8
+Sun Music,https://www.insurancegogogo.com/4987/Sunmusic/playlist.m3u8
+Sun TV HD,https://www.insurancegogogo.com/4987/Suntv/playlist.m3u8
+Sun TV India,https://www.insurancegogogo.com/4987/suntv_raj/playlist.m3u8
+Tawaf TV,https://www.insurancegogogo.com/4987/TawafTV/playlist.m3u8
+Thanthi TV,https://www.insurancegogogo.com/4987/thanthitv/playlist.m3u8
+Thrill,https://www.insurancegogogo.com/4987/Thrill/playlist.m3u8
+Times Now,https://www.insurancegogogo.com/4987/timesnow_mega/playlist.m3u8
+TLC,https://www.insurancegogogo.com/4987/Tlc/playlist.m3u8
+Trans 7,https://www.insurancegogogo.com/4987/Trans7_eko/playlist.m3u8
+Transtv,https://www.insurancegogogo.com/4987/Transtv/playlist.m3u8
+TVMU,https://www.insurancegogogo.com/4987/TVMU_eko/playlist.m3u8
+tvN Movie,https://www.insurancegogogo.com/4987/Tvnmovie/playlist.m3u8
+Tvone,https://www.insurancegogogo.com/4987/Tvone/playlist.m3u8
+TVRI National,https://www.insurancegogogo.com/4987/TVRI/playlist.m3u8
+Vision Prime,https://www.insurancegogogo.com/4987/VisionPrime/playlist.m3u8
+Zee Action,https://www.insurancegogogo.com/4987/Zeeaction/playlist.m3u8
+Zee Business,https://www.insurancegogogo.com/4987/Zeebusiness/playlist.m3u8
+Zee Tamil,https://www.insurancegogogo.com/4987/Zeetamil/playlist.m3u8
+Zee TV HD,https://www.insurancegogogo.com/4987/Zeetvhd/playlist.m3u8
