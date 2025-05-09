@@ -1987,11 +1987,6 @@ Discover斯特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 粤港澳闽,#genre#
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东珠江频高,http://113.109.250.108:9999/udp/239.77.0.1:5146
-广东新闻频高,http://113.109.250.108:9999/udp/239.77.0.173:5146
-广东民生频高,http://113.109.250.108:9999/udp/239.77.0.225:5146
-广东体育频高,http://113.109.250.108:9999/udp/239.77.0.112:5146
-广东影视频高,http://113.109.250.108:9999/udp/239.77.0.217:5146
 广州综合频道,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
@@ -2019,7 +2014,7 @@ Discover斯特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+Astro剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 RTHK-31频陆,p3p://108.181.32.169:37254/64101f330006ab429853d45f7940453b
 RTHK-32频陆,p3p://108.181.32.169:37254/641020b00001b8599859a360613572d7
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -2033,6 +2028,95 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 澳门资讯频道,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳门mac频道,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 
+广东频道,#genre#
+大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
+广东影视,http://nctv.top/IDOEPpiryt/migu.php?id=gdys
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广州新闻,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouXinWen
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
+广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州法治,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouFaZhi
+广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
+广州影视,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZHouYingShi
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州竞赛,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai
+广州南国都市,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouNanGuoDuShi
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=1459b96d30bd4299e4d0d8739998cf47&txTime=1913a67b210
+广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+
+💝咪咕直播,#genre#
+CCTV1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1 
+CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2 
+CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3 
+CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4 
+CCTV5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5 
+CCTV5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p 
+CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6 
+CCTV7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7 
+CCTV8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8 
+CCTV9,http://nctv.top/IDOEPpiryt/migu.php?id=cctv9 
+CCTV10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10 
+CCTV11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11 
+CCTV12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12 
+CCTV13,http://nctv.top/IDOEPpiryt/migu.php?id=cctv13 
+CCTV14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14 
+CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15 
+CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
+CGTN,http://nctv.top/IDOEPpiryt/migu.php?id=cgtn
+CGTN纪录,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnjl
+CGTN西语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtne
+CGTN阿语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtna
+CGTN法语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnf
+CGTN俄语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnr
+中央新影-发现之旅,http://nctv.top/IDOEPpiryt/migu.php?id=fxzl
+中央新影-老故事,http://nctv.top/IDOEPpiryt/migu.php?id=lgs
+中央新影-中学生,http://nctv.top/IDOEPpiryt/migu.php?id=zxs
+大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
+广东影视,http://nctv.top/IDOEPpiryt/migu.php?id=gdys
+河南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hnws
+江西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jxws
+江苏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jsws
+江苏教育,http://nctv.top/IDOEPpiryt/migu.php?id=jsjy
+江苏城市,http://nctv.top/IDOEPpiryt/migu.php?id=jscs
+江苏综艺,http://nctv.top/IDOEPpiryt/migu.php?id=jszy
+江苏影视,http://nctv.top/IDOEPpiryt/migu.php?id=jsys
+江苏新闻,http://nctv.top/IDOEPpiryt/migu.php?id=jsggxw
+江苏国际,http://nctv.top/IDOEPpiryt/migu.php?id=jsgj
+江苏教育,http://nctv.top/IDOEPpiryt/migu.php?id=jsjy
+上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxwzh
+上海第一财经,http://nctv.top/IDOEPpiryt/migu.php?id=dycj
+南京新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=njxwzh
+南京教科,http://nctv.top/IDOEPpiryt/migu.php?id=njkj
+南京十八,http://nctv.top/IDOEPpiryt/migu.php?id=njsb
+淮安新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=haxwzh
+连云港新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=lygxwzh
+泰州新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=tzxwzh
+宿迁新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=sqxwzh
+徐州新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=xzxwzh
+咪咕音乐,http://nctv.top/IDOEPpiryt/migu.php?id=ljcwhg
+咪咕新片放映厅,http://nctv.top/IDOEPpiryt/migu.php?id=xpfyt
+咪咕经典深圳旁边电影,http://nctv.top/IDOEPpiryt/migu.php?id=jdxgdy
+咪咕军事迷必看大片,http://nctv.top/IDOEPpiryt/migu.php?id=jsdp
+咪咕24小时体育台,http://nctv.top/IDOEPpiryt/migu.php?id=mg24htyhttp://nctv.top/IDOEPpiryt/migu.php?id=jsdp
+咪咕体育轮播台,http://nctv.top/IDOEPpiryt/migu.php?id=mglbt
+咪咕体育欧洲足球风云,http://nctv.top/IDOEPpiryt/migu.php?id=ozzqfy
+咪咕体育全民乒乓,http://nctv.top/IDOEPpiryt/migu.php?id=qmpp
+咪咕体育赛事最经典,http://nctv.top/IDOEPpiry/migu.php?id=sszjd
+咪咕体育体坛名栏汇,http://nctv.top/IDOEPpiryt/migu.php?id=ttmlh
+咪咕熊猫1,http://nctv.top/IDOEPpiryt/migu.php?id=xm1
+咪咕熊猫2,http://nctv.top/IDOEPpiryt/migu.php?id=xm2
+咪咕熊猫3,http://nctv.top/IDOEPpiryt/migu.php?id=xm3
+咪咕熊猫4,http://nctv.top/IDOEPpiryt/migu.php?id=xm4
+咪咕熊猫5,http://nctv.top/IDOEPpiryt/migu.php?id=xm5
+咪咕熊猫6,http://nctv.top/IDOEPpiryt/migu.php?id=xm6
+咪咕熊猫7,http://nctv.top/IDOEPpiryt/migu.php?id=xm7
+咪咕熊猫8,http://nctv.top/IDOEPpiryt/migu.php?id=xm8
+咪咕熊猫9,http://nctv.top/IDOEPpiryt/migu.php?id=xm9
+咪咕熊猫10,http://nctv.top/IDOEPpiryt/migu.php?id=xm10
 LOS ANGELES,#genre# 
 ABC (KABC Los Angeles),http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9086
 CBS (KCBS),http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/72172
