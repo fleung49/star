@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="香港 Hongkong",无线新闻
-http://haoy#EXTM3U
-#EXTINF:-1 group-title="香港 Hongkong",无线新闻
 http://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
 #EXTINF:-1 group-title="香港 Hongkong",TVB翡翠
 https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
