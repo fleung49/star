@@ -2111,17 +2111,6 @@ WARNER TV,http://108.181.20.197/livehttpplay?channel_id=20112
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=1459b96d30bd4299e4d0d8739998cf47&txTime=1913a67b210
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 
-福建频道,#genre#
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-福建海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=5257c3bc1747696163
-福建新闻频道,https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=59f0b6171747694750
-福建乡村振兴·公共频道,https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=33eeec481747695417
-福建旅游频道,https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=251d6ed31747695679
-福建经视频道,https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=8b3ae0141747695828
-福建文体频道,https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=b40d86f61747695902
-福建少儿频道,https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=d8c15e281747696022
-福建综合频道,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=5257c3bc1747696163
-
 咪咕央卫视,#genre#
 CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -2165,7 +2154,6 @@ CETV4,http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA2
 青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 大湾区卫视,http://sport.pendy.dpdns.org/migu/608917627?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
 
 咪咕地方,#genre#
 上海新闻综合,http://sport.pendy.dpdns.org/migu/651632657?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
