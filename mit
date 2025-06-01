@@ -1759,6 +1759,17 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 厦门1套,http://e2.woc.iiiya.cn:28888/rtp/239.61.3.55:9848
 厦门2套,http://e2.woc.iiiya.cn:28888/rtp/239.61.3.56:9854
 
+北京,#genre#
+北京卫视,http://judy.livednow.dpdns.org/beijing/5755n511tbk8flo40l4c71l0sdf.m3u8?auth=
+北京新闻,http://judy.livednow.dpdns.org/beijing/53gpt1ephlp86eor6ahtkg5b2hf.m3u8?auth=
+北京财经,http://judy.livednow.dpdns.org/beijing/50e335k9dq488lb7jo44olp71f5.m3u8?auth=
+北京文艺,http://judy.livednow.dpdns.org/beijing/54db6gi5vfj8r8q1e6r89imd64s.m3u8?auth=
+北京i生活,http://judy.livednow.dpdns.org/beijing/50j015rjrei9vmp3h8upblr41jf.m3u8?auth=
+北京纪实科教,http://judy.livednow.dpdns.org/beijing/53bn9rlalq08lmb8nf8iadoph0b.m3u8?auth=
+北京影视,http://judy.livednow.dpdns.org/beijing/50mqo8t4n4e8gtarqr3orj9l93v.m3u8?auth=
+北京体育休闲,http://judy.livednow.dpdns.org/beijing/54hv0f3pq079d4oiil2k12dkvsc.m3u8?auth=
+北京卡酷少儿,http://judy.livednow.dpdns.org/beijing/55skfjq618b9kcq9tfjr5qllb7r.m3u8?auth=
+
 浙江,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
