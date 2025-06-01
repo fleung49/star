@@ -35,8 +35,6 @@ http://vocotv.pro:80/gast/gast/715559
 http://vocotv.pro:80/gast/gast/715558
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 4K 617" tvg-logo="https://logo.iptveditor.com/nowsports617.png" group-title="LIVE | NOW HK",Now HK Now Sports 4K 617
 http://vocotv.pro:80/gast/gast/715557
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hub Premier 1 FHD" tvg-logo="http://xtreamraws.cc:80/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDuaa_lTHXEidcDHX_l4urC80xGxmKXVhJkb1_DclI9JI3CyI7CO1NmulKn9I4c9IVQ.png" group-title="LIVE | Starhub sports",Hub Premier 1 FHD
 http://vocotv.pro:80/gast/gast/288375
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hub Premier 2 FHD" tvg-logo="http://xtreamraws.cc:80/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDuaa_lTHXEidcDHX_l4urC8rSYpBxMgsCaaiKIr_HMw3NpaRGKZ0_mWKVxa9MlrH7k.png" group-title="LIVE | Starhub sports",Hub Premier 2 FHD
@@ -155,7 +153,7 @@ http://vocotv.pro:80/gast/gast/280217
 http://vocotv.pro:80/gast/gast/280216
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus Sport 12" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="LIVE | Optus Sports",Optus Sport 12
 http://vocotv.pro:80/gast/gast/280215
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UEFA1" tvg-name="UEFA 01: Inter Milan 20:00 Barcelona 06/05" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 01: Inter Milan 20:00 Barcelona 06/05
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UEFA2" tvg-name="UEFA 01:" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 01:
 http://vocotv.pro:80/gast/gast/277950
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UEFA2" tvg-name="UEFA 02:" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 02:
 http://vocotv.pro:80/gast/gast/277949
@@ -195,14 +193,11 @@ http://vocotv.pro:80/gast/gast/277933
 http://vocotv.pro:80/gast/gast/277932
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UEFA20" tvg-name="UEFA 20:" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 20:
 http://vocotv.pro:80/gast/gast/277931
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 01: Lille OSC vs. RC Lens" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 01: Lille OSC vs. RC Lens
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 01:" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 01:
 http://vocotv.pro:80/gast/gast/259354
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 02: Lille vs. Nantes @ Jan 4, 6:00 PM" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 02: Lille vs. Nantes @ Jan 4, 6:00 PM
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 02:" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 02:
 http://vocotv.pro:80/gast/gast/259353
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 03: Lyon vs. Montpellier @ Jan 4, 8:00 PM" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 03: Lyon vs. Montpellier @ Jan 4, 8:00 PM
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 03:" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 03:
 http://vocotv.pro:80/gast/gast/259352
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ligue 1 04:" tvg-logo="https://ligue1.com/images/Logo_Ligue1.png" group-title="LIVE | LIGUE 1",Ligue 1 04:
 http://vocotv.pro:80/gast/gast/259351
