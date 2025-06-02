@@ -2,25 +2,24 @@
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b57cc38d8bf115d2d37703173c910cc
 無線娱乐新聞台,http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=MD1D9440795894407958&ct=20241&tsum=214dcd85290b8848ccf1430ff7529dbe
-明珠台,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=66e3c410b8fbf9b655f54ccf0904fdb8
+明珠台,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MEBE4061614940616149&ct=20241&tsum=cdf6fb32e44c73ecdb78c2fea61fc1c7
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&ct=20075&tsum=cd432288b12be8775123af37f179d76d
 翡翠台华丽,http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6ca1629fec9b0389228d94e1862344a6
-TVB 星河,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=95e10857631294019b0a11d081f8d47f
-TVB 星河,http://50.7.234.10:8278/tvbxinhe_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=25d74676e98863dfc0eda19b89cec9a9
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MD4D2403778024037780&ct=20241&tsum=c1359a362c3f4447b548ca3eeaced81f
+TVB 星河,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
 千禧经典,http://50.7.234.10:8278/Tvbclassic/playlist.m3u8?tid=MBEB8308380183083801&ct=20241&tsum=441da00bf96de3f029e6941bed18d849
-RHK 31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f9f92496118488c61f06849c2b9e5a8b
-RHK 32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0d89c40b8a02efeb6e304bf9a13432d6
-VIUTV1,http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2c281821ff781ff9085990a463d0f8e1
+RHK 31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MAEA8431701684317016&ct=20241&tsum=718b3fd1e6869818b0294d9eca99feaa
+RHK 32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDFD5971862759718627&ct=20241&tsum=fac0acff791085d16b324ed5e8735736
+VIUTV1,http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF1F7819763178197631&ct=20241&tsum=73bf97ade6499317dabf81cdb36740a2
 Viu6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a7aca190a4214e266ea5045465eda737
 鳳凰衛視,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26f686711ab41843654db568f4f5f308
 鳳凰資訊,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ec493b2a59814fc8c73839955cb75f1
 鳳凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99d899b587d3106bb70fb3b60ee41ca5
 
 中國 China,#genre#
-CCTV-1,http://50.7.234.10:8278/cctv1/playlist.srt?tid=MA9A1847045818470458&ct=20241&tsum=1b258a0d942517df97ae40e6efbaddc5
-CCTV-2,http://50.7.234.10:8278/cctv2/playlist.srt?tid=MB4B9351806693518066&ct=20241&tsum=e1a05e1deca0d248ae975df1c56f1c6d
-CCTV-3,http://50.7.234.10:8278/cctv3/playlist.srt?tid=MAEA1426269514262695&ct=20241&tsum=b88022002822fc3bcb6ecd3f800e858d
+CCTV-1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+CCTV-2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+CCTV-3,http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
 CCTV-4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=MA1A3448852534488525&ct=20241&tsum=aae2a3f35cdb52ce3008899ee369f471
 CCTV-4,http://50.7.234.10:8278/Cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ac5275d7de91a42fef786150d3268d3b
 CCTV-5,http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
@@ -35,7 +34,7 @@ CCTV-12,http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct
 CCTV-13,http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
 CCTV-14,http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
 CCTV-15,http://50.7.234.10:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
-CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=MEAE6453887964538879&ct=20241&tsum=ff112af692cee3fc08e030239c76b10dbd3684d5
+CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
 CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
 湖南衛視,http://50.7.234.10:8278/hunan_twn/playlist.m3u8?tid=MD5D1798156717981567&ct=20241&tsum=c1b20243194b9fe443a887e95072b25c
 江蘇衛視,http://50.7.234.10:8278/jiangsu_twn/playlist.m3u8?tid=MC2C6314086963140869&ct=20241&tsum=8414cef5706939ce9879491b7cac0776
@@ -47,7 +46,7 @@ CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct
 廣西衛視,http://50.7.234.10:8278/guangxi/playlist.m3u8?tid=MACA1200775112007751&ct=20241&tsum=f5f3b4ca413da092aa9fbc8dc6d6b2fc
 湖北衛視,http://50.7.234.10:8278/hubei/playlist.m3u8?tid=MD0D9109283491092834&ct=20241&tsum=616bddac6186bd565dca4248d1d1bc3d
 四川衛視,http://50.7.234.10:8278/sichua_twn/playlist.srt?tid=MCBC3088775630887756&ct=20241&tsum=9854daf49ebf3e7a9a4c6cd320a584ee
-東方衛視,http://50.7.234.10:8278/dongfangweishi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dace039e703c150e71d016f81e0f2a82
+東方衛視,http://50.7.234.10:8278/dongfangweishi_twn/playlist.m3u8?tid=MF8F5658203156582031&ct=20241&tsum=f4f0804c4983f7862c55053ecc6fc2e3
 东南卫视,http://50.7.234.10:8278/fujian/playlist.m3u8?tid=ME5E5081695550816955&ct=20241&tsum=c0a7f842e3ad3a5e04aa017a2768bd21
 
 臺灣 Taiwan,#genre#
@@ -158,7 +157,7 @@ Astro MTV, http://50.7.234.10:8278/AstroMTV/playlist.m3u8?tid=mc609f36f8a214&ct=
 Mecca Live HD, http://50.7.234.10:8278/quran_mido/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1806111aedeac3bbe5039e16b6455a03
 Madinah HD, http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b80130e682e878c55e67864d40216d38
 Oasis, http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=190087901c1b8716abc19bb2a1ff6f3f
-HBO HD, http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf6f9507a05b62225bb842e056ed76f1
+HBO HD, http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
 HBO Signature, http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
 HBO Hits, http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
 NatGeo Wild HD, http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cbfead776de2db3f1f64152217ec0ca3
@@ -185,9 +184,9 @@ TVB Jade, http://50.7.234.10:8278/Tvbjade/playlist.m3u8?tid=mc609f36f8a214&ct=11
 TVBS Asia, http://50.7.234.10:8278/Tvbasia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b0e8d78674ed692e10c7e713fda8c754
 TVB Entertainment, http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6e58ae5d1ce9a6dd3a6ad163eaa6a906
 TVB Classic, http://50.7.234.10:8278/Tvbclassic/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d060eda547944fafd441faa26d754b9d
-AOD, http://50.7.234.10:8278/AodHD/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6279f46bcbad87bf48174c8ccd7170f7
+AOD, http://50.7.234.10:8278/Aodhd/playlist.m3u8?tid=MDAD6684326166843261&ct=20241&tsum=f41b7e6b5828914ac4665c1634177f43
 One, http://50.7.234.10:8278/One_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4613407608e42b8d35c0d1d0fe1a86af
-TVB 星河台, http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=066a016f43873aee31dc1223b823f058
+TVB 星河台, http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
 愛奇藝, http://50.7.234.10:8278/Qiyi/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7d62d5fea12dacc9151769630129f89d
 Animal Planet (Eng), http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
 tvN Movie, http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2753286cb7047b4b1568511a16ac643a
