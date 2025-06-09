@@ -131,14 +131,13 @@ Mytv super体育 4,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
 
 台湾167,#genre#
 壹综合,p3p://167.114.175.6:55331/64e36a09000d3453a98b615460a544cd
-中天新聞,http://hdtvtw.com/hstvs.php?pid=1530
+中天新聞,http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
 中天新闻,http://viprteaapi.top:8080/VIP01697172669118799/80fba95604f6/34899
-中天新闻 CTI+,http://hdtvtw.com/hstvs.php?pid=1531
+中天新闻 CTI+,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞 CTI+ YT,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中天亚洲台 YT,https://www.youtube.com/watch?v=dKkyfjn8xq8
 中天亚洲,p3p://167.114.175.6:55331/5fe6fce400011e568d3deaf35a511da9
-TVBS,http://hdtvtw.com/hstvs.php?pid=1549
 TVBS,http://viprteaapi.top:8080/VIP01697172669118799/80fba95604f6/34915
 TVBS YT,https://www.youtube.com/watch?v=o_-hSMgpAzs
 TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
@@ -1621,7 +1620,9 @@ TRACE URBAN,http://mianti.pendy.dpdns.org/4gtv-4gtv082/index.m3u8?proxy=true
 
 粤港澳闽,#genre#
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江频备,http://cdn3.132.us.kg/live/gdzj/stream.m3u8
 广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育频备,http://cdn3.132.us.kg/live/gdty/stream.m3u8
 广州综合频道,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
@@ -2001,66 +2002,6 @@ NBA经典咪咕,http://sport.pendy.dpdns.org/migu/788815380?token=XCn5CB6awfzrUY
 赛备睛彩篮球,http://jilin-02.tosunsoft.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
 赛备咪咕4k播,http://jilin-02.tosunsoft.com:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 
-ali香港,#genre#
-无线新闻,https://ali.hlspull.yximgs.com/live/6bbbf27cde73328f870fdb6ca7a51622.flv
-翡翠台,https://ali.hlspull.yximgs.com/live/4b0fc251ae82869466f4c7d46e7b54aa.flv
-翡翠台,http://ali.hlspull.yximgs.com/live/8372c4bc87beb356d3ef84083d10b443.flv
-翡翠台,http://ali.hlspull.yximgs.com/live/2e746f03919556f88c24a12dae90617c.flv
-明珠台,https://ali.hlspull.yximgs.com/live/35719925da9b453cf606718473d4d8a9.flv
-TVB PLUS,https://ali.hlspull.yximgs.com/live/ab2c9a8123ce5a6c58aef0122b04fe61.flv
-无线娱乐新闻台,https://ali.hlspull.yximgs.com/live/567acff26ecaea75bd8c0b43d95b6383.flv
-TVB娱乐新闻台,http://ali.hlspull.yximgs.com/live/8100c670e0116fad886a1ba8b738af67.flv
-TVB星河,http://ali.hlspull.yximgs.com/live/3a1b9cfb0bda9597ceb34d4391d20357.flv
-TVB星河,http://ali.hlspull.yximgs.com/live/216db0d9d678a972b40ee789dc0c4f99.flv
-TVB千禧经典台,http://ali.hlspull.yximgs.com/live/73679d485e9161a3c96b68c6b5781626.flv
-TVB SPORTS 1,https://ali.hlspull.yximgs.com/live/958adc75655be17ccfaa157fb413e5ea.flv
-TVB SPORTS 2,https://ali.hlspull.yximgs.com/live/38b282339ae87ab84450b4a68f99a9c1.flv
-MYTV SUPER 1,https://ali.hlspull.yximgs.com/live/84671481b3f2f8857bbd25ab9ebebb80.flv
-MYTV SUPER 2,https://ali.hlspull.yximgs.com/live/e34835aff893028225d07716077e02e2.flv
-MYTV SUPER 3,https://ali.hlspull.yximgs.com/live/e22f07dc3f73ac0b66c17907de4c8356.flv
-MYTV SUPER 4,https://ali.hlspull.yximgs.com/live/bc315adc89bc20a4739cbd60538be58c.flv
-MYTV SUPER 5,https://ali.hlspull.yximgs.com/live/65b5eab0ce56a55a2812c0dc98ea8d3a.flv
-MYTV SUPER 6,https://ali.hlspull.yximgs.com/live/568f37a5efd2887f9b7ce1c7b013053e.flv
-MYTV SUPER 7,https://ali.hlspull.yximgs.com/live/c683f00282a4e7741de68127321013b9.flv
-MYTV SUPER 8,https://ali.hlspull.yximgs.com/live/3473802f00181780a8decf5e1f935f2c.flv
-MYTV 18,https://ali.hlspull.yximgs.com/live/f6406232869d4dbe5e9012b99943c78f.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/46d320da2660857a7c38b43cf0de2070.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/dda0d1a7436cfff33c07a07d1314fd01.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/7532e23fe1350d23bf72e13b95954253.flv
-HOY 76,https://ali.hlspull.yximgs.com/live/bb3174a7c62cf1c20bf84b576b18f307.flv
-HOY 77,https://ali.hlspull.yximgs.com/live/b0ce5d865995a6c882fae0ce3f354429.flv
-HOY 78,https://ali.hlspull.yximgs.com/live/427ccbe96ce91b19875f55e782332062.flv
-VIUTV,https://ali.hlspull.yximgs.com/live/e8b5d8c7164782ff686dac4d0f3aa110.flv
-VIUTV 6,https://ali.hlspull.yximgs.com/live/ce1f296aefa5e66142c7cf1a7cab1b41.flv
-Now直播台,https://ali.hlspull.yximgs.com/live/a45261de29b77eb3ee178492887bd468.flv
-Now新闻台,https://ali.hlspull.yximgs.com/live/63b73daff3ee4f229f7f8f134dde1955.flv
-Now财经台,https://ali.hlspull.yximgs.com/live/29a01159fb3e32e3455f6d717ef8c0e8.flv
-Now星影台,https://ali.hlspull.yximgs.com/live/bc6f3fbd91f565e279700e5873f84634.flv
-Now星影台,https://ali.hlspull.yximgs.com/live/e3d24ae226ba937653a3bc41f52768ed.flv
-Now爆谷台,https://ali.hlspull.yximgs.com/live/325490c47dc84842811b8b463aaac0f2.flv
-Now爆谷台,https://ali.hlspull.yximgs.com/live/b49ad8abad3b296dff9cd1fcdac57591.flv
-Now华剧台,https://ali.hlspull.yximgs.com/live/720cb874c3fa86ac4c4d179c96c619a0.flv
-Now紫金国际,https://ali.hlspull.yximgs.com/live/57c08fb156cf714ad3dcb7d99285306e.flv
-Now Sports EPL 1,https://ali.hlspull.yximgs.com/live/a4c606898948734646da4f4587bfc7ea.flv
-Now Sports 1,https://ali.hlspull.yximgs.com/live/0d27204b241321f3a9c0a8f6a4e4dd83.flv
-Now Sports 2,https://ali.hlspull.yximgs.com/live/a325263ae6522558d9cfacc142f8be68.flv
-Now Sports 3,https://ali.hlspull.yximgs.com/live/91fabac05be3480dbcdfe591b22e137a.flv
-Now Sports 4,https://ali.hlspull.yximgs.com/live/cb7735eefb33c5d9fca61858713f68b0.flv
-Now Sports 5,https://ali.hlspull.yximgs.com/live/93ed3b9869ca3313f2d42547626f85a3.flv
-Now Sports 6,https://ali.hlspull.yximgs.com/live/a5e24916dd8cfdf850f052d442905c1e.flv
-Now Sports 7,https://ali.hlspull.yximgs.com/live/afe5db794df99274106d7be85428a35b.flv
-HKC 18台,https://ali.hlspull.yximgs.com/live/cf6ee56a1cd74c2d437589a0d7c682dd.flv
-RTHK 31,https://ali.hlspull.yximgs.com/live/dc8c2ec3ab605fb86875b2cd46cabae7.flv
-RTHK 32,https://ali.hlspull.yximgs.com/live/96dba13f4da080431d6367a969da0c40.flv
-ANIMAX,https://ali.hlspull.yximgs.com/live/8c35cf500f12e9a64df462b9dd1f87bc.flv
-KIX,https://ali.hlspull.yximgs.com/live/843fd8345dcefd12f820e45d81b29daa.flv
-POP C,https://ali.hlspull.yximgs.com/live/e80ed7fa69c0237007af23c9f53170e8.flv
-美亚电影台,https://ali.hlspull.yximgs.com/live/e6e0dd7a4981ef0f7fa1b8fbaa9c2cb3.flv
-天映頻道,http://ali.hlspull.yximgs.com/live/a8bdaca3a52e4680411f347287b1cffd.flv
-天映经典CCM,http://ali.hlspull.yximgs.com/live/88af3ac54dace3b11acce6a51faae074.flv
-
 ali央视卫视,#genre#
 CCTV 1,http://ali.hlspull.yximgs.com/live/f655c8a5013519c8184eb45b1ca05e67.flv
 CCTV 2,http://ali.hlspull.yximgs.com/live/94c7295bbfe8b26bb7a09787555278b6.flv
@@ -2109,76 +2050,6 @@ CHC家庭影院,http://ali.hlspull.yximgs.com/live/7d1b72eb97316a2b539bb471c1d82
 大湾区卫视,http://ali.hlspull.yximgs.com/live/1a3c1ecf24cfaae73a7f6246849a8cba.flv
 广东体育,http://ali.hlspull.yximgs.com/live/b7b55e2feb76ffea15973b7d6f077d8f.flv
 
-ali台湾,#genre#
-壹新闻,http://ali.hlspull.yximgs.com/live/QDGi8XJzs5p4coVAn2thTqRQqbHMaHVS.flv
-壹电影,http://ali.hlspull.yximgs.com/live/8b638d38991c9ec4e46f9a8a2e958682.flv
-寰宇新闻台,http://ali.hlspull.yximgs.com/live/mp7zA0HuiYSYbyi2DYRuvywdlpn7YoAC.flv
-寰宇新闻台,http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
-寰宇新闻台湾台,http://ali.hlspull.yximgs.com/live/0d12781f1a93a31f9cb94e29c19b6e51.flv
-寰宇财经台,http://ali.hlspull.yximgs.com/live/1dca0209ccbe87ac50450c3f6076dbe7.flv
-镜新闻,http://ali.hlspull.yximgs.com/live/40cf7029971b76173d4ba8e0cbec2f0c.flv
-今日天气,http://ali.hlspull.yximgs.com/live/c0907312395a443ba2164154b77bd342.flv
-中天新聞,http://ali.hlspull.yximgs.com/live/1a3c1ecf24cfaae73a7f6246849a8cba.flv
-中天新闻 CTI+,http://ali.hlspull.yximgs.com/live/ccc793ae8b714c84bbe31e7e0401f3da.flv
-中天亚洲台,http://ali.hlspull.yximgs.com/live/413e4c39786730cc6cf727b96bfe2b5d.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/gzjrEa6qjSVDldrrnHqiZvGyGd8FV5Kb.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/3035c3a4ff2d45ca84fd749d387042f4.flv
-中视,http://ali.hlspull.yximgs.com/live/2409959fce194bb28b94ff66a9ed258e.flv
-中视菁采,http://ali.hlspull.yximgs.com/live/de311b55b5b24ba9ee8df1701c993cf9.flv
-TVBS,http://ali.hlspull.yximgs.com/live/f12eaa02606c9509fcd35a1e958f4505.flv
-TVBS ASIA,http://ali.hlspull.yximgs.com/live/97fa7ea7734b5b8835277445a4f0bfad.flv
-TVBS新闻,http://ali.hlspull.yximgs.com/live/08d5c72e994baca067a434b2d6946e3f.flv
-TVBS精采,http://ali.hlspull.yximgs.com/live/15b4f5aad9549c8154049a44adc38a65.flv
-TVBS欢乐,http://ali.hlspull.yximgs.com/live/dc1736751332b076b4ad1651da9f90c2.flv
-东森新闻,http://ali.hlspull.yximgs.com/live/aDDvHGRCYHlFmmGnjF3CJox13MoVnKxk.flv
-东森新闻,http://ali.hlspull.yximgs.com/live/4bf41298cc59720a81d38e0adf9dfd54.flv
-东森新闻LIVE,http://ali.hlspull.yximgs.com/live/4438359f6998114c47ef53e7d87f4a48.flv
-东森超视,http://ali.hlspull.yximgs.com/live/d324511be187cf051306c47228d069e7.flv
-东森综合,http://ali.hlspull.yximgs.com/live/880969560d1f0e8dd433e7b1563b2294.flv
-东森幼幼,http://ali.hlspull.yximgs.com/live/ecaf1772c2b4ddc8802a393d2cd7f5ce.flv
-三立新闻,http://ali.hlspull.yximgs.com/live/4fe9fc262834a3f3e1022844e33af18f.flv
-三立新闻 INEWS,http://ali.hlspull.yximgs.com/live/0b0d00ab046b059d77c3fbe8f059c7e5.flv
-三立台湾台,http://ali.hlspull.yximgs.com/live/8340082bd90fd4e9e5ea60cafdbf52b1.flv
-三立戏剧台,http://ali.hlspull.yximgs.com/live/88492b3e724942172ed364c7b3fd99d0.flv
-三立綜合台,http://ali.hlspull.yximgs.com/live/9af876db6a2ad0c2aa6c0f7b1a1e0ca5.flv
-年代MUCH,http://ali.hlspull.yximgs.com/live/838d9ada1e7eafac72cdc9ec46b3ce14.flv
-非凡新闻,http://ali.hlspull.yximgs.com/live/ec89f71da15eb6ebc32f92045814ff63.flv
-非凡商业,http://ali.hlspull.yximgs.com/live/34dc90051456aceec50c4dc4da5c98b5.flv
-公视,http://ali.hlspull.yximgs.com/live/82804144d7a7da0f5da0a789550b28f7.flv
-公视PTS XS,http://ali.hlspull.yximgs.com/live/6a8046de32dd4fbebaf1ec153c82da00.flv
-公视戏剧,http://ali.hlspull.yximgs.com/live/261cb88aa601f4a881c75866a9c2a711.flv
-公视台语台,http://ali.hlspull.yximgs.com/live/da861ffb0347c962eb1cab240935418c.flv
-公视2,http://ali.hlspull.yximgs.com/live/0d0c24f869d2dba7c31709f9e29cab89.flv
-民视,http://ali.hlspull.yximgs.com/live/c9b175986252b25ee9383fc39b681438.flv
-民视第一台,http://ali.hlspull.yximgs.com/live/405934be2120dc8a455081fb8a46c086.flv
-民视台湾台,http://ali.hlspull.yximgs.com/live/ee2835436e70d9fef7640d9f706de5e8.flv
-民视新闻台,http://ali.hlspull.yximgs.com/live/f46a19824c1b44e15ed5e9de92a2db5e.flv
-民视影劇,http://ali.hlspull.yximgs.com/live/75c241331e22dd8b82243fd5752598ae.flv
-民视旅游,http://ali.hlspull.yximgs.com/live/5e778b4aac04f69162d0db699c445177.flv
-民视綜藝,http://ali.hlspull.yximgs.com/live/32ed89f497cc4a1ff19fbe23c91ef363.flv
-台视,http://ali.hlspull.yximgs.com/live/82b8b869e04628e55c9a9ca425b1e545.flv
-台视综合,http://ali.hlspull.yximgs.com/live/e3b5c85cbbff2b6bb947ccf4ddfef0ab.flv
-台视财经台,http://ali.hlspull.yximgs.com/live/e7d0ee0116766fb377b38bc844a9ea32.flv
-台湾戏剧台,http://ali.hlspull.yximgs.com/live/bbeea3470408a2c5be2fe9eb0d82121d.flv
-华视,http://ali.hlspull.yximgs.com/live/2edddfe79931ab2ee8cac6c7cbe0fd83.flv
-八大第一,http://ali.hlspull.yximgs.com/live/5ee6fd6bc4691197ca9084ef0634a3c6.flv
-八大戲劇,http://ali.hlspull.yximgs.com/live/574fb6fed0b1fb0157556f7098f659f8.flv
-八大綜合,http://ali.hlspull.yximgs.com/live/5e4822dafef818e1693f7e13a076e075.flv
-ELTA日韩,http://ali.hlspull.yximgs.com/live/f88716b4e6661b3f4d73e90f92206731.flv
-ELTA影剧,http://ali.hlspull.yximgs.com/live/c3dc51e1f2c600112546269e627029dd.flv
-ELTA综合,http://ali.hlspull.yximgs.com/live/8ac6273d65b0df259fae3c6dcf01946c.flv
-ELTA娱乐,http://ali.hlspull.yximgs.com/live/0f0919168d36424dc13a8602d9bd343b.flv
-ELTA旅游,http://ali.hlspull.yximgs.com/live/3c8d4cfa82819f18c9d0669576e1f0c4.flv
-ELTA体育1台,http://ali.hlspull.yximgs.com/live/UrGKnm46DdYiiFEheJTiiTfuULb6NuXF.flv
-ELTA体育1台,http://ali.hlspull.yximgs.com/live/f29dc86bf0fb930d2b8ec1407ef2ca5e.flv
-ELTA体育2台,http://ali.hlspull.yximgs.com/live/c6e4f2ae812c50f6a942a1c91a0f7c45.flv
-ELTA体育3台,http://ali.hlspull.yximgs.com/live/0b8a523d80be6876aa8d225379d41a63.flv
-ELTA体育4台,http://ali.hlspull.yximgs.com/live/1542bf2e63db14b9b62d3348cbcf7265.flv
-ELTA体育MAX 1,http://ali.hlspull.yximgs.com/live/18d3e448cd623396ef6b145be715fe11.flv
-ELTA体育MAX 2,http://ali.hlspull.yximgs.com/live/b66714a6ec75998d69b5bdc881cc7703.flv
-ELTA体育MAX 3,http://ali.hlspull.yximgs.com/live/0b67a0bc8b4d0aa8aa45aded2cc21f88.flv
-ELTA体育MAX 4,http://ali.hlspull.yximgs.com/live/af588e42b7b284364c5d113dbbabfd7a.flv
-
 ali新馬,#genre#
 八度空间,http://ali.hlspull.yximgs.com/live/b282d310e07987e360b90d20b9c26f87.flv
 CHANNEL 5,http://ali.hlspull.yximgs.com/live/75fd167c15ee508bbe737240151f11c7.flv
@@ -2217,51 +2088,99 @@ NOW 80s,http://ali.hlspull.yximgs.com/live/ce3459ea5ce97d4b20da86ac0eceedd5.flv
 NOW ROCK,http://ali.hlspull.yximgs.com/live/535f5e7e057325db15631869b3a2cdc2.flv
 
 LOS ANGELES,#genre# 
+CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/32496.ts
+CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/154710.ts
 KABC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0pc0ysy60FG38yD000JFAM4
-ABC (KABC Los Angeles),http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
+KABC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/35909.ts
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6822.ts
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/130565.ts
 KCBS,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qOw2yW2DKD8XxXA0yQX4_o
-CBS (KCBS Los Angeles),http://cdn1host.online:2999/kratorius/opLcbhlXaT/7563
+KCBS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/7563
+KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/103442.ts
+KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/6497.ts
 KCAL,http://hostengine.live:25461/0895648/5683420/54083
-KCAL,http://tv.iprotv.live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96613
 KCAL,https://tv4k.me/ungzcfav/74Ahxb1W8m/7249
 KCAL,http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
 KCAL,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qS9ApfQSN-mkmeikx3fz_0
-CW (KTLA 5) LOS ANGELES,http://xxip9.top:8080/tamikahomecare/tamikahomecare/120889
+KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36148.ts
+KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/6498.ts
+KTLA,http://xxip9.top:8080/tamikahomecare/tamikahomecare/120889
 KTLA,https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/1304
+KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/131503.ts
+KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/32653.ts
 KTTV,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lsB2hhg6Ak7Mn3HY-d4kkM
 FOX (KTTV Los Angeles),http://cdn1host.online:2999/kratorius/opLcbhlXaT/721
 KNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0oWaC72ZbZBxeK2my1o_bhA
-NBC (KNBC Los Angeles),http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
+KNBC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/115710.ts
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6697.ts
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/71322.ts
 SPECTRUM NEWS SOCAL,http://line.4k-beast.co/C0:23:8D:A5:E0:6F/424537/755153
 SPECTRUM NEWS,http://mag.king-4k.cc:80/fadil2023/5094F371/755153
+SPECTRUM NEWS 1 LOS ANGELES,http://pia.cx/live/p5uiBGl3/uRCDEBja/140551.ts
 
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,http://cdn1host.online:2999/kratorius/opLcbhlXaT/210
+ABC NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/35917.ts
+ABC NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/200163528.ts
+ABC NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/75498.ts
 AL JAZEERA ENG,http://cdn1host.online:2999/kratorius/opLcbhlXaT/2878
 AL JAZEERA,http://tkosportz.live:25461/dennis.schack/28398584/182502
+ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/137231.ts
+ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/500024077.ts
+ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/500303987.ts
 BBC NEWS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/764
+BBC WORLD NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/30056.ts
+BBC WORLD NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/200155129.ts
 BLOOMBERG,http://cdn1host.online:2999/kratorius/opLcbhlXaT/863
+BLOOMBERG,p://pia.cx/live/p5uiBGl3/uRCDEBja/30056.ts
+BLOOMBERG,http://pia.cx/live/p5uiBGl3/uRCDEBja/97317.ts
+BLOOMBERG ASIA,http://pia.cx/live/p5uiBGl3/uRCDEBja/44111.ts
 CBS NEWS LIVE,http://xxip9.top:8080/tamikahomecare/tamikahomecare/21259
+CBS NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/700000627.ts
+CBS NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/700002713.ts
 CGTN,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=341511
 CGTN,http://directo.ddns.me:2082/felipenarcelles/felipe7388/34229
+CGTN,http://pia.cx/live/p5uiBGl3/uRCDEBja/46923.ts
+CGTN,http://pia.cx/live/p5uiBGl3/uRCDEBja/500298510.ts
+CGTN DOC,http://pia.cx/live/p5uiBGl3/uRCDEBja/500306136.ts
+CGTN DOC,http://pia.cx/live/p5uiBGl3/uRCDEBja/26823.ts
 CGTN DOC,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=304771
 CGTN DOC,http://directo.ddns.me:2082/felipenarcelles/felipe7388/67447
 CNA,https://tv4k.me/ungzcfav/74Ahxb1W8m/120448
 CNA,http://directo.ddns.me:2082/felipenarcelles/felipe7388/67573
+CNA,http://pia.cx/live/p5uiBGl3/uRCDEBja/19517.ts
+CNA,http://pia.cx/live/p5uiBGl3/uRCDEBja/105713.ts
 CNBC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/192
 CNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0ryh0-8V2wTx9ye2OMLhVkk
 CNN,http://cdn1host.online:2999/kratorius/opLcbhlXaT/191
 CNN,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0hC999u42QJ1mQxq76KnDgY
+CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/144790.ts
+CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/119955.ts
+CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/19955.ts
+CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/72536.ts
 CNN INTL,http://cdn1host.online:2999/kratorius/opLcbhlXaT/1660
+CNN INTL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36152.ts
+CNN INTL,http://pia.cx/live/p5uiBGl3/uRCDEBja/5806.ts
 DEUTSCHE WELLE,http://mytv-extra.com/2731921600/1135460737/34694
 EURONEWS,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=175199
 FOX BUSINESS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/268
 FOX NEWS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/267
+FOX NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/111141.ts
 FRANCE 24,https://tv4k.me/ungzcfav/74Ahxb1W8m/116916
 MSNBC,https://tv4k.me/ungzcfav/74Ahxb1W8m/8118
 MSNBC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/143
 MSNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lisrfteywb9zHZtPatkqoU
+MSNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/120002.ts
+MSNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/500000406.ts
 NBC NEWS,http://mytv-extra.com/2731921600/1135460737/378781
+NBC NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/104497.ts
+NBC NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/154735.ts
+RT NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/500048883.ts
+RT NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/9587.ts
+RTE NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/500302746.ts
+RTE NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/600000574.ts
 RTE NEWS,http://mytv-extra.com/2731921600/1135460737/39798
 RUSSIA TODAY,http://mytv-extra.com/2731921600/1135460737/32315
 SKY NEWS,https://tv4k.me/live/ungzcfav/74Ahxb1W8m/116939.ts
@@ -2269,4 +2188,6 @@ TRT WORLD,http://mytv-extra.com/2731921600/1135460737/400230338
 THE WEATHER CHANNEL,http://cdn1host.online:2999/kratorius/opLcbhlXaT/301
 TVG,http://cdn1host.online:2999/kratorius/opLcbhlXaT/332
 TVG,http://xxip9.top:8080/tamikahomecare/tamikahomecare/10259
+TVG,http://pia.cx/live/p5uiBGl3/uRCDEBja/600001134.ts
+TVG,http://pia.cx/live/p5uiBGl3/uRCDEBja/400006514.ts
 TVG2,http://xxip9.top:8080/tamikahomecare/tamikahomecare/18940
