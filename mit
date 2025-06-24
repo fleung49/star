@@ -2069,52 +2069,6 @@ Z_电视频道标,https://hls-gateway.vpstv.net/streams/525785.m3u8
 东森购叁标限,https://hls-gateway.vpstv.net/streams/488989.m3u8
 东森购伍标限,https://hls-gateway.vpstv.net/streams/493136.m3u8
 
-LOS ANGELES,#genre# 
-CBSN,http://hostengine.live:25461/0895648/5683420/54165
-CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/32496.ts
-CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/154710.ts
-KABC,http://hostengine.live:25461/0895648/5683420/54049
-KABC,http://xxip9.top:8080/live/30065823/63154294/120857.ts
-KABC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0pc0ysy60FG38yD000JFAM4
-KABC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/35909.ts
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6822.ts
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/130565.ts
-KABC,http://hostengine.live:25461/0895648/5683420/54084
-KCBS,http://xxip9.top:8080/30065823/63154294/121234
-KCBS,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qOw2yW2DKD8XxXA0yQX4_o
-KCBS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/7563
-KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/103442.ts
-KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/6497.ts
-KCAL,http://hostengine.live:25461/0895648/5683420/54083
-KCAL,http://1tv41.icu:8080/30065823/63154294/120654
-KCAL,http://hostengine.live:25461/0895648/5683420/54083
-KCAL,https://tv4k.me/ungzcfav/74Ahxb1W8m/7249
-KCAL,http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
-KCAL,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qS9ApfQSN-mkmeikx3fz_0
-KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36148.ts
-KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/6498.ts
-KTLA,http://hostengine.live:25461/0895648/5683420/54177
-KTLA,http://1tv41.icu:8080/30065823/63154294/120889
-KTLA,http://xxip9.top:8080/tamikahomecare/tamikahomecare/120889
-KTLA,https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/1304
-KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/131503.ts
-KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/32653.ts
-KTTV,http://hostengine.live:25461/0895648/5683420/54235
-KTTV,http://xxip9.top:8080/30065823/63154294/120655
-KTTV,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lsB2hhg6Ak7Mn3HY-d4kkM
-KTTV,http://cdn1host.online:2999/kratorius/opLcbhlXaT/721
-KNBC,http://hostengine.live:25461/0895648/5683420/54389
-KNBC,http://xxip9.top:8080/30065823/63154294/120656
-KNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0oWaC72ZbZBxeK2my1o_bhA
-KNBC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/115710.ts
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6697.ts
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/71322.ts
-SPECTRUM NEWS SOCAL,http://line.4k-beast.co/C0:23:8D:A5:E0:6F/424537/755153
-SPECTRUM NEWS,http://mag.king-4k.cc:80/fadil2023/5094F371/755153
-SPECTRUM NEWS 1 LOS ANGELES,http://pia.cx/live/p5uiBGl3/uRCDEBja/140551.ts
-
 CN HLS,#genre#
 CCTV1,http://60.9.238.163:50003/hls/1/index.m3u8#http://113.9.124.108:88/hls/1/index.m3u8#http://123.10.76.215:808/hls/1/index.m3u8#http://123.10.76.219:808/hls/1/index.m3u8
 CCTV2,http://60.9.238.163:50003/hls/2/index.m3u8#http://123.10.76.215:808/hls/2/index.m3u8#http://113.9.124.108:88/hls/2/index.m3u8#http://123.10.76.219:808/hls/2/index.m3u8
@@ -2298,6 +2252,52 @@ NewTV家庭剧场,http://113.9.124.108:88/hls/142/index.m3u8
 NewTV炫舞未来,http://113.9.124.108:88/hls/153/index.m3u8
 KKnews,http://dns.yiandrive.com:13571/douyin/KKnews
 cctv news,http://dns.yiandrive.com:13571/douyin/kuaikancctv
+
+LOS ANGELES,#genre# 
+CBSN,http://hostengine.live:25461/0895648/5683420/54165
+CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/32496.ts
+CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/154710.ts
+KABC,http://hostengine.live:25461/0895648/5683420/54049
+KABC,http://xxip9.top:8080/live/30065823/63154294/120857.ts
+KABC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0pc0ysy60FG38yD000JFAM4
+KABC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/35909.ts
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6822.ts
+KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/130565.ts
+KABC,http://hostengine.live:25461/0895648/5683420/54084
+KCBS,http://xxip9.top:8080/30065823/63154294/121234
+KCBS,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qOw2yW2DKD8XxXA0yQX4_o
+KCBS,http://cdn1host.online:2999/kratorius/opLcbhlXaT/7563
+KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/103442.ts
+KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/6497.ts
+KCAL,http://hostengine.live:25461/0895648/5683420/54083
+KCAL,http://1tv41.icu:8080/30065823/63154294/120654
+KCAL,http://hostengine.live:25461/0895648/5683420/54083
+KCAL,https://tv4k.me/ungzcfav/74Ahxb1W8m/7249
+KCAL,http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
+KCAL,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qS9ApfQSN-mkmeikx3fz_0
+KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36148.ts
+KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/6498.ts
+KTLA,http://hostengine.live:25461/0895648/5683420/54177
+KTLA,http://1tv41.icu:8080/30065823/63154294/120889
+KTLA,http://xxip9.top:8080/tamikahomecare/tamikahomecare/120889
+KTLA,https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/1304
+KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/131503.ts
+KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/32653.ts
+KTTV,http://hostengine.live:25461/0895648/5683420/54235
+KTTV,http://xxip9.top:8080/30065823/63154294/120655
+KTTV,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lsB2hhg6Ak7Mn3HY-d4kkM
+KTTV,http://cdn1host.online:2999/kratorius/opLcbhlXaT/721
+KNBC,http://hostengine.live:25461/0895648/5683420/54389
+KNBC,http://xxip9.top:8080/30065823/63154294/120656
+KNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0oWaC72ZbZBxeK2my1o_bhA
+KNBC,http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/115710.ts
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6697.ts
+KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/71322.ts
+SPECTRUM NEWS SOCAL,http://line.4k-beast.co/C0:23:8D:A5:E0:6F/424537/755153
+SPECTRUM NEWS,http://mag.king-4k.cc:80/fadil2023/5094F371/755153
+SPECTRUM NEWS 1 LOS ANGELES,http://pia.cx/live/p5uiBGl3/uRCDEBja/140551.ts
 
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,http://cdn1host.online:2999/kratorius/opLcbhlXaT/210
