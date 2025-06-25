@@ -1300,7 +1300,6 @@ EYE-戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 MTv高清斯特,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
 Discover斯特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 
-
 粤港澳闽,#genre#
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江频备,http://cdn3.132.us.kg/live/gdzj/stream.m3u8
@@ -1456,17 +1455,6 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 福建少儿,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.9:8048
 厦门1套,http://e2.woc.iiiya.cn:28888/rtp/239.61.3.55:9848
 厦门2套,http://e2.woc.iiiya.cn:28888/rtp/239.61.3.56:9854
-
-北京,#genre#
-北京卫视,http://judy.livednow.dpdns.org/beijing/5755n511tbk8flo40l4c71l0sdf.m3u8?auth=
-北京新闻,http://judy.livednow.dpdns.org/beijing/53gpt1ephlp86eor6ahtkg5b2hf.m3u8?auth=
-北京财经,http://judy.livednow.dpdns.org/beijing/50e335k9dq488lb7jo44olp71f5.m3u8?auth=
-北京文艺,http://judy.livednow.dpdns.org/beijing/54db6gi5vfj8r8q1e6r89imd64s.m3u8?auth=
-北京i生活,http://judy.livednow.dpdns.org/beijing/50j015rjrei9vmp3h8upblr41jf.m3u8?auth=
-北京纪实科教,http://judy.livednow.dpdns.org/beijing/53bn9rlalq08lmb8nf8iadoph0b.m3u8?auth=
-北京影视,http://judy.livednow.dpdns.org/beijing/50mqo8t4n4e8gtarqr3orj9l93v.m3u8?auth=
-北京体育休闲,http://judy.livednow.dpdns.org/beijing/54hv0f3pq079d4oiil2k12dkvsc.m3u8?auth=
-北京卡酷少儿,http://judy.livednow.dpdns.org/beijing/55skfjq618b9kcq9tfjr5qllb7r.m3u8?auth=
 
 浙江,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -2214,6 +2202,7 @@ LOS ANGELES,#genre#
 CBSN,http://hostengine.live:25461/0895648/5683420/54165
 CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/32496.ts
 CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/154710.ts
+CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 KABC,http://hostengine.live:25461/0895648/5683420/54049
 KABC,http://xxip9.top:8080/live/30065823/63154294/120857.ts
 KABC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0pc0ysy60FG38yD000JFAM4
