@@ -1,73 +1,119 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://live.nctv.top/DJlio/tv.php?id=1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://live.nctv.top/DJlio/tv.php?id=2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://live.nctv.top/DJlio/tv.php?id=3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://live.nctv.top/DJlio/tv.php?id=4
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4欧洲
-http://live.nctv.top/DJlio/tv.php?id=21
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4美洲
-http://live.nctv.top/DJlio/tv.php?id=22
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://live.nctv.top/DJlio/tv.php?id=5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://live.nctv.top/DJlio/tv.php?id=18
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://live.nctv.top/DJlio/tv.php?id=6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://live.nctv.top/DJlio/tv.php?id=7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://live.nctv.top/DJlio/tv.php?id=8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://live.nctv.top/DJlio/tv.php?id=9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://live.nctv.top/DJlio/tv.php?id=10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://live.nctv.top/DJlio/tv.php?id=11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://live.nctv.top/DJlio/tv.php?id=12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://live.nctv.top/DJlio/tv.php?id=13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://live.nctv.top/DJlio/tv.php?id=14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://live.nctv.top/DJlio/tv.php?id=15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://live.nctv.top/DJlio/tv.php?id=16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://live.nctv.top/DJlio/tv.php?id=17
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="📺央视频道",CCTV 4K
-http://live.nctv.top/DJlio/tv.php?id=20
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="💰央视付费频道",CHC动作电影
-http://live.nctv.top/DJlio/tv.php?id=23
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC高清电影.png" group-title="💰央视付费频道",CHC高清电影
-http://live.nctv.top/DJlio/tv.php?id=24
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="💰央视付费频道",CHC家庭影院
-http://live.nctv.top/DJlio/tv.php?id=25
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/女性时尚.png" group-title="💰央视付费频道",女性时尚
-http://live.nctv.top/DJlio/tv.php?id=26
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一剧场.png" group-title="💰央视付费频道",第一剧场
-http://live.nctv.top/DJlio/tv.php?id=27
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="💰央视付费频道",世界地理
-http://live.nctv.top/DJlio/tv.php?id=28
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云足球.png" group-title="💰央视付费频道",风云足球
-http://live.nctv.top/DJlio/tv.php?id=29
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/央视台球.png" group-title="💰央视付费频道",央视台球
-http://live.nctv.top/DJlio/tv.php?id=30
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云音乐.png" group-title="💰央视付费频道",风云音乐
-http://live.nctv.top/DJlio/tv.php?id=31
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://live.nctv.top/DJlio/tv.php?id=32
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/文化精品.png" group-title="💰央视付费频道",文化精品
-http://live.nctv.top/DJlio/tv.php?id=33
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://live.nctv.top/DJlio/tv.php?id=35
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/电视指南.png" group-title="💰央视付费频道",电视指南
-http://live.nctv.top/DJlio/tv.php?id=36
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
-http://live.nctv.top/DJlio/tv.php?id=37
-#EXTINF:-1 tvg-name="长影频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/长影频道.png" group-title="💰央视付费频道",长影频道
-http://live.nctv.top/DJlio/tv.php?id=38
+HK,#genre#
+翡翠台,http://dm.lion-ott.com/live/raj25692/t4K24112/500954.ts
+无线新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500949.ts
+TVB星河,http://dm.lion-ott.com/live/raj25692/t4K24112/500957.ts
+TVBJ1,http://dm.lion-ott.com/live/raj25692/t4K24112/500945.ts
+TVB1,http://dm.lion-ott.com/live/raj25692/t4K24112/500946.ts
+TVB1,http://dm.lion-ott.com/live/raj25692/t4K24112/500951.ts
+TVBS ASIA,http://dm.lion-ott.com/live/raj25692/t4K24112/500947.ts
+TVB DRAMA,http://dm.lion-ott.com/live/raj25692/t4K24112/500948.ts
+TVB娱乐新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500950.ts
+TVB娱乐新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500953.ts
+TVB千禧经典台,http://dm.lion-ott.com/live/raj25692/t4K24112/500952.ts
+凤凰资讯,http://dm.lion-ott.com/live/raj25692/t4K24112/500960.ts
+凤凰香港,http://dm.lion-ott.com/live/raj25692/t4K24112/500958.ts
+FAIRCHILD EAST,http://dm.lion-ott.com/live/raj25692/t4K24112/500942.ts
+FAIRCHILD WEST,http://dm.lion-ott.com/live/raj25692/t4K24112/500943.ts
+FAIRCHILD 2,http://dm.lion-ott.com/live/raj25692/t4K24112/500944.ts
+
+SPORTS,#genre#
+NOW SPORTS 1,http://dm.lion-ott.com/live/raj25692/t4K24112/802488.ts
+NOW SPORTS 2,http://dm.lion-ott.com/live/raj25692/t4K24112/802487.ts
+NOW SPORTS 3,http://dm.lion-ott.com/live/raj25692/t4K24112/802486.ts
+NOW SPORTS 4,http://dm.lion-ott.com/live/raj25692/t4K24112/802485.ts
+NOW SPORTS 5,http://dm.lion-ott.com/live/raj25692/t4K24112/802484.ts
+NOW SPORTS 6,http://dm.lion-ott.com/live/raj25692/t4K24112/802483.ts
+NOW SPORTS 7,http://dm.lion-ott.com/live/raj25692/t4K24112/802482.ts
+ASTRO SPORTS 1,http://dm.lion-ott.com/live/raj25692/t4K24112/828098.ts
+ASTRO SPORTS 2,http://dm.lion-ott.com/live/raj25692/t4K24112/828097.ts
+ASTRO SPORTS 3,http://dm.lion-ott.com/live/raj25692/t4K24112/828096.ts
+ASTRO SPORTS 4,http://dm.lion-ott.com/live/raj25692/t4K24112/828095.ts
+ASTRO SPORTS 5,http://dm.lion-ott.com/live/raj25692/t4K24112/828094.ts
+BEIN SPORTS FR 1,http://dm.lion-ott.com/live/raj25692/t4K24112/832066.ts
+BEIN SPORTS FR 2,http://dm.lion-ott.com/live/raj25692/t4K24112/832062.ts
+BEIN SPORTS FR 3,http://dm.lion-ott.com/live/raj25692/t4K24112/832058.ts
+BEIN SPORTS FR 4,http://dm.lion-ott.com/live/raj25692/t4K24112/832054.ts
+BEIN SPORTS FR 5,http://dm.lion-ott.com/live/raj25692/t4K24112/832052.ts
+BEIN SPORTS FR 6,http://dm.lion-ott.com/live/raj25692/t4K24112/832051.ts
+BEIN SPORTS FR 7,http://dm.lion-ott.com/live/raj25692/t4K24112/832049.ts
+BEIN SPORTS FR 8,http://dm.lion-ott.com/live/raj25692/t4K24112/832046.ts
+BEIN SPORTS FR 9,http://dm.lion-ott.com/live/raj25692/t4K24112/832044.ts
+BEIN SPORTS FR 1O,http://dm.lion-ott.com/live/raj25692/t4K24112/832042.ts
+BEIN SPORTS EN 1,http://dm.lion-ott.com/live/raj25692/t4K24112/828083.ts
+BEIN SPORTS EN 2,http://dm.lion-ott.com/live/raj25692/t4K24112/828071.ts
+BEIN SPORTS EN 3,http://dm.lion-ott.com/live/raj25692/t4K24112/828070.ts
+BEIN SPORTS AR 1,http://dm.lion-ott.com/live/raj25692/t4K24112/1156649.ts
+BEIN SPORTS AR 2,http://dm.lion-ott.com/live/raj25692/t4K24112/1156648.ts
+BEIN SPORTS AR 3,http://dm.lion-ott.com/live/raj25692/t4K24112/1156647.ts
+BEIN SPORTS AR 4,http://dm.lion-ott.com/live/raj25692/t4K24112/1156646.ts
+BEIN SPORTS AR 5,http://dm.lion-ott.com/live/raj25692/t4K24112/1156645.ts
+BEIN SPORTS AR 6,http://dm.lion-ott.com/live/raj25692/t4K24112/1156644.ts
+BEIN SPORTS AR 7,http://dm.lion-ott.com/live/raj25692/t4K24112/1156643.ts
+BEIN SPORTS AR 8,http://dm.lion-ott.com/live/raj25692/t4K24112/1156642.ts
+BEIN SPORTS AR 9,http://dm.lion-ott.com/live/raj25692/t4K24112/1156641.ts
+
+LOS ANGELES,#genre#
+KABC,http://dm.lion-ott.com/live/raj25692/t4K24112/548980.ts
+KCBS,http://dm.lion-ott.com/live/raj25692/t4K24112/549636.ts
+KCAL,http://dm.lion-ott.com/live/raj25692/t4K24112/760122.ts
+KTTV,http://dm.lion-ott.com/live/raj25692/t4K24112/549875.ts
+KNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/550382.ts
+KTLA,http://dm.lion-ott.com/live/raj25692/t4K24112/469336.ts
+SPECTRUM NEWS SOCAL,http://dm.lion-ott.com/live/raj25692/t4K24112/720288.ts
+
+NEWS,#genre#
+ABC NEWS LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/551995.ts
+ALJAZEERA,http://dm.lion-ott.com/live/raj25692/t4K24112/704492.ts
+BBC NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/627023.ts
+BLOOMBERG,http://dm.lion-ott.com/live/raj25692/t4K24112/469299.ts
+CBS NEWS LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/551996.ts
+CCTV 4,http://dm.lion-ott.com/live/raj25692/t4K24112/552941.ts
+CGTN,http://dm.lion-ott.com/live/raj25692/t4K24112/311707.ts
+CGTN DOCUMENTARY,http://dm.lion-ott.com/live/raj25692/t4K24112/552941.ts
+CNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/551993.ts
+CNN,http://dm.lion-ott.com/live/raj25692/t4K24112/552001.ts
+CNN INTL,http://dm.lion-ott.com/live/raj25692/t4K24112/551998.ts
+DW,http://dm.lion-ott.com/live/raj25692/t4K24112/469315.ts
+EURONEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577209.ts
+FOX NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/551988.ts
+FOX BUSINESS,http://dm.lion-ott.com/live/raj25692/t4K24112/551968.ts
+FRANCE 24,http://dm.lion-ott.com/live/raj25692/t4K24112/704491.ts
+MSNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/551986.ts
+RT NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577215.ts
+RTE NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/578145.ts
+SKY NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577515.ts
+SKY RACING 1,http://dm.lion-ott.com/live/raj25692/t4K24112/879881.ts
+SKY RACING 2,http://dm.lion-ott.com/live/raj25692/t4K24112/879880.ts
+RACING.COM,http://dm.lion-ott.com/live/raj25692/t4K24112/259849.ts
+THE WEATHER CHANNEL,http://dm.lion-ott.com/live/raj25692/t4K24112/469343.ts
+TRT WORLD,http://dm.lion-ott.com/live/raj25692/t4K24112/577212.ts
+TVG,http://dm.lion-ott.com/live/raj25692/t4K24112/487634.ts
+TVG 2,http://dm.lion-ott.com/live/raj25692/t4K24112/487633.ts
+
+MUSIC,#genre#
+KARAOKE 1,http://dm.lion-ott.com/live/raj25692/t4K24112/697149.ts
+KARAOKE 2,http://dm.lion-ott.com/live/raj25692/t4K24112/697150.ts
+KARAOKE 3,http://dm.lion-ott.com/live/raj25692/t4K24112/697151.ts
+KARAOKE 4,http://dm.lion-ott.com/live/raj25692/t4K24112/697152.ts
+KARAOKE 5,http://dm.lion-ott.com/live/raj25692/t4K24112/697153.ts
+KARAOKE 6,http://dm.lion-ott.com/live/raj25692/t4K24112/697154.ts
+KARAOKE 7,http://dm.lion-ott.com/live/raj25692/t4K24112/697155.ts
+KARAOKE 8,http://dm.lion-ott.com/live/raj25692/t4K24112/697156.ts
+MTV 00s,http://dm.lion-ott.com/live/raj25692/t4K24112/1267442.ts
+MTV BASE,http://dm.lion-ott.com/live/raj25692/t4K24112/577452.ts
+MTV LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/577450.ts
+MTV MUSIC,http://dm.lion-ott.com/live/raj25692/t4K24112/577454.ts
+MTV HITS,http://dm.lion-ott.com/live/raj25692/t4K24112/577449.ts
+MC 90s,http://dm.lion-ott.com/live/raj25692/t4K24112/577429.ts
+MC ALTERNATIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/577428.ts
+MC POP&COUNTRY,http://dm.lion-ott.com/live/raj25692/t4K24112/577418.ts
+MC POP HITS,http://dm.lion-ott.com/live/raj25692/t4K24112/577417.ts
+MC R&B SOUL,http://dm.lion-ott.com/live/raj25692/t4K24112/577415.ts
+MC Y2K,http://dm.lion-ott.com/live/raj25692/t4K24112/577407.ts
+NOW 70s,http://dm.lion-ott.com/live/raj25692/t4K24112/577432.ts
+NOW 80s,http://dm.lion-ott.com/live/raj25692/t4K24112/577431.ts
+NOW 90s,http://dm.lion-ott.com/live/raj25692/t4K24112/577430.ts
+NOW ROCK,http://dm.lion-ott.com/live/raj25692/t4K24112/1276281.ts
+DANCE TV,http://dm.lion-ott.com/live/raj25692/t4K24112/1110685.ts
+CLUBLAND TV,http://dm.lion-ott.com/live/raj25692/t4K24112/577445.ts
+TRACE URBAN,http://dm.lion-ott.com/live/raj25692/t4K24112/577436.ts
