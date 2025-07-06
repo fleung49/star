@@ -866,6 +866,7 @@ Danang TV1 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
 Danang TV2 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
 HBTV HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
 PTTH 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
+
 韩国频特,#genre#
 Arirang HD,https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
 Yonhap News,https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
@@ -932,6 +933,9 @@ NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+ICITI 城市电视,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/283900.ts
+SKYLINK 1,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279327.ts
+SKYLINK 2,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/482638.ts
 Astro剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -1822,124 +1826,105 @@ TVBS文茜财经周报,http://xn--elt51t.azip.dpdns.org:5008/ofiii205/index.m3u8
 环球大战线,http://xn--elt51t.azip.dpdns.org:5008/ofiii206/index.m3u8?proxy=true
 
 LOS ANGELES,#genre# 
-CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/32496.ts
-CBSN,http://pia.cx/live/p5uiBGl3/uRCDEBja/154710.ts
+CBSN,http://nonamevos.com:80/4500/4500/106333
 CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 KABC,http://hostengine.live:25461/0895648/5683420/54049
 KABC,http://xxip9.top:8080/live/30065823/63154294/120857.ts
 KABC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0pc0ysy60FG38yD000JFAM4
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/35909.ts
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6822.ts
-KABC,http://pia.cx/live/p5uiBGl3/uRCDEBja/130565.ts
+KABC,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76897.ts
 KABC,http://hostengine.live:25461/0895648/5683420/54084
 KCBS,http://xxip9.top:8080/30065823/63154294/121234
 KCBS,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qOw2yW2DKD8XxXA0yQX4_o
-KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/103442.ts
-KCBS,http://pia.cx/live/p5uiBGl3/uRCDEBja/6497.ts
+KCBS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76745.ts
 KCAL,http://hostengine.live:25461/0895648/5683420/54083
 KCAL,http://1tv41.icu:8080/30065823/63154294/120654
 KCAL,http://hostengine.live:25461/0895648/5683420/54083
 KCAL,https://tv4k.me/ungzcfav/74Ahxb1W8m/7249
 KCAL,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0qS9ApfQSN-mkmeikx3fz_0
-KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36148.ts
-KCAL,http://pia.cx/live/p5uiBGl3/uRCDEBja/6498.ts
+KCAL,http://front-main.eagle-4k.me/9fshhuw2z7/54hw7lwwb1/76860
 KTLA,http://hostengine.live:25461/0895648/5683420/54177
 KTLA,http://1tv41.icu:8080/30065823/63154294/120889
 KTLA,http://xxip9.top:8080/tamikahomecare/tamikahomecare/120889
 KTLA,https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/1304
-KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/131503.ts
-KTLA,http://pia.cx/live/p5uiBGl3/uRCDEBja/32653.ts
+KTLA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279327.ts
 KTTV,http://hostengine.live:25461/0895648/5683420/54235
 KTTV,http://xxip9.top:8080/30065823/63154294/120655
 KTTV,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lsB2hhg6Ak7Mn3HY-d4kkM
+KTTV,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76434.ts
 KNBC,http://hostengine.live:25461/0895648/5683420/54389
 KNBC,http://xxip9.top:8080/30065823/63154294/120656
 KNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0oWaC72ZbZBxeK2my1o_bhA
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/115710.ts
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/6697.ts
-KNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/71322.ts
+KNBC,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76617.ts
 SPECTRUM NEWS SOCAL,http://line.4k-beast.co/C0:23:8D:A5:E0:6F/424537/755153
 SPECTRUM NEWS,http://mag.king-4k.cc:80/fadil2023/5094F371/755153
-SPECTRUM NEWS 1 LOS ANGELES,http://pia.cx/live/p5uiBGl3/uRCDEBja/140551.ts
+SPECTRUM NEWS 1 LOS ANGELES,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/306915.ts
 
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,http://hostengine.live:25461/0895648/5683420/313033
-ABC NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/35917.ts
-ABC NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/200163528.ts
+ABC NEWS LIVE,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76910.ts
 ABC NEWS LIVE,http://lunar.pm:8080/Mrdon/4782314540/21471
 AL JAZEERA ENG,http://tkosportz.live:25461/dennis.schack/28398584/187015
 AL JAZEERA,http://hostengine.live:25461/0895648/5683420/53834
-ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/137231.ts
-ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/500024077.ts
-ALJAZEERA,http://pia.cx/live/p5uiBGl3/uRCDEBja/500303987.ts
+ALJAZEERA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13644.ts
 BBC NEWS,http://hostengine.live:25461/0895648/5683420/53840
-BBC WORLD NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/30056.ts
-BBC WORLD NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/200155129.ts
+BBC WORLD NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/22242.ts
 BLOOMBERG,http://hostengine.live:25461/0895648/5683420/56584
-BLOOMBERG,p://pia.cx/live/p5uiBGl3/uRCDEBja/30056.ts
-BLOOMBERG,http://pia.cx/live/p5uiBGl3/uRCDEBja/97317.ts
-BLOOMBERG ASIA,http://pia.cx/live/p5uiBGl3/uRCDEBja/44111.ts
+BLOOMBERG,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/246834.ts
+BLOOMBERG ASIA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163720.ts
 CBS NEWS LIVE,http://hostengine.live:25461/0895648/5683420/315846
 CBS NEWS LIVE,http://xxip9.top:8080/tamikahomecare/tamikahomecare/21259
-CBS NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/700000627.ts
-CBS NEWS LIVE,http://pia.cx/live/p5uiBGl3/uRCDEBja/700002713.ts
-CCTV-13 YT,https://www.youtube.com/watch?v=bb3TCujEHJ4
+CBS NEWS LIVE,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/246827.ts
 CCTV 13 NEWS,http://dns.yiandrive.com:13571/douyin/kuaikancctv
 CGTN,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=341511
 CGTN,http://hostengine.live:25461/0895648/5683420/101201
-CGTN,http://pia.cx/live/p5uiBGl3/uRCDEBja/46923.ts
-CGTN,http://pia.cx/live/p5uiBGl3/uRCDEBja/500298510.ts
+CGTN,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163737.ts
 CGTN DOC,http://hostengine.live:25461/0895648/5683420/274331
-CGTN DOC,http://pia.cx/live/p5uiBGl3/uRCDEBja/500306136.ts
-CGTN DOC,http://pia.cx/live/p5uiBGl3/uRCDEBja/26823.ts
+CGTN DOC,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1165794.ts
 CGTN DOC,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=304771
 CNA,https://tv4k.me/ungzcfav/74Ahxb1W8m/120448
 CNA,http://hostengine.live:25461/0895648/5683420/250018
-CNA,http://pia.cx/live/p5uiBGl3/uRCDEBja/19517.ts
-CNA,http://pia.cx/live/p5uiBGl3/uRCDEBja/105713.ts
+CNA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163743.ts
 CNBC,http://xxip9.top:8080/30065823/63154294/9815
 CNBC,http://hostengine.live:25461/0895648/5683420/53418
 CNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0ryh0-8V2wTx9ye2OMLhVkk
 CNN,http://xxip9.top:8080/30065823/63154294/1817
 CNN,http://hostengine.live:25461/0895648/5683420/53416
 CNN,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0hC999u42QJ1mQxq76KnDgY
-CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/144790.ts
-CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/119955.ts
-CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/19955.ts
-CNN,http://pia.cx/live/p5uiBGl3/uRCDEBja/72536.ts
+CNN,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13154.ts
 CNN INTL,http://hostengine.live:25461/0895648/5683420/56409
-CNN INTL,http://pia.cx/live/p5uiBGl3/uRCDEBja/36152.ts
-CNN INTL,http://pia.cx/live/p5uiBGl3/uRCDEBja/5806.ts
+CNN INTL,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279311.ts
 DEUTSCHE WELLE,http://mytv-extra.com/2731921600/1135460737/34694
+DEUTSCHE WELLE,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163775.ts
 EURONEWS,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=175199
 EURONEWS,http://hostengine.live:25461/live/0895648/5683420/82878.ts
+EURONEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54268.ts
 FOX BUSINESS,http://hostengine.live:25461/0895648/5683420/53392
+FOX BUSINESS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/7412.ts
 FOX NEWS,http://hostengine.live:25461/0895648/5683420/53391
 FOX NEWS,http://tkosportz.live:25461/dennis.schack/28398584/190877
+FOX NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/22170.ts
 FOX NEWS NOW,http://hostengine.live:25461/0895648/5683420/309456
-FOX NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/111141.ts
 FRANCE 24,http://hostengine.live:25461/live/0895648/5683420/295121.ts
 FRANCE 24,https://tv4k.me/ungzcfav/74Ahxb1W8m/116916
 MSNBC,http://hostengine.live:25461/live/0895648/5683420/53370.ts
 MSNBC,https://tv4k.me/ungzcfav/74Ahxb1W8m/8118
 MSNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lisrfteywb9zHZtPatkqoU
-MSNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/120002.ts
-MSNBC,http://pia.cx/live/p5uiBGl3/uRCDEBja/500000406.ts
+MSNBC,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13160.ts
 NBC NEWS,http://mytv-extra.com/2731921600/1135460737/378781
 NBC NEWS NOW,http://hostengine.live:25461/live/0895648/5683420/273957.ts
-NBC NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/104497.ts
-NBC NEWS NOW,http://pia.cx/live/p5uiBGl3/uRCDEBja/154735.ts
+NBC NEWS NOW,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279304.ts
 RT NEWS,http://hostengine.live:25461/0895648/5683420/308896
-RT NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/500048883.ts
-RT NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/9587.ts
-RTE NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/500302746.ts
-RTE NEWS,http://pia.cx/live/p5uiBGl3/uRCDEBja/600000574.ts
+RT NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/303539.ts
 RTE NEWS,http://mytv-extra.com/2731921600/1135460737/39798
+RTE NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13643.ts
 SKY NEWS,https://tv4k.me/live/ungzcfav/74Ahxb1W8m/116939.ts
+SKY NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/10536.ts
 TRT WORLD,http://mytv-extra.com/2731921600/1135460737/400230338
+TRT WORLD,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/75417.ts
 THE WEATHER CHANNEL,http://hostengine.live:25461/0895648/5683420/53310
+THE WEATHER CHANNEL,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/75416.ts
 TVG,http://hostengine.live:25461/live/0895648/5683420/54971.ts
 TVG,http://xxip9.top:8080/tamikahomecare/tamikahomecare/10259
-TVG,http://pia.cx/live/p5uiBGl3/uRCDEBja/600001134.ts
-TVG,http://pia.cx/live/p5uiBGl3/uRCDEBja/400006514.ts
+TVG,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54180.ts
 TVG2,http://xxip9.top:8080/tamikahomecare/tamikahomecare/18940
+TVG2,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54179.ts
