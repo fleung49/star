@@ -131,8 +131,7 @@ Mytv super体育 4,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
 
 台湾167,#genre#
 壹综合,p3p://167.114.175.6:55331/64e36a09000d3453a98b615460a544cd
-中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-中天新闻 CTI+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞 CTI+ YT,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中天亚洲台 YT,https://www.youtube.com/watch?v=dKkyfjn8xq8
@@ -1906,6 +1905,7 @@ FOX NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/22170.ts
 FOX NEWS NOW,http://hostengine.live:25461/0895648/5683420/309456
 FRANCE 24,http://hostengine.live:25461/live/0895648/5683420/295121.ts
 FRANCE 24,https://tv4k.me/ungzcfav/74Ahxb1W8m/116916
+KKnews,http://dns.yiandrive.com:13571/douyin/KKnews
 MSNBC,http://hostengine.live:25461/live/0895648/5683420/53370.ts
 MSNBC,https://tv4k.me/ungzcfav/74Ahxb1W8m/8118
 MSNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0lisrfteywb9zHZtPatkqoU
@@ -1928,3 +1928,4 @@ TVG,http://xxip9.top:8080/tamikahomecare/tamikahomecare/10259
 TVG,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54180.ts
 TVG2,http://xxip9.top:8080/tamikahomecare/tamikahomecare/18940
 TVG2,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54179.ts
+XinhuaTV,http://dns.yiandrive.com:13571/douyin/XinhuaTV
