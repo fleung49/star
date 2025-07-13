@@ -1264,6 +1264,46 @@ CGTN DOCUMENTARY,http://8.138.7.223/tv/migu2.php?id=20
 徐州新闻综合,http://8.138.7.223/tv/migu2.php?id=56
 优漫卡通,http://8.138.7.223/tv/migu2.php?id=57
 
+咪咕MIGU3,#genre#
+CCTV 1,http://139.155.142.13:9177/miguHD.php?id=CCTV1
+CCTV 2,http://139.155.142.13:9177/miguHD.php?id=CCTV2
+CCTV 3,http://139.155.142.13:9177/miguHD.php?id=CCTV3
+CCTV 4,http://139.155.142.13:9177/miguHD.php?id=CCTV4
+CCTV 5,http://139.155.142.13:9177/miguHD.php?id=CCTV5
+CCTV 5+,http://139.155.142.13:9177/miguHD.php?id=CCTV5p
+CCTV 6,http://139.155.142.13:9177/miguHD.php?id=CCTV6
+CCTV 7,http://139.155.142.13:9177/miguHD.php?id=CCTV7
+CCTV 8,http://139.155.142.13:9177/miguHD.php?id=CCTV8
+CCTV 9,http://139.155.142.13:9177/miguHD.php?id=CCTV9
+CCTV 10,http://139.155.142.13:9177/miguHD.php?id=CCTV10
+CCTV 11,http://139.155.142.13:9177/miguHD.php?id=CCTV11
+CCTV 12,http://139.155.142.13:9177/miguHD.php?id=CCTV12
+CCTV 13,http://139.155.142.13:9177/miguHD.php?id=CCTV13
+CCTV 14,http://139.155.142.13:9177/miguHD.php?id=CCTV14
+CCTV 15,http://139.155.142.13:9177/miguHD.php?id=CCTV15
+CCTV 16,http://139.155.142.13:9177/miguHD.php?id=CCTV16
+CCTV 17,http://139.155.142.13:9177/miguHD.php?id=CCTV17
+
+央視ts,#genre#
+CCTV 1,http://60.26.12.190:85/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 2,http://60.26.12.190:85/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 3,http://60.26.15.127:85/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 4,http://60.26.15.127:85/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5,http://60.26.12.190:85/tsfile/live/16012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5+,http://60.26.13.17:85/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 6,http://60.26.15.127:85/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 7,http://60.26.15.127:85/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 8,http://60.26.15.127:85/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 9,http://60.26.15.127:85/tsfile/live/16016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 10,http://60.26.15.127:85/tsfile/live/16017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 11,http://60.26.15.127:85/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 12,http://60.26.15.127:85/tsfile/live/16019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 13,http://60.26.15.127:85/tsfile/live/16020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 14,http://60.26.15.127:85/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 15,http://60.26.15.127:85/tsfile/live/16022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 16,http://60.26.15.127:85/tsfile/live/16023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 17,http://60.26.13.88:85/tsfile/live/16024_1.m3u8?key=txiptv&playlive=1&authid=0
+
 特闽AKtv,#genre#
 鳳凰衛視中文台,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
