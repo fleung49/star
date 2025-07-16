@@ -1215,6 +1215,40 @@ CGTN俄语,http://117.72.194.224:656/zb.php?id=cgtnr
 咪咕熊猫9,http://117.72.194.224:656/zb.php?id=xm9
 咪咕熊猫10,http://117.72.194.224:656/zb.php?id=xm10
 
+咪咕央卫mgtv,#genre#
+CCTV1,http://8.138.214.88:47681/mgtv/608807420.m3u8
+CCTV2,http://8.138.214.88:47681/mgtv/631780532.m3u8
+CCTV3,http://8.138.214.88:47681/mgtv/624878271.m3u8
+CCTV4,http://8.138.214.88:47681/mgtv/631780421.m3u8
+CCTV4欧洲,http://8.138.214.88:47681/mgtv/608807419.m3u8
+CCTV4美洲,http://8.138.214.88:47681/mgtv/608807416.m3u8
+CCTV5,http://8.138.214.88:47681/mgtv/641886683.m3u8
+CCTV5+,http://8.138.214.88:47681/mgtv/641886773.m3u8
+CCTV6,http://8.138.214.88:47681/mgtv/624878396.m3u8
+CCTV7,http://8.138.214.88:47681/mgtv/673168121.m3u8
+CCTV8,http://8.138.214.88:47681/mgtv/624878356.m3u8
+CCTV9,http://8.138.214.88:47681/mgtv/673168140.m3u8
+CCTV10,http://8.138.214.88:47681/mgtv/624878405.m3u8
+CCTV11,http://8.138.214.88:47681/mgtv/667987558.m3u8
+CCTV12,http://8.138.214.88:47681/mgtv/673168185.m3u8
+CCTV13,http://8.138.214.88:47681/mgtv/608807423.m3u8
+CCTV14,http://8.138.214.88:47681/mgtv/624878440.m3u8
+CCTV15,http://8.138.214.88:47681/mgtv/673168223.m3u8
+CCTV17,http://8.138.214.88:47681/mgtv/673168256.m3u8
+东方卫视,http://8.138.214.88:47681/mgtv/651632648.m3u8
+江苏卫视,http://8.138.214.88:47681/mgtv/623899368.m3u8
+广东卫视,http://8.138.214.88:47681/mgtv/608831231.m3u8
+江西卫视,http://8.138.214.88:47681/mgtv/783847495.m3u8
+河南卫视,http://8.138.214.88:47681/mgtv/790187291.m3u8
+陕西卫视,http://8.138.214.88:47681/mgtv/738910838.m3u8
+大湾区卫视,http://8.138.214.88:47681/mgtv/608917627.m3u8
+湖北卫视,http://8.138.214.88:47681/mgtv/947472496.m3u8
+吉林卫视,http://8.138.214.88:47681/mgtv/947472500.m3u8
+青海卫视,http://8.138.214.88:47681/mgtv/947472506.m3u8
+东南卫视,http://8.138.214.88:47681/mgtv/849116810.m3u8
+海南卫视,http://8.138.214.88:47681/mgtv/947472502.m3u8
+海峡卫视,http://8.138.214.88:47681/mgtv/849119120.m3u8
+
 特闽AKtv,#genre#
 鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -1808,7 +1842,9 @@ ABC NEWS LIVE,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/76910.ts
 ABC NEWS LIVE,http://lunar.pm:8080/Mrdon/4782314540/21471
 AL JAZEERA ENG,http://tkosportz.live:25461/dennis.schack/28398584/187015
 AL JAZEERA,http://hostengine.live:25461/0895648/5683420/53834
+ALJAZEERA,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/960/index.m3u8
 ALJAZEERA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13644.ts
+BBC NEWS,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/545/index.m3u8
 BBC NEWS,http://hostengine.live:25461/0895648/5683420/53840
 BBC WORLD NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/22242.ts
 BLOOMBERG,http://hostengine.live:25461/0895648/5683420/56584
@@ -1817,6 +1853,7 @@ BLOOMBERG ASIA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163720.
 CBS NEWS LIVE,http://hostengine.live:25461/0895648/5683420/315846
 CBS NEWS LIVE,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/246827.ts
 CCTV 13 NEWS,http://dns.yiandrive.com:13571/douyin/kuaikancctv
+CGTN,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/830/index.m3u8
 CGTN,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=341511
 CGTN,http://hostengine.live:25461/0895648/5683420/101201
 CGTN,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163737.ts
@@ -1826,13 +1863,16 @@ CGTN DOC,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&st
 CNA,https://tv4k.me/ungzcfav/74Ahxb1W8m/120448
 CNA,http://hostengine.live:25461/0895648/5683420/250018
 CNA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163743.ts
+CNBC,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/962/index.m3u8
 CNBC,http://jmrk.xyz:5050/JaniRard290/bWLVH2UH8F/418115
 CNBC,http://hostengine.live:25461/0895648/5683420/53418
 CNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0ryh0-8V2wTx9ye2OMLhVkk
+CNN,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6499/index.m3u8
 CNN,http://jmrk.xyz:5050/JaniRard290/bWLVH2UH8F/418118
 CNN,http://hostengine.live:25461/0895648/5683420/53416
 CNN,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0hC999u42QJ1mQxq76KnDgY
 CNN,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13154.ts
+CNN INTL,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/31301/index.m3u8
 CNN INTL,http://hostengine.live:25461/0895648/5683420/56409
 CNN INTL,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279311.ts
 DEUTSCHE WELLE,http://mytv-extra.com/2731921600/1135460737/34694
@@ -1842,10 +1882,12 @@ EURONEWS,http://hostengine.live:25461/live/0895648/5683420/82878.ts
 EURONEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54268.ts
 FOX BUSINESS,http://hostengine.live:25461/0895648/5683420/53392
 FOX BUSINESS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/7412.ts
+FOX NEWS,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/19147/index.m3u8
 FOX NEWS,http://hostengine.live:25461/0895648/5683420/53391
 FOX NEWS,http://tkosportz.live:25461/dennis.schack/28398584/190877
 FOX NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/22170.ts
 FOX NEWS NOW,http://hostengine.live:25461/0895648/5683420/309456
+FRANCE 24,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/31318/index.m3u8
 FRANCE 24,http://hostengine.live:25461/live/0895648/5683420/295121.ts
 FRANCE 24,https://tv4k.me/ungzcfav/74Ahxb1W8m/116916
 KKnews,http://dns.yiandrive.com:13571/douyin/KKnews
@@ -1857,10 +1899,12 @@ MSNBC,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13160.ts
 NBC NEWS,http://mytv-extra.com/2731921600/1135460737/378781
 NBC NEWS NOW,http://hostengine.live:25461/live/0895648/5683420/273957.ts
 NBC NEWS NOW,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279304.ts
+RT NEWS,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/840/index.m3u8
 RT NEWS,http://hostengine.live:25461/0895648/5683420/308896
 RT NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/303539.ts
 RTE NEWS,http://mytv-extra.com/2731921600/1135460737/39798
 RTE NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13643.ts
+SKY NEWS,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2475/index.m3u8
 SKY NEWS,https://tv4k.me/live/ungzcfav/74Ahxb1W8m/116939.ts
 SKY NEWS,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/10536.ts
 TRT WORLD,http://mytv-extra.com/2731921600/1135460737/400230338
