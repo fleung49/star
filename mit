@@ -134,6 +134,7 @@ Mytv super体育 4,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
 中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞 CTI+ YT,https://www.youtube.com/watch?v=DM_PEM8GrIg
+中天新闻P2p,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
 中天亚洲台 YT,https://www.youtube.com/watch?v=dKkyfjn8xq8
 中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中天亚洲,p3p://167.114.175.6:55331/5fe6fce400011e568d3deaf35a511da9
@@ -442,10 +443,8 @@ Trace Urban,p3p://167.114.175.6:55331/644fae930000fb9c6879e5f40cc63e7f
 翡翠台北美(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -479,20 +478,12 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
+中天新闻,http://kkk.888.3116598.xyz/api.php?n=6887925&id=RnD5U4&tk=tMOM6bYORdJe
+中天新闻,http://000.hfr1107.top/tv/smt.php?id=ctinews
 中天新闻,http://api.mytv666.top/api/hk.php?id=3862366539313935356333316130363734623834353962623032616433353263267469643d77696e74763132332669643d3433
 中天新闻,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
 中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
-中天新闻,http://kkk.888.3116598.xyz/api.php?n=6887925&id=RnD5U4&tk=tMOM6bYORdJe
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/67f2e1c60bcf86b1239db76e307493cd.flv
-中天新闻,http://000.hfr1107.top/tv/smt.php?id=ctinews
 中天新闻P2p,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
-中天新闻P2p,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.ts
-中天新闻P2p,P2p://80.251.220.91:7999/afbdb12456fc0f895b0c315e8aa844db.ts
-中天新闻P2p,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-中天新闻P2p,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.ts
-中天新闻P2p,P2p://80.251.220.91:7999/afbdb12456fc0f895b0c315e8aa844db.ts
-中天新闻P2p,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-中天新闻P2p,p2p://142.54.189.229:7575/64de52a70006e20d01b906297b7d0f95.ts
 
 央卫频特,#genre#
 CCTV-01频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
