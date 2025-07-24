@@ -1238,8 +1238,60 @@ CHC影迷电影,Chttp://live.sxrtv.com/iptv/chcymdy.m3u8
 山西卫视,http://live.sxrtv.com/iptv/sxiws.m3u8
 青海卫视,http://live.sxrtv.com/iptv/qhws.m3u8
 宁夏卫视,http://live.sxrtv.com/iptv/nxws.m3u8
-内蒙古卫视,http://live.sxrtv.com/iptv/nmws.m3u8
+内蒙古卫视,http://live.sxrtv.com/iptv/nmgws.m3u8
 黑龙江卫视,http://live.sxrtv.com/iptv/hljws.m3u8
+
+央视高清,#genre#
+CCTV 1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV 2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV 3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV 4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV 5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV 5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV 6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV 7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV 8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV 9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV 10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV 11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV 12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV 13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV 14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV 15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV 16,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV 17,http://z.b.bkpcp.top/m.php?id=cctv17
+CGTN,http://z.b.bkpcp.top/m.php?id=cgtn
+CGTN DOCUMENTARY,http://z.b.bkpcp.top/m.php?id=cgtnjl
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
+深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
+安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
+湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+四川卫视,http://z.b.bkpcp.top/m.php?id=scws
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
+河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
+天津卫视,http://z.b.bkpcp.top/m.php?id=tjws
+辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
+黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
+重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
+新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
+吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
+西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
+云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
+海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
+宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
+内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmgws
+甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
+山西卫视,http://z.b.bkpcp.top/m.php?id=sxiws.m3u8
+兵团卫视,http://z.b.bkpcp.top/m.php?id=btws
 
 央视卫视hkyc,#genre#
 CCTV1,http://www.hkyc.site:1991/udp/239.253.64.120:5140
@@ -1981,15 +2033,15 @@ CGTN DOC,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&st
 CNA,https://tv4k.me/ungzcfav/74Ahxb1W8m/120448
 CNA,http://hostengine.live:25461/0895648/5683420/250018
 CNA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163743.ts
-CNBC,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/962/index.m3u8
 CNBC,http://jmrk.xyz:5050/JaniRard290/bWLVH2UH8F/418115
 CNBC,http://hostengine.live:25461/0895648/5683420/53418
 CNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0ryh0-8V2wTx9ye2OMLhVkk
-CNN,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6499/index.m3u8
+CNBC,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/962/index.m3u8
 CNN,http://jmrk.xyz:5050/JaniRard290/bWLVH2UH8F/418118
 CNN,http://hostengine.live:25461/0895648/5683420/53416
 CNN,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0hC999u42QJ1mQxq76KnDgY
 CNN,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/13154.ts
+CNN,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6499/index.m3u8
 CNN INTL,http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/31301/index.m3u8
 CNN INTL,http://hostengine.live:25461/0895648/5683420/56409
 CNN INTL,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/279311.ts
