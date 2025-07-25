@@ -900,7 +900,6 @@ NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 无线新闻频道,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
 无线翡翠频4k,http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -909,10 +908,6 @@ NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 无线翡翠频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线华丽频道,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线华丽频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-无线直播频道,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
-无线功夫频道,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-无线星河频粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -931,27 +926,9 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 澳视葡语频道,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳门资讯频道,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳门mac频道,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-CCTV4,http://108.181.20.197/livehttpplay?channel_id=10128
-大湾区卫视,http://108.181.20.197/livehttpplay?channel_id=20083
-广东影视,http://108.181.20.197/livehttpplay?channel_id=20145
-五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
-TVB星河,http://108.181.20.197/livehttpplay?channel_id=20070
-HOY78,http://108.181.20.197/livehttpplay?channel_id=20191
-NOW新闻台,http://108.181.20.197/livehttpplay?channel_id=20041
-NOW新闻台,http://live4play.uk/livehttpplay?channel_id=20041
-凤凰中文,http://108.181.20.197/livehttpplay?channel_id=20065
-凤凰中文,http://108.181.20.197/livehttpplay?channel_id=30014
-凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=20066
-凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
-凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067
-凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016
 凤凰中文频高,http://cdn5.132.us.kg/live/fhzw/stream.m3u8
 凤凰资讯频高,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港频高,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-无线新闻(极速),http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv
-无线新闻(极速2),http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
 无线新闻 (高),http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 翡翠台 (高),http://cdn3.132.us.kg/live/fct/stream.m3u8
 翡翠台4k,http://cdn3.132.us.kg/live/fct4k/stream.m3u8
@@ -972,9 +949,11 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 
 广东频道,#genre#
 大湾区卫视,http://183.236.194.118:8808/hls/20/index.m3u8
+大湾区卫视,http://218.15.20.81:3388/hls/13/index.m3u8
 广东卫视,http://www.hkyc.site:1991/udp/239.253.64.200:5140
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-19.ctv
+广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
+广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东影视,http://183.236.194.118:8808/hls/18/index.m3u8
 广东珠江,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhujiang
