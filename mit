@@ -429,7 +429,6 @@ CGTN_英频特,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
 广东珠江频特,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 
 特区频特,#genre#
-Plus综合频特,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
 凤凰卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 凤凰资讯频特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰香港频特,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
@@ -442,7 +441,10 @@ Plus综合频特,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
 无线明珠频特,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 无线娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 千禧经典频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-VIUTV英频特,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+TVB PLUS,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
+TVB星河,http://smart.pendy.dpdns.org/Smart.php?id=Xinhe
+VIUTV,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
+VIUTV6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
 RTHK-31频特,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
 RTHK-32频特,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
 美亚电影频特,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
@@ -451,9 +453,12 @@ RTHK-32频特,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
 龙华电影频特,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 龙祥电影频特,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 纬来电影频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-Astr爱奇频特,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-AstrQJ国频特,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-Astr欢喜频特,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
+八度空间,http://smart.pendy.dpdns.org/Smart.php?id=TV8
+Astro AEC,http://smart.pendy.dpdns.org/Smart.php?id=AEC
+Astro AOD,http://smart.pendy.dpdns.org/Smart.php?id=Aodhd
+Astro 爱奇频特,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+Astro QJ国频特,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
+Astro 欢喜频特,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
 
 闽南频特,#genre#
 中天新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
@@ -1972,6 +1977,34 @@ Star Movies HD,http://live.catvod.com/smart.php?id=starmovies_raj
 TLC,http://live.catvod.com/smart.php?id=Tlc
 Thrill,http://live.catvod.com/smart.php?id=Thrill
 Warner TV,http://live.catvod.com/smart.php?id=WarnerTV
+
+smt香港,#genre#
+凤凰卫视,http://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,http://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixinfo_hd
+凤凰香港,http://smt.1789.dpdns.org/smt3.2.1.php?id=hkphoenix_twn
+有线新闻,http://smt.1789.dpdns.org/smt3.2.1.php?id=hoycaijing_twn
+无线新闻,http://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
+翡翠台,http://smt.1789.dpdns.org/smt3.2.1.php?id=jade_twn
+无线华丽翡翠,http://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
+无线华丽翡翠,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
+明珠台,http://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_twn
+无线娱乐新闻台,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbentertainment
+无线千禧经典台,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbclassic
+TVB PLUS,http://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
+TVB星河,http://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
+VIUTV,http://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
+VIUTV6,http://smt.1789.dpdns.org/smt3.2.1.php?id=viusix_twn
+RTHK-31,http://smt.1789.dpdns.org/smt3.2.1.php?id=rhk31_twn
+RTHK-32,http://smt.1789.dpdns.org/smt3.2.1.php?id=rhk32_twn
+美亚电影台,http://smt.1789.dpdns.org/smt3.2.1.php?id=meiyamovie_twn
+天映频道,http://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial
+天映频道,http://smt.1789.dpdns.org/smt3.2.1.php?id=ctv18_twn
+八度空间,http://smt.1789.dpdns.org/smt3.2.1.php?id=TV8
+Astro AEC,http://smt.1789.dpdns.org/smt3.2.1.php?id=AEC
+Astro AOD,http://smt.1789.dpdns.org/smt3.2.1.php?id=Aodhd
+Astro iQiyi,http://smt.1789.dpdns.org/smt3.2.1.php?id=Qiyi
+Astro QJ国,http://smt.1789.dpdns.org/smt3.2.1.php?id=Quanjia
+Astro欢喜,http://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 
 LOS ANGELES,#genre# 
 CBSN,http://nonamevos.com:80/4500/4500/106333
