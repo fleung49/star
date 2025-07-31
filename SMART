@@ -613,6 +613,8 @@ http://xn--94q.l5.ca/daili/Smartv.php?id=beefour
 http://xn--94q.l5.ca/daili/Smartv.php?id=ufc_mega
 #EXTINF:-1 group-title="體育Sports" tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WWE
 http://xn--94q.l5.ca/daili/Smartv.php?id=Wwe
+#EXTINF:-1 group-title="體育Sports" tvg-name="愛爾達體育1台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育1台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育1台
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport1_twn
 #EXTINF:-1 group-title="體育Sports" tvg-name="愛爾達體育2台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育2台
 http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport2_twn
 #EXTINF:-1 group-title="體育Sports" tvg-name="愛爾達體育3台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育3台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育3台
