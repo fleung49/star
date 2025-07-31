@@ -1383,7 +1383,6 @@ CCTV16,http://www.hkyc.site:1991/udp/239.253.64.126:5140
 华数6,http://www.hkyc.site:1991/udp/239.253.64.163:5140
 TCTV,http://www.hkyc.site:1991/udp/239.253.64.117:5140
 
-
 特闽AKtv,#genre#
 鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -1429,514 +1428,1089 @@ PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 
-香港catvod,#genre#
-无线新闻,http://live.catvod.com/smart.php?id=inews_twn
-翡翠台,http://live.catvod.com/smart.php?id=jade_twn
-无线財經資訊台,http://live.catvod.com/smart.php?id=tvbcaijing_twn
-明珠台,http://live.catvod.com/smart.php?id=pearl_twn
-J2,http://live.catvod.com/smart.php?id=j2_twn
-TVB Jade,http://live.catvod.com/smart.php?id=Tvbjade
-TVB Entertainment,http://live.catvod.com/smart.php?id=Tvbentertainment
-TVB Classic,http://live.catvod.com/smart.php?id=Tvbclassic
-TVB星河,http://live.catvod.com/smart.php?id=tvbxinhe_twn
-TVB 星河台,http://live.catvod.com/smart.php?id=Xinhe
-鳳凰衛視,http://live.catvod.com/smart.php?id=phoenixtv_hd
-鳳凰資訊,http://live.catvod.com/smart.php?id=phoenixinfo_hd
-鳳凰香港,http://live.catvod.com/smart.php?id=hkphoenix_twn
-RHK 31,http://live.catvod.com/smart.php?id=rhk31_twn
-RHK 32,http://live.catvod.com/smart.php?id=rhk32_twn
-VIUTV,http://live.catvod.com/smart.php?id=viu1_twn
-VIUTV6,http://live.catvod.com/smart.php?id=viusix_twn
-
-中國catvod,#genre#
-CCTV-1,http://live.catvod.com/smart.php?id=cctv1
-CCTV-2,http://live.catvod.com/smart.php?id=cctv2
-CCTV-3,http://live.catvod.com/smart.php?id=cctv3
-CCTV-4,http://live.catvod.com/smart.php?id=cctv4
-CCTV-4,http://live.catvod.com/smart.php?id=Cctv4
-CCTV-5,http://live.catvod.com/smart.php?id=cctv5
-CCTV-5+,http://live.catvod.com/smart.php?id=cctv5plus
-CCTV-6,http://live.catvod.com/smart.php?id=cctv6
-CCTV-7,http://live.catvod.com/smart.php?id=cctv7
-CCTV-8,http://live.catvod.com/smart.php?id=cctv8hd
-CCTV-9,http://live.catvod.com/smart.php?id=cctv9hd
-CCTV-10,http://live.catvod.com/smart.php?id=cctv10hd
-CCTV-11,http://live.catvod.com/smart.php?id=cctv11
-CCTV-12,http://live.catvod.com/smart.php?id=cctv12
-CCTV-13,http://live.catvod.com/smart.php?id=cctv13
-CCTV-14,http://live.catvod.com/smart.php?id=cctv14
-CCTV-15,http://live.catvod.com/smart.php?id=cctv15
-CCTV-16,http://live.catvod.com/smart.php?id=cctv16
-CCTV-17,http://live.catvod.com/smart.php?id=cctv17
-湖南衛視,http://live.catvod.com/smart.php?id=hunan_twn
-江蘇衛視,http://live.catvod.com/smart.php?id=jiangsu_twn
-深圳衛視,http://live.catvod.com/smart.php?id=shenzhen
-大灣區衛視,http://live.catvod.com/smart.php?id=nanfang_twn
-廣東衛視,http://live.catvod.com/smart.php?id=guangdongweishi_twn
-北京衛視,http://live.catvod.com/smart.php?id=beijing
-廣東珠江,http://live.catvod.com/smart.php?id=zhujiang
-廣西衛視,http://live.catvod.com/smart.php?id=guangxi
-湖北衛視,http://live.catvod.com/smart.php?id=hubei
-四川衛視,http://live.catvod.com/smart.php?id=sichuan_twn
-東方衛視,http://live.catvod.com/smart.php?id=dongfangweishi_twn
-
-臺灣catvod,#genre#
-寰宇新聞台,http://live.catvod.com/smart.php?id=huanyuxinwen_twn
-寰宇財經台,http://live.catvod.com/smart.php?id=huanyutaiwan_twn
-中天新聞HD,http://live.catvod.com/smart.php?id=ctinews
-中天亞洲台,http://live.catvod.com/smart.php?id=ctiasia_twn
-中天娱樂,http://live.catvod.com/smart.php?id=ctient
-中天綜合,http://live.catvod.com/smart.php?id=ctizhonghe
-TVBS HD,http://live.catvod.com/smart.php?id=tvbs
-TVBS Asia,http://live.catvod.com/smart.php?id=Tvbasia
-TVBS新聞台,http://live.catvod.com/smart.php?id=tvbs_n
-TVBS歡樂台,http://live.catvod.com/smart.php?id=tvbshuanle_twn
-中視新聞台,http://live.catvod.com/smart.php?id=zhongshinews_twn
-中視經典,http://live.catvod.com/smart.php?id=zhongshi_twn
-東森新聞,http://live.catvod.com/smart.php?id=ettvnews
-東森財經新聞,http://live.catvod.com/smart.php?id=ettvcaijing_twn
-東森電影,http://live.catvod.com/smart.php?id=ettvmovie
-東森洋片,http://live.catvod.com/smart.php?id=ettvwestern
-東森綜合,http://live.catvod.com/smart.php?id=ettvzhonghe
-東森戲劇,http://live.catvod.com/smart.php?id=ettvdrama
-三立台灣台,http://live.catvod.com/smart.php?id=sanlitaiwan
-三立戲劇台,http://live.catvod.com/smart.php?id=sanlixiju_twn
-三立綜合台,http://live.catvod.com/smart.php?id=sanlizhonghe
-非凡新聞台,http://live.catvod.com/smart.php?id=feifannews_twn
-年代新聞台,http://live.catvod.com/smart.php?id=niandainews_twn
-民視台灣台,http://live.catvod.com/smart.php?id=ftvtaiwan_twn
-民視新聞台,http://live.catvod.com/smart.php?id=ftvnew_taiwan
-民視第一台,http://live.catvod.com/smart.php?id=lunghuajingdian_twn
-亞洲旅遊台,http://live.catvod.com/smart.php?id=asiatravel_twn
-亞洲美食,http://live.catvod.com/smart.php?id=afc_twn
-八大戲劇,http://live.catvod.com/smart.php?id=badadrama
-八大第一,http://live.catvod.com/smart.php?id=badafirst
-八大綜合,http://live.catvod.com/smart.php?id=badazhonghe
-動物星球,http://live.catvod.com/smart.php?id=animalplanet_twn
-博斯網球,http://live.catvod.com/smart.php?id=bositennis_twn
-博斯運動1,http://live.catvod.com/smart.php?id=bosisport1_twn
-博斯運動2,http://live.catvod.com/smart.php?id=bosisport2_twn
-博斯高球1,http://live.catvod.com/smart.php?id=bosigolf1_twn
-博斯高球2,http://live.catvod.com/smart.php?id=bosigolf2_twn
-台視新聞台,http://live.catvod.com/smart.php?id=ttvnews_twn
-國家地理,http://live.catvod.com/smart.php?id=natgeohd_twn
-大愛一台,http://live.catvod.com/smart.php?id=daai_twn
-好萊塢電影台,http://live.catvod.com/smart.php?id=hollywoodmovies_twn
-愛爾達影劇,http://live.catvod.com/smart.php?id=eltayingju_twn
-愛爾達體育 1,http://live.catvod.com/smart.php?id=eltasport_twn
-愛爾達體育 2,http://live.catvod.com/smart.php?id=eltasport2_twn
-愛爾達體育 3,http://live.catvod.com/smart.php?id=eltasport3_twn
-探索亞洲,http://live.catvod.com/smart.php?id=discoverytwn_twn
-探索動力,http://live.catvod.com/smart.php?id=discoveryturbo_twn
-緯來日本台,http://live.catvod.com/smart.php?id=videolandjapan
-緯來體育台,http://live.catvod.com/smart.php?id=videolandsport
-美亞電影,http://live.catvod.com/smart.php?id=meiyamovie_twn
-華藝綜合,http://live.catvod.com/smart.php?id=weishichinese_twn
-野生動物,http://live.catvod.com/smart.php?id=natgeowild_twn
-阿里郎,http://live.catvod.com/smart.php?id=arirang_twn
-靖天卡通台,http://live.catvod.com/smart.php?id=jingtiancartoon_twn
-靖天國際台,http://live.catvod.com/smart.php?id=jingtianintl_twn
-龍祥時代,http://live.catvod.com/smart.php?id=lungxiangtime_twn
-龍華偶像,http://live.catvod.com/smart.php?id=lunghuaidol_twn
-龍華戲劇,http://live.catvod.com/smart.php?id=lunghuaxiju_twn
-龍華洋片,http://live.catvod.com/smart.php?id=lunghuawestern_twn
-龍華電影,http://live.catvod.com/smart.php?id=xingwei_movie
-AXN,http://live.catvod.com/smart.php?id=axn_twn
-BBC World News,http://live.catvod.com/smart.php?id=bbcnews_twn
-Bloomberg News,http://live.catvod.com/smart.php?id=bloomberg_twn
-CINEMAX,http://live.catvod.com/smart.php?id=cinemax_twn
-CN卡通,http://live.catvod.com/smart.php?id=momo1_twn
-Discovery HD,http://live.catvod.com/smart.php?id=discoveryhd_twn
-ELEVEN 1,http://live.catvod.com/smart.php?id=golfchannel_twn
-EYE戲劇,http://live.catvod.com/smart.php?id=eyetvxiju_twn
-EYE旅遊,http://live.catvod.com/smart.php?id=eyetvtravel_twn
-Fox News,http://live.catvod.com/smart.php?id=foxnews_twn
-HBO,http://live.catvod.com/smart.php?id=hbohd_twn
-HBO Family,http://live.catvod.com/smart.php?id=fyi_twn
-MTV Live,http://live.catvod.com/smart.php?id=mtvhd_twn
-TLC旅遊生活,http://live.catvod.com/smart.php?id=tlc_twn
-
-馬來西亞catvod,#genre#
-愛奇藝,http://live.catvod.com/smart.php?id=Qiyi
-歡喜台 HD,http://live.catvod.com/smart.php?id=Huahee
-歡喜台(備用),http://live.catvod.com/smart.php?id=Huahee_backup
-華麗台 HD,http://live.catvod.com/smart.php?id=Wlt
-AEC,http://live.catvod.com/smart.php?id=CGTN
-AFC 亞洲旅遊台,http://live.catvod.com/smart.php?id=asiatravel_twn
-Al-Hijrah,http://live.catvod.com/smart.php?id=Alhijrah
-Al-Hijrah(備用),http://live.catvod.com/smart.php?id=Alhijrah_backup
-Al-Jazeera,http://live.catvod.com/smart.php?id=aljazeera_twn
-Animal Planet (Eng),http://live.catvod.com/smart.php?id=AnimalPlanet
-AOD,http://live.catvod.com/smart.php?id=AodHD
-Arena,http://live.catvod.com/smart.php?id=Arena
-Arena 2,http://live.catvod.com/smart.php?id=Arena2
-ASTRO AEC,http://live.catvod.com/smart.php?id=AEC
-Astro MTV,http://live.catvod.com/smart.php?id=AstroMTV
-Astro Premier,http://live.catvod.com/smart.php?id=Astropremier
-Astro QJ,http://live.catvod.com/smart.php?id=Quanjia
-Astrol Kplus,http://live.catvod.com/smart.php?id=Kplus
-Aura,http://live.catvod.com/smart.php?id=Aura
-Awani,http://live.catvod.com/smart.php?id=Awani
-Awesome TV,http://live.catvod.com/smart.php?id=Awesome_mega
-Axn HD,http://live.catvod.com/smart.php?id=Axn
-BBC World News,http://live.catvod.com/smart.php?id=bbcnews_twn
-Bernama,http://live.catvod.com/smart.php?id=Bernama
-Bloomberg News,http://live.catvod.com/smart.php?id=bloomberg_twn
-BolaArena 1,http://live.catvod.com/smart.php?id=Bolaarena1
-BolaArena 2,http://live.catvod.com/smart.php?id=Bolaarena2
-Boo,http://live.catvod.com/smart.php?id=Boo
-Cartoon Network,http://live.catvod.com/smart.php?id=Cn
-Celestial Classic,http://live.catvod.com/smart.php?id=Celestial2
-Celestial Movies HD,http://live.catvod.com/smart.php?id=Celestial_mega
-Ceria,http://live.catvod.com/smart.php?id=Ceria
-Citra,http://live.catvod.com/smart.php?id=Citra
-CNA,http://live.catvod.com/smart.php?id=cna
-CNBC,http://live.catvod.com/smart.php?id=cnbc_twn
-CNN(備用),http://live.catvod.com/smart.php?id=cnn_twn
-Foodnetwork Hd,http://live.catvod.com/smart.php?id=Foodnetwork_mega
-Goshop,http://live.catvod.com/smart.php?id=Goshop
-HBO HD,http://live.catvod.com/smart.php?id=Hbo
-HBO Hits,http://live.catvod.com/smart.php?id=Hbohits
-HBO Signature,http://live.catvod.com/smart.php?id=Hbosignature
-HGTV,http://live.catvod.com/smart.php?id=HGTV
-KBS World,http://live.catvod.com/smart.php?id=KBS
-Madinah HD,http://live.catvod.com/smart.php?id=sunnah_mido
-Mecca Live HD,http://live.catvod.com/smart.php?id=quran_mido
-NatGeo Wild HD,http://live.catvod.com/smart.php?id=Natgeowild
-Nick Jr,http://live.catvod.com/smart.php?id=Nickjr
-Nickelodeon,http://live.catvod.com/smart.php?id=Nickelodeon
-NTV7,http://live.catvod.com/smart.php?id=NTV7
-Oasis,http://live.catvod.com/smart.php?id=Oasis
-One,http://live.catvod.com/smart.php?id=One_mega
-Paramount Network,http://live.catvod.com/smart.php?id=Paramountnetwork
-Prima,http://live.catvod.com/smart.php?id=Prima-0
-Prima(備用),http://live.catvod.com/smart.php?id=Prima49
-Rania,http://live.catvod.com/smart.php?id=Rania
-Ria,http://live.catvod.com/smart.php?id=Ria-0
-Ria(備用),http://live.catvod.com/smart.php?id=Ria49
-Ria-3,http://live.catvod.com/smart.php?id=Ria_quanjia
-Rock Actions,http://live.catvod.com/smart.php?id=Rockaction
-Rock Entertainment,http://live.catvod.com/smart.php?id=Rockentertain
-RTM Sports HD,http://live.catvod.com/smart.php?id=Rtmsport
-Sensasi,http://live.catvod.com/smart.php?id=Sensasi
-Showcase,http://live.catvod.com/smart.php?id=Showcase_mega
-Sony HD,http://live.catvod.com/smart.php?id=SetOne
-TLC,http://live.catvod.com/smart.php?id=Tlc
-TV1,http://live.catvod.com/smart.php?id=TV1
-TV1(備用),http://live.catvod.com/smart.php?id=TV1_backup
-TV2,http://live.catvod.com/smart.php?id=TV2
-TV3,http://live.catvod.com/smart.php?id=TV3
-TV3(備用),http://live.catvod.com/smart.php?id=tv3_twn
-TV8,http://live.catvod.com/smart.php?id=TV8
-TV9,http://live.catvod.com/smart.php?id=TV9
-TvN,http://live.catvod.com/smart.php?id=TVN
-tvN Movie,http://live.catvod.com/smart.php?id=Tvnmovie
-Warna,http://live.catvod.com/smart.php?id=Warna-O
-Warna(備用),http://live.catvod.com/smart.php?id=Warna
-
-新加坡catvod,#genre#
-Channel 5,http://live.catvod.com/smart.php?id=Channel5HD
-Channel 5(備用),http://live.catvod.com/smart.php?id=Ch5_mega
-Channel 8,http://live.catvod.com/smart.php?id=Channel8HD
-Channel 8(備用),http://live.catvod.com/smart.php?id=Ch8_mega
-Channel U,http://live.catvod.com/smart.php?id=ChannelU
-Channel U(備用),http://live.catvod.com/smart.php?id=ChU_mega
-CNA,http://live.catvod.com/smart.php?id=cna
-CNA(備用),http://live.catvod.com/smart.php?id=cna_twn
-Suria,http://live.catvod.com/smart.php?id=Suria
-Suria(備用),http://live.catvod.com/smart.php?id=Suria_backup
-Vasantham,http://live.catvod.com/smart.php?id=Vasantham
-Vasantham(備用),http://live.catvod.com/smart.php?id=Vasantham_mega
-
-印尼catvod,#genre#
-AlQuran AlKareem,http://live.catvod.com/smart.php?id=AlQuran
-Animax,http://live.catvod.com/smart.php?id=Animax
-AnTV,http://live.catvod.com/smart.php?id=Antv
-Beinsports 2 HD,http://live.catvod.com/smart.php?id=Bein2hd
-Berita Satu,http://live.catvod.com/smart.php?id=BeritaSatu_eko
-Celestial Movies HD,http://live.catvod.com/smart.php?id=Celestialindo
-Cinemax,http://live.catvod.com/smart.php?id=Cinemax
-Daai TV,http://live.catvod.com/smart.php?id=DaaiTV
-Entertain,http://live.catvod.com/smart.php?id=Entertain
-EWTN,http://live.catvod.com/smart.php?id=Ewtn
-Fight Sports,http://live.catvod.com/smart.php?id=Fs
-GTV,http://live.catvod.com/smart.php?id=Gtv
-Hits,http://live.catvod.com/smart.php?id=Hits
-Hits Movie,http://live.catvod.com/smart.php?id=Hitsmovie
-Indosiar HD,http://live.catvod.com/smart.php?id=Indosiar
-iNews TV,http://live.catvod.com/smart.php?id=Inewstv
-Jak TV,http://live.catvod.com/smart.php?id=JakTV
-JTV,http://live.catvod.com/smart.php?id=JTV_eko
-Kompass TV,http://live.catvod.com/smart.php?id=Kompass
-Lifestyle & Fashion,http://live.catvod.com/smart.php?id=Lifestyle
-Metro TV,http://live.catvod.com/smart.php?id=metrotv_eko
-MNC TV,http://live.catvod.com/smart.php?id=Mnctv
-Music TV,http://live.catvod.com/smart.php?id=MusicTV
-Muslim TV,http://live.catvod.com/smart.php?id=MuslimTV
-Net TV,http://live.catvod.com/smart.php?id=NetTV
-One,http://live.catvod.com/smart.php?id=One_mega
-RCTI,http://live.catvod.com/smart.php?id=Rcti
-Rock Actions,http://live.catvod.com/smart.php?id=Rockaction
-Rock Entertainment,http://live.catvod.com/smart.php?id=Rockentertain
-RTV,http://live.catvod.com/smart.php?id=Rtv
-SCM,http://live.catvod.com/smart.php?id=Weishimovie
-SCTV,http://live.catvod.com/smart.php?id=SCTV
-Tawaf TV,http://live.catvod.com/smart.php?id=TawafTV
-Thrill,http://live.catvod.com/smart.php?id=Thrill
-Trans 7,http://live.catvod.com/smart.php?id=Trans7_eko
-Transtv,http://live.catvod.com/smart.php?id=Transtv
-TVMU,http://live.catvod.com/smart.php?id=TVMU_eko
-tvN Movie,http://live.catvod.com/smart.php?id=Tvnmovie
-Tvone,http://live.catvod.com/smart.php?id=Tvone
-TVRI National,http://live.catvod.com/smart.php?id=TVRI
-Vision Prime,http://live.catvod.com/smart.php?id=VisionPrime
-Warner TV,http://live.catvod.com/smart.php?id=WarnerTV
-
-體育catvod,#genre#
-Arena,http://live.catvod.com/smart.php?id=Arena
-Arena 2,http://live.catvod.com/smart.php?id=Arena2
-Astro Cricket,http://live.catvod.com/smart.php?id=Acricket_mega
-Astro Golf,http://live.catvod.com/smart.php?id=Agolf
-Bein 1 Sports,http://live.catvod.com/smart.php?id=bein1_mega
-Bein 2 Sports,http://live.catvod.com/smart.php?id=bein2_mega
-Bein 2HD,http://live.catvod.com/smart.php?id=Beinhd
-Bein 3 Sports,http://live.catvod.com/smart.php?id=bein3_mega
-Bein 4 Sports,http://live.catvod.com/smart.php?id=bein4_mega
-Bein 5 Sports,http://live.catvod.com/smart.php?id=bein5_mega
-Bein 6 Sports,http://live.catvod.com/smart.php?id=bein6_mega
-Bein 7 Sports,http://live.catvod.com/smart.php?id=bein7_mega
-Beinsports 2 HD,http://live.catvod.com/smart.php?id=Bein2hd
-Beinsports HD,http://live.catvod.com/smart.php?id=Besports
-BolaArena 1,http://live.catvod.com/smart.php?id=Bolaarena1
-BolaArena 2,http://live.catvod.com/smart.php?id=Bolaarena2
-CCTV-5,http://live.catvod.com/smart.php?id=cctv5
-CCTV-5+,http://live.catvod.com/smart.php?id=cctv5plus
-Champion 5 EPL,http://live.catvod.com/smart.php?id=Champion5epl
-Champion 6 EPL,http://live.catvod.com/smart.php?id=Champion6epl
-Fight Sports,http://live.catvod.com/smart.php?id=Fs
-NBA TV,http://live.catvod.com/smart.php?id=nbatv_twn
-RTM Sports HD,http://live.catvod.com/smart.php?id=Rtmsport
-Rugby Pass TV,http://live.catvod.com/smart.php?id=Rugbypasstv
-Skysports Arena,http://live.catvod.com/smart.php?id=tiankongarena
-Skysports Cricket,http://live.catvod.com/smart.php?id=tiankongcricket
-Skysports EPL,http://live.catvod.com/smart.php?id=tiankongepl
-Skysports F1,http://live.catvod.com/smart.php?id=tiankongf1
-Skysports Football,http://live.catvod.com/smart.php?id=tiankongfootball
-Skysports Golf,http://live.catvod.com/smart.php?id=tiankonggolf
-Skysports Main Event,http://live.catvod.com/smart.php?id=tiankongmain
-Skysports Mix,http://live.catvod.com/smart.php?id=tiankongmix
-Skysports News,http://live.catvod.com/smart.php?id=tiankongnews
-Skysports NFL,http://live.catvod.com/smart.php?id=tiankongnfl
-Skysports Racing,http://live.catvod.com/smart.php?id=tiankongracing
-Sony Ten 1,http://live.catvod.com/smart.php?id=ten1_raj
-Sony Ten 2,http://live.catvod.com/smart.php?id=ten2_raj
-Sony Ten 3,http://live.catvod.com/smart.php?id=ten3_raj
-SPOTV 1,http://live.catvod.com/smart.php?id=go_spotv
-SPOTV 2,http://live.catvod.com/smart.php?id=go_spotv2
-Supersportq 1(備用2),http://live.catvod.com/smart.php?id=Assp1_mega
-Supersports 1,http://live.catvod.com/smart.php?id=Assp1
-Supersports 1(備用),http://live.catvod.com/smart.php?id=go_assp1
-Supersports 2,http://live.catvod.com/smart.php?id=Assp2
-Supersports 2(備用),http://live.catvod.com/smart.php?id=go_assp2
-Supersports 3,http://live.catvod.com/smart.php?id=Assp3
-Supersports 3(備用),http://live.catvod.com/smart.php?id=go_assp3
-Supersports 3(備用2),http://live.catvod.com/smart.php?id=Assp3_mega
-Supersports 4,http://live.catvod.com/smart.php?id=Assp4_mega
-Supersports 4(備用),http://live.catvod.com/smart.php?id=go_assp4
-Supersports 5,http://live.catvod.com/smart.php?id=go_assp5
-TNT Sports 1,http://live.catvod.com/smart.php?id=beeone
-TNT Sports 2,http://live.catvod.com/smart.php?id=beetwo
-TNT Sports 4,http://live.catvod.com/smart.php?id=beefour
-UFC Network,http://live.catvod.com/smart.php?id=ufc_mega
-WWE,http://live.catvod.com/smart.php?id=Wwe
-愛爾達體育台,http://live.catvod.com/smart.php?id=eltasport_twn
-愛爾達體育2台,http://live.catvod.com/smart.php?id=eltasport2_twn
-愛爾達體育3台,http://live.catvod.com/smart.php?id=eltasport3_twn
-
-印度catvod,#genre#
-Sun TV HD,http://live.catvod.com/smart.php?id=Suntv
-Star Vijay,http://live.catvod.com/smart.php?id=Starvijay
-Colors Tamil,http://live.catvod.com/smart.php?id=Colorstam_mega
-Sun Music,http://live.catvod.com/smart.php?id=Sunmusic
-Astro Sunlife,http://live.catvod.com/smart.php?id=Sunlife
-Astro Vaanavil,http://live.catvod.com/smart.php?id=Vaanavil
-Zee Tamil,http://live.catvod.com/smart.php?id=Zeetamil
-Zee Business,http://live.catvod.com/smart.php?id=Zeebusiness
-News 18 Tamil,http://live.catvod.com/smart.php?id=news18tamil_raj
-Adithya,http://live.catvod.com/smart.php?id=Adithya
-Makkal TV,http://live.catvod.com/smart.php?id=Makkaltv
-Zee Action,http://live.catvod.com/smart.php?id=Zeeaction
-Astro KTV,http://live.catvod.com/smart.php?id=Astroktv
-Zee TV HD,http://live.catvod.com/smart.php?id=Zeetvhd
-Zee Cinema HD,http://live.catvod.com/smart.php?id=Zeecinemahd
-Color HD,http://live.catvod.com/smart.php?id=Colorhd
-Starplus HD,http://live.catvod.com/smart.php?id=Starplushd
-Picture HD,http://live.catvod.com/smart.php?id=Npicture
-Zee News,http://live.catvod.com/smart.php?id=Zeenews
-Asianet,http://live.catvod.com/smart.php?id=asianet_raj
-Asianet News,http://live.catvod.com/smart.php?id=asianetnews_raj
-Times Now,http://live.catvod.com/smart.php?id=timesnow_mega
-BBC Earth Tamil,http://live.catvod.com/smart.php?id=bbcearthtam_raj
-Discovery World Tamil,http://live.catvod.com/smart.php?id=discoveryworldtam_raj
-History Tamil,http://live.catvod.com/smart.php?id=historytam_raj
-NatGeo Tamil http://live.catvod.com/smart.php?id=natgeotamil_raj
-Natgeo Wild Tamil,http://live.catvod.com/smart.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,http://live.catvod.com/smart.php?id=discoverykidtamil_raj
-Discovery Tamil,http://live.catvod.com/smart.php?id=discoverytamil_raj
-Sony Yay Tamil,http://live.catvod.com/smart.php?id=sonyyaytam_raj
-Sun TV India,http://live.catvod.com/smart.php?id=suntv_raj
-Starmaa HD,http://live.catvod.com/smart.php?id=starmaa_raj
-Starmaa Movies HD,http://live.catvod.com/smart.php?id=starmaamovies_raj
-Bollyone,http://live.catvod.com/smart.php?id=Bollyone
-Astro Sunmusic,http://live.catvod.com/smart.php?id=Sunmusic
-Sony Pix HD,http://live.catvod.com/smart.php?id=sonypix_mega
-Vijay Super,http://live.catvod.com/smart.php?id=vijaysuper_raj
-
-電影catvod,#genre#
-AXN,http://live.catvod.com/smart.php?id=axn_twn
-Animax,http://live.catvod.com/smart.php?id=Animax
-Astrol Kplus,http://live.catvod.com/smart.php?id=Kplus
-Axn HD,http://live.catvod.com/smart.php?id=Axn
-CCTV-6,http://live.catvod.com/smart.php?id=cctv6
-CINEMAX,http://live.catvod.com/smart.php?id=cinemax_twn
-Celestial Classic,http://live.catvod.com/smart.php?id=Celestial2
-Celestial Movies HD,http://live.catvod.com/smart.php?id=Celestialindo
-Cinemax,http://live.catvod.com/smart.php?id=Cinemax
-HBO Family,http://live.catvod.com/smart.php?id=Hbofamily
-HBO HD,http://live.catvod.com/smart.php?id=Hbo
-HBO Hits,http://live.catvod.com/smart.php?id=Hbohits
-HBO Signature, ttp://live.catvod.com/smart.php?id=Hbosignature
-HBO_HD,http://live.catvod.com/smart.php?id=hbohd_twn
-HBO_HITS,http://live.catvod.com/smart.php?id=hbohits_twn
-Hits Movie,http://live.catvod.com/smart.php?id=Hitsmovie
-Hits,http://live.catvod.com/smart.php?id=Hits
-Hollywood Movies,http://live.catvod.com/smart.php?id=hollywoodmovies_twn
-Movies Now HD,http://live.catvod.com/smart.php?id=moviesnow_raj
-One,http://live.catvod.com/smart.php?id=One_mega
-Paramount Network,http://live.catvod.com/smart.php?id=Paramountnetwork
-Rock Actions,http://live.catvod.com/smart.php?id=Rockaction
-Rock Entertainment,http://live.catvod.com/smart.php?id=Rockentertain
-SCM,http://live.catvod.com/smart.php?id=Weishimovie
-Sony Pix HD,http://live.catvod.com/smart.php?id=sonypix_mega
-Star Movies HD,http://live.catvod.com/smart.php?id=starmovies_raj
-Thrill,http://live.catvod.com/smart.php?id=Thrill
-Warner TV,http://live.catvod.com/smart.php?id=WarnerTV
-tvN Movie,http://live.catvod.com/smart.php?id=Tvnmovie
-CATCHPLAY,http://live.catvod.com/smart.php?id=catchplay_twn
-龍華電影,http://live.catvod.com/smart.php?id=xingwei_movie
-東森洋片,http://live.catvod.com/smart.php?id=ettvwestern
-東森電影,http://live.catvod.com/smart.php?id=ettvmovie
-美亞電影,http://live.catvod.com/smart.php?id=meiyamovie_twn
-龍華洋片,http://live.catvod.com/smart.php?id=lunghuawestern_twn
-龍祥时代,http://live.catvod.com/smart.php?id=lungxiangtime_twn
-
-紀錄catvod,#genre#
-AFC 亞洲旅遊台,http://live.catvod.com/smart.php?id=asiatravel_twn
-Animal Planet (Eng),http://live.catvod.com/smart.php?id=AnimalPlanet
-Animal_Planet,http://live.catvod.com/smart.php?id=animalplanet_twn
-Asia Travel,http://live.catvod.com/smart.php?id=asiatravel_twn
-BBC Earth HD,http://live.catvod.com/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://live.catvod.com/smart.php?id=bbclifestyle_twn
-CI,http://live.catvod.com/smart.php?id=ci_twn
-Discovery Asia,http://live.catvod.com/smart.php?id=discoverytwn_twn
-Discovery HD,http://live.catvod.com/smart.php?id=discoveryhd_twn
-Fashion TV,http://live.catvod.com/smart.php?id=fashiontv_twn
-Foodnetwork,http://live.catvod.com/smart.php?id=Foodnetwork_mega
-HGTV,http://live.catvod.com/smart.php?id=HGTV
-History,http://live.catvod.com/smart.php?id=History
-MTV Live,http://live.catvod.com/smart.php?id=mtvhd_twn
-NatGeo HD http://live.catvod.com/smart.php?id=Natgeo
-NatGeo Wild HD,http://live.catvod.com/smart.php?id=Natgeowild
-NatGeo_Wild HD,http://live.catvod.com/smart.php?id=natgeowild_twn
-Natgeo_HD,http://live.catvod.com/smart.php?id=natgeohd_twn
-TLC,http://live.catvod.com/smart.php?id=Tlc
-TLC Asia,http://live.catvod.com/smart.php?id=tlc_twn
-亞洲美食,http://live.catvod.com/smart.php?id=afc_twn
-美食星球,http://live.catvod.com/smart.php?id=foodplanet_twn
-
-新聞catvod,#genre#
-ABC News,http://live.catvod.com/smart.php?id=abcnews_glo
-Al-Jazeera,http://live.catvod.com/smart.php?id=aljazeera_twn
-BBC World News,http://live.catvod.com/smart.php?id=Bbcnews
-BBC World News,http://live.catvod.com/smart.php?id=bbcnews_twn
-Bloomberg News,http://live.catvod.com/smart.php?id=bloomberg_twn
-CBS HD,http://live.catvod.com/smart.php?id=cbshd_glo
-CBSN HD,http://live.catvod.com/smart.php?id=cbsn_glo
-CGTN,http://live.catvod.com/smart.php?id=CGTN
-CNA,http://live.catvod.com/smart.php?id=cna
-CNBC,http://live.catvod.com/smart.php?id=cnbc_twn
-CNN International,http://live.catvod.com/smart.php?id=Cnn
-CNN(備用),http://live.catvod.com/smart.php?id=cnn_twn
-DW (Deutsch),http://live.catvod.com/smart.php?id=dw_twn
-Fox News,http://live.catvod.com/smart.php?id=foxnews_twn
-France 24,http://live.catvod.com/smart.php?id=france24_twn
-NHK World,http://live.catvod.com/smart.php?id=nhkworld_japan
-Skynews,http://live.catvod.com/smart.php?id=skynews_antik
-
-兒童catvod,#genre#
-Animax,http://live.catvod.com/smart.php?id=Animax
-Baby TV Eng,http://live.catvod.com/smart.php?id=Babytv
-Baby TV,http://live.catvod.com/smart.php?id=babytv_twn
-Boomerang Taiwan,http://live.catvod.com/smart.php?id=boomerang_twn
-Boomerang,http://live.catvod.com/smart.php?id=Boomerang
-CBeebies,http://live.catvod.com/smart.php?id=Cbeebies
-Cartoon Network,http://live.catvod.com/smart.php?id=Cn
-Disney Taiwan,http://live.catvod.com/smart.php?id=disneytwn_twn
-Kids TV,http://live.catvod.com/smart.php?id=KidsTV
-MiaoMi,http://live.catvod.com/smart.php?id=MiaoMi
-Momo TV,http://live.catvod.com/smart.php?id=momo1_twn
-Nick Jr,http://live.catvod.com/smart.php?id=Nickjr
-Nickelodeon,http://live.catvod.com/smart.php?id=Nickelodeon
-東森幼幼 Yoyo TV,http://live.catvod.com/smart.php?id=yoyo_twn
-靖天卡通台,http://live.catvod.com/smart.php?id=jingtiancartoon_twn
-
-英國catvod,#genre#
-Al Jazeera,http://live.catvod.com/smart.php?id=aljazeera_twn
-Animal Planet (Eng), http://live.catvod.com/smart.php?id=AnimalPlanet
-Axn HD,http://live.catvod.com/smart.php?id=Axn
-BBC 1,http://live.catvod.com/smart.php?id=bbc1_antik
-BBC 2,http://live.catvod.com/smart.php?id=bbc2_antik
-BBC Earth HD,http://live.catvod.com/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://live.catvod.com/smart.php?id=bbclifestyle_twn
-BBC World News,http://live.catvod.com/smart.php?id=bbcworldnews_antik
-Bloomberg News,http://live.catvod.com/smart.php?id=bloomberg_twn
-Boomerang,http://live.catvod.com/smart.php?id=Boomerang
-CBBC,http://live.catvod.com/smart.php?id=cbbc_antik
-CBeebies,http://live.catvod.com/smart.php?id=Cbeebies
-CNBC,http://live.catvod.com/smart.php?id=cnbc_twn
-Channel 4,http://live.catvod.com/smart.php?id=channel4_antik
-DW (Deutsch),http://live.catvod.com/smart.php?id=dw_twn
-Euronews,http://live.catvod.com/smart.php?id=euronews_antik
-France 24,http://live.catvod.com/smart.php?id=france24_twn
-Freesports,http://live.catvod.com/smart.php?id=freesports_antik
-HBO HD,http://live.catvod.com/smart.php?id=Hbo
-HGTV,http://live.catvod.com/smart.php?id=HGTV
-History,http://live.catvod.com/smart.php?id=History
-Hits Movie,http://live.catvod.com/smart.php?id=Hitsmovie
-itv 1,http://live.catvod.com/smart.php?id=itv1_antik
-itv 2,http://live.catvod.com/smart.php?id=itv2_antik
-Kids TV,http://live.catvod.com/smart.php?id=KidsTV
-MTV Live,http://live.catvod.com/smart.php?id=mtvhd_twn
-More4,http://live.catvod.com/smart.php?id=more4_antik
-NHK World,http://live.catvod.com/smart.php?id=nhkworld_japan
-NatGeo HD,http://live.catvod.com/smart.php?id=Natgeo
-NatGeo Wild HD,http://live.catvod.com/smart.php?id=Natgeowild
-Nick Jr,ttp://live.catvod.com/smart.php?id=Nickjr
-Nickelodeon,http://live.catvod.com/smart.php?id=Nickelodeon
-Pick TV,http://live.catvod.com/smart.php?id=picktv_antik
-Skynews,http://live.catvod.com/smart.php?id=skynews_antik
-Skysports Arena,http://live.catvod.com/smart.php?id=tiankongarena
-Skysports Cricket,http://live.catvod.com/smart.php?id=tiankongcricket
-Skysports EPL,http://live.catvod.com/smart.php?id=tiankongepl
-Skysports F1,http://live.catvod.com/smart.php?id=tiankongf1
-Skysports Football,http://live.catvod.com/smart.php?id=tiankongfootball
-Skysports Golf,http://live.catvod.com/smart.php?id=tiankonggolf
-Skysports Main Event,http://live.catvod.com/smart.php?id=tiankongmain
-Skysports News,http://live.catvod.com/smart.php?id=tiankongnews
-Star Movies HD,http://live.catvod.com/smart.php?id=starmovies_raj
-TLC,http://live.catvod.com/smart.php?id=Tlc
-Thrill,http://live.catvod.com/smart.php?id=Thrill
-Warner TV,http://live.catvod.com/smart.php?id=WarnerTV
+#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=inews_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
+http://xn--94q.l5.ca/daili/Smartv.php?id=jade_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="无线財經資訊台" tvg-logo="https://epg.112114.xyz/logo/无线財經資訊台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线財經資訊台
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",明珠台
+http://xn--94q.l5.ca/daili/Smartv.php?id=pearl_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",J2
+http://xn--94q.l5.ca/daili/Smartv.php?id=j2_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="TVB Jade" tvg-logo="https://epg.112114.xyz/logo/TVB Jade.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Jade
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbjade
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="TVB Entertainment" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbentertainment
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="TVB Classic" tvg-logo="https://epg.112114.xyz/logo/TVB Classic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbclassic
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbxinhe_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="TVB星河台" tvg-logo="https://epg.112114.xyz/logo/TVB星河台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河台
+http://xn--94q.l5.ca/daili/Smartv.php?id=Xinhe
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="鳳凰衛視" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",鳳凰衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",鳳凰資訊
+http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",鳳凰香港
+http://xn--94q.l5.ca/daili/Smartv.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="RHK 31" tvg-logo="https://epg.112114.xyz/logo/RHK 31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RHK 31
+http://xn--94q.l5.ca/daili/Smartv.php?id=rhk31_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="RHK 32" tvg-logo="https://epg.112114.xyz/logo/RHK 32.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RHK 32
+http://xn--94q.l5.ca/daili/Smartv.php?id=rhk32_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=viu1_twn
+#EXTINF:-1 group-title="香港Hong Kong" tvg-name="VIUTV6" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV6
+http://xn--94q.l5.ca/daili/Smartv.php?id=viusix_twn
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv1
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv2
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv3
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv4
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cctv4
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5plus
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv6
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv7
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv8hd
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv9hd
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv10hd
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv11
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv12
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv13
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv14
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv15
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv16
+#EXTINF:-1 group-title="中國China" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv17
+#EXTINF:-1 group-title="中國China" tvg-name="湖南衛視" tvg-logo="https://epg.112114.xyz/logo/湖南衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖南衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=hunan_twn
+#EXTINF:-1 group-title="中國China" tvg-name="江蘇衛視" tvg-logo="https://epg.112114.xyz/logo/江蘇衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江蘇衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=jiangsu_twn
+#EXTINF:-1 group-title="中國China" tvg-name="深圳衛視" tvg-logo="https://epg.112114.xyz/logo/深圳衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",深圳衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=shenzhen
+#EXTINF:-1 group-title="中國China" tvg-name="大灣區衛視" tvg-logo="https://epg.112114.xyz/logo/大灣區衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大灣區衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=nanfang_twn
+#EXTINF:-1 group-title="中國China" tvg-name="廣東衛視" tvg-logo="https://epg.112114.xyz/logo/廣東衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",廣東衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=guangdongweishi_twn
+#EXTINF:-1 group-title="中國China" tvg-name="北京衛視" tvg-logo="https://epg.112114.xyz/logo/北京衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",北京衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=beijing
+#EXTINF:-1 group-title="中國China" tvg-name="廣東珠江" tvg-logo="https://epg.112114.xyz/logo/廣東珠江.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",廣東珠江
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhujiang
+#EXTINF:-1 group-title="中國China" tvg-name="廣西衛視" tvg-logo="https://epg.112114.xyz/logo/廣西衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",廣西衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=guangxi
+#EXTINF:-1 group-title="中國China" tvg-name="湖北衛視" tvg-logo="https://epg.112114.xyz/logo/湖北衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖北衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=hubei
+#EXTINF:-1 group-title="中國China" tvg-name="四川衛視" tvg-logo="https://epg.112114.xyz/logo/四川衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",四川衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=sichuan_twn
+#EXTINF:-1 group-title="中國China" tvg-name="東方衛視" tvg-logo="https://epg.112114.xyz/logo/東方衛視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東方衛視
+http://xn--94q.l5.ca/daili/Smartv.php?id=dongfangweishi_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="寰宇財經台" tvg-logo="https://epg.112114.xyz/logo/寰宇財經台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇財經台
+http://xn--94q.l5.ca/daili/Smartv.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天新聞
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctinews
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天亞洲台
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctiasia_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中天娱樂" tvg-logo="https://epg.112114.xyz/logo/中天娱樂.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天娱樂
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctient
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中天綜合" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天綜合
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctizhonghe
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbs
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="TVBS Asia" tvg-logo="https://epg.112114.xyz/logo/TVBS Asia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbasia
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="TVBS新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbs_n
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="TVBS歡樂台" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS歡樂台
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中視新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="中視經典" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中視經典
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshi_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森新聞
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvnews
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森財經新聞
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森電影" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森洋片" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森綜合" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森綜合
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvzhonghe
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="東森戲劇" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森戲劇
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvdrama
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="三立台灣台" tvg-logo="https://epg.112114.xyz/logo/三立台灣台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立台灣台
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlitaiwan
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="三立戲劇台" tvg-logo="https://epg.112114.xyz/logo/三立戲劇台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立戲劇台
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="三立綜合台" tvg-logo="https://epg.112114.xyz/logo/三立綜合台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立綜合台
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlizhonghe
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="非凡新聞台" tvg-logo="https://epg.112114.xyz/logo/非凡新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",非凡新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="年代新聞台" tvg-logo="https://epg.112114.xyz/logo/年代新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",年代新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=niandainews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視台灣台
+http://xn--94q.l5.ca/daili/Smartv.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視第一台
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亞洲旅遊台
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="亞洲美食" tvg-logo="https://epg.112114.xyz/logo/亞洲美食.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亞洲美食
+http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大戲劇
+http://xn--94q.l5.ca/daili/Smartv.php?id=badadrama
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大第一
+http://xn--94q.l5.ca/daili/Smartv.php?id=badafirst
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="八大綜合" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大綜合
+http://xn--94q.l5.ca/daili/Smartv.php?id=badazhonghe
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",動物星球
+http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯網球
+http://xn--94q.l5.ca/daili/Smartv.php?id=bositennis_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="博斯運動1" tvg-logo="https://epg.112114.xyz/logo/博斯運動1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯運動1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport1_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯運動2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport2_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="博斯高球1" tvg-logo="https://epg.112114.xyz/logo/博斯高球1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="博斯高球2" tvg-logo="https://epg.112114.xyz/logo/博斯高球2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台視新聞台
+http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="國家地理" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",國家地理
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="大愛一台" tvg-logo="https://epg.112114.xyz/logo/大愛一台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大愛一台
+http://xn--94q.l5.ca/daili/Smartv.php?id=daai_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="好萊塢電影台" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好萊塢電影台
+http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="愛爾達影劇" tvg-logo="https://epg.112114.xyz/logo/愛爾達影劇.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達影劇
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltayingju_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="愛爾達體育 1" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="愛爾達體育 2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport2_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="愛爾達體育 3" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",探索亞洲
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",探索動力
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryturbo_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="緯來日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",緯來日本台
+http://xn--94q.l5.ca/daili/Smartv.php?id=videolandjapan
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="緯來體育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",緯來體育台
+http://xn--94q.l5.ca/daili/Smartv.php?id=videolandsport
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美亞電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="華藝綜合" tvg-logo="https://epg.112114.xyz/logo/華藝綜合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",華藝綜合
+http://xn--94q.l5.ca/daili/Smartv.php?id=weishichinese_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="野生動物" tvg-logo="https://epg.112114.xyz/logo/野生動物.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",野生動物
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="阿里郎" tvg-logo="https://epg.112114.xyz/logo/阿里郎.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿里郎
+http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天卡通台
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="靖天國際台" tvg-logo="https://epg.112114.xyz/logo/靖天國際台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天國際台
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="龍祥時代" tvg-logo="https://epg.112114.xyz/logo/龍祥時代.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍祥時代
+http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華偶像
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華戲劇
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXN
+http://xn--94q.l5.ca/daili/Smartv.php?id=axn_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
+http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="CN卡通" tvg-logo="https://epg.112114.xyz/logo/CN卡通.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CN卡通
+http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/Discovery.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="ELEVEN 1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ELEVEN 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=golfchannel_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="EYE戲劇" tvg-logo="https://epg.112114.xyz/logo/EYE戲劇.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYE戲劇
+http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="EYE旅遊" tvg-logo="https://epg.112114.xyz/logo/EYE旅遊.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYE旅遊
+http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="Fox News" tvg-logo="https://epg.112114.xyz/logo/Fox News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fox News
+http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="HBO Family" tvg-logo="https://epg.112114.xyz/logo/HBO Family.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Family
+http://xn--94q.l5.ca/daili/Smartv.php?id=fyi_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 group-title="臺灣Taiwan" tvg-name="TLC旅遊生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅遊生活.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC旅遊生活
+http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="愛奇藝" tvg-logo="https://epg.112114.xyz/logo/愛奇藝.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛奇藝
+http://xn--94q.l5.ca/daili/Smartv.php?id=Qiyi
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="歡喜台" tvg-logo="https://epg.112114.xyz/logo/歡喜台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",歡喜台
+http://xn--94q.l5.ca/daili/Smartv.php?id=Huahee
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="歡喜台(備用)" tvg-logo="https://epg.112114.xyz/logo/歡喜台(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",歡喜台(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Huahee_backup
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="華麗台" tvg-logo="https://epg.112114.xyz/logo/華麗台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",華麗台
+http://xn--94q.l5.ca/daili/Smartv.php?id=Wlt
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="AEC" tvg-logo="https://epg.112114.xyz/logo/AEC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AEC
+http://xn--94q.l5.ca/daili/Smartv.php?id=CGTN
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="AFC 亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/AFC 亞洲旅遊台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AFC 亞洲旅遊台
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Al-Hijrah" tvg-logo="https://epg.112114.xyz/logo/Al-Hijrah.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Hijrah
+http://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Al-Hijrah(備用)" tvg-logo="https://epg.112114.xyz/logo/Al-Hijrah(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Hijrah(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah_backup
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Al-Jazeera" tvg-logo="https://epg.112114.xyz/logo/Al-Jazeera.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/Animal Planet (Eng).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal Planet (Eng)
+http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="AOD" tvg-logo="https://epg.112114.xyz/logo/AOD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AOD
+http://xn--94q.l5.ca/daili/Smartv.php?id=AodHD
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Arena" tvg-logo="https://epg.112114.xyz/logo/Arena.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Arena 2" tvg-logo="https://epg.112114.xyz/logo/Arena 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="ASTRO AEC" tvg-logo="https://epg.112114.xyz/logo/ASTRO AEC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO AEC
+http://xn--94q.l5.ca/daili/Smartv.php?id=AEC
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Astro MTV" tvg-logo="https://epg.112114.xyz/logo/Astro MTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro MTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=AstroMTV
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Astro Premier" tvg-logo="https://epg.112114.xyz/logo/Astro Premier.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Premier
+http://xn--94q.l5.ca/daili/Smartv.php?id=Astropremier
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/Astro QJ.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro QJ
+http://xn--94q.l5.ca/daili/Smartv.php?id=Quanjia
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/Astrol Kplus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astrol Kplus
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kplus
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Aura" tvg-logo="https://epg.112114.xyz/logo/Aura.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Aura
+http://xn--94q.l5.ca/daili/Smartv.php?id=Aura
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Awani" tvg-logo="https://epg.112114.xyz/logo/Awani.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Awani
+http://xn--94q.l5.ca/daili/Smartv.php?id=Awani
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Awesome TV" tvg-logo="https://epg.112114.xyz/logo/Awesome TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Awesome TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Awesome_mega
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Axn HD" tvg-logo="https://epg.112114.xyz/logo/Axn HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Axn HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Bernama" tvg-logo="https://epg.112114.xyz/logo/Bernama.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bernama
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bernama
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/BolaArena 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BolaArena 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/BolaArena 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BolaArena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Boo" tvg-logo="https://epg.112114.xyz/logo/Boo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boo
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boo
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/Cartoon Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cartoon Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/Celestial Classic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial_mega
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Ceria" tvg-logo="https://epg.112114.xyz/logo/Ceria.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ceria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ceria
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Citra" tvg-logo="https://epg.112114.xyz/logo/Citra.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Citra
+http://xn--94q.l5.ca/daili/Smartv.php?id=Citra
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="CNN(備用)" tvg-logo="https://epg.112114.xyz/logo/CNN(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/Foodnetwork Hd.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Foodnetwork Hd
+http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Goshop" tvg-logo="https://epg.112114.xyz/logo/Goshop.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Goshop
+http://xn--94q.l5.ca/daili/Smartv.php?id=Goshop
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="HBO Hits" tvg-logo="https://epg.112114.xyz/logo/HBO Hits.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbohits
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO Signature.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Signature
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbosignature
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KBS World
+http://xn--94q.l5.ca/daili/Smartv.php?id=KBS
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Madinah" tvg-logo="https://epg.112114.xyz/logo/Madinah.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Madinah
+http://xn--94q.l5.ca/daili/Smartv.php?id=sunnah_mido
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Mecca Live" tvg-logo="https://epg.112114.xyz/logo/Mecca Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Mecca Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=quran_mido
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="NatGeo Wild" tvg-logo="https://epg.112114.xyz/logo/NatGeo Wild.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NatGeo Wild
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick Jr.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nick Jr
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="NTV7" tvg-logo="https://epg.112114.xyz/logo/NTV7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NTV7
+http://xn--94q.l5.ca/daili/Smartv.php?id=NTV7
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Oasis" tvg-logo="https://epg.112114.xyz/logo/Oasis.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Oasis
+http://xn--94q.l5.ca/daili/Smartv.php?id=Oasis
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="One" tvg-logo="https://epg.112114.xyz/logo/One.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Paramount Network" tvg-logo="https://epg.112114.xyz/logo/Paramount Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Paramount Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Prima" tvg-logo="https://epg.112114.xyz/logo/Prima.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Prima
+http://xn--94q.l5.ca/daili/Smartv.php?id=Prima-0
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Prima(備用)" tvg-logo="https://epg.112114.xyz/logo/Prima(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Prima(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Prima49
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Rania" tvg-logo="https://epg.112114.xyz/logo/Rania.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rania
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rania
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Ria" tvg-logo="https://epg.112114.xyz/logo/Ria.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria-0
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Ria(備用)" tvg-logo="https://epg.112114.xyz/logo/Ria(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ria(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria49
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Ria-3" tvg-logo="https://epg.112114.xyz/logo/Ria-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ria-3
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria_quanjia
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Rock Actions" tvg-logo="https://epg.112114.xyz/logo/Rock Actions.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/Rock Entertainment.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/RTM Sports HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTM Sports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtmsport
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Sensasi" tvg-logo="https://epg.112114.xyz/logo/Sensasi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sensasi
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sensasi
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Showcase" tvg-logo="https://epg.112114.xyz/logo/Showcase.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Showcase
+http://xn--94q.l5.ca/daili/Smartv.php?id=Showcase_mega
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Sony HD" tvg-logo="https://epg.112114.xyz/logo/Sony HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=SetOne
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TLC" tvg-logo="https://epg.112114.xyz/logo/TLC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV1" tvg-logo="https://epg.112114.xyz/logo/TV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV1
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV1
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV1(備用)" tvg-logo="https://epg.112114.xyz/logo/TV1(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV1(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV1_backup
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV2" tvg-logo="https://epg.112114.xyz/logo/TV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV2
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV2
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV3" tvg-logo="https://epg.112114.xyz/logo/TV3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV3
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV3
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV3(備用)" tvg-logo="https://epg.112114.xyz/logo/TV3(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV3(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=tv3_twn
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV8" tvg-logo="https://epg.112114.xyz/logo/TV8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV8
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV8
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TV9" tvg-logo="https://epg.112114.xyz/logo/TV9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TV9
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV9
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="TvN" tvg-logo="https://epg.112114.xyz/logo/TvN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TvN
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVN
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="tvN Movie" tvg-logo="https://epg.112114.xyz/logo/tvN Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Warna" tvg-logo="https://epg.112114.xyz/logo/Warna.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warna
+http://xn--94q.l5.ca/daili/Smartv.php?id=Warna-O
+#EXTINF:-1 group-title="馬來西亞Malaysia" tvg-name="Warna(備用)" tvg-logo="https://epg.112114.xyz/logo/Warna(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warna(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Warna
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel 5" tvg-logo="https://epg.112114.xyz/logo/Channel 5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 5
+http://xn--94q.l5.ca/daili/Smartv.php?id=Channel5HD
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel 5(備用)" tvg-logo="https://epg.112114.xyz/logo/Channel 5(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 5(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ch5_mega
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel 8" tvg-logo="https://epg.112114.xyz/logo/Channel 8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 8
+http://xn--94q.l5.ca/daili/Smartv.php?id=Channel8HD
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel 8(備用)" tvg-logo="https://epg.112114.xyz/logo/Channel 8(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 8(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ch8_mega
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/Channel U.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel U
+http://xn--94q.l5.ca/daili/Smartv.php?id=ChannelU
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Channel U(備用)" tvg-logo="https://epg.112114.xyz/logo/Channel U(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel U(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=ChU_mega
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="CNA(備用)" tvg-logo="https://epg.112114.xyz/logo/CNA(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna_twn
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Suria" tvg-logo="https://epg.112114.xyz/logo/Suria.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Suria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suria
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Suria(備用)" tvg-logo="https://epg.112114.xyz/logo/Suria(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Suria(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suria_backup
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Vasantham" tvg-logo="https://epg.112114.xyz/logo/Vasantham.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Vasantham
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham
+#EXTINF:-1 group-title="新加坡Singapore" tvg-name="Vasantham(備用)" tvg-logo="https://epg.112114.xyz/logo/Vasantham(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Vasantham(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham_mega
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="AlQuran AlKareem" tvg-logo="https://epg.112114.xyz/logo/AlQuran AlKareem.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AlQuran AlKareem
+http://xn--94q.l5.ca/daili/Smartv.php?id=AlQuran
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="AnTV" tvg-logo="https://epg.112114.xyz/logo/AnTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AnTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Antv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/Beinsports 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Beinsports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Berita Satu" tvg-logo="https://epg.112114.xyz/logo/Berita Satu.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Berita Satu
+http://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Cinemax" tvg-logo="https://epg.112114.xyz/logo/Cinemax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cinemax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Daai TV" tvg-logo="https://epg.112114.xyz/logo/Daai TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Daai TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=DaaiTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Entertain" tvg-logo="https://epg.112114.xyz/logo/Entertain.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Entertain
+http://xn--94q.l5.ca/daili/Smartv.php?id=Entertain
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="EWTN" tvg-logo="https://epg.112114.xyz/logo/EWTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EWTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ewtn
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Fight Sports" tvg-logo="https://epg.112114.xyz/logo/Fight Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fight Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=Fs
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="GTV" tvg-logo="https://epg.112114.xyz/logo/GTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Gtv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Hits" tvg-logo="https://epg.112114.xyz/logo/Hits.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hits
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Hits Movie" tvg-logo="https://epg.112114.xyz/logo/Hits Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/Indosiar HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Indosiar HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Indosiar
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="iNews TV" tvg-logo="https://epg.112114.xyz/logo/iNews TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",iNews TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Inewstv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Jak TV" tvg-logo="https://epg.112114.xyz/logo/Jak TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Jak TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=JakTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="JTV" tvg-logo="https://epg.112114.xyz/logo/JTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=JTV_eko
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Kompass TV" tvg-logo="https://epg.112114.xyz/logo/Kompass TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kompass TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kompass
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Lifestyle & Fashion" tvg-logo="https://epg.112114.xyz/logo/Lifestyle & Fashion.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Lifestyle & Fashion
+http://xn--94q.l5.ca/daili/Smartv.php?id=Lifestyle
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Metro TV" tvg-logo="https://epg.112114.xyz/logo/Metro TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Metro TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=metrotv_eko
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="MNC TV" tvg-logo="https://epg.112114.xyz/logo/MNC TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MNC TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Mnctv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Music TV" tvg-logo="https://epg.112114.xyz/logo/Music TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Music TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=MusicTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Muslim TV" tvg-logo="https://epg.112114.xyz/logo/Muslim TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Muslim TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=MuslimTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Net TV" tvg-logo="https://epg.112114.xyz/logo/Net TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Net TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=NetTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="One" tvg-logo="https://epg.112114.xyz/logo/One.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="RCTI" tvg-logo="https://epg.112114.xyz/logo/RCTI.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RCTI
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rcti
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Rock Actions" tvg-logo="https://epg.112114.xyz/logo/Rock Actions.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/Rock Entertainment.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="RTV" tvg-logo="https://epg.112114.xyz/logo/RTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="SCM" tvg-logo="https://epg.112114.xyz/logo/SCM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCM
+http://xn--94q.l5.ca/daili/Smartv.php?id=Weishimovie
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="SCTV" tvg-logo="https://epg.112114.xyz/logo/SCTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=SCTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Tawaf TV" tvg-logo="https://epg.112114.xyz/logo/Tawaf TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Tawaf TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=TawafTV
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Trans 7" tvg-logo="https://epg.112114.xyz/logo/Trans 7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Trans 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_eko
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Transtv" tvg-logo="https://epg.112114.xyz/logo/Transtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Transtv
+http://xn--94q.l5.ca/daili/Smartv.php?id=Transtv
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="TVMU" tvg-logo="https://epg.112114.xyz/logo/TVMU.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVMU
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVMU_eko
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="tvN Movie" tvg-logo="https://epg.112114.xyz/logo/tvN Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Tvone" tvg-logo="https://epg.112114.xyz/logo/Tvone.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Tvone
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvone
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="TVRI National" tvg-logo="https://epg.112114.xyz/logo/TVRI National.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVRI National
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVRI
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Vision Prime" tvg-logo="https://epg.112114.xyz/logo/Vision Prime.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Vision Prime
+http://xn--94q.l5.ca/daili/Smartv.php?id=VisionPrime
+#EXTINF:-1 group-title="印尼Indonesia" tvg-name="Warner TV" tvg-logo="https://epg.112114.xyz/logo/Warner TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="體育Sports" tvg-name="Arena" tvg-logo="https://epg.112114.xyz/logo/Arena.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena
+#EXTINF:-1 group-title="體育Sports" tvg-name="Arena 2" tvg-logo="https://epg.112114.xyz/logo/Arena 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2
+#EXTINF:-1 group-title="體育Sports" tvg-name="Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/Astro Cricket.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=Acricket_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Astro Golf" tvg-logo="https://epg.112114.xyz/logo/Astro Golf.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=Agolf
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 1 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 1 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 1 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein1_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 2 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 2 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 2 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein2_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 2HD" tvg-logo="https://epg.112114.xyz/logo/Bein 2HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 2HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Beinhd
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 3 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 3 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 3 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein3_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 4 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 4 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 4 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein4_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 5 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 5 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 5 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein5_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 6 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 6 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 6 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein6_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Bein 7 Sports" tvg-logo="https://epg.112114.xyz/logo/Bein 7 Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bein 7 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein7_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Beinsports 2 HD" tvg-logo="https://epg.112114.xyz/logo/Beinsports 2 HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Beinsports 2 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="體育Sports" tvg-name="Beinsports HD" tvg-logo="https://epg.112114.xyz/logo/Beinsports HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Beinsports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Besports
+#EXTINF:-1 group-title="體育Sports" tvg-name="BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/BolaArena 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BolaArena 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1
+#EXTINF:-1 group-title="體育Sports" tvg-name="BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/BolaArena 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BolaArena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2
+#EXTINF:-1 group-title="體育Sports" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5
+#EXTINF:-1 group-title="體育Sports" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5plus
+#EXTINF:-1 group-title="體育Sports" tvg-name="Champion 5 EPL" tvg-logo="https://epg.112114.xyz/logo/Champion 5 EPL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Champion 5 EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=Champion5epl
+#EXTINF:-1 group-title="體育Sports" tvg-name="Champion 6 EPL" tvg-logo="https://epg.112114.xyz/logo/Champion 6 EPL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Champion 6 EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=Champion6epl
+#EXTINF:-1 group-title="體育Sports" tvg-name="Fight Sports" tvg-logo="https://epg.112114.xyz/logo/Fight Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fight Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=Fs
+#EXTINF:-1 group-title="體育Sports" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NBA TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=nbatv_twn
+#EXTINF:-1 group-title="體育Sports" tvg-name="RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/RTM Sports HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTM Sports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtmsport
+#EXTINF:-1 group-title="體育Sports" tvg-name="Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/Rugby Pass TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rugby Pass TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rugbypasstv
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Arena" tvg-logo="https://epg.112114.xyz/logo/Skysports Arena.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarena
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/Skysports Cricket.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricket
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/Skysports EPL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongepl
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports F1" tvg-logo="https://epg.112114.xyz/logo/Skysports F1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports F1
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Football" tvg-logo="https://epg.112114.xyz/logo/Skysports Football.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Football
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootball
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Golf" tvg-logo="https://epg.112114.xyz/logo/Skysports Golf.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolf
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Main Event" tvg-logo="https://epg.112114.xyz/logo/Skysports Main Event.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Main Event
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmain
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/Skysports Mix.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Mix
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmix
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports News" tvg-logo="https://epg.112114.xyz/logo/Skysports News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports News
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnews
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports NFL" tvg-logo="https://epg.112114.xyz/logo/Skysports NFL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports NFL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnfl
+#EXTINF:-1 group-title="體育Sports" tvg-name="Skysports Racing" tvg-logo="https://epg.112114.xyz/logo/Skysports Racing.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Racing
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongracing
+#EXTINF:-1 group-title="體育Sports" tvg-name="Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/Sony Ten 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Ten 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten1_raj
+#EXTINF:-1 group-title="體育Sports" tvg-name="Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/Sony Ten 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Ten 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten2_raj
+#EXTINF:-1 group-title="體育Sports" tvg-name="Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/Sony Ten 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Ten 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten3_raj
+#EXTINF:-1 group-title="體育Sports" tvg-name="SPOTV 1" tvg-logo="https://epg.112114.xyz/logo/SPOTV 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SPOTV 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv
+#EXTINF:-1 group-title="體育Sports" tvg-name="SPOTV 2" tvg-logo="https://epg.112114.xyz/logo/SPOTV 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SPOTV 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv2
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersportq 1(備用2)" tvg-logo="https://epg.112114.xyz/logo/Supersportq 1(備用2).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersportq 1(備用2)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 1" tvg-logo="https://epg.112114.xyz/logo/Supersports 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 1(備用)" tvg-logo="https://epg.112114.xyz/logo/Supersports 1(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 1(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp1
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 2" tvg-logo="https://epg.112114.xyz/logo/Supersports 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp2
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 2(備用)" tvg-logo="https://epg.112114.xyz/logo/Supersports 2(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 2(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp2
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 3" tvg-logo="https://epg.112114.xyz/logo/Supersports 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 3(備用)" tvg-logo="https://epg.112114.xyz/logo/Supersports 3(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 3(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp3
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 3(備用2)" tvg-logo="https://epg.112114.xyz/logo/Supersports 3(備用2).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 3(備用2)
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 4" tvg-logo="https://epg.112114.xyz/logo/Supersports 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp4_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 4(備用)" tvg-logo="https://epg.112114.xyz/logo/Supersports 4(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 4(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp4
+#EXTINF:-1 group-title="體育Sports" tvg-name="Supersports 5" tvg-logo="https://epg.112114.xyz/logo/Supersports 5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersports 5
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp5
+#EXTINF:-1 group-title="體育Sports" tvg-name="TNT Sports 1" tvg-logo="https://epg.112114.xyz/logo/TNT Sports 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TNT Sports 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=beeone
+#EXTINF:-1 group-title="體育Sports" tvg-name="TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/TNT Sports 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TNT Sports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=beetwo
+#EXTINF:-1 group-title="體育Sports" tvg-name="TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/TNT Sports 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TNT Sports 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=beefour
+#EXTINF:-1 group-title="體育Sports" tvg-name="UFC Network" tvg-logo="https://epg.112114.xyz/logo/UFC Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",UFC Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=ufc_mega
+#EXTINF:-1 group-title="體育Sports" tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WWE
+http://xn--94q.l5.ca/daili/Smartv.php?id=Wwe
+#EXTINF:-1 group-title="體育Sports" tvg-name="愛爾達體育2台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育2台
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport2_twn
+#EXTINF:-1 group-title="體育Sports" tvg-name="愛爾達體育3台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育3台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",愛爾達體育3台
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 group-title="印度India" tvg-name="Sun TV" tvg-logo="https://epg.112114.xyz/logo/Sun TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sun TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suntv
+#EXTINF:-1 group-title="印度India" tvg-name="Star Vijay" tvg-logo="https://epg.112114.xyz/logo/Star Vijay.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Star Vijay
+http://xn--94q.l5.ca/daili/Smartv.php?id=Starvijay
+#EXTINF:-1 group-title="印度India" tvg-name="Colors Tamil" tvg-logo="https://epg.112114.xyz/logo/Colors Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Colors Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Colorstam_mega
+#EXTINF:-1 group-title="印度India" tvg-name="Sun Music" tvg-logo="https://epg.112114.xyz/logo/Sun Music.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sun Music
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunmusic
+#EXTINF:-1 group-title="印度India" tvg-name="Astro Sunlife" tvg-logo="https://epg.112114.xyz/logo/Astro Sunlife.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Sunlife
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunlife
+#EXTINF:-1 group-title="印度India" tvg-name="Astro Vaanavil" tvg-logo="https://epg.112114.xyz/logo/Astro Vaanavil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Vaanavil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vaanavil
+#EXTINF:-1 group-title="印度India" tvg-name="Zee Tamil" tvg-logo="https://epg.112114.xyz/logo/Zee Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeetamil
+#EXTINF:-1 group-title="印度India" tvg-name="Zee Business" tvg-logo="https://epg.112114.xyz/logo/Zee Business.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee Business
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeebusiness
+#EXTINF:-1 group-title="印度India" tvg-name="News 18 Tamil" tvg-logo="https://epg.112114.xyz/logo/News 18 Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",News 18 Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=news18tamil_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Adithya" tvg-logo="https://epg.112114.xyz/logo/Adithya.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Adithya
+http://xn--94q.l5.ca/daili/Smartv.php?id=Adithya
+#EXTINF:-1 group-title="印度India" tvg-name="Makkal TV" tvg-logo="https://epg.112114.xyz/logo/Makkal TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Makkal TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Makkaltv
+#EXTINF:-1 group-title="印度India" tvg-name="Zee Action" tvg-logo="https://epg.112114.xyz/logo/Zee Action.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee Action
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeeaction
+#EXTINF:-1 group-title="印度India" tvg-name="Astro KTV" tvg-logo="https://epg.112114.xyz/logo/Astro KTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro KTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Astroktv
+#EXTINF:-1 group-title="印度India" tvg-name="Zee TV" tvg-logo="https://epg.112114.xyz/logo/Zee TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeetvhd
+#EXTINF:-1 group-title="印度India" tvg-name="Zee Cinema" tvg-logo="https://epg.112114.xyz/logo/Zee Cinema.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee Cinema
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeecinemahd
+#EXTINF:-1 group-title="印度India" tvg-name="Color" tvg-logo="https://epg.112114.xyz/logo/Color.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Color
+http://xn--94q.l5.ca/daili/Smartv.php?id=Colorhd
+#EXTINF:-1 group-title="印度India" tvg-name="Starplus" tvg-logo="https://epg.112114.xyz/logo/Starplus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Starplus
+http://xn--94q.l5.ca/daili/Smartv.php?id=Starplushd
+#EXTINF:-1 group-title="印度India" tvg-name="Picture" tvg-logo="https://epg.112114.xyz/logo/Picture.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Picture
+http://xn--94q.l5.ca/daili/Smartv.php?id=Npicture
+#EXTINF:-1 group-title="印度India" tvg-name="Zee News" tvg-logo="https://epg.112114.xyz/logo/Zee News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee News
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeenews
+#EXTINF:-1 group-title="印度India" tvg-name="Asianet" tvg-logo="https://epg.112114.xyz/logo/Asianet.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Asianet
+http://xn--94q.l5.ca/daili/Smartv.php?id=asianet_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Asianet News" tvg-logo="https://epg.112114.xyz/logo/Asianet News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Asianet News
+http://xn--94q.l5.ca/daili/Smartv.php?id=asianetnews_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Times Now" tvg-logo="https://epg.112114.xyz/logo/Times Now.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Times Now
+http://xn--94q.l5.ca/daili/Smartv.php?id=timesnow_mega
+#EXTINF:-1 group-title="印度India" tvg-name="BBC Earth Tamil" tvg-logo="https://epg.112114.xyz/logo/BBC Earth Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Earth Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearthtam_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Discovery World Tamil" tvg-logo="https://epg.112114.xyz/logo/Discovery World Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery World Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryworldtam_raj
+#EXTINF:-1 group-title="印度India" tvg-name="History Tamil" tvg-logo="https://epg.112114.xyz/logo/History Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=historytam_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Natgeo Wild Tamil" tvg-logo="https://epg.112114.xyz/logo/Natgeo Wild Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Natgeo Wild Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Discovery Kids Tamil" tvg-logo="https://epg.112114.xyz/logo/Discovery Kids Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery Kids Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverykidtamil_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Discovery Tamil" tvg-logo="https://epg.112114.xyz/logo/Discovery Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytamil_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Sony Yay Tamil" tvg-logo="https://epg.112114.xyz/logo/Sony Yay Tamil.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Yay Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonyyaytam_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Sun TV India" tvg-logo="https://epg.112114.xyz/logo/Sun TV India.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sun TV India
+http://xn--94q.l5.ca/daili/Smartv.php?id=suntv_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Starmaa HD" tvg-logo="https://epg.112114.xyz/logo/Starmaa HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Starmaa HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmaa_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Starmaa Movies HD" tvg-logo="https://epg.112114.xyz/logo/Starmaa Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Starmaa Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmaamovies_raj
+#EXTINF:-1 group-title="印度India" tvg-name="Bollyone" tvg-logo="https://epg.112114.xyz/logo/Bollyone.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bollyone
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bollyone
+#EXTINF:-1 group-title="印度India" tvg-name="Astro Sunmusic" tvg-logo="https://epg.112114.xyz/logo/Astro Sunmusic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro Sunmusic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunmusic
+#EXTINF:-1 group-title="印度India" tvg-name="Sony Pix HD" tvg-logo="https://epg.112114.xyz/logo/Sony Pix HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Pix HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_mega
+#EXTINF:-1 group-title="印度India" tvg-name="Vijay Super" tvg-logo="https://epg.112114.xyz/logo/Vijay Super.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Vijay Super
+http://xn--94q.l5.ca/daili/Smartv.php?id=vijaysuper_raj
+#EXTINF:-1 group-title="電影Movie" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXN
+http://xn--94q.l5.ca/daili/Smartv.php?id=axn_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 group-title="電影Movie" tvg-name="Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/Astrol Kplus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astrol Kplus
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kplus
+#EXTINF:-1 group-title="電影Movie" tvg-name="Axn HD" tvg-logo="https://epg.112114.xyz/logo/Axn HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Axn HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 group-title="電影Movie" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv6
+#EXTINF:-1 group-title="電影Movie" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
+http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/Celestial Classic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2
+#EXTINF:-1 group-title="電影Movie" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="電影Movie" tvg-name="Cinemax" tvg-logo="https://epg.112114.xyz/logo/Cinemax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cinemax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO Family" tvg-logo="https://epg.112114.xyz/logo/HBO Family.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Family
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbofamily
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO Hits" tvg-logo="https://epg.112114.xyz/logo/HBO Hits.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbohits
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO Signature.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO Signature
+ ttp://phdown.serv00.net/Smartv.php?id=Hbosignature
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO_HD" tvg-logo="https://epg.112114.xyz/logo/HBO_HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO_HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="HBO_HITS" tvg-logo="https://epg.112114.xyz/logo/HBO_HITS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO_HITS
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohits_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="Hits Movie" tvg-logo="https://epg.112114.xyz/logo/Hits Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="電影Movie" tvg-name="Hits" tvg-logo="https://epg.112114.xyz/logo/Hits.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hits
+#EXTINF:-1 group-title="電影Movie" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/Hollywood Movies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hollywood Movies
+http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/Movies Now HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Movies Now HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=moviesnow_raj
+#EXTINF:-1 group-title="電影Movie" tvg-name="One" tvg-logo="https://epg.112114.xyz/logo/One.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="電影Movie" tvg-name="Paramount Network" tvg-logo="https://epg.112114.xyz/logo/Paramount Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Paramount Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 group-title="電影Movie" tvg-name="Rock Actions" tvg-logo="https://epg.112114.xyz/logo/Rock Actions.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="電影Movie" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/Rock Entertainment.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="電影Movie" tvg-name="SCM" tvg-logo="https://epg.112114.xyz/logo/SCM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCM
+http://xn--94q.l5.ca/daili/Smartv.php?id=Weishimovie
+#EXTINF:-1 group-title="電影Movie" tvg-name="Sony Pix HD" tvg-logo="https://epg.112114.xyz/logo/Sony Pix HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sony Pix HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_mega
+#EXTINF:-1 group-title="電影Movie" tvg-name="Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Star Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_raj
+#EXTINF:-1 group-title="電影Movie" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="電影Movie" tvg-name="Warner TV" tvg-logo="https://epg.112114.xyz/logo/Warner TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="電影Movie" tvg-name="tvN Movie" tvg-logo="https://epg.112114.xyz/logo/tvN Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="電影Movie" tvg-name="CATCHPLAY" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CATCHPLAY
+http://xn--94q.l5.ca/daili/Smartv.php?id=catchplay_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
+#EXTINF:-1 group-title="電影Movie" tvg-name="東森洋片" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern
+#EXTINF:-1 group-title="電影Movie" tvg-name="東森電影" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie
+#EXTINF:-1 group-title="電影Movie" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美亞電影
+http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍華洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="電影Movie" tvg-name="龍祥时代" tvg-logo="https://epg.112114.xyz/logo/龍祥时代.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龍祥时代
+http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="AFC 亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/AFC 亞洲旅遊台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AFC 亞洲旅遊台
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/Animal Planet (Eng).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal Planet (Eng)
+http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/Animal_Planet.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal_Planet
+http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Asia Travel" tvg-logo="https://epg.112114.xyz/logo/Asia Travel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Asia Travel
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="BBC Earth HD" tvg-logo="https://epg.112114.xyz/logo/BBC Earth HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Earth HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="BBC Earth Lifestyle" tvg-logo="https://epg.112114.xyz/logo/BBC Earth Lifestyle.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Earth Lifestyle
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CI
+http://xn--94q.l5.ca/daili/Smartv.php?id=ci_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Discovery Asia" tvg-logo="https://epg.112114.xyz/logo/Discovery Asia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Discovery HD" tvg-logo="https://epg.112114.xyz/logo/Discovery HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Fashion TV" tvg-logo="https://epg.112114.xyz/logo/Fashion TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fashion TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Foodnetwork" tvg-logo="https://epg.112114.xyz/logo/Foodnetwork.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Foodnetwork
+http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="History" tvg-logo="https://epg.112114.xyz/logo/History.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History
+http://xn--94q.l5.ca/daili/Smartv.php?id=History
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/NatGeo Wild HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/NatGeo_Wild HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NatGeo_Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/Natgeo_HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Natgeo_HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="TLC" tvg-logo="https://epg.112114.xyz/logo/TLC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="TLC Asia" tvg-logo="https://epg.112114.xyz/logo/TLC Asia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="亞洲美食" tvg-logo="https://epg.112114.xyz/logo/亞洲美食.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亞洲美食
+http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn
+#EXTINF:-1 group-title="紀錄Documentary" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美食星球
+http://xn--94q.l5.ca/daili/Smartv.php?id=foodplanet_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC News
+http://xn--94q.l5.ca/daili/Smartv.php?id=abcnews_glo
+#EXTINF:-1 group-title="新聞News" tvg-name="Al-Jazeera" tvg-logo="https://epg.112114.xyz/logo/Al-Jazeera.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bbcnews
+#EXTINF:-1 group-title="新聞News" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="CBS HD" tvg-logo="https://epg.112114.xyz/logo/CBS HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbshd_glo
+#EXTINF:-1 group-title="新聞News" tvg-name="CBSN HD" tvg-logo="https://epg.112114.xyz/logo/CBSN HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBSN HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbsn_glo
+#EXTINF:-1 group-title="新聞News" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=CGTN
+#EXTINF:-1 group-title="新聞News" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 group-title="新聞News" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="CNN International" tvg-logo="https://epg.112114.xyz/logo/CNN International.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN International
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cnn
+#EXTINF:-1 group-title="新聞News" tvg-name="CNN(備用)" tvg-logo="https://epg.112114.xyz/logo/CNN(備用).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN(備用)
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="DW (Deutsch)" tvg-logo="https://epg.112114.xyz/logo/DW (Deutsch).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW (Deutsch)
+http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="Fox News" tvg-logo="https://epg.112114.xyz/logo/Fox News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fox News
+http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="France 24" tvg-logo="https://epg.112114.xyz/logo/France 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",France 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twn
+#EXTINF:-1 group-title="新聞News" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHK World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 group-title="新聞News" tvg-name="Skynews" tvg-logo="https://epg.112114.xyz/logo/Skynews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skynews
+http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antik
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Baby TV Eng" tvg-logo="https://epg.112114.xyz/logo/Baby TV Eng.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Baby TV Eng
+http://xn--94q.l5.ca/daili/Smartv.php?id=Babytv
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Baby TV" tvg-logo="https://epg.112114.xyz/logo/Baby TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Baby TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=babytv_twn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Boomerang Taiwan" tvg-logo="https://epg.112114.xyz/logo/Boomerang Taiwan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boomerang Taiwan
+http://xn--94q.l5.ca/daili/Smartv.php?id=boomerang_twn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Boomerang" tvg-logo="https://epg.112114.xyz/logo/Boomerang.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boomerang
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boomerang
+#EXTINF:-1 group-title="兒童Kids" tvg-name="CBeebies" tvg-logo="https://epg.112114.xyz/logo/CBeebies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBeebies
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cbeebies
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/Cartoon Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cartoon Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Disney Taiwan" tvg-logo="https://epg.112114.xyz/logo/Disney Taiwan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Disney Taiwan
+http://xn--94q.l5.ca/daili/Smartv.php?id=disneytwn_twn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Kids TV" tvg-logo="https://epg.112114.xyz/logo/Kids TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kids TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTV
+#EXTINF:-1 group-title="兒童Kids" tvg-name="MiaoMi" tvg-logo="https://epg.112114.xyz/logo/MiaoMi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MiaoMi
+http://xn--94q.l5.ca/daili/Smartv.php?id=MiaoMi
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Momo TV" tvg-logo="https://epg.112114.xyz/logo/Momo TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Momo TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick Jr.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nick Jr
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
+#EXTINF:-1 group-title="兒童Kids" tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="兒童Kids" tvg-name="東森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/東森幼幼 Yoyo TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",東森幼幼 Yoyo TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=yoyo_twn
+#EXTINF:-1 group-title="兒童Kids" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天卡通台
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Amarin" tvg-logo="https://epg.112114.xyz/logo/Amarin.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Amarin
+http://xn--94q.l5.ca/daili/Smartv.php?id=amarin_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Ch 8" tvg-logo="https://epg.112114.xyz/logo/Ch 8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ch 8
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch8_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Channel 3 Thailand" tvg-logo="https://epg.112114.xyz/logo/Channel 3 Thailand.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 3 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch3_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Channel 5 Thailand" tvg-logo="https://epg.112114.xyz/logo/Channel 5 Thailand.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 5 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch5_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Channel 7 Thailand" tvg-logo="https://epg.112114.xyz/logo/Channel 7 Thailand.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 7 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch7_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Gmm Channel" tvg-logo="https://epg.112114.xyz/logo/Gmm Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Gmm Channel
+http://xn--94q.l5.ca/daili/Smartv.php?id=gmmchannel_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="GmmOne" tvg-logo="https://epg.112114.xyz/logo/GmmOne.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GmmOne
+http://xn--94q.l5.ca/daili/Smartv.php?id=gmmone_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="MCOT HD Thailand-1" tvg-logo="https://epg.112114.xyz/logo/MCOT HD Thailand-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MCOT HD Thailand-1
+http://xn--94q.l5.ca/daili/Smartv.php?id=mcot_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Mono" tvg-logo="https://epg.112114.xyz/logo/Mono.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Mono
+http://xn--94q.l5.ca/daili/Smartv.php?id=mono_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Nation" tvg-logo="https://epg.112114.xyz/logo/Nation.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nation
+http://xn--94q.l5.ca/daili/Smartv.php?id=nation_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Nbt" tvg-logo="https://epg.112114.xyz/logo/Nbt.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nbt
+http://xn--94q.l5.ca/daili/Smartv.php?id=nbt_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="New" tvg-logo="https://epg.112114.xyz/logo/New.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",New
+http://xn--94q.l5.ca/daili/Smartv.php?id=new_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="PPTV Thailand 1" tvg-logo="https://epg.112114.xyz/logo/PPTV Thailand 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",PPTV Thailand 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=pptv_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="TPTV" tvg-logo="https://epg.112114.xyz/logo/TPTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TPTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=tptv_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Thai Thai" tvg-logo="https://epg.112114.xyz/logo/Thai Thai.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thai Thai
+http://xn--94q.l5.ca/daili/Smartv.php?id=thaithai_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Thairath" tvg-logo="https://epg.112114.xyz/logo/Thairath.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thairath
+http://xn--94q.l5.ca/daili/Smartv.php?id=thairath_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Tnn24" tvg-logo="https://epg.112114.xyz/logo/Tnn24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Tnn24
+http://xn--94q.l5.ca/daili/Smartv.php?id=tnn24_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="Workpoint" tvg-logo="https://epg.112114.xyz/logo/Workpoint.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Workpoint
+http://xn--94q.l5.ca/daili/Smartv.php?id=workpoint_pat
+#EXTINF:-1 group-title="泰國Thailand" tvg-name="tpbs" tvg-logo="https://epg.112114.xyz/logo/tpbs.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tpbs
+http://xn--94q.l5.ca/daili/Smartv.php?id=tpbs_pat
+#EXTINF:-1 group-title="英國UK" tvg-name="Al Jazeera" tvg-logo="https://epg.112114.xyz/logo/Al Jazeera.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/Animal Planet (Eng).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal Planet (Eng)
+ http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="英國UK" tvg-name="Axn HD" tvg-logo="https://epg.112114.xyz/logo/Axn HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Axn HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 group-title="英國UK" tvg-name="BBC 1" tvg-logo="https://epg.112114.xyz/logo/BBC 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbc1_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="BBC 2" tvg-logo="https://epg.112114.xyz/logo/BBC 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbc2_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="BBC Earth HD" tvg-logo="https://epg.112114.xyz/logo/BBC Earth HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Earth HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="BBC Earth Lifestyle" tvg-logo="https://epg.112114.xyz/logo/BBC Earth Lifestyle.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Earth Lifestyle
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcworldnews_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="Boomerang" tvg-logo="https://epg.112114.xyz/logo/Boomerang.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boomerang
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boomerang
+#EXTINF:-1 group-title="英國UK" tvg-name="CBBC" tvg-logo="https://epg.112114.xyz/logo/CBBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbbc_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="CBeebies" tvg-logo="https://epg.112114.xyz/logo/CBeebies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBeebies
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cbeebies
+#EXTINF:-1 group-title="英國UK" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="Channel 4" tvg-logo="https://epg.112114.xyz/logo/Channel 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=channel4_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="DW (Deutsch)" tvg-logo="https://epg.112114.xyz/logo/DW (Deutsch).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW (Deutsch)
+http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="Euronews" tvg-logo="https://epg.112114.xyz/logo/Euronews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Euronews
+http://xn--94q.l5.ca/daili/Smartv.php?id=euronews_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="France 24" tvg-logo="https://epg.112114.xyz/logo/France 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",France 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="Freesports" tvg-logo="https://epg.112114.xyz/logo/Freesports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Freesports
+http://xn--94q.l5.ca/daili/Smartv.php?id=freesports_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 group-title="英國UK" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="英國UK" tvg-name="History" tvg-logo="https://epg.112114.xyz/logo/History.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History
+http://xn--94q.l5.ca/daili/Smartv.php?id=History
+#EXTINF:-1 group-title="英國UK" tvg-name="Hits Movie" tvg-logo="https://epg.112114.xyz/logo/Hits Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="英國UK" tvg-name="itv 1" tvg-logo="https://epg.112114.xyz/logo/itv 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",itv 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=itv1_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="itv 2" tvg-logo="https://epg.112114.xyz/logo/itv 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",itv 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=itv2_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="Kids TV" tvg-logo="https://epg.112114.xyz/logo/Kids TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kids TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTV
+#EXTINF:-1 group-title="英國UK" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 group-title="英國UK" tvg-name="More4" tvg-logo="https://epg.112114.xyz/logo/More4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",More4
+http://xn--94q.l5.ca/daili/Smartv.php?id=more4_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHK World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 group-title="英國UK" tvg-name="NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/NatGeo HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NatGeo HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeo
+#EXTINF:-1 group-title="英國UK" tvg-name="NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/NatGeo Wild HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="英國UK" tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick Jr.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nick Jr
+ttp://phdown.serv00.net/Smartv.php?id=Nickjr
+#EXTINF:-1 group-title="英國UK" tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="英國UK" tvg-name="Pick TV" tvg-logo="https://epg.112114.xyz/logo/Pick TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Pick TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=picktv_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="Skynews" tvg-logo="https://epg.112114.xyz/logo/Skynews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skynews
+http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antik
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports Arena" tvg-logo="https://epg.112114.xyz/logo/Skysports Arena.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarena
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/Skysports Cricket.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricket
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/Skysports EPL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongepl
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports F1" tvg-logo="https://epg.112114.xyz/logo/Skysports F1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports F1
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports Football" tvg-logo="https://epg.112114.xyz/logo/Skysports Football.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Football
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootball
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports Golf" tvg-logo="https://epg.112114.xyz/logo/Skysports Golf.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolf
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports Main Event" tvg-logo="https://epg.112114.xyz/logo/Skysports Main Event.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports Main Event
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmain
+#EXTINF:-1 group-title="英國UK" tvg-name="Skysports News" tvg-logo="https://epg.112114.xyz/logo/Skysports News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Skysports News
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnews
+#EXTINF:-1 group-title="英國UK" tvg-name="Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Star Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_raj
+#EXTINF:-1 group-title="英國UK" tvg-name="TLC" tvg-logo="https://epg.112114.xyz/logo/TLC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="英國UK" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="英國UK" tvg-name="Warner TV" tvg-logo="https://epg.112114.xyz/logo/Warner TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ANTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_antv
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="BPTV 2" tvg-logo="https://epg.112114.xyz/logo/BPTV 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BPTV 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_bptv2
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="BRT HD" tvg-logo="https://epg.112114.xyz/logo/BRT HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BRT HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_brt
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="Ca Mau TV" tvg-logo="https://epg.112114.xyz/logo/Ca Mau TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ca Mau TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_camautv
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="Danang TV1 HD" tvg-logo="https://epg.112114.xyz/logo/Danang TV1 HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Danang TV1 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv1
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="Danang TV2 HD" tvg-logo="https://epg.112114.xyz/logo/Danang TV2 HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Danang TV2 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv2
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="HBTV HD" tvg-logo="https://epg.112114.xyz/logo/HBTV HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBTV HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_hbtv
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="HTV 7" tvg-logo="https://epg.112114.xyz/logo/HTV 7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTV 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv7
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="HTV 9" tvg-logo="https://epg.112114.xyz/logo/HTV 9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTV 9
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv9
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="PTTH 1" tvg-logo="https://epg.112114.xyz/logo/PTTH 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",PTTH 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_ptth1
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="VTV 1" tvg-logo="https://epg.112114.xyz/logo/VTV 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VTV 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv1
+#EXTINF:-1 group-title="越南Vietnam" tvg-name="VTV 7" tvg-logo="https://epg.112114.xyz/logo/VTV 7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VTV 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv7
+#EXTINF:-1 group-title="韓國Korea" tvg-name="All the Kpop" tvg-logo="https://epg.112114.xyz/logo/All the Kpop.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",All the Kpop
+http://xn--94q.l5.ca/daili/Smartv.php?id=allthekpop_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="Apps TV" tvg-logo="https://epg.112114.xyz/logo/Apps TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Apps TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=appongoogle_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="Arirang HD" tvg-logo="https://epg.112114.xyz/logo/Arirang HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arirang HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="CBS" tvg-logo="https://epg.112114.xyz/logo/CBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbs_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="CGNTV" tvg-logo="https://epg.112114.xyz/logo/CGNTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGNTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=cgntv_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="EBS 1" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebs1_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="EBS Kids" tvg-logo="https://epg.112114.xyz/logo/EBS Kids.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS Kids
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebskids_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="EBS Plus2" tvg-logo="https://epg.112114.xyz/logo/EBS Plus2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS Plus2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebsplus2_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="EBS2" tvg-logo="https://epg.112114.xyz/logo/EBS2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebs2_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="KBS World 24" tvg-logo="https://epg.112114.xyz/logo/KBS World 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KBS World 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=kbsworld24_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="SBS Plus" tvg-logo="https://epg.112114.xyz/logo/SBS Plus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SBS Plus
+http://xn--94q.l5.ca/daili/Smartv.php?id=sbsplus_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="YTN DMB" tvg-logo="https://epg.112114.xyz/logo/YTN DMB.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",YTN DMB
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytndmb_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="YTN Korean" tvg-logo="https://epg.112114.xyz/logo/YTN Korean.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",YTN Korean
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytnkorean_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="YTN Science" tvg-logo="https://epg.112114.xyz/logo/YTN Science.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",YTN Science
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytnscience_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="YTN" tvg-logo="https://epg.112114.xyz/logo/YTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",YTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytn_korea
+#EXTINF:-1 group-title="韓國Korea" tvg-name="Yonhap News" tvg-logo="https://epg.112114.xyz/logo/Yonhap News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Yonhap News
+http://xn--94q.l5.ca/daili/Smartv.php?id=yonhapnews_korea
+#EXTINF:-1 group-title="日本Japan" tvg-name="BS-TBS" tvg-logo="https://epg.112114.xyz/logo/BS-TBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BS-TBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=bstbs_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="BSジャパン 181" tvg-logo="https://epg.112114.xyz/logo/BSジャパン 181.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BSジャパン 181
+http://xn--94q.l5.ca/daili/Smartv.php?id=bs181_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="BSフジ BS Fuji" tvg-logo="https://epg.112114.xyz/logo/BSフジ BS Fuji.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BSフジ BS Fuji
+http://xn--94q.l5.ca/daili/Smartv.php?id=bsfuji_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="CNA Japan" tvg-logo="https://epg.112114.xyz/logo/CNA Japan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA Japan
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="JET 綜合" tvg-logo="https://epg.112114.xyz/logo/JET 綜合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JET 綜合
+http://xn--94q.l5.ca/daili/Smartv.php?id=jettv_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHK Oaska" tvg-logo="https://epg.112114.xyz/logo/NHK Oaska.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK Oaska
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkosaka_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHK World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHK-E" tvg-logo="https://epg.112114.xyz/logo/NHK-E.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK-E
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhke_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHK-総合-2" tvg-logo="https://epg.112114.xyz/logo/NHK-総合-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK-総合-2
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkg_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHKBS1" tvg-logo="https://epg.112114.xyz/logo/NHKBS1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHKBS1
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkbs1_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="NHKBSプレミア Premium" tvg-logo="https://epg.112114.xyz/logo/NHKBSプレミア Premium.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHKBSプレミア Premium
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkpremium_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="TOKYOMX" tvg-logo="https://epg.112114.xyz/logo/TOKYOMX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TOKYOMX
+http://xn--94q.l5.ca/daili/Smartv.php?id=tokyomx_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="テレビ朝日 Asahi TV" tvg-logo="https://epg.112114.xyz/logo/テレビ朝日 Asahi TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",テレビ朝日 Asahi TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=asahitv_japan
+#EXTINF:-1 group-title="日本Japan" tvg-name="テレビ東京 Tokyo TV" tvg-logo="https://epg.112114.xyz/logo/テレビ東京 Tokyo TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",テレビ東京 Tokyo TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=tokyotv_japan
 
 smt香港,#genre#
 凤凰卫视,http://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixtv_hd
