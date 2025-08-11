@@ -1964,33 +1964,75 @@ TOKYOMX,http://000.hfr1107.top/tv/smt.php?id=tokyomx_japan
 テレビ朝日 Asahi TV,http://000.hfr1107.top/tv/smt.php?id=asahitv_japan
 テレビ東京 Tokyo TV,http://000.hfr1107.top/tv/smt.php?id=tokyotv_japan
 
-smt香港,#genre#
-凤凰卫视,http://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,http://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,http://smt.1789.dpdns.org/smt3.2.1.php?id=hkphoenix_twn
-有线新闻,http://smt.1789.dpdns.org/smt3.2.1.php?id=hoycaijing_twn
-无线新闻,http://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
-翡翠台,http://smt.1789.dpdns.org/smt3.2.1.php?id=jade_twn
-无线华丽翡翠,http://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
-无线华丽翡翠,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
-明珠台,http://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_twn
-无线娱乐新闻台,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbentertainment
-无线千禧经典台,http://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbclassic
-TVB PLUS,http://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
-TVB星河,http://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
-VIUTV,http://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
-VIUTV6,http://smt.1789.dpdns.org/smt3.2.1.php?id=viusix_twn
-RTHK-31,http://smt.1789.dpdns.org/smt3.2.1.php?id=rhk31_twn
-RTHK-32,http://smt.1789.dpdns.org/smt3.2.1.php?id=rhk32_twn
-美亚电影台,http://smt.1789.dpdns.org/smt3.2.1.php?id=meiyamovie_twn
-天映频道,http://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial
-天映频道,http://smt.1789.dpdns.org/smt3.2.1.php?id=ctv18_twn
-八度空间,http://smt.1789.dpdns.org/smt3.2.1.php?id=TV8
-Astro AEC,http://smt.1789.dpdns.org/smt3.2.1.php?id=AEC
-Astro AOD,http://smt.1789.dpdns.org/smt3.2.1.php?id=Aodhd
-Astro iQiyi,http://smt.1789.dpdns.org/smt3.2.1.php?id=Qiyi
-Astro QJ国,http://smt.1789.dpdns.org/smt3.2.1.php?id=Quanjia
-Astro欢喜,http://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
+livehttpplay,#genre#
+无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
+翡翠台,http://live4play.uk/livehttpplay?channel_id=20124
+明珠台,http://live4play.uk/livehttpplay?channel_id=20125#http://live4play.uk/livehttpplay?channel_id=30026
+TVB Plus,http://live4play.uk/livehttpplay?channel_id=20122#http://live4play.uk/livehttpplay?channel_id=30023
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065#http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067
+HOY 77,http://live4play.uk/livehttpplay?channel_id=20152
+RTHK 31,http://live4play.uk/livehttpplay?channel_id=30066
+RTHK 32,http://live4play.uk/livehttpplay?channel_id=20203#http://live4play.uk/livehttpplay?channel_id=30028#http://live4play.uk/livehttpplay?channel_id=30067
+VIUTV 6,http://live4play.uk/livehttpplay?channel_id=30033#http://live4play.uk/livehttpplay?channel_id=20132
+VIUTV,http://live4play.uk/livehttpplay?channel_id=30032#http://live4play.uk/livehttpplay?channel_id=20131
+FAIRCHILD 1,http://tlive24.uk/livehttpplay?channel_id=50208
+FAIRCHILD 2,http://tlive24.uk/livehttpplay?channel_id=50318
+TALENT TV,http://tlive24.uk/livehttpplay?channel_id=40319
+中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
+博斯無限,http://tlive24.uk/livehttpplay?channel_id=42023
+博斯無限2,http://tlive24.uk/livehttpplay?channel_id=42024
+博斯網球,http://tlive24.uk/livehttpplay?channel_id=42026
+博斯魅力,http://tlive24.uk/livehttpplay?channel_id=42025
+广东体育,http://live4play.uk/livehttpplay?channel_id=12028#http://live4play.uk/livehttpplay?channel_id=30031#http://live4play.uk/livehttpplay?channel_id=20130#http://live4play.uk/livehttpplay?channel_id=30003
+广东卫视,http://live4play.uk/livehttpplay?channel_id=20024
+广东戏曲,http://live4play.uk/livehttpplay?channel_id=20142
+广东珠江,http://live4play.uk/livehttpplay?channel_id=20144
+深圳卫视,http://live4play.uk/livehttpplay?channel_id=20025
+四川卫视,http://live4play.uk/livehttpplay?channel_id=20038
+天津卫视,http://live4play.uk/livehttpplay?channel_id=20042
+广西卫视,http://live4play.uk/livehttpplay?channel_id=20323
+河北卫视,http://live4play.uk/livehttpplay?channel_id=20035
+湖北卫视,http://live4play.uk/livehttpplay?channel_id=20022
+甘肃卫视,http://live4play.uk/livehttpplay?channel_id=20326
+辽宁卫视,http://live4play.uk/livehttpplay?channel_id=20320
+重庆卫视,http://live4play.uk/livehttpplay?channel_id=20040
+黑龙江卫视,http://live4play.uk/livehttpplay?channel_id=20321
+CCTV 4K,http://live4play.uk/livehttpplay?channel_id=30029
+CCTV 5,http://live4play.uk/livehttpplay?channel_id=20005#http://live4play.uk/livehttpplay?channel_id=12029#http://live4play.uk/livehttpplay?channel_id=10107
+CCTV 5+,http://live4play.uk/livehttpplay?channel_id=30004#http://live4play.uk/livehttpplay?channel_id=20006
+CCTV 7,http://live4play.uk/livehttpplay?channel_id=20008
+CCTV 15,http://live4play.uk/livehttpplay?channel_id=20016
+CCTV 16,http://live4play.uk/livehttpplay?channel_id=20039
+ANIMAX,http://tlive24.uk/livehttpplay?channel_id=20295
+BEIN SPORTS 1,http://tlive24.uk/livehttpplay?channel_id=12003
+BEIN SPORTS 2,http://tlive24.uk/livehttpplay?channel_id=12004#http://tlive24.uk/livehttpplay?channel_id=12005
+BEIN SPORTS 3,http://tlive24.uk/livehttpplay?channel_id=12012
+BEIN SPORTS 5,http://tlive24.uk/livehttpplay?channel_id=12007
+BEIN SPORTS 6,http://tlive24.uk/livehttpplay?channel_id=12008#http://tlive24.uk/livehttpplay?channel_id=12006
+BEIN SPORTS 7,http://tlive24.uk/livehttpplay?channel_id=12009
+BEIN SPORTS 8,http://tlive24.uk/livehttpplay?channel_id=12010
+BEIN SPORTS 9,http://tlive24.uk/livehttpplay?channel_id=12011
+BIG NETWORK,http://tlive24.uk/livehttpplay?channel_id=20299
+BLOOMBERG,http://tlive24.uk/livehttpplay?channel_id=20151
+CAEROON NETWORK,http://tlive24.uk/livehttpplay?channel_id=50207
+CHANNEL 8,http://tlive24.uk/livehttpplay?channel_id=10132
+CP24 NEWS,http://tlive24.uk/livehttpplay?channel_id=50205
+HTV,http://tlive24.uk/livehttpplay?channel_id=20238
+HTV1,http://tlive24.uk/livehttpplay?channel_id=20186
+HTV2,http://tlive24.uk/livehttpplay?channel_id=20180
+HTV3,http://tlive24.uk/livehttpplay?channel_id=20237
+SPORT NETWORK,http://tlive24.uk/livehttpplay?channel_id=40133
+SPOTV,http://tlive24.uk/livehttpplay?channel_id=20706#http://tlive24.uk/livehttpplay?channel_id=20226
+TSN,http://tlive24.uk/livehttpplay?channel_id=12000#http://tlive24.uk/livehttpplay?channel_id=50206
+TSN 3,http://tlive24.uk/livehttpplay?channel_id=12001
+TSN 4,http://tlive24.uk/livehttpplay?channel_id=12002
+TSN+,http://tlive24.uk/livehttpplay?channel_id=50321
+VTV,http://tlive24.uk/livehttpplay?channel_id=20190
+VTV1,http://tlive24.uk/livehttpplay?channel_id=20185
+VTV3,http://tlive24.uk/livehttpplay?channel_id=20187
+VTV4,http://tlive24.uk/livehttpplay?channel_id=20188
 
 香港api,#genre#
 凤凰中文,http://api.mytv666.top/api/hkhk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32&auth=123
