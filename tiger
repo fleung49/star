@@ -1,855 +1,408 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A&amp;E HD US" tvg-name="A&E HD US" tvg-logo="" group-title="USA",A&E HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30001/index.m3u
-#EXTINF:-1 tvg-id="A&amp;E US" tvg-name="A&E US" tvg-logo="" group-title="USA",A&E US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1108/index.m3u
-#EXTINF:-1 tvg-id="ABC HD US" tvg-name="ABC HD US" tvg-logo="" group-title="USA",ABC HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1087/index.m3u
-#EXTINF:-1 tvg-id="Altitude Sports HD US" tvg-name="Altitude Sports HD US" tvg-logo="" group-title="USA",Altitude Sports HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31000/index.m3u
-#EXTINF:-1 tvg-id="AMC HD US" tvg-name="AMC HD US" tvg-logo="" group-title="USA",AMC HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1083/index.m3u
-#EXTINF:-1 tvg-id="American Heroes Channel HD US" tvg-name="American Heroes Channel HD US" tvg-logo="" group-title="USA",American Heroes Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30007/index.m3u
-#EXTINF:-1 tvg-id="AXS TV HD US" tvg-name="AXS TV HD US" tvg-logo="" group-title="USA",AXS TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30011/index.m3u
-#EXTINF:-1 tvg-id="BabyFirst TV HD US" tvg-name="BabyFirst TV HD US" tvg-logo="" group-title="USA",BabyFirst TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30012/index.m3u
-#EXTINF:-1 tvg-id="BBC America HD US" tvg-name="BBC America HD US" tvg-logo="" group-title="USA",BBC America HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1092/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 2 US" tvg-name="beIN Sports 2 US" tvg-logo="" group-title="USA",beIN Sports 2 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31049/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 3 US" tvg-name="beIN Sports 3 US" tvg-logo="" group-title="USA",beIN Sports 3 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31050/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 4 US" tvg-name="beIN Sports 4 US" tvg-logo="" group-title="USA",beIN Sports 4 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31051/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 5 US" tvg-name="beIN Sports 5 US" tvg-logo="" group-title="USA",beIN Sports 5 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31052/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 6 US" tvg-name="beIN Sports 6 US" tvg-logo="" group-title="USA",beIN Sports 6 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31053/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 7 US" tvg-name="beIN Sports 7 US" tvg-logo="" group-title="USA",beIN Sports 7 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31054/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports En Español HD US" tvg-name="beIN Sports En Español HD US" tvg-logo="" group-title="USA",beIN Sports En Español HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30015/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports US" tvg-name="beIN Sports US" tvg-logo="" group-title="USA",beIN Sports US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31048/index.m3u
-#EXTINF:-1 tvg-id="BET Her HD US" tvg-name="BET Her HD US" tvg-logo="" group-title="USA",BET Her HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30018/index.m3u
-#EXTINF:-1 tvg-id="Bravo HD US" tvg-name="Bravo HD US" tvg-logo="" group-title="USA",Bravo HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30024/index.m3u
-#EXTINF:-1 tvg-id="Cars.TV HD US" tvg-name="Cars.TV HD US" tvg-logo="" group-title="USA",Cars.TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30030/index.m3u
-#EXTINF:-1 tvg-id="CBS New York" tvg-name="CBS New York" tvg-logo="" group-title="USA",CBS New York
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/903/index.m3u
-#EXTINF:-1 tvg-id="CBS Sports Network HD US" tvg-name="CBS Sports Network HD US" tvg-logo="" group-title="USA",CBS Sports Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7324/index.m3u
-#EXTINF:-1 tvg-id="Cheddar News HD US" tvg-name="Cheddar News HD US" tvg-logo="" group-title="USA",Cheddar News HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30035/index.m3u
-#EXTINF:-1 tvg-id="CNBC HD US" tvg-name="CNBC HD US" tvg-logo="" group-title="USA",CNBC HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/962/index.m3u
-#EXTINF:-1 tvg-id="CNN HD US" tvg-name="CNN HD US" tvg-logo="" group-title="USA",CNN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6538/index.m3u
-#EXTINF:-1 tvg-id="Comedy Central HD US" tvg-name="Comedy Central HD US" tvg-logo="" group-title="USA",Comedy Central HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30044/index.m3u
-#EXTINF:-1 tvg-id="Cooking Channel HD US" tvg-name="Cooking Channel HD US" tvg-logo="" group-title="USA",Cooking Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30045/index.m3u
-#EXTINF:-1 tvg-id="Crime + Investigation HD US" tvg-name="Crime + Investigation HD US" tvg-logo="" group-title="USA",Crime + Investigation HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30046/index.m3u
-#EXTINF:-1 tvg-id="C-SPAN 2 HD US" tvg-name="C-SPAN 2 HD US" tvg-logo="" group-title="USA",C-SPAN 2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30026/index.m3u
-#EXTINF:-1 tvg-id="C-SPAN 3 HD US" tvg-name="C-SPAN 3 HD US" tvg-logo="" group-title="USA",C-SPAN 3 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30027/index.m3u
-#EXTINF:-1 tvg-id="C-SPAN HD US" tvg-name="C-SPAN HD US" tvg-logo="" group-title="USA",C-SPAN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30028/index.m3u
-#EXTINF:-1 tvg-id="Destination America HD US" tvg-name="Destination America HD US" tvg-logo="" group-title="USA",Destination America HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30051/index.m3u
-#EXTINF:-1 tvg-id="Discovery Channel HD US" tvg-name="Discovery Channel HD US" tvg-logo="" group-title="USA",Discovery Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30052/index.m3u
-#EXTINF:-1 tvg-id="Discovery Family HD US" tvg-name="Discovery Family HD US" tvg-logo="" group-title="USA",Discovery Family HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30055/index.m3u
-#EXTINF:-1 tvg-id="Discovery Life HD US" tvg-name="Discovery Life HD US" tvg-logo="" group-title="USA",Discovery Life HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30056/index.m3u
-#EXTINF:-1 tvg-id="Disney XD HD US" tvg-name="Disney XD HD US" tvg-logo="" group-title="USA",Disney XD HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1082/index.m3u
-#EXTINF:-1 tvg-id="E! HD US" tvg-name="E! HD US" tvg-logo="" group-title="USA",E! HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30060/index.m3u
-#EXTINF:-1 tvg-id="ESPN Deportes HD US" tvg-name="ESPN Deportes HD US" tvg-logo="" group-title="USA",ESPN Deportes HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30063/index.m3u
-#EXTINF:-1 tvg-id="ESPNews HD US" tvg-name="ESPNews HD US" tvg-logo="" group-title="USA",ESPNews HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30066/index.m3u
-#EXTINF:-1 tvg-id="ESPNU HD US" tvg-name="ESPNU HD US" tvg-logo="" group-title="USA",ESPNU HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30067/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Arizona HD US" tvg-name="FanDuel Sports Arizona HD US" tvg-logo="" group-title="USA",FanDuel Sports Arizona HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31001/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Detroit HD US" tvg-name="FanDuel Sports Detroit HD US" tvg-logo="" group-title="USA",FanDuel Sports Detroit HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31003/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Detroit Plus HD US" tvg-name="FanDuel Sports Detroit Plus HD US" tvg-logo="" group-title="USA",FanDuel Sports Detroit Plus HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31004/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Florida HD US" tvg-name="FanDuel Sports Florida HD US" tvg-logo="" group-title="USA",FanDuel Sports Florida HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31005/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Florida Plus HD US" tvg-name="FanDuel Sports Florida Plus HD US" tvg-logo="" group-title="USA",FanDuel Sports Florida Plus HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31006/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Great Lakes HD US" tvg-name="FanDuel Sports Great Lakes HD US" tvg-logo="" group-title="USA",FanDuel Sports Great Lakes HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31007/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports New Orleans HD US" tvg-name="FanDuel Sports New Orleans HD US" tvg-logo="" group-title="USA",FanDuel Sports New Orleans HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31015/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports North HD US" tvg-name="FanDuel Sports North HD US" tvg-logo="" group-title="USA",FanDuel Sports North HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31017/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Ohio Cincinnati HD US" tvg-name="FanDuel Sports Ohio Cincinnati HD US" tvg-logo="" group-title="USA",FanDuel Sports Ohio Cincinnati HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31022/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Ohio Cleveland HD US" tvg-name="FanDuel Sports Ohio Cleveland HD US" tvg-logo="" group-title="USA",FanDuel Sports Ohio Cleveland HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31030/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Ohio HD US" tvg-name="FanDuel Sports Ohio HD US" tvg-logo="" group-title="USA",FanDuel Sports Ohio HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31019/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Oklahoma HD US" tvg-name="FanDuel Sports Oklahoma HD US" tvg-logo="" group-title="USA",FanDuel Sports Oklahoma HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31008/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports San Diego HD US" tvg-name="FanDuel Sports San Diego HD US" tvg-logo="" group-title="USA",FanDuel Sports San Diego HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31032/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports SoCal HD US" tvg-name="FanDuel Sports SoCal HD US" tvg-logo="" group-title="USA",FanDuel Sports SoCal HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31034/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Southeast HD US" tvg-name="FanDuel Sports Southeast HD US" tvg-logo="" group-title="USA",FanDuel Sports Southeast HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31035/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Southwest HD US" tvg-name="FanDuel Sports Southwest HD US" tvg-logo="" group-title="USA",FanDuel Sports Southwest HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31036/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Southwest Plus HD US" tvg-name="FanDuel Sports Southwest Plus HD US" tvg-logo="" group-title="USA",FanDuel Sports Southwest Plus HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31039/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Southwest US" tvg-name="FanDuel Sports Southwest US" tvg-logo="" group-title="USA",FanDuel Sports Southwest US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31013/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Sun HD US" tvg-name="FanDuel Sports Sun HD US" tvg-logo="" group-title="USA",FanDuel Sports Sun HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31041/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports West HD US" tvg-name="FanDuel Sports West HD US" tvg-logo="" group-title="USA",FanDuel Sports West HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31043/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports West Plus HD US" tvg-name="FanDuel Sports West Plus HD US" tvg-logo="" group-title="USA",FanDuel Sports West Plus HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31044/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Wisconsin HD US" tvg-name="FanDuel Sports Wisconsin HD US" tvg-logo="" group-title="USA",FanDuel Sports Wisconsin HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31046/index.m3u
-#EXTINF:-1 tvg-id="FanDuel Sports Wisconsin Plus HD US" tvg-name="FanDuel Sports Wisconsin Plus HD US" tvg-logo="" group-title="USA",FanDuel Sports Wisconsin Plus HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31047/index.m3u
-#EXTINF:-1 tvg-id="FanDuel TV HD US" tvg-name="FanDuel TV HD US" tvg-logo="" group-title="USA",FanDuel TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31110/index.m3u
-#EXTINF:-1 tvg-id="Flix HD US" tvg-name="Flix HD US" tvg-logo="" group-title="USA",Flix HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30071/index.m3u
-#EXTINF:-1 tvg-id="Food Network HD US" tvg-name="Food Network HD US" tvg-logo="" group-title="USA",Food Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1107/index.m3u
-#EXTINF:-1 tvg-id="Fox 5 WNYW HD US" tvg-name="Fox 5 WNYW HD US" tvg-logo="" group-title="USA",Fox 5 WNYW HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1086/index.m3u
-#EXTINF:-1 tvg-id="Fox Deportes HD US" tvg-name="Fox Deportes HD US" tvg-logo="" group-title="USA",Fox Deportes HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30075/index.m3u
-#EXTINF:-1 tvg-id="Fox News Channel HD US" tvg-name="Fox News Channel HD US" tvg-logo="" group-title="USA",Fox News Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30076/index.m3u
-#EXTINF:-1 tvg-id="Fox Sports 1 HD US" tvg-name="Fox Sports 1 HD US" tvg-logo="" group-title="USA",Fox Sports 1 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7322/index.m3u
-#EXTINF:-1 tvg-id="Fox Sports 2 HD US" tvg-name="Fox Sports 2 HD US" tvg-logo="" group-title="USA",Fox Sports 2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7323/index.m3u
-#EXTINF:-1 tvg-id="Fox Sports 2 US" tvg-name="Fox Sports 2 US" tvg-logo="" group-title="USA",Fox Sports 2 US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30078/index.m3u
-#EXTINF:-1 tvg-id="Fuse HD US" tvg-name="Fuse HD US" tvg-logo="" group-title="USA",Fuse HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30081/index.m3u
-#EXTINF:-1 tvg-id="FX HD US" tvg-name="FX HD US" tvg-logo="" group-title="USA",FX HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30082/index.m3u
-#EXTINF:-1 tvg-id="FXM Retro HD US" tvg-name="FXM Retro HD US" tvg-logo="" group-title="USA",FXM Retro HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1106/index.m3u
-#EXTINF:-1 tvg-id="FYI HD US" tvg-name="FYI HD US" tvg-logo="" group-title="USA",FYI HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30085/index.m3u
-#EXTINF:-1 tvg-id="Game Show Network HD US" tvg-name="Game Show Network HD US" tvg-logo="" group-title="USA",Game Show Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30091/index.m3u
-#EXTINF:-1 tvg-id="Golf Channel HD US" tvg-name="Golf Channel HD US" tvg-logo="" group-title="USA",Golf Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30089/index.m3u
-#EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries HD" tvg-name="Hallmark Movies &amp; Mysteries HD" tvg-logo="" group-title="USA",Hallmark Movies &amp; Mysteries HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1075/index.m3u
-#EXTINF:-1 tvg-id="HDNet Movies HD US" tvg-name="HDNet Movies HD US" tvg-logo="" group-title="USA",HDNet Movies HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30102/index.m3u
-#EXTINF:-1 tvg-id="HGTV FHD" tvg-name="HGTV FHD" tvg-logo="" group-title="USA",HGTV FHD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1084/index.m3u
-#EXTINF:-1 tvg-id="History HD US" tvg-name="History HD US" tvg-logo="" group-title="USA",History HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30105/index.m3u
-#EXTINF:-1 tvg-id="HSN HD US" tvg-name="HSN HD US" tvg-logo="" group-title="USA",HSN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30109/index.m3u
-#EXTINF:-1 tvg-id="HSN2 HD US" tvg-name="HSN2 HD US" tvg-logo="" group-title="USA",HSN2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30110/index.m3u
-#EXTINF:-1 tvg-id="i24 News HD US" tvg-name="i24 News HD US" tvg-logo="" group-title="USA",i24 News HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30111/index.m3u
-#EXTINF:-1 tvg-id="ION Mystery HD US" tvg-name="ION Mystery HD US" tvg-logo="" group-title="USA",ION Mystery HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31031/index.m3u
-#EXTINF:-1 tvg-id="ION Television HD US" tvg-name="ION Television HD US" tvg-logo="" group-title="USA",ION Television HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/901/index.m3u
-#EXTINF:-1 tvg-id="Jewelry TV HD US" tvg-name="Jewelry TV HD US" tvg-logo="" group-title="USA",Jewelry TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30119/index.m3u
-#EXTINF:-1 tvg-id="Justice Central.TV HD US" tvg-name="Justice Central.TV HD US" tvg-logo="" group-title="USA",Justice Central.TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30120/index.m3u
-#EXTINF:-1 tvg-id="Lifetime HD US" tvg-name="Lifetime HD US" tvg-logo="" group-title="USA",Lifetime HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30122/index.m3u
-#EXTINF:-1 tvg-id="LMN HD US" tvg-name="LMN HD US" tvg-logo="" group-title="USA",LMN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30124/index.m3u
-#EXTINF:-1 tvg-id="Logo HD US" tvg-name="Logo HD US" tvg-logo="" group-title="USA",Logo HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30126/index.m3u
-#EXTINF:-1 tvg-id="MAVTV HD" tvg-name="MAVTV HD" tvg-logo="" group-title="USA",MAVTV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1074/index.m3u
-#EXTINF:-1 tvg-id="MeTV HD US" tvg-name="MeTV HD US" tvg-logo="" group-title="USA",MeTV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1096/index.m3u
-#EXTINF:-1 tvg-id="Monumental Sports Network HD US" tvg-name="Monumental Sports Network HD US" tvg-logo="" group-title="USA",Monumental Sports Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31056/index.m3u
-#EXTINF:-1 tvg-id="MoreMax HD US" tvg-name="MoreMax HD US" tvg-logo="" group-title="USA",MoreMax HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6152/index.m3u
-#EXTINF:-1 tvg-id="MotorTrend HD US" tvg-name="MotorTrend HD US" tvg-logo="" group-title="USA",MotorTrend HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1091/index.m3u
-#EXTINF:-1 tvg-id="MovieMax HD US" tvg-name="MovieMax HD US" tvg-logo="" group-title="USA",MovieMax HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6155/index.m3u
-#EXTINF:-1 tvg-id="Movieplex HD US" tvg-name="Movieplex HD US" tvg-logo="" group-title="USA",Movieplex HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30142/index.m3u
-#EXTINF:-1 tvg-id="MSG 2 HD US" tvg-name="MSG 2 HD US" tvg-logo="" group-title="USA",MSG 2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7326/index.m3u
-#EXTINF:-1 tvg-id="MSG HD US" tvg-name="MSG HD US" tvg-logo="" group-title="USA",MSG HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7325/index.m3u
-#EXTINF:-1 tvg-id="MTV2 HD US" tvg-name="MTV2 HD US" tvg-logo="" group-title="USA",MTV2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31002/index.m3u
-#EXTINF:-1 tvg-id="MY9 New Jersey HD US" tvg-name="MY9 New Jersey HD US" tvg-logo="" group-title="USA",MY9 New Jersey HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1088/index.m3u
-#EXTINF:-1 tvg-id="NBA TV HD US" tvg-name="NBA TV HD US" tvg-logo="" group-title="USA",NBA TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7226/index.m3u
-#EXTINF:-1 tvg-id="NBC New York HD US" tvg-name="NBC New York HD US" tvg-logo="" group-title="USA",NBC New York HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1081/index.m3u
-#EXTINF:-1 tvg-id="NBC Sports Network HD US" tvg-name="NBC Sports Network HD US" tvg-logo="" group-title="USA",NBC Sports Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7327/index.m3u
-#EXTINF:-1 tvg-id="NESN HD US" tvg-name="NESN HD US" tvg-logo="" group-title="USA",NESN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/11109/index.m3u
-#EXTINF:-1 tvg-id="New Jersey PBS HD US" tvg-name="New Jersey PBS HD US" tvg-logo="" group-title="USA",New Jersey PBS HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1095/index.m3u
-#EXTINF:-1 tvg-id="Newsmax TV HD US" tvg-name="Newsmax TV HD US" tvg-logo="" group-title="USA",Newsmax TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31009/index.m3u
-#EXTINF:-1 tvg-id="NFL Network US" tvg-name="NFL Network US" tvg-logo="" group-title="USA",NFL Network US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31011/index.m3u
-#EXTINF:-1 tvg-id="NFL RedZone HD US" tvg-name="NFL RedZone HD US" tvg-logo="" group-title="USA",NFL RedZone HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31012/index.m3u
-#EXTINF:-1 tvg-id="NHL Network HD US" tvg-name="NHL Network HD US" tvg-logo="" group-title="USA",NHL Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7328/index.m3u
-#EXTINF:-1 tvg-id="NHL Network US" tvg-name="NHL Network US" tvg-logo="" group-title="USA",NHL Network US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7225/index.m3u
-#EXTINF:-1 tvg-id="Nick Jr. HD US" tvg-name="Nick Jr. HD US" tvg-logo="" group-title="USA",Nick Jr. HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31014/index.m3u
-#EXTINF:-1 tvg-id="NickToons HD US" tvg-name="NickToons HD US" tvg-logo="" group-title="USA",NickToons HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31016/index.m3u
-#EXTINF:-1 tvg-id="NYCTV Life HD US" tvg-name="NYCTV Life HD US" tvg-logo="" group-title="USA",NYCTV Life HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/902/index.m3u
-#EXTINF:-1 tvg-id="Outdoor Channel US" tvg-name="Outdoor Channel US" tvg-logo="" group-title="USA",Outdoor Channel US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31018/index.m3u
-#EXTINF:-1 tvg-id="OuterMax HD US" tvg-name="OuterMax HD US" tvg-logo="" group-title="USA",OuterMax HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6154/index.m3u
-#EXTINF:-1 tvg-id="Ovation TV HD US" tvg-name="Ovation TV HD US" tvg-logo="" group-title="USA",Ovation TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31020/index.m3u
-#EXTINF:-1 tvg-id="OWN HD US" tvg-name="OWN HD US" tvg-logo="" group-title="USA",OWN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31021/index.m3u
-#EXTINF:-1 tvg-id="Paramount Network HD US" tvg-name="Paramount Network HD US" tvg-logo="" group-title="USA",Paramount Network HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31029/index.m3u
-#EXTINF:-1 tvg-id="Pets.TV HD US" tvg-name="Pets.TV HD US" tvg-logo="" group-title="USA",Pets.TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31033/index.m3u
-#EXTINF:-1 tvg-id="QVC HD US" tvg-name="QVC HD US" tvg-logo="" group-title="USA",QVC HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31037/index.m3u
-#EXTINF:-1 tvg-id="QVC2 HD US" tvg-name="QVC2 HD US" tvg-logo="" group-title="USA",QVC2 HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31038/index.m3u
-#EXTINF:-1 tvg-id="Recipe.TV HD US" tvg-name="Recipe.TV HD US" tvg-logo="" group-title="USA",Recipe.TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31040/index.m3u
-#EXTINF:-1 tvg-id="Retroplex HD US" tvg-name="Retroplex HD US" tvg-logo="" group-title="USA",Retroplex HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31042/index.m3u
-#EXTINF:-1 tvg-id="Smithsonian Channel HD US" tvg-name="Smithsonian Channel HD US" tvg-logo="" group-title="USA",Smithsonian Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31061/index.m3u
-#EXTINF:-1 tvg-id="Spectrum News 1 NY HD US" tvg-name="Spectrum News 1 NY HD US" tvg-logo="" group-title="USA",Spectrum News 1 NY HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/30148/index.m3u
-#EXTINF:-1 tvg-id="Spectrum SportsNet HD US" tvg-name="Spectrum SportsNet HD US" tvg-logo="" group-title="USA",Spectrum SportsNet HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/11108/index.m3u
-#EXTINF:-1 tvg-id="SportsNet New York HD US" tvg-name="SportsNet New York HD US" tvg-logo="" group-title="USA",SportsNet New York HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/11107/index.m3u
-#EXTINF:-1 tvg-id="TBS HD US" tvg-name="TBS HD US" tvg-logo="" group-title="USA",TBS HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31083/index.m3u
-#EXTINF:-1 tvg-id="TBS US" tvg-name="TBS US" tvg-logo="" group-title="USA",TBS US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1103/index.m3u
-#EXTINF:-1 tvg-id="TCM HD US" tvg-name="TCM HD US" tvg-logo="" group-title="USA",TCM HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31084/index.m3u
-#EXTINF:-1 tvg-id="TeenNick HD US" tvg-name="TeenNick HD US" tvg-logo="" group-title="USA",TeenNick HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31085/index.m3u
-#EXTINF:-1 tvg-id="Telemundo HD US" tvg-name="Telemundo HD US" tvg-logo="" group-title="USA",Telemundo HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1080/index.m3u
-#EXTINF:-1 tvg-id="Tennis Channel FHD US" tvg-name="Tennis Channel FHD US" tvg-logo="" group-title="USA",Tennis Channel FHD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6096/index.m3u
-#EXTINF:-1 tvg-id="Tennis Channel HD US" tvg-name="Tennis Channel HD US" tvg-logo="" group-title="USA",Tennis Channel HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31089/index.m3u
-#EXTINF:-1 tvg-id="Thirteen HD US" tvg-name="Thirteen HD US" tvg-logo="" group-title="USA",Thirteen HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1093/index.m3u
-#EXTINF:-1 tvg-id="ThrillerMax HD US" tvg-name="ThrillerMax HD US" tvg-logo="" group-title="USA",ThrillerMax HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6153/index.m3u
-#EXTINF:-1 tvg-id="TLC HD US" tvg-name="TLC HD US" tvg-logo="" group-title="USA",TLC HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1105/index.m3u
-#EXTINF:-1 tvg-id="TLC US" tvg-name="TLC US" tvg-logo="" group-title="USA",TLC US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31098/index.m3u
-#EXTINF:-1 tvg-id="TNT HD US" tvg-name="TNT HD US" tvg-logo="" group-title="USA",TNT HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1102/index.m3u
-#EXTINF:-1 tvg-id="truTV HD US" tvg-name="truTV HD US" tvg-logo="" group-title="USA",truTV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1085/index.m3u
-#EXTINF:-1 tvg-id="TUDN HD US" tvg-name="TUDN HD US" tvg-logo="" group-title="USA",TUDN HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31103/index.m3u
-#EXTINF:-1 tvg-id="UniMás HD US" tvg-name="UniMás HD US" tvg-logo="" group-title="USA",UniMás HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1100/index.m3u
-#EXTINF:-1 tvg-id="Universal Kids HD US" tvg-name="Universal Kids HD US" tvg-logo="" group-title="USA",Universal Kids HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31120/index.m3u
-#EXTINF:-1 tvg-id="Universo HD US" tvg-name="Universo HD US" tvg-logo="" group-title="USA",Universo HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31121/index.m3u
-#EXTINF:-1 tvg-id="Univision HD US" tvg-name="Univision HD US" tvg-logo="" group-title="USA",Univision HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1099/index.m3u
-#EXTINF:-1 tvg-id="Up TV HD US" tvg-name="Up TV HD US" tvg-logo="" group-title="USA",Up TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31123/index.m3u
-#EXTINF:-1 tvg-id="USA HD US" tvg-name="USA HD US" tvg-logo="" group-title="USA",USA HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1101/index.m3u
-#EXTINF:-1 tvg-id="USA US" tvg-name="USA US" tvg-logo="" group-title="USA",USA US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31124/index.m3u
-#EXTINF:-1 tvg-id="Vice HD US" tvg-name="Vice HD US" tvg-logo="" group-title="USA",Vice HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31126/index.m3u
-#EXTINF:-1 tvg-id="Willow HD US" tvg-name="Willow HD US" tvg-logo="" group-title="USA",Willow HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31131/index.m3u
-#EXTINF:-1 tvg-id="WLIW HD US" tvg-name="WLIW HD US" tvg-logo="" group-title="USA",WLIW HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1094/index.m3u
-#EXTINF:-1 tvg-id="WMBC-TV HD US" tvg-name="WMBC-TV HD US" tvg-logo="" group-title="USA",WMBC-TV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1098/index.m3u
-#EXTINF:-1 tvg-id="WPIX HD US" tvg-name="WPIX HD US" tvg-logo="" group-title="USA",WPIX HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1090/index.m3u
-#EXTINF:-1 tvg-id="A&amp;E CA" tvg-name="A&E CA" tvg-logo="" group-title="CANADA",A&E CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6419/index.m3u
-#EXTINF:-1 tvg-id="ABC Buffalo CA" tvg-name="ABC Buffalo CA" tvg-logo="" group-title="CANADA",ABC Buffalo CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6507/index.m3u
-#EXTINF:-1 tvg-id="ABC Spark CA" tvg-name="ABC Spark CA" tvg-logo="" group-title="CANADA",ABC Spark CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6466/index.m3u
-#EXTINF:-1 tvg-id="Adult Swim HD CA" tvg-name="Adult Swim HD CA" tvg-logo="" group-title="CANADA",Adult Swim HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6540/index.m3u
-#EXTINF:-1 tvg-id="AMC CA" tvg-name="AMC CA" tvg-logo="" group-title="CANADA",AMC CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6510/index.m3u
-#EXTINF:-1 tvg-id="BNN Bloomberg HD CA" tvg-name="BNN Bloomberg HD CA" tvg-logo="" group-title="CANADA",BNN Bloomberg HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6465/index.m3u
-#EXTINF:-1 tvg-id="Cartoon Network CA" tvg-name="Cartoon Network CA" tvg-logo="" group-title="CANADA",Cartoon Network CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6508/index.m3u
-#EXTINF:-1 tvg-id="CBC News Network HD CA" tvg-name="CBC News Network HD CA" tvg-logo="" group-title="CANADA",CBC News Network HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6442/index.m3u
-#EXTINF:-1 tvg-id="CBC St. John&#039;s" tvg-name="CBC St. John's" tvg-logo="" group-title="CANADA",CBC St. John's
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6422/index.m3u
-#EXTINF:-1 tvg-id="CBC Toronto CA" tvg-name="CBC Toronto CA" tvg-logo="" group-title="CANADA",CBC Toronto CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6497/index.m3u
-#EXTINF:-1 tvg-id="CBC Toronto HD CA" tvg-name="CBC Toronto HD CA" tvg-logo="" group-title="CANADA",CBC Toronto HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6513/index.m3u
-#EXTINF:-1 tvg-id="CBS Buffalo HD CA" tvg-name="CBS Buffalo HD CA" tvg-logo="" group-title="CANADA",CBS Buffalo HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6534/index.m3u
-#EXTINF:-1 tvg-id="CHCH HD CA" tvg-name="CHCH HD CA" tvg-logo="" group-title="CANADA",CHCH HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6432/index.m3u
-#EXTINF:-1 tvg-id="City TV Toronto HD CA" tvg-name="City TV Toronto HD CA" tvg-logo="" group-title="CANADA",City TV Toronto HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6429/index.m3u
-#EXTINF:-1 tvg-id="CMT Canada CA" tvg-name="CMT Canada CA" tvg-logo="" group-title="CANADA",CMT Canada CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6448/index.m3u
-#EXTINF:-1 tvg-id="CNBC Canada CA" tvg-name="CNBC Canada CA" tvg-logo="" group-title="CANADA",CNBC Canada CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6482/index.m3u
-#EXTINF:-1 tvg-id="CNN CA" tvg-name="CNN CA" tvg-logo="" group-title="CANADA",CNN CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6499/index.m3u
-#EXTINF:-1 tvg-id="CNN HD CA" tvg-name="CNN HD CA" tvg-logo="" group-title="CANADA",CNN HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6538/index.m3u
-#EXTINF:-1 tvg-id="CP 24 CA" tvg-name="CP 24 CA" tvg-logo="" group-title="CANADA",CP 24 CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6501/index.m3u
-#EXTINF:-1 tvg-id="CPAC English CA" tvg-name="CPAC English CA" tvg-logo="" group-title="CANADA",CPAC English CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6494/index.m3u
-#EXTINF:-1 tvg-id="CPAC French CA" tvg-name="CPAC French CA" tvg-logo="" group-title="CANADA",CPAC French CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6523/index.m3u
-#EXTINF:-1 tvg-id="Crime + Investigation CA" tvg-name="Crime + Investigation CA" tvg-logo="" group-title="CANADA",Crime + Investigation CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6506/index.m3u
-#EXTINF:-1 tvg-id="CTV Comedy HD CA" tvg-name="CTV Comedy HD CA" tvg-logo="" group-title="CANADA",CTV Comedy HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6454/index.m3u
-#EXTINF:-1 tvg-id="CTV Drama HD CA" tvg-name="CTV Drama HD CA" tvg-logo="" group-title="CANADA",CTV Drama HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6450/index.m3u
-#EXTINF:-1 tvg-id="CTV News Channel HD CA" tvg-name="CTV News Channel HD CA" tvg-logo="" group-title="CANADA",CTV News Channel HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6468/index.m3u
-#EXTINF:-1 tvg-id="CTV SCI-FI HD CA" tvg-name="CTV SCI-FI HD CA" tvg-logo="" group-title="CANADA",CTV SCI-FI HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6459/index.m3u
-#EXTINF:-1 tvg-id="CTV Toronto CA" tvg-name="CTV Toronto CA" tvg-logo="" group-title="CANADA",CTV Toronto CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6496/index.m3u
-#EXTINF:-1 tvg-id="CTV Two Atlantic CA" tvg-name="CTV Two Atlantic CA" tvg-logo="" group-title="CANADA",CTV Two Atlantic CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6423/index.m3u
-#EXTINF:-1 tvg-id="Discovery Channel HD CA" tvg-name="Discovery Channel HD CA" tvg-logo="" group-title="CANADA",Discovery Channel HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6452/index.m3u
-#EXTINF:-1 tvg-id="Disney Channel HD CA" tvg-name="Disney Channel HD CA" tvg-logo="" group-title="CANADA",Disney Channel HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6490/index.m3u
-#EXTINF:-1 tvg-id="Disney Jr. CA" tvg-name="Disney Jr. CA" tvg-logo="" group-title="CANADA",Disney Jr. CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6489/index.m3u
-#EXTINF:-1 tvg-id="Disney XD CA" tvg-name="Disney XD CA" tvg-logo="" group-title="CANADA",Disney XD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6503/index.m3u
-#EXTINF:-1 tvg-id="DIY Network CA" tvg-name="DIY Network CA" tvg-logo="" group-title="CANADA",DIY Network CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6488/index.m3u
-#EXTINF:-1 tvg-id="DTour HD CA" tvg-name="DTour HD CA" tvg-logo="" group-title="CANADA",DTour HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6463/index.m3u
-#EXTINF:-1 tvg-id="E! HD CA" tvg-name="E! HD CA" tvg-logo="" group-title="CANADA",E! HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6469/index.m3u
-#EXTINF:-1 tvg-id="Family HD CA" tvg-name="Family HD CA" tvg-logo="" group-title="CANADA",Family HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6460/index.m3u
-#EXTINF:-1 tvg-id="Family Jr. HD CA" tvg-name="Family Jr. HD CA" tvg-logo="" group-title="CANADA",Family Jr. HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6474/index.m3u
-#EXTINF:-1 tvg-id="Food Network HD CA" tvg-name="Food Network HD CA" tvg-logo="" group-title="CANADA",Food Network HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6464/index.m3u
-#EXTINF:-1 tvg-id="FOX Buffalo CA" tvg-name="FOX Buffalo CA" tvg-logo="" group-title="CANADA",FOX Buffalo CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6519/index.m3u
-#EXTINF:-1 tvg-id="FOX Buffalo HD CA" tvg-name="FOX Buffalo HD CA" tvg-logo="" group-title="CANADA",FOX Buffalo HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6537/index.m3u
-#EXTINF:-1 tvg-id="FX HD CA" tvg-name="FX HD CA" tvg-logo="" group-title="CANADA",FX HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6435/index.m3u
-#EXTINF:-1 tvg-id="FXX HDTV CA" tvg-name="FXX HDTV CA" tvg-logo="" group-title="CANADA",FXX HDTV CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6470/index.m3u
-#EXTINF:-1 tvg-id="Game TV CA" tvg-name="Game TV CA" tvg-logo="" group-title="CANADA",Game TV CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6476/index.m3u
-#EXTINF:-1 tvg-id="Global Toronto HD CA" tvg-name="Global Toronto HD CA" tvg-logo="" group-title="CANADA",Global Toronto HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6427/index.m3u
-#EXTINF:-1 tvg-id="Golf Channel HD CA" tvg-name="Golf Channel HD CA" tvg-logo="" group-title="CANADA",Golf Channel HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6481/index.m3u
-#EXTINF:-1 tvg-id="Headline News HD CA" tvg-name="Headline News HD CA" tvg-logo="" group-title="CANADA",Headline News HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6483/index.m3u
-#EXTINF:-1 tvg-id="HGTV Canada CA" tvg-name="HGTV Canada CA" tvg-logo="" group-title="CANADA",HGTV Canada CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6525/index.m3u
-#EXTINF:-1 tvg-id="HGTV HD CA" tvg-name="HGTV HD CA" tvg-logo="" group-title="CANADA",HGTV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6456/index.m3u
-#EXTINF:-1 tvg-id="History HD CA" tvg-name="History HD CA" tvg-logo="" group-title="CANADA",History HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6453/index.m3u
-#EXTINF:-1 tvg-id="History Television CA" tvg-name="History Television CA" tvg-logo="" group-title="CANADA",History Television CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6520/index.m3u
-#EXTINF:-1 tvg-id="HLN CA" tvg-name="HLN CA" tvg-logo="" group-title="CANADA",HLN CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6500/index.m3u
-#EXTINF:-1 tvg-id="ICI Radio-Canada Télé CA" tvg-name="ICI Radio-Canada Télé CA" tvg-logo="" group-title="CANADA",ICI Radio-Canada Télé CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6515/index.m3u
-#EXTINF:-1 tvg-id="ICI RDI CA" tvg-name="ICI RDI CA" tvg-logo="" group-title="CANADA",ICI RDI CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6530/index.m3u
-#EXTINF:-1 tvg-id="ICI RDI HD CA" tvg-name="ICI RDI HD CA" tvg-logo="" group-title="CANADA",ICI RDI HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6425/index.m3u
-#EXTINF:-1 tvg-id="Lifetime HD CA" tvg-name="Lifetime HD CA" tvg-logo="" group-title="CANADA",Lifetime HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6484/index.m3u
-#EXTINF:-1 tvg-id="Makeful CA" tvg-name="Makeful CA" tvg-logo="" group-title="CANADA",Makeful CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6495/index.m3u
-#EXTINF:-1 tvg-id="MLB Network HD CA" tvg-name="MLB Network HD CA" tvg-logo="" group-title="CANADA",MLB Network HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6512/index.m3u
-#EXTINF:-1 tvg-id="MovieTime HD CA" tvg-name="MovieTime HD CA" tvg-logo="" group-title="CANADA",MovieTime HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6486/index.m3u
-#EXTINF:-1 tvg-id="MTV HD CA" tvg-name="MTV HD CA" tvg-logo="" group-title="CANADA",MTV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6461/index.m3u
-#EXTINF:-1 tvg-id="NBA TV Canada CA" tvg-name="NBA TV Canada CA" tvg-logo="" group-title="CANADA",NBA TV Canada CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6491/index.m3u
-#EXTINF:-1 tvg-id="NBC Buffalo CA" tvg-name="NBC Buffalo CA" tvg-logo="" group-title="CANADA",NBC Buffalo CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6505/index.m3u
-#EXTINF:-1 tvg-id="NBC Buffalo HD CA" tvg-name="NBC Buffalo HD CA" tvg-logo="" group-title="CANADA",NBC Buffalo HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6535/index.m3u
-#EXTINF:-1 tvg-id="NFL Network CA" tvg-name="NFL Network CA" tvg-logo="" group-title="CANADA",NFL Network CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6424/index.m3u
-#EXTINF:-1 tvg-id="NFL Network HD CA" tvg-name="NFL Network HD CA" tvg-logo="" group-title="CANADA",NFL Network HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6480/index.m3u
-#EXTINF:-1 tvg-id="Nickelodeon CA" tvg-name="Nickelodeon CA" tvg-logo="" group-title="CANADA",Nickelodeon CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6504/index.m3u
-#EXTINF:-1 tvg-id="OLN HD CA" tvg-name="OLN HD CA" tvg-logo="" group-title="CANADA",OLN HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6447/index.m3u
-#EXTINF:-1 tvg-id="OMNI.1 HD CA" tvg-name="OMNI.1 HD CA" tvg-logo="" group-title="CANADA",OMNI.1 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6428/index.m3u
-#EXTINF:-1 tvg-id="OMNI.2 HD CA" tvg-name="OMNI.2 HD CA" tvg-logo="" group-title="CANADA",OMNI.2 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6434/index.m3u
-#EXTINF:-1 tvg-id="OWN HD CA" tvg-name="OWN HD CA" tvg-logo="" group-title="CANADA",OWN HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6475/index.m3u
-#EXTINF:-1 tvg-id="PBS Buffalo CA" tvg-name="PBS Buffalo CA" tvg-logo="" group-title="CANADA",PBS Buffalo CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6518/index.m3u
-#EXTINF:-1 tvg-id="Peachtree CA" tvg-name="Peachtree CA" tvg-logo="" group-title="CANADA",Peachtree CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6527/index.m3u
-#EXTINF:-1 tvg-id="Peachtree TV HD CA" tvg-name="Peachtree TV HD CA" tvg-logo="" group-title="CANADA",Peachtree TV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6457/index.m3u
-#EXTINF:-1 tvg-id="Showcase CA" tvg-name="Showcase CA" tvg-logo="" group-title="CANADA",Showcase CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6526/index.m3u
-#EXTINF:-1 tvg-id="Showcase HD CA" tvg-name="Showcase HD CA" tvg-logo="" group-title="CANADA",Showcase HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6449/index.m3u
-#EXTINF:-1 tvg-id="Slice HD CA" tvg-name="Slice HD CA" tvg-logo="" group-title="CANADA",Slice HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6451/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet 360 HD CA" tvg-name="Sportsnet 360 HD CA" tvg-logo="" group-title="CANADA",Sportsnet 360 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6462/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet East HD CA" tvg-name="Sportsnet East HD CA" tvg-logo="" group-title="CANADA",Sportsnet East HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6477/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet ONE HD CA" tvg-name="Sportsnet ONE HD CA" tvg-logo="" group-title="CANADA",Sportsnet ONE HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6438/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet Ontario HD CA" tvg-name="Sportsnet Ontario HD CA" tvg-logo="" group-title="CANADA",Sportsnet Ontario HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6439/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet Pacific HD CA" tvg-name="Sportsnet Pacific HD CA" tvg-logo="" group-title="CANADA",Sportsnet Pacific HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6479/index.m3u
-#EXTINF:-1 tvg-id="Sportsnet West HD CA" tvg-name="Sportsnet West HD CA" tvg-logo="" group-title="CANADA",Sportsnet West HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6478/index.m3u
-#EXTINF:-1 tvg-id="TCTV2 CA" tvg-name="TCTV2 CA" tvg-logo="" group-title="CANADA",TCTV2 CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6437/index.m3u
-#EXTINF:-1 tvg-id="Teletoon HD CA" tvg-name="Teletoon HD CA" tvg-logo="" group-title="CANADA",Teletoon HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6455/index.m3u
-#EXTINF:-1 tvg-id="TFO HD CA" tvg-name="TFO HD CA" tvg-logo="" group-title="CANADA",TFO HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6433/index.m3u
-#EXTINF:-1 tvg-id="TLC CA" tvg-name="TLC CA" tvg-logo="" group-title="CANADA",TLC CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6524/index.m3u
-#EXTINF:-1 tvg-id="TLC HD CA" tvg-name="TLC HD CA" tvg-logo="" group-title="CANADA",TLC HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6446/index.m3u
-#EXTINF:-1 tvg-id="Treehouse HD CA" tvg-name="Treehouse HD CA" tvg-logo="" group-title="CANADA",Treehouse HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6471/index.m3u
-#EXTINF:-1 tvg-id="Treehouse TV CA" tvg-name="Treehouse TV CA" tvg-logo="" group-title="CANADA",Treehouse TV CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6502/index.m3u
-#EXTINF:-1 tvg-id="TSN 1 HD CA" tvg-name="TSN 1 HD CA" tvg-logo="" group-title="CANADA",TSN 1 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6521/index.m3u
-#EXTINF:-1 tvg-id="TSN 2 HD CA" tvg-name="TSN 2 HD CA" tvg-logo="" group-title="CANADA",TSN 2 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6492/index.m3u
-#EXTINF:-1 tvg-id="TSN 3 HD CA" tvg-name="TSN 3 HD CA" tvg-logo="" group-title="CANADA",TSN 3 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6522/index.m3u
-#EXTINF:-1 tvg-id="TSN 4 HD CA" tvg-name="TSN 4 HD CA" tvg-logo="" group-title="CANADA",TSN 4 HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6445/index.m3u
-#EXTINF:-1 tvg-id="Turner Classic Movies CA" tvg-name="Turner Classic Movies CA" tvg-logo="" group-title="CANADA",Turner Classic Movies CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6509/index.m3u
-#EXTINF:-1 tvg-id="Turner Classic Movies HD CA" tvg-name="Turner Classic Movies HD CA" tvg-logo="" group-title="CANADA",Turner Classic Movies HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6458/index.m3u
-#EXTINF:-1 tvg-id="TV Ontario HD CA" tvg-name="TV Ontario HD CA" tvg-logo="" group-title="CANADA",TV Ontario HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6426/index.m3u
-#EXTINF:-1 tvg-id="TV5 CA" tvg-name="TV5 CA" tvg-logo="" group-title="CANADA",TV5 CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6531/index.m3u
-#EXTINF:-1 tvg-id="TVA Montreal CA" tvg-name="TVA Montreal CA" tvg-logo="" group-title="CANADA",TVA Montreal CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6511/index.m3u
-#EXTINF:-1 tvg-id="Unis TV HD CA" tvg-name="Unis TV HD CA" tvg-logo="" group-title="CANADA",Unis TV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6532/index.m3u
-#EXTINF:-1 tvg-id="Vision TV CA" tvg-name="Vision TV CA" tvg-logo="" group-title="CANADA",Vision TV CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6467/index.m3u
-#EXTINF:-1 tvg-id="W Network HD CA" tvg-name="W Network HD CA" tvg-logo="" group-title="CANADA",W Network HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6443/index.m3u
-#EXTINF:-1 tvg-id="WNLO Buffalo CA" tvg-name="WNLO Buffalo CA" tvg-logo="" group-title="CANADA",WNLO Buffalo CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6517/index.m3u
-#EXTINF:-1 tvg-id="Yes TV HD CA" tvg-name="Yes TV HD CA" tvg-logo="" group-title="CANADA",Yes TV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6431/index.m3u
-#EXTINF:-1 tvg-id="YTV HD CA" tvg-name="YTV HD CA" tvg-logo="" group-title="CANADA",YTV HD CA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6441/index.m3u
-#EXTINF:-1 tvg-id="Eurosport 2 HD UK" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="UK",Eurosport 2 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6556/index.m3u
-#EXTINF:-1 tvg-id="Premier Sports 1 HD 50 UK" tvg-name="Premier Sports 1 HD 50 UK" tvg-logo="" group-title="UK",Premier Sports 1 HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2160/index.m3u
-#EXTINF:-1 tvg-id="Premier Sports 1 HD UK" tvg-name="Premier Sports 1 HD UK" tvg-logo="" group-title="UK",Premier Sports 1 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6555/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports+ HD UK" tvg-name="Sky Sports+ HD UK" tvg-logo="" group-title="UK",Sky Sports+ HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9248/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Action HD 50 UK" tvg-name="Sky Sports Action HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Action HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9155/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Action HD UK" tvg-name="Sky Sports Action HD UK" tvg-logo="" group-title="UK",Sky Sports Action HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7340/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Cricket HD 50 UK" tvg-name="Sky Sports Cricket HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Cricket HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9258/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Cricket HD UK" tvg-name="Sky Sports Cricket HD UK" tvg-logo="" group-title="UK",Sky Sports Cricket HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7343/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports F1 HD 50 UK" tvg-name="Sky Sports F1 HD 50 UK" tvg-logo="" group-title="UK",Sky Sports F1 HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9283/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="" group-title="UK",Sky Sports F1 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7342/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" tvg-name="Sky Sports Football HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Football HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9289/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="Sky Sports Football HD UK" tvg-logo="" group-title="UK",Sky Sports Football HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7336/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Golf HD 50 UK" tvg-name="Sky Sports Golf HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Golf HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9293/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Golf HD UK" tvg-name="Sky Sports Golf HD UK" tvg-logo="" group-title="UK",Sky Sports Golf HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7344/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD 50 UK" tvg-name="Sky Sports Main Event HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Main Event HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9308/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" tvg-name="Sky Sports Main Event HD UK" tvg-logo="" group-title="UK",Sky Sports Main Event HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7337/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Mix HD 50 UK" tvg-name="Sky Sports Mix HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Mix HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9310/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="Sky Sports Mix HD UK" tvg-logo="" group-title="UK",Sky Sports Mix HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7339/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports News HD 50 UK" tvg-name="Sky Sports News HD 50 UK" tvg-logo="" group-title="UK",Sky Sports News HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9314/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD 50 UK" tvg-name="Sky Sports Premier League HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Premier League HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9334/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD UK" tvg-name="Sky Sports Premier League HD UK" tvg-logo="" group-title="UK",Sky Sports Premier League HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7335/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Racing HD 50 UK" tvg-name="Sky Sports Racing HD 50 UK" tvg-logo="" group-title="UK",Sky Sports Racing HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9335/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports Racing HD UK" tvg-name="Sky Sports Racing HD UK" tvg-logo="" group-title="UK",Sky Sports Racing HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7341/index.m3u
-#EXTINF:-1 tvg-id="TNT Sports 1 FHD UK" tvg-name="TNT Sports 1 FHD UK" tvg-logo="" group-title="UK",TNT Sports 1 FHD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2505/index.m3u
-#EXTINF:-1 tvg-id="TNT Sports 1 HD UK" tvg-name="TNT Sports 1 HD UK" tvg-logo="" group-title="UK",TNT Sports 1 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6566/index.m3u
-#EXTINF:-1 tvg-id="TNT Sports 2 HD UK" tvg-name="TNT Sports 2 HD UK" tvg-logo="" group-title="UK",TNT Sports 2 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2506/index.m3u
-#EXTINF:-1 tvg-id="TNT Sports 3 HD UK" tvg-name="TNT Sports 3 HD UK" tvg-logo="" group-title="UK",TNT Sports 3 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6564/index.m3u
-#EXTINF:-1 tvg-id="Sky History HD UK" tvg-name="Sky History HD UK" tvg-logo="" group-title="UK",Sky History HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16037/index.m3u
-#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe UK" tvg-logo="" group-title="UK",ITVBe UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19190/index.m3u
-#EXTINF:-1 tvg-id="ITV1 UK" tvg-name="ITV1 UK" tvg-logo="" group-title="UK",ITV1 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19185/index.m3u
-#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="" group-title="UK",ITV2 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19186/index.m3u
-#EXTINF:-1 tvg-id="ITV3 +1 UK" tvg-name="ITV3 +1 UK" tvg-logo="" group-title="UK",ITV3 +1 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19187/index.m3u
-#EXTINF:-1 tvg-id="ITV4 +1 UK" tvg-name="ITV4 +1 UK" tvg-logo="" group-title="UK",ITV4 +1 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19188/index.m3u
-#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="" group-title="UK",ITV4 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19189/index.m3u
-#EXTINF:-1 tvg-id="DAZN 1 HD PT" tvg-name="DAZN 1 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 1 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2531/index.m3u
-#EXTINF:-1 tvg-id="DAZN 2 HD PT" tvg-name="DAZN 2 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 2 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2532/index.m3u
-#EXTINF:-1 tvg-id="DAZN 3 HD PT" tvg-name="DAZN 3 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 3 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7062/index.m3u
-#EXTINF:-1 tvg-id="DAZN 4 HD PT" tvg-name="DAZN 4 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 4 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2534/index.m3u
-#EXTINF:-1 tvg-id="DAZN 5 HD PT" tvg-name="DAZN 5 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 5 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2535/index.m3u
-#EXTINF:-1 tvg-id="DAZN 6 PT" tvg-name="DAZN 6 PT" tvg-logo="" group-title="PORTUGAL",DAZN 6 PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2536/index.m3u
-#EXTINF:-1 tvg-id="DAZN 6 HD PT" tvg-name="DAZN 6 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 6 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7064/index.m3u
-#EXTINF:-1 tvg-id="MTV 00&#039;s PT" tvg-name="MTV 00&#039;s PT" tvg-logo="" group-title="PORTUGAL",MTV 00&#039;s PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19159/index.m3u
-#EXTINF:-1 tvg-id="Sport TV 1 HD PT" tvg-name="Sport TV 1 HD PT" tvg-logo="" group-title="PORTUGAL",Sport TV 1 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2525/index.m3u
-#EXTINF:-1 tvg-id="Sport TV 2 HD PT" tvg-name="Sport TV 2 HD PT" tvg-logo="" group-title="PORTUGAL",Sport TV 2 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2526/index.m3u
-#EXTINF:-1 tvg-id="Sport TV 3 HD PT" tvg-name="Sport TV 3 HD PT" tvg-logo="" group-title="PORTUGAL",Sport TV 3 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2527/index.m3u
-#EXTINF:-1 tvg-id="Sport TV 4 HD PT" tvg-name="Sport TV 4 HD PT" tvg-logo="" group-title="PORTUGAL",Sport TV 4 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2528/index.m3u
-#EXTINF:-1 tvg-id="Sport TV 5 HD PT" tvg-name="Sport TV 5 HD PT" tvg-logo="" group-title="PORTUGAL",Sport TV 5 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2529/index.m3u
-#EXTINF:-1 tvg-id="Sporting TV HD PT" tvg-name="Sporting TV HD PT" tvg-logo="" group-title="PORTUGAL",Sporting TV HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2530/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 1 FHD TR" tvg-name="beIN Sports 1 FHD TR" tvg-logo="" group-title="TURKEY",beIN Sports 1 FHD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6817/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 2 HD TR" tvg-name="beIN Sports 2 HD TR" tvg-logo="" group-title="TURKEY",beIN Sports 2 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6818/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 2 FHD TR" tvg-name="beIN Sports 2 FHD TR" tvg-logo="" group-title="TURKEY",beIN Sports 2 FHD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6819/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 3 HD TR" tvg-name="beIN Sports 3 HD TR" tvg-logo="" group-title="TURKEY",beIN Sports 3 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6820/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 3 FHD TR" tvg-name="beIN Sports 3 FHD TR" tvg-logo="" group-title="TURKEY",beIN Sports 3 FHD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6821/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 4 HD TR" tvg-name="beIN Sports 4 HD TR" tvg-logo="" group-title="TURKEY",beIN Sports 4 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6822/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports 4 FHD TR" tvg-name="beIN Sports 4 FHD TR" tvg-logo="" group-title="TURKEY",beIN Sports 4 FHD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6823/index.m3u
-#EXTINF:-1 tvg-id="beIN Sports Max 1 HD TR" tvg-name="beIN Sports Max 1 HD TR" tvg-logo="" group-title="TURKEY",beIN Sports Max 1 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6824/index.m3u
-#EXTINF:-1 tvg-id="S Sport HD TR" tvg-name="S Sport HD TR" tvg-logo="" group-title="TURKEY",S Sport HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6825/index.m3u
-#EXTINF:-1 tvg-id="Sports TV HD TR" tvg-name="Sports TV HD TR" tvg-logo="" group-title="TURKEY",Sports TV HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6828/index.m3u
-#EXTINF:-1 tvg-id="Eurosport 1 HD TR" tvg-name="Eurosport 1 HD TR" tvg-logo="" group-title="TURKEY",Eurosport 1 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6829/index.m3u
-#EXTINF:-1 tvg-id="Eurosport 2 HD TR" tvg-name="Eurosport 2 HD TR" tvg-logo="" group-title="TURKEY",Eurosport 2 HD TR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6830/index.m3u
-#EXTINF:-1 tvg-id="1HD Music Television HD" tvg-name="1HD Music Television HD" tvg-logo="" group-title="MUSIC",1HD Music Television HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17038/index.m3u
-#EXTINF:-1 tvg-id="1HD Music Television HD orig" tvg-name="1HD Music Television HD orig" tvg-logo="" group-title="MUSIC",1HD Music Television HD orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9001/index.m3u
-#EXTINF:-1 tvg-id="4Fun TV PL" tvg-name="4Fun TV PL" tvg-logo="" group-title="MUSIC",4Fun TV PL
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10069/index.m3u
-#EXTINF:-1 tvg-id="Baraza Music HD GR" tvg-name="Baraza Music HD GR" tvg-logo="" group-title="MUSIC",Baraza Music HD GR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10077/index.m3u
-#EXTINF:-1 tvg-id="BCU Russia 90s HD" tvg-name="BCU Russia 90s HD" tvg-logo="" group-title="MUSIC",BCU Russia 90s HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31658/index.m3u
-#EXTINF:-1 tvg-id="BOX Metall HD" tvg-name="BOX Metall HD" tvg-logo="" group-title="MUSIC",BOX Metall HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31651/index.m3u
-#EXTINF:-1 tvg-id="BOX Music 4K HDR" tvg-name="BOX Music 4K HDR" tvg-logo="" group-title="MUSIC",BOX Music 4K HDR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19282/index.m3u
-#EXTINF:-1 tvg-id="BOX Relax 4K" tvg-name="BOX Relax 4K" tvg-logo="" group-title="MUSIC",BOX Relax 4K
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19283/index.m3u
-#EXTINF:-1 tvg-id="BOX RU.RAP HD" tvg-name="BOX RU.RAP HD" tvg-logo="" group-title="MUSIC",BOX RU.RAP HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20171/index.m3u
-#EXTINF:-1 tvg-id="Bridge Classic orig" tvg-name="Bridge Classic orig" tvg-logo="" group-title="MUSIC",Bridge Classic orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9259/index.m3u
-#EXTINF:-1 tvg-id="Bridge Deluxe HD" tvg-name="Bridge Deluxe HD" tvg-logo="" group-title="MUSIC",Bridge Deluxe HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/236/index.m3u
-#EXTINF:-1 tvg-id="Bridge Deluxe HD orig" tvg-name="Bridge Deluxe HD orig" tvg-logo="" group-title="MUSIC",Bridge Deluxe HD orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9012/index.m3u
-#EXTINF:-1 tvg-id="Bridge Hits" tvg-name="Bridge Hits" tvg-logo="" group-title="MUSIC",Bridge Hits
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/711/index.m3u
-#EXTINF:-1 tvg-id="Bridge Hits HD" tvg-name="Bridge Hits HD" tvg-logo="" group-title="MUSIC",Bridge Hits HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19227/index.m3u
-#EXTINF:-1 tvg-id="Bridge Rock" tvg-name="Bridge Rock" tvg-logo="" group-title="MUSIC",Bridge Rock
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17043/index.m3u
-#EXTINF:-1 tvg-id="Bridge Rock HD" tvg-name="Bridge Rock HD" tvg-logo="" group-title="MUSIC",Bridge Rock HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19225/index.m3u
-#EXTINF:-1 tvg-id="Bridge TV" tvg-name="Bridge TV" tvg-logo="" group-title="MUSIC",Bridge TV
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/122/index.m3u
-#EXTINF:-1 tvg-id="Bridge TV orig" tvg-name="Bridge TV orig" tvg-logo="" group-title="MUSIC",Bridge TV orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9253/index.m3u
-#EXTINF:-1 tvg-id="CHD-TV RU Rock HD" tvg-name="CHD-TV RU Rock HD" tvg-logo="" group-title="MUSIC",CHD-TV RU Rock HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19394/index.m3u
-#EXTINF:-1 tvg-id="Classic Music" tvg-name="Classic Music" tvg-logo="" group-title="MUSIC",Classic Music
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14008/index.m3u
-#EXTINF:-1 tvg-id="Classic Music HD" tvg-name="Classic Music HD" tvg-logo="" group-title="MUSIC",Classic Music HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14009/index.m3u
-#EXTINF:-1 tvg-id="Clubbing TV HD" tvg-name="Clubbing TV HD" tvg-logo="" group-title="MUSIC",Clubbing TV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2395/index.m3u
-#EXTINF:-1 tvg-id="Deejay TV HD IT" tvg-name="Deejay TV HD IT" tvg-logo="" group-title="MUSIC",Deejay TV HD IT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10070/index.m3u
-#EXTINF:-1 tvg-id="Deluxe Music HD DE" tvg-name="Deluxe Music HD DE" tvg-logo="" group-title="MUSIC",Deluxe Music HD DE
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17047/index.m3u
-#EXTINF:-1 tvg-id="Deluxe Music HD DE orig" tvg-name="Deluxe Music HD DE orig" tvg-logo="" group-title="MUSIC",Deluxe Music HD DE orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14148/index.m3u
-#EXTINF:-1 tvg-id="Europa Plus TV" tvg-name="Europa Plus TV" tvg-logo="" group-title="MUSIC",Europa Plus TV
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/115/index.m3u
-#EXTINF:-1 tvg-id="Europa Plus TV HD" tvg-name="Europa Plus TV HD" tvg-logo="" group-title="MUSIC",Europa Plus TV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20029/index.m3u
-#EXTINF:-1 tvg-id="Europa Plus TV orig" tvg-name="Europa Plus TV orig" tvg-logo="" group-title="MUSIC",Europa Plus TV orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9257/index.m3u
-#EXTINF:-1 tvg-id="FRESH Concerts HD" tvg-name="FRESH Concerts HD" tvg-logo="" group-title="MUSIC",FRESH Concerts HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18091/index.m3u
-#EXTINF:-1 tvg-id="FRESH Dance HD" tvg-name="FRESH Dance HD" tvg-logo="" group-title="MUSIC",FRESH Dance HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18087/index.m3u
-#EXTINF:-1 tvg-id="FRESH Hits HD" tvg-name="FRESH Hits HD" tvg-logo="" group-title="MUSIC",FRESH Hits HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18084/index.m3u
-#EXTINF:-1 tvg-id="FRESH Lyrics HD" tvg-name="FRESH Lyrics HD" tvg-logo="" group-title="MUSIC",FRESH Lyrics HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18093/index.m3u
-#EXTINF:-1 tvg-id="FRESH Retro HD" tvg-name="FRESH Retro HD" tvg-logo="" group-title="MUSIC",FRESH Retro HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18092/index.m3u
-#EXTINF:-1 tvg-id="FRESH Rock Covers HD" tvg-name="FRESH Rock Covers HD" tvg-logo="" group-title="MUSIC",FRESH Rock Covers HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18089/index.m3u
-#EXTINF:-1 tvg-id="FRESH Rock HD" tvg-name="FRESH Rock HD" tvg-logo="" group-title="MUSIC",FRESH Rock HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18088/index.m3u
-#EXTINF:-1 tvg-id="FRESH Russian Hits HD" tvg-name="FRESH Russian Hits HD" tvg-logo="" group-title="MUSIC",FRESH Russian Hits HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18085/index.m3u
-#EXTINF:-1 tvg-id="FRESH Russian Rap HD" tvg-name="FRESH Russian Rap HD" tvg-logo="" group-title="MUSIC",FRESH Russian Rap HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18090/index.m3u
-#EXTINF:-1 tvg-id="FRESH Sad Music HD" tvg-name="FRESH Sad Music HD" tvg-logo="" group-title="MUSIC",FRESH Sad Music HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/18086/index.m3u
-#EXTINF:-1 tvg-id="iConcerts HD orig" tvg-name="iConcerts HD orig" tvg-logo="" group-title="MUSIC",iConcerts HD orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9056/index.m3u
-#EXTINF:-1 tvg-id="InRating TV HD UA" tvg-name="InRating TV HD UA" tvg-logo="" group-title="MUSIC",InRating TV HD UA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16020/index.m3u
-#EXTINF:-1 tvg-id="Kiss Kiss HD IT" tvg-name="Kiss Kiss HD IT" tvg-logo="" group-title="MUSIC",Kiss Kiss HD IT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16072/index.m3u
-#EXTINF:-1 tvg-id="Kiss Kiss Italia HD" tvg-name="Kiss Kiss Italia HD" tvg-logo="" group-title="MUSIC",Kiss Kiss Italia HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16073/index.m3u
-#EXTINF:-1 tvg-id="KLI Concert HD" tvg-name="KLI Concert HD" tvg-logo="" group-title="MUSIC",KLI Concert HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20049/index.m3u
-#EXTINF:-1 tvg-id="KLI Hit 90 HD" tvg-name="KLI Hit 90 HD" tvg-logo="" group-title="MUSIC",KLI Hit 90 HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16081/index.m3u
-#EXTINF:-1 tvg-id="KLI Music HD" tvg-name="KLI Music HD" tvg-logo="" group-title="MUSIC",KLI Music HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16079/index.m3u
-#EXTINF:-1 tvg-id="KroneHit TV HD AT" tvg-name="KroneHit TV HD AT" tvg-logo="" group-title="MUSIC",KroneHit TV HD AT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10065/index.m3u
-#EXTINF:-1 tvg-id="MCM Top Russia" tvg-name="MCM Top Russia" tvg-logo="" group-title="MUSIC",MCM Top Russia
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/836/index.m3u
-#EXTINF:-1 tvg-id="MCM Top Russia orig" tvg-name="MCM Top Russia orig" tvg-logo="" group-title="MUSIC",MCM Top Russia orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9175/index.m3u
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="" group-title="MUSIC",Mezzo
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/707/index.m3u
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="" group-title="MUSIC",Mezzo Live HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/208/index.m3u
-#EXTINF:-1 tvg-id="Mezzo Live HD orig" tvg-name="Mezzo Live HD orig" tvg-logo="" group-title="MUSIC",Mezzo Live HD orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9014/index.m3u
-#EXTINF:-1 tvg-id="Mezzo orig" tvg-name="Mezzo orig" tvg-logo="" group-title="MUSIC",Mezzo orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9170/index.m3u
-#EXTINF:-1 tvg-id="MIXM TV HD" tvg-name="MIXM TV HD" tvg-logo="" group-title="MUSIC",MIXM TV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10068/index.m3u
-#EXTINF:-1 tvg-id="MM Relax HD" tvg-name="MM Relax HD" tvg-logo="" group-title="MUSIC",MM Relax HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/13030/index.m3u
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="" group-title="MUSIC",MTV 00s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31559/index.m3u
-#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="MUSIC",MTV 80s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31558/index.m3u
-#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="" group-title="MUSIC",MTV 90s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/1038/index.m3u
-#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV 90s UK" tvg-logo="" group-title="MUSIC",MTV 90s UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31560/index.m3u
-#EXTINF:-1 tvg-id="MTV Classic" tvg-name="MTV Classic" tvg-logo="" group-title="MUSIC",MTV Classic
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19148/index.m3u
-#EXTINF:-1 tvg-id="MTV Club" tvg-name="MTV Club" tvg-logo="" group-title="MUSIC",MTV Club
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/558/index.m3u
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="" group-title="MUSIC",MTV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2130/index.m3u
-#EXTINF:-1 tvg-id="MTV HD US" tvg-name="MTV HD US" tvg-logo="" group-title="MUSIC",MTV HD US
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19192/index.m3u
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="" group-title="MUSIC",MTV Hits
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/153/index.m3u
-#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="" group-title="MUSIC",MTV Hits UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19198/index.m3u
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="" group-title="MUSIC",MTV Live HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/221/index.m3u
-#EXTINF:-1 tvg-id="MTV Live HD orig" tvg-name="MTV Live HD orig" tvg-logo="" group-title="MUSIC",MTV Live HD orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9009/index.m3u
-#EXTINF:-1 tvg-id="Music Box Gold" tvg-name="Music Box Gold" tvg-logo="" group-title="MUSIC",Music Box Gold
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14149/index.m3u
-#EXTINF:-1 tvg-id="Music Box Russia" tvg-name="Music Box Russia" tvg-logo="" group-title="MUSIC",Music Box Russia
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2048/index.m3u
-#EXTINF:-1 tvg-id="Music Box Russia HD" tvg-name="Music Box Russia HD" tvg-logo="" group-title="MUSIC",Music Box Russia HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19255/index.m3u
-#EXTINF:-1 tvg-id="Music Box Russia orig" tvg-name="Music Box Russia orig" tvg-logo="" group-title="MUSIC",Music Box Russia orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9168/index.m3u
-#EXTINF:-1 tvg-id="NM Television HD" tvg-name="NM Television HD" tvg-logo="" group-title="MUSIC",NM Television HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20161/index.m3u
-#EXTINF:-1 tvg-id="Now 70s UK" tvg-name="Now 70s UK" tvg-logo="" group-title="MUSIC",Now 70s UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19194/index.m3u
-#EXTINF:-1 tvg-id="Now 80s UK" tvg-name="Now 80s UK" tvg-logo="" group-title="MUSIC",Now 80s UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19196/index.m3u
-#EXTINF:-1 tvg-id="Now Rock UK" tvg-name="Now Rock UK" tvg-logo="" group-title="MUSIC",Now Rock UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19197/index.m3u
-#EXTINF:-1 tvg-id="NRG 91 HD GR" tvg-name="NRG 91 HD GR" tvg-logo="" group-title="MUSIC",NRG 91 HD GR
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7223/index.m3u
-#EXTINF:-1 tvg-id="NRJ Hits HD" tvg-name="NRJ Hits HD" tvg-logo="" group-title="MUSIC",NRJ Hits HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19199/index.m3u
-#EXTINF:-1 tvg-id="Plan_B HD" tvg-name="Plan_B HD" tvg-logo="" group-title="MUSIC",Plan_B HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19249/index.m3u
-#EXTINF:-1 tvg-id="Radio Metal HD UA" tvg-name="Radio Metal HD UA" tvg-logo="" group-title="MUSIC",Radio Metal HD UA
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14010/index.m3u
-#EXTINF:-1 tvg-id="Retro Music TV CZ" tvg-name="Retro Music TV CZ" tvg-logo="" group-title="MUSIC",Retro Music TV CZ
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14169/index.m3u
-#EXTINF:-1 tvg-id="SONGTV Россия HD" tvg-name="SONGTV Россия HD" tvg-logo="" group-title="MUSIC",SONGTV Россия HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/6394/index.m3u
-#EXTINF:-1 tvg-id="Spirit TV HD" tvg-name="Spirit TV HD" tvg-logo="" group-title="MUSIC",Spirit TV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10073/index.m3u
-#EXTINF:-1 tvg-id="Trace Urban HD" tvg-name="Trace Urban HD" tvg-logo="" group-title="MUSIC",Trace Urban HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/15107/index.m3u
-#EXTINF:-1 tvg-id="V2BEAT HD UK" tvg-name="V2BEAT HD UK" tvg-logo="" group-title="MUSIC",V2BEAT HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/15020/index.m3u
-#EXTINF:-1 tvg-id="VB Best Live Performances" tvg-name="VB Best Live Performances" tvg-logo="" group-title="MUSIC",VB Best Live Performances
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16003/index.m3u
-#EXTINF:-1 tvg-id="VB Dance Hits of 90s" tvg-name="VB Dance Hits of 90s" tvg-logo="" group-title="MUSIC",VB Dance Hits of 90s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14154/index.m3u
-#EXTINF:-1 tvg-id="VB Eurodance Hits 90s" tvg-name="VB Eurodance Hits 90s" tvg-logo="" group-title="MUSIC",VB Eurodance Hits 90s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20000/index.m3u
-#EXTINF:-1 tvg-id="VB Greatest Hits" tvg-name="VB Greatest Hits" tvg-logo="" group-title="MUSIC",VB Greatest Hits
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31622/index.m3u
-#EXTINF:-1 tvg-id="VB Modern Talking and Co" tvg-name="VB Modern Talking and Co" tvg-logo="" group-title="MUSIC",VB Modern Talking and Co
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17052/index.m3u
-#EXTINF:-1 tvg-id="VB MTV Old Россия HD" tvg-name="VB MTV Old Россия HD" tvg-logo="" group-title="MUSIC",VB MTV Old Россия HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/20174/index.m3u
-#EXTINF:-1 tvg-id="VB Romantic and Ballads" tvg-name="VB Romantic and Ballads" tvg-logo="" group-title="MUSIC",VB Romantic and Ballads
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16014/index.m3u
-#EXTINF:-1 tvg-id="VB Russian Dance Hits of 90s" tvg-name="VB Russian Dance Hits of 90s" tvg-logo="" group-title="MUSIC",VB Russian Dance Hits of 90s
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14156/index.m3u
-#EXTINF:-1 tvg-id="VB Yo! MTV HD" tvg-name="VB Yo! MTV HD" tvg-logo="" group-title="MUSIC",VB Yo! MTV HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31623/index.m3u
-#EXTINF:-1 tvg-id="VeleS Dj Set" tvg-name="VeleS Dj Set" tvg-logo="" group-title="MUSIC",VeleS Dj Set
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31639/index.m3u
-#EXTINF:-1 tvg-id="VF Britney Spears" tvg-name="VF Britney Spears" tvg-logo="" group-title="MUSIC",VF Britney Spears
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14005/index.m3u
-#EXTINF:-1 tvg-id="VF Metal" tvg-name="VF Metal" tvg-logo="" group-title="MUSIC",VF Metal
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17033/index.m3u
-#EXTINF:-1 tvg-id="VF Michael Jackson" tvg-name="VF Michael Jackson" tvg-logo="" group-title="MUSIC",VF Michael Jackson
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/31554/index.m3u
-#EXTINF:-1 tvg-id="VF Modern Talking" tvg-name="VF Modern Talking" tvg-logo="" group-title="MUSIC",VF Modern Talking
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14004/index.m3u
-#EXTINF:-1 tvg-id="VF Music" tvg-name="VF Music" tvg-logo="" group-title="MUSIC",VF Music
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/15516/index.m3u
-#EXTINF:-1 tvg-id="VF Rap" tvg-name="VF Rap" tvg-logo="" group-title="MUSIC",VF Rap
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/17034/index.m3u
-#EXTINF:-1 tvg-id="VF Rock" tvg-name="VF Rock" tvg-logo="" group-title="MUSIC",VF Rock
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/15517/index.m3u
-#EXTINF:-1 tvg-id="VF Караоке" tvg-name="VF Караоке" tvg-logo="" group-title="MUSIC",VF Караоке
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/15518/index.m3u
-#EXTINF:-1 tvg-id="VIVA TV Russia HD" tvg-name="VIVA TV Russia HD" tvg-logo="" group-title="MUSIC",VIVA TV Russia HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/10063/index.m3u
-#EXTINF:-1 tvg-id="Z!Music HD" tvg-name="Z!Music HD" tvg-logo="" group-title="MUSIC",Z!Music HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14138/index.m3u
-#EXTINF:-1 tvg-id="Z!Rock HD" tvg-name="Z!Rock HD" tvg-logo="" group-title="MUSIC",Z!Rock HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/14139/index.m3u
-#EXTINF:-1 tvg-id="Zerouno TV HD IT" tvg-name="Zerouno TV HD IT" tvg-logo="" group-title="MUSIC",Zerouno TV HD IT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/16076/index.m3u
-#EXTINF:-1 tvg-id="ТНТ Music" tvg-name="ТНТ Music" tvg-logo="" group-title="MUSIC",ТНТ Music
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/710/index.m3u
-#EXTINF:-1 tvg-id="ТНТ Music HD" tvg-name="ТНТ Music HD" tvg-logo="" group-title="MUSIC",ТНТ Music HD
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/19223/index.m3u
-#EXTINF:-1 tvg-id="ТНТ Music orig" tvg-name="ТНТ Music orig" tvg-logo="" group-title="MUSIC",ТНТ Music orig
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9178/index.m3u
+广东-移动120 txiptv,#genre#
+CCTV-1高清,http://120.238.94.10:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2高清,http://120.238.94.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3高清,http://120.238.94.10:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4高清,http://120.238.94.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5高清,http://120.238.94.10:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+高清,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6高清,http://120.238.94.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7高清,http://120.238.94.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8高清,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9高清,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10高清,http://120.238.94.10:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11高清,http://120.238.94.10:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12高清,http://120.238.94.10:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://120.238.94.10:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14高清,http://120.238.94.10:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://120.238.94.10:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17高清,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTN,http://120.238.94.10:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV兵器高清,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视高清,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江高清,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育高清,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共高清,http://120.238.94.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东岭南戏曲,http://120.238.94.10:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+南方一高清,http://120.238.94.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+南方二高清,http://120.238.94.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+南方四高清,http://120.238.94.10:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+南方五高清,http://120.238.94.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+惠州公共高清,http://120.238.94.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州-1,http://120.238.94.10:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州-2,http://120.238.94.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+高清1,http://120.238.94.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+野外,http://120.238.94.10:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿卫视,http://120.238.94.10:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://120.238.94.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+炫动卡通,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://120.238.94.10:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://120.238.94.10:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+谍战剧场,http://120.238.94.10:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://120.238.94.10:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视高清,http://120.238.94.10:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视高清,http://120.238.94.10:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视高清,http://120.238.94.10:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视高清,http://120.238.94.10:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视高清,http://120.238.94.10:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视高清,http://120.238.94.10:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视高清,http://120.238.94.10:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视高清,http://120.238.94.10:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视高清,http://120.238.94.10:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视高清,http://120.238.94.10:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视高清,http://120.238.94.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视高清,http://120.238.94.10:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视高清,http://120.238.94.10:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实高清,http://120.238.94.10:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视高清,http://120.238.94.10:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育高清,http://120.238.94.10:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视高清,http://120.238.94.10:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视高清,http://120.238.94.10:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视高清,http://120.238.94.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视高清,http://120.238.94.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视高清,http://120.238.94.10:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://120.238.94.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://120.238.94.10:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://120.238.94.10:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古,http://120.238.94.10:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://120.238.94.10:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://120.238.94.10:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://120.238.94.10:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://120.238.94.10:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://120.238.94.10:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://120.238.94.10:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+相声小品,http://120.238.94.10:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://120.238.94.10:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://120.238.94.10:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://120.238.94.10:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+央视文化,http://120.238.94.10:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广东-电信90 txiptv,#genre#
+CCTV-1 综合,http://113.90.245.235:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://113.90.245.235:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://113.90.245.235:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 中文国际,http://113.90.245.235:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://113.90.245.235:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://113.90.245.235:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://113.90.245.235:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://113.90.245.235:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://113.90.245.235:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://113.90.245.235:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://113.90.245.235:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://113.90.245.235:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://113.90.245.235:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://113.90.245.235:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://113.90.245.235:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17 农业,http://113.90.245.235:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.90.245.235:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://113.90.245.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.90.245.235:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东经济科教,http://113.90.245.235:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://113.90.245.235:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://113.90.245.235:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.90.245.235:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://113.90.245.235:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://113.90.245.235:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.90.245.235:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.90.245.235:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.90.245.235:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://113.90.245.235:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://113.90.245.235:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://113.90.245.235:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.90.245.235:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.90.245.235:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.90.245.235:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.90.245.235:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://113.90.245.235:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.90.245.235:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://113.90.245.235:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://113.90.245.235:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+
+天津-联通60 txiptv,#genre#
+http://120.76.248.139/udp/txiptv_chlist_api.php?deviceId=1e46cf774fa7aceca4e8addf0aa40fe5&ip=60.26.12.121:9901
+CCTV 1,http://60.26.12.121:85/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 2,http://60.26.12.121:85/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 3,http://60.26.12.121:85/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 4,http://60.26.12.121:85/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5,http://60.26.12.121:85/tsfile/live/16012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5+,http://60.26.12.121:85/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 6,http://60.26.12.121:85/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 7,http://60.26.12.121:85/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 8,http://60.26.12.121:85/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 9,http://60.26.12.121:85/tsfile/live/16016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 10,http://60.26.12.121:85/tsfile/live/16017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 11,http://60.26.12.121:85/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 12,http://60.26.12.121:85/tsfile/live/16019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 13,http://60.26.12.121:85/tsfile/live/16020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 14,http://60.26.12.121:85/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 15,http://60.26.12.121:85/tsfile/live/16022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 16,http://60.26.12.121:85/tsfile/live/16023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 17,http://60.26.12.121:85/tsfile/live/16024_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://60.26.12.121:85/tsfile/live/16001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://60.26.12.121:85/tsfile/live/16026_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://60.26.12.121:85/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://60.26.12.121:85/tsfile/live/16028_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://60.26.12.121:85/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://60.26.12.121:85/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://60.26.12.121:85/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.26.12.121:85/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://60.26.12.121:85/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://60.26.12.121:85/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://60.26.12.121:85/tsfile/live/16035_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://60.26.12.121:85/tsfile/live/16036_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://60.26.12.121:85/tsfile/live/16037_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://60.26.12.121:85/tsfile/live/16038_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://60.26.12.121:85/tsfile/live/16039_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://60.26.12.121:85/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.26.12.121:85/tsfile/live/16041_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://60.26.12.121:85/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://60.26.12.121:85/tsfile/live/16043_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://60.26.12.121:85/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://60.26.12.121:85/tsfile/live/16045_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://60.26.12.121:85/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://60.26.12.121:85/tsfile/live/16047_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://60.26.12.121:85/tsfile/live/16048_1.m3u8?key=txiptv&playlive=1&authid=0
+天津新闻,http://60.26.12.121:85/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
+天津文艺,http://60.26.12.121:85/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
+天津影视,http://60.26.12.121:85/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
+天津都市,http://60.26.12.121:85/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://60.26.12.121:85/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津教育,http://60.26.12.121:9901/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+福建-电信110 txiptv,#genre#
+CCTV1-综合,http://110.80.17.38:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://110.80.17.38:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://110.80.17.38:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://110.80.17.38:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://110.80.17.38:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://110.80.17.38:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://110.80.17.38:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://110.80.17.38:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://110.80.17.38:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://110.80.17.38:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://110.80.17.38:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://110.80.17.38:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://110.80.17.38:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+福建乡村,http://110.80.17.38:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://110.80.17.38:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://110.80.17.38:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://110.80.17.38:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://110.80.17.38:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://110.80.17.38:9999/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://110.80.17.38:9999/tsfile/live/0138_2.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://110.80.17.38:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://110.80.17.38:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://110.80.17.38:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://110.80.17.38:9999/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://110.80.17.38:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://110.80.17.38:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://110.80.17.38:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://110.80.17.38:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://110.80.17.38:9999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://110.80.17.38:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+兵团卫视,http://110.80.17.38:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://110.80.17.38:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://110.80.17.38:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+浙江-联通123 txiptv,#genre#
+CCTV1-综合,http://123.159.126.158:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://123.159.126.158:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://123.159.126.158:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://123.159.126.158:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://123.159.126.158:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://123.159.126.158:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://123.159.126.158:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://123.159.126.158:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://123.159.126.158:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://123.159.126.158:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://123.159.126.158:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://123.159.126.158:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://123.159.126.158:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://123.159.126.158:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://123.159.126.158:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://123.159.126.158:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+钱江频道,http://123.159.126.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+经济生活,http://123.159.126.158:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+科教影视,http://123.159.126.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://123.159.126.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江少儿,http://123.159.126.158:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+民生休闲,http://123.159.126.158:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州综合,http://123.159.126.158:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+西湖明珠,http://123.159.126.158:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州生活,http://123.159.126.158:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://123.159.126.158:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://123.159.126.158:9901/tsfile/live/0119_2.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://123.159.126.158:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=0&authid=0
+上海卫视,http://123.159.126.158:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://123.159.126.158:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://123.159.126.158:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://123.159.126.158:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://123.159.126.158:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://123.159.126.158:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://123.159.126.158:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://123.159.126.158:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://123.159.126.158:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://123.159.126.158:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://123.159.126.158:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://123.159.126.158:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://123.159.126.158:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://123.159.126.158:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://123.159.126.158:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://123.159.126.158:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://123.159.126.158:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://123.159.126.158:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://123.159.126.158:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://123.159.126.158:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://123.159.126.158:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,http://123.159.126.158:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+
+浙江-联通101 txiptv,#genre#
+CCTV1-综合,http://101.66.195.105:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://101.66.195.105:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://101.66.195.105:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://101.66.195.105:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://101.66.195.105:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://101.66.195.105:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://101.66.195.105:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://101.66.195.105:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://101.66.195.105:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://101.66.195.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://101.66.195.105:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://101.66.195.105:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://101.66.195.105:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://101.66.195.105:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://101.66.195.105:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.195.105:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.195.105:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.195.105:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.195.105:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.195.105:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.195.105:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.195.105:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.195.105:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.195.105:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.195.105:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.195.105:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.195.105:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.195.105:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.195.105:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.195.105:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.195.105:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.195.105:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.195.105:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.195.105:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.195.105:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.195.105:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.195.105:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.195.105:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.195.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.195.105:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+
+北京-联通123 txiptv,#genre#
+CCTV1-综合,http://123.113.96.47:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://123.113.96.47:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://123.113.96.47:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://123.113.96.47:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://123.113.96.47:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://123.113.96.47:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://123.113.96.47:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://123.113.96.47:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://123.113.96.47:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://123.113.96.47:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://123.113.96.47:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://123.113.96.47:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://123.113.96.47:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://123.113.96.47:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://123.113.96.47:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-NEWS,http://123.113.96.47:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV北京卫视,http://123.113.96.47:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV科教,http://123.113.96.47:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV影视,http://123.113.96.47:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV财经,http://123.113.96.47:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV体育,http://123.113.96.47:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV生活,http://123.113.96.47:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV新闻,http://123.113.96.47:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV文艺,http://123.113.96.47:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV卡酷少儿,http://123.113.96.47:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://123.113.96.47:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://123.113.96.47:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://123.113.96.47:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://123.113.96.47:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://123.113.96.47:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://123.113.96.47:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://123.113.96.47:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://123.113.96.47:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://123.113.96.47:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://123.113.96.47:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://123.113.96.47:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://123.113.96.47:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.113.96.47:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://123.113.96.47:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://123.113.96.47:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+
+湖南-电信175 txiptv,#genre#
+CCTV1,http://175.0.68.108:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://175.0.68.108:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://175.0.68.108:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://175.0.68.108:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://175.0.68.108:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://175.0.68.108:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://175.0.68.108:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://175.0.68.108:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://175.0.68.108:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://175.0.68.108:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://175.0.68.108:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://175.0.68.108:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://175.0.68.108:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://175.0.68.108:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://175.0.68.108:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://175.0.68.108:9002/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://175.0.68.108:9002/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市高清,http://175.0.68.108:9002/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影高清,http://175.0.68.108:9002/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐高清,http://175.0.68.108:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际高清,http://175.0.68.108:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南金鹰卡通高清,http://175.0.68.108:9002/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://175.0.68.108:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://175.0.68.108:9002/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://175.0.68.108:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://175.0.68.108:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://175.0.68.108:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://175.0.68.108:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://175.0.68.108:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://175.0.68.108:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://175.0.68.108:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://175.0.68.108:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://175.0.68.108:9002/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://175.0.68.108:9002/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://175.0.68.108:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://175.0.68.108:9002/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://175.0.68.108:9002/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://175.0.68.108:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://175.0.68.108:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://175.0.68.108:9002/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://175.0.68.108:9002/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://175.0.68.108:9002/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://175.0.68.108:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://175.0.68.108:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://175.0.68.108:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://175.0.68.108:9002/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://175.0.68.108:9002/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://175.0.68.108:9002/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://175.0.68.108:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://175.0.68.108:9002/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://175.0.68.108:9002/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+南方卫视,http://175.0.68.108:9002/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://175.0.68.108:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://175.0.68.108:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://175.0.68.108:9002/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
