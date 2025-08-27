@@ -129,49 +129,6 @@ Mytv super体育 2,p3p://167.114.175.6:55331/667faa2900020e5c2694ec3e747e381c
 Mytv super体育 3,p3p://167.114.175.6:55331/667faa81000a254726964610784d624a
 Mytv super体育 4,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
 
-香港P2P66,#genre#
-凤凰香港,p2p://66.42.60.221:6001/685df89f000ee95f020f0889091f78c7.ts
-凤凰中文,p2p://66.42.60.221:6001/685df86c0008242d020e3f968187001a.ts
-凤凰资讯,p2p://66.42.60.221:6001/685df883000504af020e98a17e75ce1b.ts
-无线新闻,P2p://66.42.60.221:6001/685e18ac0004fb8a028c38c7d5bbe88d.ts
-翡翠台,P2p://66.42.60.221:6001/685e18c5000e9946028c9ce57d050f51.ts
-无线功夫,P2p://66.42.60.221:6001/685dfcdd00050115021f9830cd6a6720.ts
-TVB星河,P2p://66.42.60.221:6001/6861f009000e611b0467abb6c86542f7.ts
-HOY 78,P2p://66.42.60.221:6001/6861efed0006be7c04673c62251b1532.ts
-Now星影,P2p://66.42.60.221:6001/6864b0ff00066f7604dcaf91e2d57eba.ts
-Now爆谷,P2p://66.42.60.221:6001/6864b12e00055f6704dd66e3a66e4630.ts
-星空卫视,p2p://66.42.60.221:6001/685df854000154de020de017cbd051b6.ts
-美亚电影,P2p://66.42.60.221:6001/685419de00068a9b0526ad8869f869b3.ts
-
-台湾,#genre#
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hyxwt.flv
-寰宇新闻,http://bxtv.3a.ink/api.php?id=hyxw
-中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新聞 CTI+ YT,https://www.youtube.com/watch?v=DM_PEM8GrIg
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-中天亚洲,http://bxtv.3a.ink/api.php?id=ztyz
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
-TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
-TVBS,http://bxtv.3a.ink/api.php?id=tvbs
-TVBS新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
-东森新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
-东森新闻,http://bxtv.3a.ink/api.php?id=dsxw
-东森财经,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
-三立新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slxw.flv
-中视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-zs.flv
-华视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hsxw.flv
-华视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hs.flv
-民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
-民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
-民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
-民视综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
-台视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ts.flv
-台视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tsxw.flv
-
 美洲167,#genre#
 TVB 1 US,p3p://167.114.175.6:55331/63efe07e000c1db2f23eb46a4e00518a
 TVB J1 US,p3p://167.114.175.6:55331/63efe0de000858baf2402a646c573e1b
@@ -264,23 +221,84 @@ Trace Urban,p3p://167.114.175.6:55331/644fae930000fb9c6879e5f40cc63e7f
 郑少秋,p3p://167.114.175.6:55331/607baae200022f97d1fe805b3340400e
 黄家驹,p3p://167.114.175.6:55331/607baabf00056b7ad1fdf877428f3508
 
+港港台,#genre#
+无线新闻,http://cdn.163189.xyz/163189/wxxw#http://bxtv.3a.ink/api.php?id=wxxw#http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2#http://bxtv.3a.ink/api.php?id=mz#http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fct2#http://php.jdshipin.com/smt.php?id=jade_twn#http://bxtv.3a.ink/api.php?id=fct#http://php.jdshipin.com/TVOD/iptv.php?id=fct3#http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+翡翠台B,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB PLUS,http://cdn.163189.xyz/163189/tvbp#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://php.jdshipin.com/TVOD/iptv.php?id=tvbp#http://bxtv.3a.ink/api.php?id=tvbp#http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw#http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+HOY 77,http://cdn.163189.xyz/163189/hoy
+HOY 78,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+Now新闻,http://cdn.163189.xyz/163189/now#http://bxtv.3a.ink/api.php?id=now
+PopC,http://bxtv.3a.ink/api.php?id=popc
+RTHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+RTHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK33 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2#http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8#http://bxtv.3a.ink/api.php?id=viutv#http://cdn.163189.xyz/163189/viu
+ViuTV 6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://cdn.163189.xyz/163189/fhzw#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8#http://bxtv.3a.ink/api.php?id=fhhk
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty#http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj#http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+寰宇新闻,http://bxtv.3a.ink/api.php?id=hyxw
+东森新闻,http://bxtv.3a.ink/api.php?id=dsxw
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+TVBS,http://bxtv.3a.ink/api.php?id=tvbs
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://cdn6.163189.xyz/163189/8tv#http://php.jdshipin.com/smt.php?id=TV8
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+CHU,http://cdn6.163189.xyz/163189/chu
+
 港澳台|备①,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://000.hfr1107.top/tv/smt.php?id=inews_twn
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn
 翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台北美(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-华丽翡翠台,http://000.hfr1107.top/tv/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
 明珠台,http://bxtv.3a.ink/api.php?id=mz
@@ -325,493 +343,89 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,http://000.hfr1107.top/tv/smt.php?id=ctinews
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
 
-央卫频特,#genre#
-CCTV-01频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv1
-CCTV-02频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv2
-CCTV-03频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv3
-CCTV-04频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv4
-CCTV-05频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv5
-CCTV 5+频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv5plus
-CCTV-06频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv6
-CCTV-07频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv7
-CCTV-08频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv8hd
-CCTV-09频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv9hd
-CCTV-10频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv10hd
-CCTV-11频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv11
-CCTV-12频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv12
-CCTV-13频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv13
-CCTV-14频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv14
-CCTV-15频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cctv15
-CGTN_英频特,https://xn--94q.l5.ca/daili/Smartv.php?id=CGTN
-北京卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=beijing
-深圳卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=shenzhen
-广西卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=guangxi
-湖北卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=hubei
-东南卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=fujian
-广东珠江频特,https://xn--94q.l5.ca/daili/Smartv.php?id=zhujiang
+央视频道,#genre#
+CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMS9saXZlLm0zdTg=
+CCTV2,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMi9saXZlLm0zdTg=
+CCTV3,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMy9saXZlLm0zdTg=
+CCTV4,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvNC9saXZlLm0zdTg=
+CCTV5,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvNS9saXZlLm0zdTg=
+CCTV5+,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvNi9saXZlLm0zdTg=
+CCTV6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvNy9saXZlLm0zdTg=
+CCTV7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvOC9saXZlLm0zdTg=
+CCTV8,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvOS9saXZlLm0zdTg=
+CCTV9,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTAvbGl2ZS5tM3U4
+CCTV10,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTEvbGl2ZS5tM3U4
+CCTV11,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTIvbGl2ZS5tM3U4
+CCTV12,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTMvbGl2ZS5tM3U4
+CCTV13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTQvbGl2ZS5tM3U4
+CCTV14,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTUvbGl2ZS5tM3U4
+CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTYvbGl2ZS5tM3U4
+CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzEvbGl2ZS5tM3U4
+CCTV2,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzIvbGl2ZS5tM3U4
+CCTV3,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzMvbGl2ZS5tM3U4
+CCTV4,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQvbGl2ZS5tM3U4
+CCTV5,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzUvbGl2ZS5tM3U4
+CCTV5+,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzYvbGl2ZS5tM3U4
+CCTV6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzcvbGl2ZS5tM3U4
+CCTV7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzgvbGl2ZS5tM3U4
+CCTV8,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzkvbGl2ZS5tM3U4
+CCTV9,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzEwL2xpdmUubTN1OA==
+CCTV10,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzExL2xpdmUubTN1OA==
+CCTV11,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzEyL2xpdmUubTN1OA==
+CCTV12,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzEzL2xpdmUubTN1OA==
+CCTV13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE0L2xpdmUubTN1OA==
+CCTV14,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE1L2xpdmUubTN1OA==
+CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE2L2xpdmUubTN1OA==
 
-特区频特,#genre#
-凤凰卫视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=phoenixtv_hd
-凤凰资讯频特,https://xn--94q.l5.ca/daili/Smartv.php?id=phoenixinfo_hd
-凤凰香港频特,https://xn--94q.l5.ca/daili/Smartv.php?id=hkphoenix_twn
-中天新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctinews
-有线新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=hoycaijing_twn
-无线新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=inews_twn
-无线翡翠频特,https://xn--94q.l5.ca/daili/Smartv.php?id=jade_twn
-无线华丽频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Wlt
-无线华丽频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbjade
-无线明珠频特,https://xn--94q.l5.ca/daili/Smartv.php?id=pearl_twn
-无线娱乐频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbentertainment
-千禧经典频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbclassic
-TVB PLUS,https://xn--94q.l5.ca/daili/Smartv.php?id=j2_twn
-TVB星河,http://xn--94q.l5.ca/daili/Smartv.php?id=Xinhe
-VIUTV,https://xn--94q.l5.ca/daili/Smartv.php?id=viu1_twn
-VIUTV6,https://xn--94q.l5.ca/daili/Smartv.php?id=viusix_twn
-RTHK-31频特,https://xn--94q.l5.ca/daili/Smartv.php?id=rhk31_twn
-RTHK-32频特,https://xn--94q.l5.ca/daili/Smartv.php?id=rhk32_twn
-美亚电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn
-天映频道闽特,https://xn--94q.l5.ca/daili/Smartv.php?id=Celestial
-天映频道闽特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctv18_twn
-龙华电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
-龙祥电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
-纬来电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandmovie
-八度空间,http://xn--94q.l5.ca/daili/Smartv.php?id=TV8
-Astro AEC,http://xn--94q.l5.ca/daili/Smartv.php?id=AEC
-Astro AOD,http://xn--94q.l5.ca/daili/Smartv.php?id=Aodhd
-Astro 爱奇频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Qiyi
-Astro QJ国频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Quanjia
-Astro 欢喜频特,https://xn--94q.l5.ca/daili/Smartv.php?id=Huahee
-
-闽南频特,#genre#
-中天新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctinews
-东森新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvnews
-寰宇新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=huanyuxinwen_twn
-tvbs新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=tvbs_n
-年代新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=niandainews_twn
-民视新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ftvnew_taiwan
-中视新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=zhongshinews_twn
-台视新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
-非凡新闻频特,https://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn
-民视闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ftvhd_taiwan
-中视闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=zhongshihd_twn
-华视闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctshd_twn
-台视闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ttv_taiwan
-tvbs闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=tvbs
-tvbs欢乐频特,https://xn--94q.l5.ca/daili/Smartv.php?id=tvbshuanle_twn
-民视第一频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn
-民视台湾频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ftvtaiwan_twn
-中视经典频特,https://xn--94q.l5.ca/daili/Smartv.php?id=zhongshi_twn
-公视台语频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctv2_twn
-台视综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ttvzhonghe
-中天娱乐频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctient
-中天综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctizhonghe
-中天亚洲频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ctiasia_twn
-八大第一频特,https://xn--94q.l5.ca/daili/Smartv.php?id=badafirst
-八大综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=badazhonghe
-八大戏剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=badadrama
-八大娱乐频特,https://xn--94q.l5.ca/daili/Smartv.php?id=badaentertain
-东森综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvzhonghe
-东森戏剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvdrama
-东森洋片频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern
-东森电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie
-东森幼幼频特,https://xn--94q.l5.ca/daili/Smartv.php?id=yoyo_twn
-东森超视频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvsuper
-东森财经频特,https://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twn
-寰宇财经频特,https://xn--94q.l5.ca/daili/Smartv.php?id=huanyutaiwan_twn
-华艺综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=weishichinese_twn
-阿里郎综频特,https://xn--94q.l5.ca/daili/Smartv.php?id=arirang_twn
-AXN电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=axn_twn
-CInemax频特,https://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twn
-HBo高清频特,https://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twn
-HBo家庭频特,https://xn--94q.l5.ca/daili/Smartv.php?id=fyi_twn
-好莱电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twn
-龙祥电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
-龙华经典频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn
-龙华戏剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaxiju_twn
-龙华电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
-龙华偶像频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaidol_twn
-龙华洋片频特,https://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn
-纬来电影频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandmovie
-纬来日本频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandjapan
-纬来体育频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandsport
-纬来综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandzonghe
-纬来育乐频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandyule
-纬来精彩频特,https://xn--94q.l5.ca/daili/Smartv.php?id=videolandspecial_twn
-靖天国际频特,https://xn--94q.l5.ca/daili/Smartv.php?id=jingtianintl_twn
-靖天卡通频特,https://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn
-大爱壹台频特,https://xn--94q.l5.ca/daili/Smartv.php?id=daai_twn
-大爱贰台频特,https://xn--94q.l5.ca/daili/Smartv.php?id=daai2_twn
-好消息贰频特,https://xn--94q.l5.ca/daili/Smartv.php?id=good2_twn
-三立闽南频特,https://xn--94q.l5.ca/daili/Smartv.php?id=sanlitaiwan
-三立戏剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=sanlixiju_twn
-三立综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=sanlizhonghe
-三立都会频特,https://xn--94q.l5.ca/daili/Smartv.php?id=sanlidouhui
-ELta影剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=eltayingju_twn
-ELta综合频特,https://xn--94q.l5.ca/daili/Smartv.php?id=eltazonghe_twn
-ELTA体1频特,https://xn--94q.l5.ca/daili/Smartv.php?id=eltasport_twn
-ELTA体1频特,http://live.catvod.com/smart.php?id=eltasport_twn
-ELTA体2频特,http://live.catvod.com/smart.php?id=eltasport2_twn
-ELTA体3频特,http://live.catvod.com/smart.php?id=eltasport3_twn
-Eleven一频特,https://xn--94q.l5.ca/daili/Smartv.php?id=golfchannel_twn
-博斯无限频特,https://xn--94q.l5.ca/daili/Smartv.php?id=bosiunlimited_twn
-博斯网球频特,https://xn--94q.l5.ca/daili/Smartv.php?id=bositennis_twn
-博斯运动壹特,https://xn--94q.l5.ca/daili/Smartv.php?id=bosisport1_twn
-博斯运动贰特,https://xn--94q.l5.ca/daili/Smartv.php?id=bosisport2_twn
-博斯高球壹特,https://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf1_twn
-博斯高球贰特,https://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf2_twn
-探索亚洲频特,https://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
-国家地理频特,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
-野生动物频特,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
-动物星球频特,https://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
-美食星球频特,https://xn--94q.l5.ca/daili/Smartv.php?id=foodplanet_twn
-亚洲美食频特,https://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn
-亚洲旅游频特,https://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
-亚洲TLC频特,https://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn
-EYE-旅游频特,https://xn--94q.l5.ca/daili/Smartv.php?id=eyetvtravel_twn
-EYE-戏剧频特,https://xn--94q.l5.ca/daili/Smartv.php?id=eyetvxiju_twn
-MTv高清频特,https://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
-Discover频特,https://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
-
-体育频特,#genre#
-Astro Premier League 1,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp1
-Astro EPL 1 backup,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp1x
-Astro Premier League 2,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp2
-Astro Grandstand,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp3
-Astro Football,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp4
-Astro Sports Plus,https://xn--94q.l5.ca/daili/Smartv.php?id=go_sportsplus
-Astro Badminton 1,https://xn--94q.l5.ca/daili/Smartv.php?id=go_badminton1
-Astro Badminton 2,https://xn--94q.l5.ca/daili/Smartv.php?id=go_badminton2
-Astro W-Sports,https://xn--94q.l5.ca/daili/Smartv.php?id=go_assp5
-Supersports 1,https://xn--94q.l5.ca/daili/Smartv.php?id=Assp1
-Supersports 2,https://xn--94q.l5.ca/daili/Smartv.php?id=Assp2
-Supersports 3,https://xn--94q.l5.ca/daili/Smartv.php?id=Assp3
-Supersports 4,https://xn--94q.l5.ca/daili/Smartv.php?id=Assp4
-WWE,https://xn--94q.l5.ca/daili/Smartv.php?id=Wwe
-Fight Sports,https://xn--94q.l5.ca/daili/Smartv.php?id=Fs
-NBA TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Nba
-Astro Cricket,https://xn--94q.l5.ca/daili/Smartv.php?id=Acricket
-Astro Golf,https://xn--94q.l5.ca/daili/Smartv.php?id=Agolf
-Tnt Sports 1,https://xn--94q.l5.ca/daili/Smartv.php?id=6fac0aaead
-TNT Sports 2,https://xn--94q.l5.ca/daili/Smartv.php?id=d9a76a79cc
-TNT Sports 3,https://xn--94q.l5.ca/daili/Smartv.php?id=5fea4d73db
-TNT Sports 4,https://xn--94q.l5.ca/daili/Smartv.php?id=tntsport4
-Sony Ten 1,https://xn--94q.l5.ca/daili/Smartv.php?id=ten1_raj
-Sony Ten 2,https://xn--94q.l5.ca/daili/Smartv.php?id=ten2_raj
-Sony Ten 3,https://xn--94q.l5.ca/daili/Smartv.php?id=ten3_raj
-SPOTV 1 HD,https://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv
-SPO TV 2,https://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv2
-Skysports F1,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1
-Skysports Cricket,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricket
-Skysports EPL,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongepl
-Skysports Main Event,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmain
-Skysports News,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnews
-Skysports Mix,https://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmix
-爱尔达体育1台,https://xn--94q.l5.ca/daili/Smartv.php?id=eltasport_twn
-爱尔达体育1台,http://live.catvod.com/smart.php?id=eltasport_twn
-爱尔达体育2台,http://live.catvod.com/smart.php?id=eltasport2_twn
-爱尔达体育3台,http://live.catvod.com/smart.php?id=eltasport3_twn
-Rugby Pass TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Rugbypasstv
-RTM Sports HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Rtmsport
-Arena,https://xn--94q.l5.ca/daili/Smartv.php?id=Arena
-Arena 2,https://xn--94q.l5.ca/daili/Smartv.php?id=Arena2
-BolaArena 1,https://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1
-BolaArena 2,https://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2
-Astro Beinsports 1,https://xn--94q.l5.ca/daili/Smartv.php?id=Astrobein1
-Astro Beinsports 2,https://xn--94q.l5.ca/daili/Smartv.php?id=Astrobein2
-Astro Beinsports 3,https://xn--94q.l5.ca/daili/Smartv.php?id=Astrobein3
-
-电影频特,#genre#
-Cinemax,https://xn--94q.l5.ca/daili/Smartv.php?id=Cinemax
-Animax,https://xn--94q.l5.ca/daili/Smartv.php?id=Animax
-Movies Now HD,https://xn--94q.l5.ca/daili/Smartv.php?id=moviesnow_raj
-Star Movies HD,https://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_raj
-HBO Family,https://xn--94q.l5.ca/daili/Smartv.php?id=Hbofamily
-Hits,https://xn--94q.l5.ca/daili/Smartv.php?id=Hits
-Warner TV,https://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
-HBO HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
-HBO Signature,https://xn--94q.l5.ca/daili/Smartv.php?id=Hbosignature
-HBO Hits,https://xn--94q.l5.ca/daili/Smartv.php?id=Hbohitshd
-SCM,https://xn--94q.l5.ca/daili/Smartv.php?id=Weishimovie
-Dreamworks,https://xn--94q.l5.ca/daili/Smartv.php?id=Dreamworks
-Thrill,https://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
-Hits Movie,https://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
-One,https://xn--94q.l5.ca/daili/Smartv.php?id=One
-tvN Movie,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
-Celestial Classic,https://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2
-Celestial Movies HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Celestialindo
-Axn HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Axn
-Paramount Network,https://xn--94q.l5.ca/daili/Smartv.php?id=Paramountnetwork
-Astrol Kplus,https://xn--94q.l5.ca/daili/Smartv.php?id=Kplus
-Rock Actions,https://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
-Rock Entertainment,https://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
-
-纪录频特,#genre#
-Natgeo_HD,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
-NatGeo_Wild HD,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
-Animal_Planet,https://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
-Discovery Asia,https://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
-CI,https://xn--94q.l5.ca/daili/Smartv.php?id=ci_twn
-Discovery HD,https://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn
-NatGeo HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Natgeo
-Fashion TV,https://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twn
-History,https://xn--94q.l5.ca/daili/Smartv.php?id=History
-BBC Earth HD,https://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twn
-NatGeo Wild HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
-Animal Planet (Eng),https://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
-TLC,https://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
-Foodnetwork Hd,https://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork
-HGTV,https://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
-
-新闻频特,#genre#
-Skynews,https://xn--94q.l5.ca/daili/Smartv.php?id=skynews_twn
-ABC News,https://xn--94q.l5.ca/daili/Smartv.php?id=abcnews_glo
-CBS HD,https://xn--94q.l5.ca/daili/Smartv.php?id=cbshd_glo
-CBSN HD,https://xn--94q.l5.ca/daili/Smartv.php?id=cbsn_glo
-France 24,https://xn--94q.l5.ca/daili/Smartv.php?id=france24_twn
-DW (Deutsch),https://xn--94q.l5.ca/daili/Smartv.php?id=dw_twn
-NHK World,https://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
-Fox News,https://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn
-CNN International,https://xn--94q.l5.ca/daili/Smartv.php?id=Cnn
-CNN backup,https://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twn
-CNBC,https://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
-CNA,https://xn--94q.l5.ca/daili/Smartv.php?id=cna
-BBC World News,https://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
-BBC World News,https://xn--94q.l5.ca/daili/Smartv.php?id=Bbcnews
-Bloomberg News,https://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
-Al-Jazeera,https://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
-
-儿童频特,#genre#
-Baby TV Eng,https://xn--94q.l5.ca/daili/Smartv.php?id=Babytv
-CBeebies,https://xn--94q.l5.ca/daili/Smartv.php?id=Cbeebies
-Kids TV,https://xn--94q.l5.ca/daili/Smartv.php?id=KidsTV
-Momo TV,https://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn
-Baby TV,https://xn--94q.l5.ca/daili/Smartv.php?id=babytv_twn
-MiaoMi,https://xn--94q.l5.ca/daili/Smartv.php?id=MiaoMi
-Cartoon Network,https://xn--94q.l5.ca/daili/Smartv.php?id=Cn
-Nickelodeon,https://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
-Nick Jr,https://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
-
-新加频特,#genre#
-Channel 5,https://xn--94q.l5.ca/daili/Smartv.php?id=Channel5HD
-Channel 8,https://xn--94q.l5.ca/daili/Smartv.php?id=Channel8HD
-Suria,https://xn--94q.l5.ca/daili/Smartv.php?id=Suria
-Channel U,https://xn--94q.l5.ca/daili/Smartv.php?id=ChannelU
-Vasantham,https://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham
-CNA backup,https://xn--94q.l5.ca/daili/Smartv.php?id=cna_twn
-MeWatch Ch 5,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_ch5
-MeWatch Ch 8,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_ch8
-MeWatch Ch U,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_chU
-MeWatch Suria,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_Suria
-MeWatch Vasantham,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_Vasantham
-MeWatch CNA,https://xn--94q.l5.ca/daili/Smartv.php?id=Mewatch_cna
-
-马来频特,#genre#
-TV1,https://xn--94q.l5.ca/daili/Smartv.php?id=TV1
-TV1 backup,https://xn--94q.l5.ca/daili/Smartv.php?id=TV1_backup
-TV2,https://xn--94q.l5.ca/daili/Smartv.php?id=TV2
-TV3,https://xn--94q.l5.ca/daili/Smartv.php?id=TV3
-TV3 SD,https://xn--94q.l5.ca/daili/Smartv.php?id=TV3_mega
-NTV7,https://xn--94q.l5.ca/daili/Smartv.php?id=NTV7
-TV8,https://xn--94q.l5.ca/daili/Smartv.php?id=TV8
-TV9,https://xn--94q.l5.ca/daili/Smartv.php?id=TV9
-Ria,https://xn--94q.l5.ca/daili/Smartv.php?id=Ria-0
-Ria-3,https://xn--94q.l5.ca/daili/Smartv.php?id=Ria_backup
-Al-Hijrah,https://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah
-Al-Hijrah backup,https://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah_backup
-Awani,https://xn--94q.l5.ca/daili/Smartv.php?id=Awani
-Bernama,https://xn--94q.l5.ca/daili/Smartv.php?id=Bernama
-Prima,https://xn--94q.l5.ca/daili/Smartv.php?id=Prima-0
-Prima backup,https://xn--94q.l5.ca/daili/Smartv.php?id=AAprima1
-Prima backup 2,https://xn--94q.l5.ca/daili/Smartv.php?id=AAprima
-Ceria,https://xn--94q.l5.ca/daili/Smartv.php?id=Ceria
-Astro MTV,https://xn--94q.l5.ca/daili/Smartv.php?id=AstroMTV
-Mecca Live HD,https://xn--94q.l5.ca/daili/Smartv.php?id=quran_mido
-Madinah HD,https://xn--94q.l5.ca/daili/Smartv.php?id=sunnah_mido
-Oasis,https://xn--94q.l5.ca/daili/Smartv.php?id=Oasis
-Siar,https://xn--94q.l5.ca/daili/Smartv.php?id=Siar
-Citra,https://xn--94q.l5.ca/daili/Smartv.php?id=AAcitra
-Citra backup,https://xn--94q.l5.ca/daili/Smartv.php?id=AAcitra1
-Sensasi,https://xn--94q.l5.ca/daili/Smartv.php?id=Sensasi
-Aura,https://xn--94q.l5.ca/daili/Smartv.php?id=Aura
-Rania,https://xn--94q.l5.ca/daili/Smartv.php?id=Rania
-KBS World,https://xn--94q.l5.ca/daili/Smartv.php?id=KBS
-Boo,https://xn--94q.l5.ca/daili/Smartv.php?id=Boo
-Awesome TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Dsangat
-Astro Sonypix,https://xn--94q.l5.ca/daili/Smartv.php?id=Asonypix
-Sony HD,https://xn--94q.l5.ca/daili/Smartv.php?id=SetOne
-TvN,https://xn--94q.l5.ca/daili/Smartv.php?id=TVN
-AEC,https://xn--94q.l5.ca/daili/Smartv.php?id=AEC
-华丽台 HD （Wah Lai Toi）,https://xn--94q.l5.ca/daili/Smartv.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,https://xn--94q.l5.ca/daili/Smartv.php?id=Huahee
-Astro QJ,https://xn--94q.l5.ca/daili/Smartv.php?id=Quanjia
-TVB Jade,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbjade
-TVB Asia,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbasia
-TVB Entertainment,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbentertainment
-TVB Classic,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvbclassic
-AOD,https://xn--94q.l5.ca/daili/Smartv.php?id=Aodhd
-TVB 星河台 Xing He,https://xn--94q.l5.ca/daili/Smartv.php?id=Xinhe
-爱奇艺 iQiyi,https://xn--94q.l5.ca/daili/Smartv.php?id=Qiyi
-Goshop,https://xn--94q.l5.ca/daili/Smartv.php?id=Goshop
-Celestial Movies HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Celestial
-Astro LOL,https://xn--94q.l5.ca/daili/Smartv.php?id=Astro_lol
-Astro Rusi,https://xn--94q.l5.ca/daili/Smartv.php?id=Rusi
-WION,https://xn--94q.l5.ca/daili/Smartv.php?id=Wion
-RTM Asean,https://xn--94q.l5.ca/daili/Smartv.php?id=Rtmasean
-
-印尼频特,#genre#
-TVRI National,https://xn--94q.l5.ca/daili/Smartv.php?id=TVRI
-RCTI,https://xn--94q.l5.ca/daili/Smartv.php?id=Rcti
-Kompass TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Kompass
-Berita Satu,https://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_eko
-Indosiar HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Indosiar
-AnTV,https://xn--94q.l5.ca/daili/Smartv.php?id=Antv
-MNC TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Mnctv
-Trans 7,https://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_eko
-Transtv,https://xn--94q.l5.ca/daili/Smartv.php?id=Transtv
-JTV,https://xn--94q.l5.ca/daili/Smartv.php?id=JTV_eko
-Metro TV,https://xn--94q.l5.ca/daili/Smartv.php?id=metrotv_eko
-SCTV,https://xn--94q.l5.ca/daili/Smartv.php?id=SCTV
-Tvone,https://xn--94q.l5.ca/daili/Smartv.php?id=Tvone
-TVMU,https://xn--94q.l5.ca/daili/Smartv.php?id=TVMU_eko
-GTV,https://xn--94q.l5.ca/daili/Smartv.php?id=Gtv
-RTV,https://xn--94q.l5.ca/daili/Smartv.php?id=Rtv
-Jak TV,https://xn--94q.l5.ca/daili/Smartv.php?id=JakTV
-iNews TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Inewstv
-Daai TV,https://xn--94q.l5.ca/daili/Smartv.php?id=DaaiTV
-Net TV,https://xn--94q.l5.ca/daili/Smartv.php?id=NetTV
-EWTN,https://xn--94q.l5.ca/daili/Smartv.php?id=Ewtn
-AlQuran AlKareem,https://xn--94q.l5.ca/daili/Smartv.php?id=AlQuran
-Tawaf TV,https://xn--94q.l5.ca/daili/Smartv.php?id=TawafTV
-Vision Prime,https://xn--94q.l5.ca/daili/Smartv.php?id=VisionPrime
-Muslim TV,https://xn--94q.l5.ca/daili/Smartv.php?id=MuslimTV
-Music TV,https://xn--94q.l5.ca/daili/Smartv.php?id=MusicTV
-Lifestyle&amp;Fashion,https://xn--94q.l5.ca/daili/Smartv.php?id=Lifestyle
-Entertain,https://xn--94q.l5.ca/daili/Smartv.php?id=Entertain
-
-印度频特,#genre#
-Sun TV HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Suntv
-Star Vijay,https://xn--94q.l5.ca/daili/Smartv.php?id=Starvijay
-Colors Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=Colorstam
-Sun Music,https://xn--94q.l5.ca/daili/Smartv.php?id=Sunmusic
-Astro Sunlife,https://xn--94q.l5.ca/daili/Smartv.php?id=Sunlife
-Astro Vaanavil,https://xn--94q.l5.ca/daili/Smartv.php?id=Vaanavil
-Zee Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeetamil
-Zee Business,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeebusiness
-News 18 Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=news18tamil_raj
-Adithya,https://xn--94q.l5.ca/daili/Smartv.php?id=Adithya
-Makkal TV,https://xn--94q.l5.ca/daili/Smartv.php?id=Makkaltv
-Zee Action,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeeaction
-Astro KTV,https://xn--94q.l5.ca/daili/Smartv.php?id=Astroktv
-Zee TV HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeetvhd
-Zee Cinema HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeecinemahd
-Color HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Colorhd
-Starplus HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Starplushd
-Picture HD,https://xn--94q.l5.ca/daili/Smartv.php?id=Npicture
-Zee News,https://xn--94q.l5.ca/daili/Smartv.php?id=Zeenews
-Asianet,https://xn--94q.l5.ca/daili/Smartv.php?id=asianet_raj
-Asianet News,https://xn--94q.l5.ca/daili/Smartv.php?id=asianetnews_raj
-Discovery World Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=discoveryworldtam_raj
-History Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=historytam_raj
-NatGeo Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeotamil_raj
-Natgeo Wild Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=discoverykidtamil_raj
-Discovery Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=discoverytamil_raj
-Sony Yay Tamil,https://xn--94q.l5.ca/daili/Smartv.php?id=sonyyaytam_raj
-Sun TV India,https://xn--94q.l5.ca/daili/Smartv.php?id=suntv_raj
-Starmaa HD,https://xn--94q.l5.ca/daili/Smartv.php?id=starmaa_raj
-Starmaa Movies HD,https://xn--94q.l5.ca/daili/Smartv.php?id=starmaamovies_raj
-Bollyone,https://xn--94q.l5.ca/daili/Smartv.php?id=Bollyone
-Vijay Super,https://xn--94q.l5.ca/daili/Smartv.php?id=vijaysuper_raj
-Vellithirai,https://xn--94q.l5.ca/daili/Smartv.php?id=Vellithirai
-
-泰国频特,#genre#
-Channel 3 Thailand,https://xn--94q.l5.ca/daili/Smartv.php?id=ch3_pat
-Channel 5 Thailand,https://xn--94q.l5.ca/daili/Smartv.php?id=ch5_pat
-Channel 7 Thailand,https://xn--94q.l5.ca/daili/Smartv.php?id=ch7_pat
-MCOT HD Thailand-1,https://xn--94q.l5.ca/daili/Smartv.php?id=mcot_pat
-PPTV Thailand1,https://xn--94q.l5.ca/daili/Smartv.php?id=pptv_pat
-Thai Thai,https://xn--94q.l5.ca/daili/Smartv.php?id=thaithai_pat
-Amarin,https://xn--94q.l5.ca/daili/Smartv.php?id=amarin_pat
-Ch 8,https://xn--94q.l5.ca/daili/Smartv.php?id=ch8_pat
-GmmOne,https://xn--94q.l5.ca/daili/Smartv.php?id=gmmone_pat
-Mono,https://xn--94q.l5.ca/daili/Smartv.php?id=mono_pat
-Thairath,https://xn--94q.l5.ca/daili/Smartv.php?id=thairath_pat
-tpbs,https://xn--94q.l5.ca/daili/Smartv.php?id=tpbs_pat
-Workpoint,https://xn--94q.l5.ca/daili/Smartv.php?id=workpoint_pat
-Gmm Channel,https://xn--94q.l5.ca/daili/Smartv.php?id=gmmchannel_pat
-Nation,https://xn--94q.l5.ca/daili/Smartv.php?id=nation_pat
-Tnn24,https://xn--94q.l5.ca/daili/Smartv.php?id=tnn24_pat
-Nbt,https://xn--94q.l5.ca/daili/Smartv.php?id=nbt_pat
-New,https://xn--94q.l5.ca/daili/Smartv.php?id=new_pat
-TPTV,https://xn--94q.l5.ca/daili/Smartv.php?id=tptv_pat
-
-英国频特,#genre#
-BBC 1,https://xn--94q.l5.ca/daili/Smartv.php?id=bbc1_antik
-BBC 2,https://xn--94q.l5.ca/daili/Smartv.php?id=bbc2_antik
-CBBC,https://xn--94q.l5.ca/daili/Smartv.php?id=cbbc_antik
-More4,https://xn--94q.l5.ca/daili/Smartv.php?id=more4_antik
-Freesports,https://xn--94q.l5.ca/daili/Smartv.php?id=freesports_antik
-Pick TV,https://xn--94q.l5.ca/daili/Smartv.php?id=picktv_antik
-itv 1,https://xn--94q.l5.ca/daili/Smartv.php?id=itv1_antik
-itv 2,https://xn--94q.l5.ca/daili/Smartv.php?id=itv2_antik
-Euronews,https://xn--94q.l5.ca/daili/Smartv.php?id=euronews_antik
-Channel 4,https://xn--94q.l5.ca/daili/Smartv.php?id=channel4_antik
-BBC World News,https://xn--94q.l5.ca/daili/Smartv.php?id=bbcworldnews_antik
-
-越南频特,#genre#
-ANTV,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_antv
-VTV 1,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv1
-VTV 7,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv7
-HTV 7,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv7
-HTV 9,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv9
-BPTV 2,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_bptv2
-BRT HD,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_brt
-Ca Mau TV,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_camautv
-Danang TV1 HD,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv1
-Danang TV2 HD,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv2
-HBTV HD,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_hbtv
-PTTH 1,https://xn--94q.l5.ca/daili/Smartv.php?id=viet_ptth1
-
-韩国频特,#genre#
-Arirang HD,https://xn--94q.l5.ca/daili/Smartv.php?id=arirang_korea
-Yonhap News,https://xn--94q.l5.ca/daili/Smartv.php?id=yonhapnews_korea
-CBS,https://xn--94q.l5.ca/daili/Smartv.php?id=cbs_korea
-EBS 1,https://xn--94q.l5.ca/daili/Smartv.php?id=ebs1_korea
-EBS2,https://xn--94q.l5.ca/daili/Smartv.php?id=ebs2_korea
-EBS Plus2,https://xn--94q.l5.ca/daili/Smartv.php?id=ebsplus2_korea
-SBS Plus,https://xn--94q.l5.ca/daili/Smartv.php?id=sbsplus_korea
-YTN,https://xn--94q.l5.ca/daili/Smartv.php?id=ytn_korea
-KBS World 24,https://xn--94q.l5.ca/daili/Smartv.php?id=kbsworld24_korea
-YTN Science,https://xn--94q.l5.ca/daili/Smartv.php?id=ytnscience_korea
-YTN Korean,https://xn--94q.l5.ca/daili/Smartv.php?id=ytnkorean_korea
-YTN DMB,https://xn--94q.l5.ca/daili/Smartv.php?id=ytndmb_korea
-Apps TV,https://xn--94q.l5.ca/daili/Smartv.php?id=appongoogle_korea
-All the Kpop,https://xn--94q.l5.ca/daili/Smartv.php?id=allthekpop_korea
-J the Kpop,https://xn--94q.l5.ca/daili/Smartv.php?id=jthekpop_korea
-EBS Kids,https://xn--94q.l5.ca/daili/Smartv.php?id=ebskids_korea
-CGNTV,https://xn--94q.l5.ca/daili/Smartv.php?id=cgntv_korea
-
-日本频特,#genre#
-NHK-総合-2,https://xn--94q.l5.ca/daili/Smartv.php?id=nhkg_japan
-NHK-E,https://xn--94q.l5.ca/daili/Smartv.php?id=nhke_japan
-テレビ朝日 Asahi TV,https://xn--94q.l5.ca/daili/Smartv.php?id=asahitv_japan
-JET 綜合,https://xn--94q.l5.ca/daili/Smartv.php?id=jettv_japan
-テレビ東京 Tokyo TV,https://xn--94q.l5.ca/daili/Smartv.php?id=tokyotv_japan
-TOKYOMX,https://xn--94q.l5.ca/daili/Smartv.php?id=tokyomx_japan
-NHKBS1,https://xn--94q.l5.ca/daili/Smartv.php?id=nhkbs1_japan
-NHKBSプレミア Premium,https://xn--94q.l5.ca/daili/Smartv.php?id=nhkpremium_japan
-BSジャパン 181,https://xn--94q.l5.ca/daili/Smartv.php?id=bs181_japan
-BSフジ BS Fuji,https://xn--94q.l5.ca/daili/Smartv.php?id=bsfuji_japan
-CNA Japan,https://xn--94q.l5.ca/daili/Smartv.php?id=cna_japan
-BS-TBS,https://xn--94q.l5.ca/daili/Smartv.php?id=bstbs_japan
-NHK Oaska,https://xn--94q.l5.ca/daili/Smartv.php?id=nhkosaka_japan
+卫视频道,#genre#
+湖北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjcvbGl2ZS5tM3U4
+东南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTkvbGl2ZS5tM3U4
+浙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjMvbGl2ZS5tM3U4
+东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjAvbGl2ZS5tM3U4
+湖南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjEvbGl2ZS5tM3U4
+安徽卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzEvbGl2ZS5tM3U4
+江苏卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjIvbGl2ZS5tM3U4
+北京卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzcvbGl2ZS5tM3U4
+重庆卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzYvbGl2ZS5tM3U4
+贵州卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzAvbGl2ZS5tM3U4
+四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzMvbGl2ZS5tM3U4
+广东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjUvbGl2ZS5tM3U4
+天津卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzIvbGl2ZS5tM3U4
+河北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjQvbGl2ZS5tM3U4
+黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjkvbGl2ZS5tM3U4
+山东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjYvbGl2ZS5tM3U4
+辽宁卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzUvbGl2ZS5tM3U4
+江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzQvbGl2ZS5tM3U4
+河南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMzgvbGl2ZS5tM3U4
+深圳卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjgvbGl2ZS5tM3U4
+湖北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzMxL2xpdmUubTN1OA==
+江苏卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE5L2xpdmUubTN1OA==
+广西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM4L2xpdmUubTN1OA==
+四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzMzL2xpdmUubTN1OA==
+湖南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE4L2xpdmUubTN1OA==
+浙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzE3L2xpdmUubTN1OA==
+东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzIyL2xpdmUubTN1OA==
+北京卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzIwL2xpdmUubTN1OA==
+辽宁卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI2L2xpdmUubTN1OA==
+安徽卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzIxL2xpdmUubTN1OA==
+黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI3L2xpdmUubTN1OA==
+广东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI1L2xpdmUubTN1OA==
+深圳卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI0L2xpdmUubTN1OA==
+吉林卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM2L2xpdmUubTN1OA==
+山东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQ3L2xpdmUubTN1OA==
+江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM1L2xpdmUubTN1OA==
+河南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM3L2xpdmUubTN1OA==
+河北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM0L2xpdmUubTN1OA==
+甘肃卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQ2L2xpdmUubTN1OA==
+重庆卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzIzL2xpdmUubTN1OA==
+东南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI4L2xpdmUubTN1OA==
+云南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzM5L2xpdmUubTN1OA==
+贵州卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQxL2xpdmUubTN1OA==
+青海卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQyL2xpdmUubTN1OA==
+山西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzMyL2xpdmUubTN1OA==
+陕西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzI5L2xpdmUubTN1OA==
 
 粤港澳闽,#genre#
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -1355,641 +969,290 @@ CCTV16,http://www.hkyc.site:1991/udp/239.253.64.126:5140
 华数6,http://www.hkyc.site:1991/udp/239.253.64.163:5140
 TCTV,http://www.hkyc.site:1991/udp/239.253.64.117:5140
 
-特闽AKtv,#genre#
-鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美),http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-翡翠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-RTHK32,http://s1.an94tv.cfd/aktv3/rthk32/AKTV.m3u8
-VIUTV,http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
-VIUTV 6,http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
-美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
-東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-東森電影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-華視,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-緯來電影台,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
-緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-KLT-靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-Cinema World,http://s1.an94tv.cfd/taiwan/cinemaworld/AKTV.m3u8
-CNA,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-Euro Sport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-Euro Sport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-Japan News 24H LIVE,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-HITS,http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
-Love Nature HD,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-Magellan TV,http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-SKY SPORTS F1,http://s1.an94tv.cfd/aktv3/f1/AKTV.m3u8
-SKY SPORTS F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+咪咕视频,#genre#
+咪咕视频_8M1080_咪视通-1,http://xiaoya.crccxw.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-2,http://xiaoya.crccxw.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-3,http://xiaoya.crccxw.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-4,http://xiaoya.crccxw.top:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-5,http://xiaoya.crccxw.top:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-6,http://xiaoya.crccxw.top:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-7,http://xiaoya.crccxw.top:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-8,http://xiaoya.crccxw.top:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-9,http://xiaoya.crccxw.top:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-10,http://xiaoya.crccxw.top:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-11,http://xiaoya.crccxw.top:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-12,http://xiaoya.crccxw.top:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-13,http://xiaoya.crccxw.top:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-14,http://xiaoya.crccxw.top:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-15,http://xiaoya.crccxw.top:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-16,http://xiaoya.crccxw.top:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-17,http://xiaoya.crccxw.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-18,http://xiaoya.crccxw.top:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-19,http://xiaoya.crccxw.top:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-20,http://xiaoya.crccxw.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-21,http://xiaoya.crccxw.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-22,http://xiaoya.crccxw.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-23,http://xiaoya.crccxw.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-24,http://xiaoya.crccxw.top:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-25,http://xiaoya.crccxw.top:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-26,http://xiaoya.crccxw.top:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-27,http://xiaoya.crccxw.top:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-28,http://xiaoya.crccxw.top:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-29,http://xiaoya.crccxw.top:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-30,http://xiaoya.crccxw.top:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-31,http://xiaoya.crccxw.top:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-32,http://xiaoya.crccxw.top:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-33,http://xiaoya.crccxw.top:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-34,http://xiaoya.crccxw.top:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-35,http://xiaoya.crccxw.top:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-36,http://xiaoya.crccxw.top:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-37,http://xiaoya.crccxw.top:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-38,http://xiaoya.crccxw.top:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-39,http://xiaoya.crccxw.top:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-40,http://xiaoya.crccxw.top:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-41,http://xiaoya.crccxw.top:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-42,http://xiaoya.crccxw.top:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-43,http://xiaoya.crccxw.top:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-44,http://xiaoya.crccxw.top:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-45,http://xiaoya.crccxw.top:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
-香港Hong Kong,#genre#
-无线新闻,http://000.hfr1107.top/tv/smt.php?id=inews_twn
-翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn
-无线財經資訊台,http://000.hfr1107.top/tv/smt.php?id=tvbcaijing_twn
-明珠台,http://000.hfr1107.top/tv/smt.php?id=pearl_twn
-J2,http://000.hfr1107.top/tv/smt.php?id=j2_twn
-TVB Jade,http://000.hfr1107.top/tv/smt.php?id=Tvbjade
-TVB Entertainment,http://000.hfr1107.top/tv/smt.php?id=Tvbentertainment
-TVB Classic,http://000.hfr1107.top/tv/smt.php?id=Tvbclassic
-TVB星河,http://000.hfr1107.top/tv/smt.php?id=tvbxinhe_twn
-TVB星河台,http://000.hfr1107.top/tv/smt.php?id=Xinhe
-鳳凰衛視,http://000.hfr1107.top/tv/smt.php?id=phoenixtv_hd
-鳳凰資訊,http://000.hfr1107.top/tv/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn
-RHK 31,http://000.hfr1107.top/tv/smt.php?id=rhk31_twn
-RHK 32,http://000.hfr1107.top/tv/smt.php?id=rhk32_twn
-VIUTV,http://000.hfr1107.top/tv/smt.php?id=viu1_twn
-VIUTV6,http://000.hfr1107.top/tv/smt.php?id=viusix_twn
+香港api,#genre#
+凤凰中文,http://api.mytv666.top/api/hkhk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32&auth=123
+凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://api.mytv666.top/api/hkhk.php?id=3466666465333638363063643761373565646565623433626664396162396635267469643d77696e74763132332669643d33&auth=123
+凤凰资讯,http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231
+凤凰资讯,hhttp://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://api.mytv666.top/api/hkhk.php?id=6236633663616530356662393862393061363963343963633363333434333733267469643d77696e74763132332669643d34&auth=123
+凤凰香港,http://api.mytv666.top/api/hk.php?id=6366393933363838303835353235313030313837656130343336356238356364267469643d74762669643d3232
+无线新闻,http://api.mytv666.top/api/hkhk.php?id=6264343831353330323337393639393931616235303439316135313462356130267469643d77696e74763132332669643d3136&auth=123
+无线新闻,http://api.mytv666.top/api/hk.php?id=3437643561316430306564303532666566613235653961373961303464386662267469643d74762669643d3235
+翡翠台,http://api.mytv666.top/api/hkhk.php?id=3262653732393564383135306138663636396562333131366461316635356432267469643d77696e74763132332669643d3230&auth=123
+华丽翡翠台,http://api.mytv666.top/api/hkhk.php?id=3466653736646563313831666664323931643265643337393439363936313866267469643d77696e74763132332669643d3231&auth=123
+明珠台,http://api.mytv666.top/api/hkhk.php?id=3433306230326632313132313965323231616462303239343762396634316466267469643d77696e74763132332669643d3232&auth=123
+明珠台,http://api.mytv666.top/api/hk.php?id=3234333631636531363838373231366566333832376434366264306332626165267469643d74762669643d3237
+TVB Plus,http://api.mytv666.top/api/hkhk.php?id=3639623039646236316664356637656639306231623831633232376366353164267469643d77696e74763132332669643d3233&auth=123
+TVB Plus,http://api.mytv666.top/api/hk.php?id=3639643231333366353439326662633736356531346434363133643465663039267469643d74762669643d3236
+无线娱乐新闻台,http://api.mytv666.top/api/hkhk.php?id=3466626233666436653838353264326461326635633732323366653761633437267469643d77696e74763132332669643d3234&auth=123
+无线功夫台,http://api.mytv666.top/api/tianxin.php?auth=123&id=AsiaActionCN
+HOY 78,http://api.mytv666.top/api/hkhk.php?id=3730346462313931396337363365323339383532646232633966303331633463267469643d77696e74763132332669643d3338&auth=123
+HOY 77,http://api.mytv666.top/api/hkhk.php?id=3363613361353930343765376664626230343135323066643833303864633037267469643d77696e74763132332669643d3337&auth=123
+HOY 76,http://api.mytv666.top/api/hkhk.php?id=3361386235376664363161336266633233643533366564313661313737346630267469643d77696e74763132332669643d3336&auth=123
+有线赛马18台,http://api.mytv666.top/api/hkhk.php?id=3335313238613561343466633763316531653463633665636663303964353666267469643d77696e74763132332669643d39&auth=1231
+有线赛马18台,http://api.mytv666.top/api/hkhk.php?id=6436363132643963643063373766393861373061346161336430353161333461267469643d77696e74763132332669643d3132&auth=123
+now新闻台,http://api.mytv666.top/api/hkhk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331&auth=123
+now直播台,http://api.mytv666.top/api/hkhk.php?id=3763373566376465616263356362313264316538373738396430313363656137267469643d77696e74763132332669643d3330&auth=123
+now财经台,http://api.mytv666.top/api/hkhk.php?id=3661316466353339303037343231613961326631373132343166326638666563267469643d77696e74763132332669643d3332&auth=123
+Now星影台,http://api.mytv666.top/api/tianxin.php?auth=123&id=NowBaoguSuperstarsHKHD
+Now爆谷台,http://api.mytv666.top/api/tianxin.php?auth=123&id=NowBaoguMoviesHKHD
+Now华剧台,http://api.mytv666.top/api/tianxin.php?auth=123&id=NowChineseDramaChannelHKBG
+Now剧集台,http://api.mytv666.top/api/tianxin.php?auth=123&id=ViuchannelHKBG
+VIUTV,http://api.mytv666.top/api/hkhk.php?id=6339393931646134323065303937343235303966313764373332346133353265267469643d77696e74763132332669643d3238&auth=123
+VIUTV6,http://api.mytv666.top/api/hkhk.php?id=3331653464373833613333613463386134633164386334653838356561653135267469643d77696e74763132332669643d3239&auth=123
+RTHK-31,http://api.mytv666.top/api/hkhk.php?id=6630336330336334333234646561366462633461663430653938303762613834267469643d77696e74763132332669643d3430&auth=123
+RTHK-32,http://api.mytv666.top/api/hkhk.php?id=3030323835633661623836393939353163626431613239353335373762336565267469643d77696e74763132332669643d3431&auth=123
+广东体育,http://api.mytv666.top/api/hkhk.php?id=3635306561306164626438636438373731346432656366353839663866326232267469643d74762669643d3131&auth=123
+广东珠江,http://api.mytv666.top/api/hkhk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39&auth=123
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+中旺电视,http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
+湖南卫视,http://api.mytv666.top/api/hkhk.php?id=3335646135363231376163393161663361396230333865343736323163643066267469643d74762669643d3137&auth=123
+美亚电影台,http://api.mytv666.top/api/hkhk.php?id=3466626233666436653838353264326461326635633732323366653761633437267469643d77696e74763132332669643d3234&auth=123
+美亚电影台,http://api.mytv666.top/api/hk.php?id=3734346339316538643237306264336264613563663264306232363539656232267469643d77696e74763132332669643d3237
+CCTV 1,http://api.mytv666.top/api/hkhk.php?id=3533616635343366643864663535383030653964383638326566343261346231267469643d74762669643d31&auth=123
+CCTV 1,http://60.26.15.74:85/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5,http://api.mytv666.top:80/api/hkhk.php?id=3966383463613131316534373561343337616166623164363534633239353762267469643d74762669643d33&auth=123
+CCTV 5+,http://api.mytv666.top/api/hkhk.php?id=6434373333663636353165313765396539383937633964656332313766356666267469643d74762669643d35&auth=123
+CCTV 13,http://api.mytv666.top/api/hkhk.php?id=3039303436386532343630393664373932396461383632663539303936623863267469643d74762669643d37&auth=123
 
-中國China,#genre#
-CCTV-1,http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-2,http://000.hfr1107.top/tv/smt.php?id=cctv2
-CCTV-3,http://000.hfr1107.top/tv/smt.php?id=cctv3
-CCTV-4,http://000.hfr1107.top/tv/smt.php?id=cctv4
-CCTV-4,http://000.hfr1107.top/tv/smt.php?id=Cctv4
-CCTV-5,http://000.hfr1107.top/tv/smt.php?id=cctv5
-CCTV-5+,http://000.hfr1107.top/tv/smt.php?id=cctv5plus
-CCTV-6,http://000.hfr1107.top/tv/smt.php?id=cctv6
-CCTV-7,http://000.hfr1107.top/tv/smt.php?id=cctv7
-CCTV-8,http://000.hfr1107.top/tv/smt.php?id=cctv8hd
-CCTV-9,http://000.hfr1107.top/tv/smt.php?id=cctv9hd
-CCTV-10,http://000.hfr1107.top/tv/smt.php?id=cctv10hd
-CCTV-11,http://000.hfr1107.top/tv/smt.php?id=cctv11
-CCTV-12,http://000.hfr1107.top/tv/smt.php?id=cctv12
-CCTV-13,http://000.hfr1107.top/tv/smt.php?id=cctv13
-CCTV-14,http://000.hfr1107.top/tv/smt.php?id=cctv14
-CCTV-15,http://000.hfr1107.top/tv/smt.php?id=cctv15
-CCTV-16,http://000.hfr1107.top/tv/smt.php?id=cctv16
-CCTV-17,http://000.hfr1107.top/tv/smt.php?id=cctv17
-湖南衛視,http://000.hfr1107.top/tv/smt.php?id=hunan_twn
-江蘇衛視,http://000.hfr1107.top/tv/smt.php?id=jiangsu_twn
-深圳衛視,http://000.hfr1107.top/tv/smt.php?id=shenzhen
-大灣區衛視,http://000.hfr1107.top/tv/smt.php?id=nanfang_twn
-廣東衛視,http://000.hfr1107.top/tv/smt.php?id=guangdongweishi_twn
-北京衛視,http://000.hfr1107.top/tv/smt.php?id=beijing
-廣東珠江,http://000.hfr1107.top/tv/smt.php?id=zhujiang
-廣西衛視,http://000.hfr1107.top/tv/smt.php?id=guangxi
-湖北衛視,http://000.hfr1107.top/tv/smt.php?id=hubei
-四川衛視,http://000.hfr1107.top/tv/smt.php?id=sichuan_twn
-東方衛視,http://000.hfr1107.top/tv/smt.php?id=dongfangweishi_twn
-
-臺灣Taiwan,#genre#
-寰宇新聞台,http://000.hfr1107.top/tv/smt.php?id=huanyuxinwen_twn
-寰宇財經台,http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn
-中天新聞,http://000.hfr1107.top/tv/smt.php?id=ctinews
-中天亞洲台,http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn
-中天娱樂,http://000.hfr1107.top/tv/smt.php?id=ctient
-中天綜合,http://000.hfr1107.top/tv/smt.php?id=ctizhonghe
-TVBS,http://000.hfr1107.top/tv/smt.php?id=tvbs
-TVBS Asia,http://000.hfr1107.top/tv/smt.php?id=Tvbasia
-TVBS新聞台,http://000.hfr1107.top/tv/smt.php?id=tvbs_n
-TVBS歡樂台,http://000.hfr1107.top/tv/smt.php?id=tvbshuanle_twn
-中視新聞台,http://000.hfr1107.top/tv/smt.php?id=zhongshinews_twn
-中視經典,http://000.hfr1107.top/tv/smt.php?id=zhongshi_twn
-東森新聞,http://000.hfr1107.top/tv/smt.php?id=ettvnews
-東森財經新聞,http://000.hfr1107.top/tv/smt.php?id=ettvcaijing_twn
-東森電影,http://000.hfr1107.top/tv/smt.php?id=ettvmovie
-東森洋片,http://000.hfr1107.top/tv/smt.php?id=ettvwestern
-東森綜合,http://000.hfr1107.top/tv/smt.php?id=ettvzhonghe
-東森戲劇,http://000.hfr1107.top/tv/smt.php?id=ettvdrama
-三立台灣台,http://000.hfr1107.top/tv/smt.php?id=sanlitaiwan
-三立戲劇台,http://000.hfr1107.top/tv/smt.php?id=sanlixiju_twn
-三立綜合台,http://000.hfr1107.top/tv/smt.php?id=sanlizhonghe
-非凡新聞台,http://000.hfr1107.top/tv/smt.php?id=feifannews_twn
-年代新聞台,http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
-民視台灣台,http://000.hfr1107.top/tv/smt.php?id=ftvtaiwan_twn
-民視新聞台,http://000.hfr1107.top/tv/smt.php?id=ftvnew_taiwan
-民視第一台,http://000.hfr1107.top/tv/smt.php?id=lunghuajingdian_twn
-亞洲旅遊台,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
-亞洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn
-八大戲劇,http://000.hfr1107.top/tv/smt.php?id=badadrama
-八大第一,http://000.hfr1107.top/tv/smt.php?id=badafirst
-八大綜合,http://000.hfr1107.top/tv/smt.php?id=badazhonghe
-動物星球,http://000.hfr1107.top/tv/smt.php?id=animalplanet_twn
-博斯網球,http://000.hfr1107.top/tv/smt.php?id=bositennis_twn
-博斯運動1,http://000.hfr1107.top/tv/smt.php?id=bosisport1_twn
-博斯運動2,http://000.hfr1107.top/tv/smt.php?id=bosisport2_twn
-博斯高球1,http://000.hfr1107.top/tv/smt.php?id=bosigolf1_twn
-博斯高球2,http://000.hfr1107.top/tv/smt.php?id=bosigolf2_twn
-台視新聞台,http://000.hfr1107.top/tv/smt.php?id=ttvnews_twn
-國家地理,http://000.hfr1107.top/tv/smt.php?id=natgeohd_twn
-大愛一台,http://000.hfr1107.top/tv/smt.php?id=daai_twn
-好萊塢電影台,http://000.hfr1107.top/tv/smt.php?id=hollywoodmovies_twn
-愛爾達影劇,http://000.hfr1107.top/tv/smt.php?id=eltayingju_twn
-愛爾達體育 1,http://000.hfr1107.top/tv/smt.php?id=eltasport_twn
-愛爾達體育 2,http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn
-愛爾達體育 3,http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn
-探索亞洲,http://000.hfr1107.top/tv/smt.php?id=discoverytwn_twn
-探索動力,http://000.hfr1107.top/tv/smt.php?id=discoveryturbo_twn
-緯來日本台,http://000.hfr1107.top/tv/smt.php?id=videolandjapan
-緯來體育台,http://000.hfr1107.top/tv/smt.php?id=videolandsport
-美亞電影,http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn
-華藝綜合,http://000.hfr1107.top/tv/smt.php?id=weishichinese_twn
-野生動物,http://000.hfr1107.top/tv/smt.php?id=natgeowild_twn
-阿里郎,http://000.hfr1107.top/tv/smt.php?id=arirang_twn
-靖天卡通台,http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn
-靖天國際台,http://000.hfr1107.top/tv/smt.php?id=jingtianintl_twn
-龍祥時代,http://000.hfr1107.top/tv/smt.php?id=lungxiangtime_twn
-龍華偶像,http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn
-龍華戲劇,http://000.hfr1107.top/tv/smt.php?id=lunghuaxiju_twn
-龍華洋片,http://000.hfr1107.top/tv/smt.php?id=lunghuawestern_twn
-龍華電影,http://000.hfr1107.top/tv/smt.php?id=xingwei_movie
-AXN,http://000.hfr1107.top/tv/smt.php?id=axn_twn
-BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
-Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
-CINEMAX,http://000.hfr1107.top/tv/smt.php?id=cinemax_twn
-CN卡通,http://000.hfr1107.top/tv/smt.php?id=momo1_twn
-Discovery,http://000.hfr1107.top/tv/smt.php?id=discoveryhd_twn
-ELEVEN 1,http://000.hfr1107.top/tv/smt.php?id=golfchannel_twn
-EYE戲劇,http://000.hfr1107.top/tv/smt.php?id=eyetvxiju_twn
-EYE旅遊,http://000.hfr1107.top/tv/smt.php?id=eyetvtravel_twn
-Fox News,http://000.hfr1107.top/tv/smt.php?id=foxnews_twn
-HBO,http://000.hfr1107.top/tv/smt.php?id=hbohd_twn
-HBO Family,http://000.hfr1107.top/tv/smt.php?id=fyi_twn
-MTV Live,http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn
-TLC旅遊生活,http://000.hfr1107.top/tv/smt.php?id=tlc_twn
-
-馬來西亞Malaysia,#genre#
-愛奇藝,http://000.hfr1107.top/tv/smt.php?id=Qiyi
-歡喜台,http://000.hfr1107.top/tv/smt.php?id=Huahee
-歡喜台(備用),http://000.hfr1107.top/tv/smt.php?id=Huahee_backup
-華麗台,http://000.hfr1107.top/tv/smt.php?id=Wlt
-AEC,http://000.hfr1107.top/tv/smt.php?id=CGTN
-AFC 亞洲旅遊台,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
-Al-Hijrah,http://000.hfr1107.top/tv/smt.php?id=Alhijrah
-Al-Hijrah(備用),http://000.hfr1107.top/tv/smt.php?id=Alhijrah_backup
-Al-Jazeera,http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn
-Animal Planet (Eng),http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet
-AOD,http://000.hfr1107.top/tv/smt.php?id=AodHD
-Arena,http://000.hfr1107.top/tv/smt.php?id=Arena
-Arena 2,http://000.hfr1107.top/tv/smt.php?id=Arena2
-ASTRO AEC,http://000.hfr1107.top/tv/smt.php?id=AEC
-Astro MTV,http://000.hfr1107.top/tv/smt.php?id=AstroMTV
-Astro Premier,http://000.hfr1107.top/tv/smt.php?id=Astropremier
-Astro QJ,http://000.hfr1107.top/tv/smt.php?id=Quanjia
-Astrol Kplus,http://000.hfr1107.top/tv/smt.php?id=Kplus
-Aura,http://000.hfr1107.top/tv/smt.php?id=Aura
-Awani,http://000.hfr1107.top/tv/smt.php?id=Awani
-Awesome TV,http://000.hfr1107.top/tv/smt.php?id=Awesome_mega
-Axn HD,http://000.hfr1107.top/tv/smt.php?id=Axn
-BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
-Bernama,http://000.hfr1107.top/tv/smt.php?id=Bernama
-Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
-BolaArena 1,http://000.hfr1107.top/tv/smt.php?id=Bolaarena1
-BolaArena 2,http://000.hfr1107.top/tv/smt.php?id=Bolaarena2
-Boo,http://000.hfr1107.top/tv/smt.php?id=Boo
-Cartoon Network,http://000.hfr1107.top/tv/smt.php?id=Cn
-Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2
-Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestial_mega
-Ceria,http://000.hfr1107.top/tv/smt.php?id=Ceria
-Citra,http://000.hfr1107.top/tv/smt.php?id=Citra
-CNA,http://000.hfr1107.top/tv/smt.php?id=cna
-CNBC,http://000.hfr1107.top/tv/smt.php?id=cnbc_twn
-CNN(備用),http://000.hfr1107.top/tv/smt.php?id=cnn_twn
-Foodnetwork Hd,http://000.hfr1107.top/tv/smt.php?id=Foodnetwork_mega
-Goshop,http://000.hfr1107.top/tv/smt.php?id=Goshop
-HBO,http://000.hfr1107.top/tv/smt.php?id=Hbo
-HBO Hits,http://000.hfr1107.top/tv/smt.php?id=Hbohits
-HBO Signature,http://000.hfr1107.top/tv/smt.php?id=Hbosignature
-HGTV,http://000.hfr1107.top/tv/smt.php?id=HGTV
-KBS World,http://000.hfr1107.top/tv/smt.php?id=KBS
-Madinah,http://000.hfr1107.top/tv/smt.php?id=sunnah_mido
-Mecca Live,http://000.hfr1107.top/tv/smt.php?id=quran_mido
-NatGeo Wild,http://000.hfr1107.top/tv/smt.php?id=Natgeowild
-Nick Jr,http://000.hfr1107.top/tv/smt.php?id=Nickjr
-Nickelodeon,http://000.hfr1107.top/tv/smt.php?id=Nickelodeon
-NTV7,http://000.hfr1107.top/tv/smt.php?id=NTV7
-Oasis,http://000.hfr1107.top/tv/smt.php?id=Oasis
-One,http://000.hfr1107.top/tv/smt.php?id=One_mega
-Paramount Network,http://000.hfr1107.top/tv/smt.php?id=Paramountnetwork
-Prima,http://000.hfr1107.top/tv/smt.php?id=Prima-0
-Prima(備用),http://000.hfr1107.top/tv/smt.php?id=Prima49
-Rania,http://000.hfr1107.top/tv/smt.php?id=Rania
-Ria,http://000.hfr1107.top/tv/smt.php?id=Ria-0
-Ria(備用),http://000.hfr1107.top/tv/smt.php?id=Ria49
-Ria-3,http://000.hfr1107.top/tv/smt.php?id=Ria_quanjia
-Rock Actions,http://000.hfr1107.top/tv/smt.php?id=Rockaction
-Rock Entertainment,http://000.hfr1107.top/tv/smt.php?id=Rockentertain
-RTM Sports HD,http://000.hfr1107.top/tv/smt.php?id=Rtmsport
-Sensasi,http://000.hfr1107.top/tv/smt.php?id=Sensasi
-Showcase,http://000.hfr1107.top/tv/smt.php?id=Showcase_mega
-Sony HD,http://000.hfr1107.top/tv/smt.php?id=SetOne
-TLC,http://000.hfr1107.top/tv/smt.php?id=Tlc
-TV1,http://000.hfr1107.top/tv/smt.php?id=TV1
-TV1(備用),http://000.hfr1107.top/tv/smt.php?id=TV1_backup
-TV2,http://000.hfr1107.top/tv/smt.php?id=TV2
-TV3,http://000.hfr1107.top/tv/smt.php?id=TV3
-TV3(備用),http://000.hfr1107.top/tv/smt.php?id=tv3_twn
-TV8,http://000.hfr1107.top/tv/smt.php?id=TV8
-TV9,http://000.hfr1107.top/tv/smt.php?id=TV9
-TvN,http://000.hfr1107.top/tv/smt.php?id=TVN
-tvN Movie,http://000.hfr1107.top/tv/smt.php?id=Tvnmovie
-Warna,http://000.hfr1107.top/tv/smt.php?id=Warna-O
-Warna(備用),http://000.hfr1107.top/tv/smt.php?id=Warna
-
-新加坡Singapore,#genre#
-Channel 5,http://000.hfr1107.top/tv/smt.php?id=Channel5HD
-Channel 5(備用),http://000.hfr1107.top/tv/smt.php?id=Ch5_mega
-Channel 8,http://000.hfr1107.top/tv/smt.php?id=Channel8HD
-Channel 8(備用),http://000.hfr1107.top/tv/smt.php?id=Ch8_mega
-Channel U,http://000.hfr1107.top/tv/smt.php?id=ChannelU
-Channel U(備用),http://000.hfr1107.top/tv/smt.php?id=ChU_mega
-CNA,http://000.hfr1107.top/tv/smt.php?id=cna
-CNA(備用),http://000.hfr1107.top/tv/smt.php?id=cna_twn
-Suria,http://000.hfr1107.top/tv/smt.php?id=Suria
-Suria(備用),http://000.hfr1107.top/tv/smt.php?id=Suria_backup
-Vasantham,http://000.hfr1107.top/tv/smt.php?id=Vasantham
-Vasantham(備用),http://000.hfr1107.top/tv/smt.php?id=Vasantham_mega
-
-印尼Indonesia,#genre#
-AlQuran AlKareem,http://000.hfr1107.top/tv/smt.php?id=AlQuran
-Animax,http://000.hfr1107.top/tv/smt.php?id=Animax
-AnTV,http://000.hfr1107.top/tv/smt.php?id=Antv
-Beinsports 2,http://000.hfr1107.top/tv/smt.php?id=Bein2hd
-Berita Satu,http://000.hfr1107.top/tv/smt.php?id=BeritaSatu_eko
-Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo
-Cinemax,http://000.hfr1107.top/tv/smt.php?id=Cinemax
-Daai TV,http://000.hfr1107.top/tv/smt.php?id=DaaiTV
-Entertain,http://000.hfr1107.top/tv/smt.php?id=Entertain
-EWTN,http://000.hfr1107.top/tv/smt.php?id=Ewtn
-Fight Sports,http://000.hfr1107.top/tv/smt.php?id=Fs
-GTV,http://000.hfr1107.top/tv/smt.php?id=Gtv
-Hits,http://000.hfr1107.top/tv/smt.php?id=Hits
-Hits Movie,http://000.hfr1107.top/tv/smt.php?id=Hitsmovie
-Indosiar HD,http://000.hfr1107.top/tv/smt.php?id=Indosiar
-iNews TV,http://000.hfr1107.top/tv/smt.php?id=Inewstv
-Jak TV,http://000.hfr1107.top/tv/smt.php?id=JakTV
-JTV,http://000.hfr1107.top/tv/smt.php?id=JTV_eko
-Kompass TV,http://000.hfr1107.top/tv/smt.php?id=Kompass
-Lifestyle & Fashion,http://000.hfr1107.top/tv/smt.php?id=Lifestyle
-Metro TV,http://000.hfr1107.top/tv/smt.php?id=metrotv_eko
-MNC TV,http://000.hfr1107.top/tv/smt.php?id=Mnctv
-Music TV,http://000.hfr1107.top/tv/smt.php?id=MusicTV
-Muslim TV,http://000.hfr1107.top/tv/smt.php?id=MuslimTV
-Net TV,http://000.hfr1107.top/tv/smt.php?id=NetTV
-One,http://000.hfr1107.top/tv/smt.php?id=One_mega
-RCTI,http://000.hfr1107.top/tv/smt.php?id=Rcti
-Rock Actions,http://000.hfr1107.top/tv/smt.php?id=Rockaction
-Rock Entertainment,http://000.hfr1107.top/tv/smt.php?id=Rockentertain
-RTV,http://000.hfr1107.top/tv/smt.php?id=Rtv
-SCM,http://000.hfr1107.top/tv/smt.php?id=Weishimovie
-SCTV,http://000.hfr1107.top/tv/smt.php?id=SCTV
-Tawaf TV,http://000.hfr1107.top/tv/smt.php?id=TawafTV
-Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill
-Trans 7,http://000.hfr1107.top/tv/smt.php?id=Trans7_eko
-Transtv,http://000.hfr1107.top/tv/smt.php?id=Transtv
-TVMU,http://000.hfr1107.top/tv/smt.php?id=TVMU_eko
-tvN Movie,http://000.hfr1107.top/tv/smt.php?id=Tvnmovie
-Tvone,http://000.hfr1107.top/tv/smt.php?id=Tvone
-TVRI National,http://000.hfr1107.top/tv/smt.php?id=TVRI
-Vision Prime,http://000.hfr1107.top/tv/smt.php?id=VisionPrime
-Warner TV,http://000.hfr1107.top/tv/smt.php?id=WarnerTV
-體育Sports,#genre#
-Arena,http://000.hfr1107.top/tv/smt.php?id=Arena
-Arena 2,http://000.hfr1107.top/tv/smt.php?id=Arena2
-Astro Cricket,http://000.hfr1107.top/tv/smt.php?id=Acricket_mega
-Astro Golf,http://000.hfr1107.top/tv/smt.php?id=Agolf
-Bein 1 Sports,http://000.hfr1107.top/tv/smt.php?id=bein1_mega
-Bein 2 Sports,http://000.hfr1107.top/tv/smt.php?id=bein2_mega
-Bein 2HD,http://000.hfr1107.top/tv/smt.php?id=Beinhd
-Bein 3 Sports,http://000.hfr1107.top/tv/smt.php?id=bein3_mega
-Bein 4 Sports,http://000.hfr1107.top/tv/smt.php?id=bein4_mega
-Bein 5 Sports,http://000.hfr1107.top/tv/smt.php?id=bein5_mega
-Bein 6 Sports,http://000.hfr1107.top/tv/smt.php?id=bein6_mega
-Bein 7 Sports,http://000.hfr1107.top/tv/smt.php?id=bein7_mega
-Beinsports 2 HD,http://000.hfr1107.top/tv/smt.php?id=Bein2hd
-Beinsports HD,http://000.hfr1107.top/tv/smt.php?id=Besports
-BolaArena 1,http://000.hfr1107.top/tv/smt.php?id=Bolaarena1
-BolaArena 2,http://000.hfr1107.top/tv/smt.php?id=Bolaarena2
-CCTV-5,http://000.hfr1107.top/tv/smt.php?id=cctv5
-CCTV-5+,http://000.hfr1107.top/tv/smt.php?id=cctv5plus
-Champion 5 EPL,http://000.hfr1107.top/tv/smt.php?id=Champion5epl
-Champion 6 EPL,http://000.hfr1107.top/tv/smt.php?id=Champion6epl
-Fight Sports,http://000.hfr1107.top/tv/smt.php?id=Fs
-NBA TV,http://000.hfr1107.top/tv/smt.php?id=nbatv_twn
-RTM Sports HD,http://000.hfr1107.top/tv/smt.php?id=Rtmsport
-Rugby Pass TV,http://000.hfr1107.top/tv/smt.php?id=Rugbypasstv
-Skysports Arena,http://000.hfr1107.top/tv/smt.php?id=tiankongarena
-Skysports Cricket,http://000.hfr1107.top/tv/smt.php?id=tiankongcricket
-Skysports EPL,http://000.hfr1107.top/tv/smt.php?id=tiankongepl
-Skysports F1,http://000.hfr1107.top/tv/smt.php?id=tiankongf1
-Skysports Football,http://000.hfr1107.top/tv/smt.php?id=tiankongfootball
-Skysports Golf,http://000.hfr1107.top/tv/smt.php?id=tiankonggolf
-Skysports Main Event,http://000.hfr1107.top/tv/smt.php?id=tiankongmain
-Skysports Mix,http://000.hfr1107.top/tv/smt.php?id=tiankongmix
-Skysports News,http://000.hfr1107.top/tv/smt.php?id=tiankongnews
-Skysports NFL,http://000.hfr1107.top/tv/smt.php?id=tiankongnfl
-Skysports Racing,http://000.hfr1107.top/tv/smt.php?id=tiankongracing
-Sony Ten 1,http://000.hfr1107.top/tv/smt.php?id=ten1_raj
-Sony Ten 2,http://000.hfr1107.top/tv/smt.php?id=ten2_raj
-Sony Ten 3,http://000.hfr1107.top/tv/smt.php?id=ten3_raj
-SPOTV 1,http://000.hfr1107.top/tv/smt.php?id=go_spotv
-SPOTV 2,http://000.hfr1107.top/tv/smt.php?id=go_spotv2
-Supersportq 1(備用2),http://000.hfr1107.top/tv/smt.php?id=Assp1_mega
-Supersports 1,http://000.hfr1107.top/tv/smt.php?id=Assp1
-Supersports 1(備用),http://000.hfr1107.top/tv/smt.php?id=go_assp1
-Supersports 2,http://000.hfr1107.top/tv/smt.php?id=Assp2
-Supersports 2(備用),http://000.hfr1107.top/tv/smt.php?id=go_assp2
-Supersports 3,http://000.hfr1107.top/tv/smt.php?id=Assp3
-Supersports 3(備用),http://000.hfr1107.top/tv/smt.php?id=go_assp3
-Supersports 3(備用2),http://000.hfr1107.top/tv/smt.php?id=Assp3_mega
-Supersports 4,http://000.hfr1107.top/tv/smt.php?id=Assp4_mega
-Supersports 4(備用),http://000.hfr1107.top/tv/smt.php?id=go_assp4
-Supersports 5,http://000.hfr1107.top/tv/smt.php?id=go_assp5
-TNT Sports 1,http://000.hfr1107.top/tv/smt.php?id=beeone
-TNT Sports 2,http://000.hfr1107.top/tv/smt.php?id=beetwo
-TNT Sports 4,http://000.hfr1107.top/tv/smt.php?id=beefour
-UFC Network,http://000.hfr1107.top/tv/smt.php?id=ufc_mega
-WWE,http://000.hfr1107.top/tv/smt.php?id=Wwe
-愛爾達體育1台,http://000.hfr1107.top/tv/smt.php?id=eltasport_twn
-愛爾達體育2台,http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn
-愛爾達體育3台,http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn
-
-印度India,#genre#
-Sun TV,http://000.hfr1107.top/tv/smt.php?id=Suntv
-Star Vijay,http://000.hfr1107.top/tv/smt.php?id=Starvijay
-Colors Tamil,http://000.hfr1107.top/tv/smt.php?id=Colorstam_mega
-Sun Music,http://000.hfr1107.top/tv/smt.php?id=Sunmusic
-Astro Sunlife,http://000.hfr1107.top/tv/smt.php?id=Sunlife
-Astro Vaanavil,http://000.hfr1107.top/tv/smt.php?id=Vaanavil
-Zee Tamil,http://000.hfr1107.top/tv/smt.php?id=Zeetamil
-Zee Business,http://000.hfr1107.top/tv/smt.php?id=Zeebusiness
-News 18 Tamil,http://000.hfr1107.top/tv/smt.php?id=news18tamil_raj
-Adithya,http://000.hfr1107.top/tv/smt.php?id=Adithya
-Makkal TV,http://000.hfr1107.top/tv/smt.php?id=Makkaltv
-Zee Action,http://000.hfr1107.top/tv/smt.php?id=Zeeaction
-Astro KTV,http://000.hfr1107.top/tv/smt.php?id=Astroktv
-Zee TV,http://000.hfr1107.top/tv/smt.php?id=Zeetvhd
-Zee Cinema,http://000.hfr1107.top/tv/smt.php?id=Zeecinemahd
-Color,http://000.hfr1107.top/tv/smt.php?id=Colorhd
-Starplus,http://000.hfr1107.top/tv/smt.php?id=Starplushd
-Picture,http://000.hfr1107.top/tv/smt.php?id=Npicture
-Zee News,http://000.hfr1107.top/tv/smt.php?id=Zeenews
-Asianet,http://000.hfr1107.top/tv/smt.php?id=asianet_raj
-Asianet News,http://000.hfr1107.top/tv/smt.php?id=asianetnews_raj
-Times Now,http://000.hfr1107.top/tv/smt.php?id=timesnow_mega
-BBC Earth Tamil,http://000.hfr1107.top/tv/smt.php?id=bbcearthtam_raj
-Discovery World Tamil,http://000.hfr1107.top/tv/smt.php?id=discoveryworldtam_raj
-History Tamil,http://000.hfr1107.top/tv/smt.php?id=historytam_raj
-Natgeo Wild Tamil,http://000.hfr1107.top/tv/smt.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverykidtamil_raj
-Discovery Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverytamil_raj
-Sony Yay Tamil,http://000.hfr1107.top/tv/smt.php?id=sonyyaytam_raj
-Sun TV India,http://000.hfr1107.top/tv/smt.php?id=suntv_raj
-Starmaa HD,http://000.hfr1107.top/tv/smt.php?id=starmaa_raj
-Starmaa Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmaamovies_raj
-Bollyone,http://000.hfr1107.top/tv/smt.php?id=Bollyone
-Astro Sunmusic,http://000.hfr1107.top/tv/smt.php?id=Sunmusic
-Sony Pix HD,http://000.hfr1107.top/tv/smt.php?id=sonypix_mega
-Vijay Super,http://000.hfr1107.top/tv/smt.php?id=vijaysuper_raj
-
-電影Movie,#genre#
-AXN,http://000.hfr1107.top/tv/smt.php?id=axn_twn
-Animax,http://000.hfr1107.top/tv/smt.php?id=Animax
-Astrol Kplus,http://000.hfr1107.top/tv/smt.php?id=Kplus
-Axn HD,http://000.hfr1107.top/tv/smt.php?id=Axn
-CCTV-6,http://000.hfr1107.top/tv/smt.php?id=cctv6
-CINEMAX,http://000.hfr1107.top/tv/smt.php?id=cinemax_twn
-Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2
-Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo
-Cinemax,http://000.hfr1107.top/tv/smt.php?id=Cinemax
-HBO Family,http://000.hfr1107.top/tv/smt.php?id=Hbofamily
-HBO HD,http://000.hfr1107.top/tv/smt.php?id=Hbo
-HBO Hits,http://000.hfr1107.top/tv/smt.php?id=Hbohits
-HBO Signature,ttp://phdown.serv00.net/Smartv.php?id=Hbosignature
-HBO_HD,http://000.hfr1107.top/tv/smt.php?id=hbohd_twn
-HBO_HITS,http://000.hfr1107.top/tv/smt.php?id=hbohits_twn
-Hits Movie,http://000.hfr1107.top/tv/smt.php?id=Hitsmovie
-Hits,http://000.hfr1107.top/tv/smt.php?id=Hits
-Hollywood Movies,http://000.hfr1107.top/tv/smt.php?id=hollywoodmovies_twn
-Movies Now HD,http://000.hfr1107.top/tv/smt.php?id=moviesnow_raj
-One,http://000.hfr1107.top/tv/smt.php?id=One_mega
-Paramount Network,http://000.hfr1107.top/tv/smt.php?id=Paramountnetwork
-Rock Actions,http://000.hfr1107.top/tv/smt.php?id=Rockaction
-Rock Entertainment,http://000.hfr1107.top/tv/smt.php?id=Rockentertain
-SCM,http://000.hfr1107.top/tv/smt.php?id=Weishimovie
-Sony Pix HD,http://000.hfr1107.top/tv/smt.php?id=sonypix_mega
-Star Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmovies_raj
-Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill
-Warner TV,http://000.hfr1107.top/tv/smt.php?id=WarnerTV
-tvN Movie,http://000.hfr1107.top/tv/smt.php?id=Tvnmovie
-CATCHPLAY,http://000.hfr1107.top/tv/smt.php?id=catchplay_twn
-龍華電影,http://000.hfr1107.top/tv/smt.php?id=xingwei_movie
-東森洋片,http://000.hfr1107.top/tv/smt.php?id=ettvwestern
-東森電影,http://000.hfr1107.top/tv/smt.php?id=ettvmovie
-美亞電影,http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn
-龍華洋片,http://000.hfr1107.top/tv/smt.php?id=lunghuawestern_twn
-龍祥时代,http://000.hfr1107.top/tv/smt.php?id=lungxiangtime_twn
-
-紀錄Documentary,#genre#
-AFC 亞洲旅遊台,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
-Animal Planet (Eng),http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet
-Animal_Planet,http://000.hfr1107.top/tv/smt.php?id=animalplanet_twn
-Asia Travel,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
-BBC Earth HD,http://000.hfr1107.top/tv/smt.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn
-CI,http://000.hfr1107.top/tv/smt.php?id=ci_twn
-Discovery Asia,http://000.hfr1107.top/tv/smt.php?id=discoverytwn_twn
-Discovery HD,http://000.hfr1107.top/tv/smt.php?id=discoveryhd_twn
-Fashion TV,http://000.hfr1107.top/tv/smt.php?id=fashiontv_twn
-Foodnetwork,http://000.hfr1107.top/tv/smt.php?id=Foodnetwork_mega
-HGTV,http://000.hfr1107.top/tv/smt.php?id=HGTV
-History,http://000.hfr1107.top/tv/smt.php?id=History
-MTV Live,http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn
-NatGeo Wild HD,http://000.hfr1107.top/tv/smt.php?id=Natgeowild
-NatGeo_Wild HD,http://000.hfr1107.top/tv/smt.php?id=natgeowild_twn
-Natgeo_HD,http://000.hfr1107.top/tv/smt.php?id=natgeohd_twn
-TLC,http://000.hfr1107.top/tv/smt.php?id=Tlc
-TLC Asia,http://000.hfr1107.top/tv/smt.php?id=tlc_twn
-亞洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn
-美食星球,http://000.hfr1107.top/tv/smt.php?id=foodplanet_twn
-
-新聞News,#genre#
-ABC News,http://000.hfr1107.top/tv/smt.php?id=abcnews_glo
-Al-Jazeera,http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn
-BBC World News,http://000.hfr1107.top/tv/smt.php?id=Bbcnews
-BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
-Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
-CBS HD,http://000.hfr1107.top/tv/smt.php?id=cbshd_glo
-CBSN HD,http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
-CGTN,http://000.hfr1107.top/tv/smt.php?id=CGTN
-CNA,http://000.hfr1107.top/tv/smt.php?id=cna
-CNBC,http://000.hfr1107.top/tv/smt.php?id=cnbc_twn
-CNN International,http://000.hfr1107.top/tv/smt.php?id=Cnn
-CNN(備用),http://000.hfr1107.top/tv/smt.php?id=cnn_twn
-DW (Deutsch),http://000.hfr1107.top/tv/smt.php?id=dw_twn
-Fox News,http://000.hfr1107.top/tv/smt.php?id=foxnews_twn
-France 24,http://000.hfr1107.top/tv/smt.php?id=france24_twn
-NHK World,http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan
-Skynews,http://000.hfr1107.top/tv/smt.php?id=skynews_antik
-
-兒童Kids,#genre#
-Animax,http://000.hfr1107.top/tv/smt.php?id=Animax
-Baby TV Eng,http://000.hfr1107.top/tv/smt.php?id=Babytv
-Baby TV,http://000.hfr1107.top/tv/smt.php?id=babytv_twn
-Boomerang Taiwan,http://000.hfr1107.top/tv/smt.php?id=boomerang_twn
-Boomerang,http://000.hfr1107.top/tv/smt.php?id=Boomerang
-CBeebies,http://000.hfr1107.top/tv/smt.php?id=Cbeebies
-Cartoon Network,http://000.hfr1107.top/tv/smt.php?id=Cn
-Disney Taiwan,http://000.hfr1107.top/tv/smt.php?id=disneytwn_twn
-Kids TV,http://000.hfr1107.top/tv/smt.php?id=KidsTV
-MiaoMi,http://000.hfr1107.top/tv/smt.php?id=MiaoMi
-Momo TV,http://000.hfr1107.top/tv/smt.php?id=momo1_twn
-Nick Jr,http://000.hfr1107.top/tv/smt.php?id=Nickjr
-Nickelodeon,http://000.hfr1107.top/tv/smt.php?id=Nickelodeon
-東森幼幼 Yoyo TV,http://000.hfr1107.top/tv/smt.php?id=yoyo_twn
-靖天卡通台,http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn
-
-泰國Thailand,#genre#
-Amarin,http://000.hfr1107.top/tv/smt.php?id=amarin_pat
-Ch 8,http://000.hfr1107.top/tv/smt.php?id=ch8_pat
-Channel 3 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch3_pat
-Channel 5 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch5_pat
-Channel 7 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch7_pat
-Gmm Channel,http://000.hfr1107.top/tv/smt.php?id=gmmchannel_pat
-GmmOne,http://000.hfr1107.top/tv/smt.php?id=gmmone_pat
-MCOT HD Thailand-1,http://000.hfr1107.top/tv/smt.php?id=mcot_pat
-Mono,http://000.hfr1107.top/tv/smt.php?id=mono_pat
-Nation,http://000.hfr1107.top/tv/smt.php?id=nation_pat
-Nbt,http://000.hfr1107.top/tv/smt.php?id=nbt_pat
-New,http://000.hfr1107.top/tv/smt.php?id=new_pat
-PPTV Thailand 1,http://000.hfr1107.top/tv/smt.php?id=pptv_pat
-TPTV,http://000.hfr1107.top/tv/smt.php?id=tptv_pat
-Thai Thai,http://000.hfr1107.top/tv/smt.php?id=thaithai_pat
-Thairath,http://000.hfr1107.top/tv/smt.php?id=thairath_pat
-Tnn24,http://000.hfr1107.top/tv/smt.php?id=tnn24_pat
-Workpoint,http://000.hfr1107.top/tv/smt.php?id=workpoint_pat
-tpbs,http://000.hfr1107.top/tv/smt.php?id=tpbs_pat
-
-英國UK,#genre#
-Al Jazeera,http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn
-Animal Planet (Eng),http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet
-Axn HD,http://000.hfr1107.top/tv/smt.php?id=Axn
-BBC 1,http://000.hfr1107.top/tv/smt.php?id=bbc1_antik
-BBC 2,http://000.hfr1107.top/tv/smt.php?id=bbc2_antik
-BBC Earth HD,http://000.hfr1107.top/tv/smt.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn
-BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcworldnews_antik
-Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
-Boomerang,http://000.hfr1107.top/tv/smt.php?id=Boomerang
-CBBC,http://000.hfr1107.top/tv/smt.php?id=cbbc_antik
-CBeebies,http://000.hfr1107.top/tv/smt.php?id=Cbeebies
-CNBC,http://000.hfr1107.top/tv/smt.php?id=cnbc_twn
-Channel 4,http://000.hfr1107.top/tv/smt.php?id=channel4_antik
-DW (Deutsch),http://000.hfr1107.top/tv/smt.php?id=dw_twn
-Euronews,http://000.hfr1107.top/tv/smt.php?id=euronews_antik
-France 24,http://000.hfr1107.top/tv/smt.php?id=france24_twn
-Freesports,http://000.hfr1107.top/tv/smt.php?id=freesports_antik
-HBO HD,http://000.hfr1107.top/tv/smt.php?id=Hbo
-HGTV,http://000.hfr1107.top/tv/smt.php?id=HGTV
-History,http://000.hfr1107.top/tv/smt.php?id=History
-Hits Movie,http://000.hfr1107.top/tv/smt.php?id=Hitsmovie
-itv 1,http://000.hfr1107.top/tv/smt.php?id=itv1_antik
-itv 2,http://000.hfr1107.top/tv/smt.php?id=itv2_antik
-Kids TV,http://000.hfr1107.top/tv/smt.php?id=KidsTV
-MTV Live,http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn
-More4,http://000.hfr1107.top/tv/smt.php?id=more4_antik
-NHK World,http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan
-NatGeo HD,http://000.hfr1107.top/tv/smt.php?id=Natgeo
-NatGeo Wild HD,http://000.hfr1107.top/tv/smt.php?id=Natgeowild
-Nick Jr,ttp://phdown.serv00.net/Smartv.php?id=Nickjr
-Nickelodeon,http://000.hfr1107.top/tv/smt.php?id=Nickelodeon
-Pick TV,http://000.hfr1107.top/tv/smt.php?id=picktv_antik
-Skynews,http://000.hfr1107.top/tv/smt.php?id=skynews_antik
-Skysports Arena,http://000.hfr1107.top/tv/smt.php?id=tiankongarena
-Skysports Cricket,http://000.hfr1107.top/tv/smt.php?id=tiankongcricket
-Skysports EPL,http://000.hfr1107.top/tv/smt.php?id=tiankongepl
-Skysports F1,http://000.hfr1107.top/tv/smt.php?id=tiankongf1
-Skysports Football,http://000.hfr1107.top/tv/smt.php?id=tiankongfootball
-Skysports Golf,http://000.hfr1107.top/tv/smt.php?id=tiankonggolf
-Skysports Main Event,http://000.hfr1107.top/tv/smt.php?id=tiankongmain
-Skysports News,http://000.hfr1107.top/tv/smt.php?id=tiankongnews
-Star Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmovies_raj
-TLC,http://000.hfr1107.top/tv/smt.php?id=Tlc
-Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill
-Warner TV,http://000.hfr1107.top/tv/smt.php?id=WarnerTV
-
-越南Vietnam,#genre#
-ANTV,http://000.hfr1107.top/tv/smt.php?id=viet_antv
-BPTV 2,http://000.hfr1107.top/tv/smt.php?id=viet_bptv2
-BRT HD,http://000.hfr1107.top/tv/smt.php?id=viet_brt
-Ca Mau TV,http://000.hfr1107.top/tv/smt.php?id=viet_camautv
-Danang TV1 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv1
-Danang TV2 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv2
-HBTV HD,http://000.hfr1107.top/tv/smt.php?id=viet_hbtv
-HTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_htv7
-HTV 9,http://000.hfr1107.top/tv/smt.php?id=viet_htv9
-PTTH 1,http://000.hfr1107.top/tv/smt.php?id=viet_ptth1
-VTV 1,http://000.hfr1107.top/tv/smt.php?id=viet_vtv1
-VTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_vtv7
-
-韓國Korea,#genre#
-All the Kpop,http://000.hfr1107.top/tv/smt.php?id=allthekpop_korea
-Apps TV,http://000.hfr1107.top/tv/smt.php?id=appongoogle_korea
-Arirang HD,http://000.hfr1107.top/tv/smt.php?id=arirang_korea
-CBS,http://000.hfr1107.top/tv/smt.php?id=cbs_korea
-CGNTV,http://000.hfr1107.top/tv/smt.php?id=cgntv_korea
-EBS 1,http://000.hfr1107.top/tv/smt.php?id=ebs1_korea
-EBS Kids,http://000.hfr1107.top/tv/smt.php?id=ebskids_korea
-EBS Plus2,http://000.hfr1107.top/tv/smt.php?id=ebsplus2_korea
-EBS2,http://000.hfr1107.top/tv/smt.php?id=ebs2_korea
-KBS World 24,http://000.hfr1107.top/tv/smt.php?id=kbsworld24_korea
-SBS Plus,http://000.hfr1107.top/tv/smt.php?id=sbsplus_korea
-YTN DMB,http://000.hfr1107.top/tv/smt.php?id=ytndmb_korea
-YTN Korean,http://000.hfr1107.top/tv/smt.php?id=ytnkorean_korea
-YTN Science,http://000.hfr1107.top/tv/smt.php?id=ytnscience_korea
-YTN,http://000.hfr1107.top/tv/smt.php?id=ytn_korea
-Yonhap News,http://000.hfr1107.top/tv/smt.php?id=yonhapnews_korea
-
-日本Japan,#genre#
-BS-TBS,http://000.hfr1107.top/tv/smt.php?id=bstbs_japan
-BSジャパン 181,http://000.hfr1107.top/tv/smt.php?id=bs181_japan
-BSフジ BS Fuji,http://000.hfr1107.top/tv/smt.php?id=bsfuji_japan
-CNA Japan,http://000.hfr1107.top/tv/smt.php?id=cna_japan
-JET 綜合,http://000.hfr1107.top/tv/smt.php?id=jettv_japan
-NHK Oaska,http://000.hfr1107.top/tv/smt.php?id=nhkosaka_japan
-NHK World,http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan
-NHK-E,http://000.hfr1107.top/tv/smt.php?id=nhke_japan
-NHK-総合-2,http://000.hfr1107.top/tv/smt.php?id=nhkg_japan
-NHKBS1,http://000.hfr1107.top/tv/smt.php?id=nhkbs1_japan
-NHKBSプレミア Premium,http://000.hfr1107.top/tv/smt.php?id=nhkpremium_japan
-TOKYOMX,http://000.hfr1107.top/tv/smt.php?id=tokyomx_japan
-テレビ朝日 Asahi TV,http://000.hfr1107.top/tv/smt.php?id=asahitv_japan
-テレビ東京 Tokyo TV,http://000.hfr1107.top/tv/smt.php?id=tokyotv_japan
+台湾api,#genre#
+寰宇新闻台,http://api.mytv666.top/api/hkhk.php?id=3564653032633337613964616638353465646263396438356462316234373238267469643d77696e74763132332669643d3437&auth=123
+寰宇新闻台,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
+寰宇新闻台,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
+寰宇财经台,http://api.mytv666.top/api/hkhk.php?id=3137613666393939393631373064653438366162653765316133323561663233267469643d6c6974762669643d3138&auth=123
+寰宇新闻台湾台,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133
+寰宇新闻台湾台,http://api.mytv666.top/api/hk.php?id=3264386336616633313438633165356234343633333835343932323730646666267469643d77696e74763132332669643d3438
+寰宇新闻台湾台,http://api.mytv666.top/api/hk.php?id=6663313334653639326536343765613362363865383137386639663930323237267469643d74762669643d3630
+镜新闻,http://api.mytv666.top/api/hkhk.php?id=6463663666393262636638326639623730393065356532633436656361353232267469643d77696e74763132332669643d3535&auth=123
+中天新闻,http://api.mytv666.top/api/hkhk.php?id=3862366539313935356333316130363734623834353962623032616433353263267469643d77696e74763132332669643d3433&auth=123
+中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
+中天新闻,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
+中天亚洲,http://api.mytv666.top/api/hkhk.php?id=6230353962323532613838363830373564306164326137336138366430623435267469643d77696e74763132332669643d3738&auth=123
+中天亚洲,http://api.mytv666.top/api/hk.php?id=
+3962383334666661326334396461326537383063663333666566333830363536267469643d74762669643d313030
+中天综合,http://api.mytv666.top/api/hkhk.php?id=3136633239643731366133313732326436323336663339393265653333343361267469643d77696e74763132332669643d3737&auth=123
+东森新闻,http://api.mytv666.top/api/hkhk.php?id=6666323035643663343766316231356134636232653135646535333232336166267469643d77696e74763132332669643d3434&auth=123
+东森新闻,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
+东森新闻,http://api.mytv666.top/api/hk.php?id=3534346532363736323231376661333239383839363464666132363138313131267469643d74762669643d313037
+东森财经新闻,http://api.mytv666.top/api/hkhk.php?id=3366353564656564303034623865343935613737356162393665633732633138267469643d77696e74763132332669643d3435&auth=123
+东森财经新闻,http://api.mytv666.top/api/hk.php?id=3234393438633333356332626430653464356635333236346565626161316431267469643d74762669643d3531
+东森财经新闻,http://api.mytv666.top/api/hk.php?id=3562643832313631313434373563326638623863323238613638656438333937267469643d74762669643d313038
+东森综合,http://api.mytv666.top/api/hkhk.php?id=6234383261306531303263656431643161316166633036336366633037326530267469643d77696e74763132332669643d3936&auth=123
+东森超视,http://api.mytv666.top/api/hkhk.php?id=6137396363613066383538393561393837633835393039333966386335623666267469643d77696e74763132332669643d3935&auth=123
+东森电影,http://api.mytv666.top/api/hkhk.php?id=3563613433653133623862616531376566383964346437653631326632353735267469643d77696e74763132332669643d3937&auth=123
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
+东森美洲HD,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
+TVBS,http://api.mytv666.top/api/hkhk.php?id=3530393233353135316139356235363965653137653863353561653864336263267469643d77696e74763132332669643d3730&auth=123
+TVBS,http://api.mytv666.top/api/hk.php?id=3266393834623966663864373438353433313662666237356336646262653465267469643d74762669643d3937
+TVBS,http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635
+TVBS ASIA,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS新闻台,http://api.mytv666.top/api/hkhk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532&auth=123
+TVBS新闻台,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
+TVBS新闻台,http://api.mytv666.top/api/hk.php?id=6437303339323237356232633666346535353937623264636361613238353236267469643d74762669643d3633
+TVBS精采台,http://api.mytv666.top/api/hkhk.php?id=3965316530663461373932623537373037303234333262373931613232343761267469643d77696e74763132332669643d3732&auth=123
+TVBS精采台,http://api.mytv666.top/api/hk.php?id=3830363432383130613863336265653834636434616138323833633234613230267469643d74762669643d313537
+TVBS欢乐台,http://api.mytv666.top/api/hkhk.php?id=6236616334353366303862316264353063653232626338383639306330623231267469643d77696e74763132332669643d3731&auth=123
+TVBS欢乐台,http://api.mytv666.top/api/hk.php?id=3762336166623866323763356361653833376266313161666333646136363637267469643d74762669643d313538
+TVBS NEWS LIVE YT,https://youtu.be/m_dhMSvUCIc
+三立新闻台,http://api.mytv666.top/api/hkhk.php?id=3039633665656561383636346338363161356263393430626635646433373264267469643d77696e74763132332669643d3533&auth=123
+三立台湾台,http://api.mytv666.top/api/hkhk.php?id=3362333838663839386633393162343165396331313735636535396339356263267469643d77696e74763132332669643d3735&auth=123
+三立综合台,http://api.mytv666.top/api/hkhk.php?id=3936646366363234396664323161303363653066663833663737303632353639267469643d77696e74763132332669643d3734&auth=123
+三立都会台,http://api.mytv666.top/api/hkhk.php?id=3862326632383437333863303830376562326363383463336662343764366335267469643d77696e74763132332669643d3736&auth=123
+非凡新闻,http://api.mytv666.top/api/hkhk.php?id=6535653061616461623036323237633861356363353266366634613166303734267469643d77696e74763132332669643d3536&auth=123
+非凡商业,http://api.mytv666.top/api/hkhk.php?id=3432656438643533343636386333376439323532353034383836626535393132267469643d6c6974762669643d3934&auth=123
+中视新闻,http://api.mytv666.top/api/hkhk.php?id=6138663230386338366361363064623465353961333963373563343466316639267469643d77696e74763132332669643d3530&auth=123
+中视新闻,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
+中视,http://api.mytv666.top/api/hkhk.php?id=3366353036636664306332393565306231326664383865666337396366353366267469643d77696e74763132332669643d3637&auth=123
+中视,http://api.mytv666.top/api/hk.php?id=3464346135333265303837393831333236363336666134303261386664336234267469643d74762669643d313138
+中视,http://api.mytv666.top/api/hk.php?id=3735333965643234313330643235393236666134346364646139393065363839267469643d74762669643d3638
+中视经典,http://api.mytv666.top/api/hkhk.php?id=6233316464333965343834343965316364653739333234663933313366636330267469643d6c6974762669643d3335&auth=123
+中视经典,http://api.mytv666.top/api/hk.php?id=3130643637316464346664313538393839303063663564663535386230323339267469643d74762669643d313331
+中视菁采,http://api.mytv666.top/api/hkhk.php?id=3938303836663366633130663434333136366362346665373666346663643864267469643d6c6974762669643d3538&auth=123
+中视菁采,http://api.mytv666.top/api/hk.php?id=3265643234663932333564313563356430663036346636303535616139663434267469643d74762669643d313534
+年代新闻,http://api.mytv666.top/api/hkhk.php?id=3666643635353637663833346366363536386431333931323061356464376332267469643d77696e74763132332669643d3436&auth=123
+华视新闻,http://api.mytv666.top/api/hkhk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531&auth=123
+华视新闻,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
+华视新闻,http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
+华视,http://api.mytv666.top/api/hkhk.php?id=3537333165663764383566623263326364383330316264303565343834386337267469643d77696e74763132332669643d3638&auth=123
+华视,http://api.mytv666.top/api/hk.php?id=3365666436303335663238313031386236313534663061623262383237396633267469643d74762669643d3731
+华视,http://api.mytv666.top/api/hk.php?id=3537333165663764383566623263326364383330316264303565343834386337267469643d77696e74763132332669643d3638
+华视,http://api.mytv666.top/api/hk.php?id=3838353863663263646330383163326466643535306539366535303963653963267469643d74762669643d313139
+台视,http://api.mytv666.top/api/hkhk.php?id=3635653132623764396265363436643739323138323765393036626237366463267469643d77696e74763132332669643d3636&auth=123
+台视,http://api.mytv666.top/api/hk.php?id=3837336464383036613733306162366165643731666434336664376263663166267469643d74762669643d3639
+台视财经,http://api.mytv666.top/api/hk.php?id=3430653266396334373235643533373737646262616130373136356362633564267469643d74762669643d313033
+台视新闻,http://api.mytv666.top/api/hkhk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439&auth=123
+台视新闻,http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
+台视新闻,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+民视,http://api.mytv666.top/api/hkhk.php?id=3535663430343962396335386334633135326162666337313938633136663933267469643d77696e74763132332669643d3635&auth=123
+民视,http://api.mytv666.top/api/hk.php?id=3039313639653531353135383931613266353266353863623032313533613632267469643d74762669643d313136
+民视,http://api.mytv666.top/api/hk.php?id=6361363033353131663530376266363361636334336333653632306432396439267469643d74762669643d3730
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://api.mytv666.top/api/hkhk.php?id=3866616331333533363464353463346432653139633236633036643261633831267469643d77696e74763132332669643d3538&auth=123
+民视新闻,http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
+民视新闻,http://api.mytv666.top/api/hk.php?id=6333356235396430353565313132653234663436373463386363396139623936267469643d74762669643d313130
+民视台湾台,http://api.mytv666.top/api/hkhk.php?id=3936623864373237393832636234343734303638633864343932633266353565267469643d77696e74763132332669643d3630&auth=123
+民视第一台,http://api.mytv666.top/api/hkhk.php?id=3439383336376563333165643336383130326662303638653865313765396563267469643d77696e74763132332669643d3539&auth=123
+民视第一台,http://api.mytv666.top/api/hk.php?id=6564636432633233613630653031366663363066613933326138326133396637267469643d74762669643d313732
+民视综艺,http://api.mytv666.top/api/hkhk.php?id=3535663430343962396335386334633135326162666337313938633136663933267469643d77696e74763132332669643d3635&auth=123
+民视综艺,http://api.mytv666.top/api/hk.php?id=3466353364643062353139316130616161376438323237333565653365343633267469643d77696e74763132332669643d3633
+民视旅游,http://api.mytv666.top/api/hkhk.php?id=3663636134303964303063353333326433303230353763393836326330643437267469643d77696e74763132332669643d3632&auth=123
+民视旅游,http://api.mytv666.top/api/hk.php?id=6661393234373339313163383837613836623134613563323132623331623164267469643d74762669643d313733
+民视影剧,http://api.mytv666.top/api/hkhk.php?id=3932633963646136396465373830346233643461306137346538363539353136267469643d77696e74763132332669643d3631&auth=123
+民视影剧,http://api.mytv666.top/api/hk.php?id=3737616264346339376163646432313336343463303535303963626531336161267469643d74762669643d313239
+公视,http://api.mytv666.top/api/hkhk.php?id=3434336138663063376434323465373431346164646563383235353134396562267469643d77696e74763132332669643d3639&auth=123
+公视戏剧,http://api.mytv666.top/api/hk.php?id=6166663738326236646135356364343066353033643135666631306136313965267469643d74762669643d313335
+公视戏剧,http://api.mytv666.top/api/hkhk.php?id=3263373434653631626536663836393537326462643361366436646330343065267469643d6c6974762669643d3339&auth=123
+台湾戏剧台,http://api.mytv666.top/api/hkhk.php?id=6436663533316334663636663430326433633438386534306563333365666466267469643d6c6974762669643d3336&auth=123
+台湾戏剧台,http://api.mytv666.top/api/hk.php?id=3463306332643630643937393638373465353766316635323663316330353239267469643d74762669643d313332
+八大综合台,http://api.mytv666.top/api/hkhk.php?id=6432303036623131376165396235363838636230323933383061356535356232267469643d77696e74763132332669643d3939&auth=123
+八大第一台,http://api.mytv666.top/api/hkhk.php?id=3238623934303035353934313834633739393932656236616464353134623838267469643d77696e74763132332669643d3938&auth=123
+八大精彩台,http://api.mytv666.top/api/hkhk.php?id=6532383130313463303238333863386363643464336636343737616463643664267469643d6c6974762669643d3539&auth=123
+八大综艺台,http://api.mytv666.top/api/hkhk.php?id=3466656631326164643136646630636664366135346136353435353761373661267469643d6c6974762669643d3630&auth=123
+八大综艺台,http://api.mytv666.top/api/hk.php?id=3661663237323836323533336531326231366461356565383364653331353739267469643d74762669643d313536
+龙华经典,http://api.mytv666.top/api/hkhk.php?id=6234653335643538323064396232333330643138333434326166343337653066267469643d6c6974762669643d3334&auth=123
+龙华经典,http://api.mytv666.top/api/hk.php?id=3065633761663630333461656536343531636333616636383031653138653532267469643d74762669643d313330
+龙华戏剧,http://api.mytv666.top/api/hkhk.php?id=6234396130623938653432346235303564643333633836313966336635313265267469643d6c6974762669643d3430&auth=123
+龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
+龙华卡通,http://api.mytv666.top/api/hkhk.php?id=3462376263333533653532653937363736323337653961323233663835616635267469643d6c6974762669643d3732&auth=123
+龙华卡通,http://api.mytv666.top/api/hk.php?id=3961623136396366373832363138326665363465376132323166356131303438267469643d74762669643d313638
+龙华日韩,http://api.mytv666.top/api/hkhk.php?id=6264653631303835383063343031366435373466633232626131356539306663267469643d6c6974762669643d3733&auth=123
+龙华日韩,http://api.mytv666.top/api/hk.php?id=3736613333383334346630626430353238656638393462343032653335616630267469643d74762669643d313639
+龙华偶像,http://api.mytv666.top/api/hkhk.php?id=6565666563313265393836303137643266656663623534333632653238646165267469643d6c6974762669643d3734&auth=123
+龙华偶像,http://api.mytv666.top/api/hk.php?id=3333626561633566626266666436633135393564303031376437623464303066267469643d74762669643d313730
+龙华电影,http://api.mytv666.top/api/hkhk.php?id=3532303962643333396663643835653065396537366563656330303737333762267469643d6c6974762669643d3331&auth=123
+靖天电影,http://api.mytv666.top/api/hkhk.php?id=6164636238386133666364323837373136666365343730396162386664653465267469643d6c6974762669643d3330&auth=123
+靖天电影,http://api.mytv666.top/api/hk.php?id=3235646236316132333834636665636537663935383763353038393730396532267469643d74762669643d313236
+靖天育乐,http://api.mytv666.top/api/hkhk.php?id=3432373533663336643461373764323963623063366165383438343965363964267469643d6c6974762669643d3435&auth=123
+靖天育乐,http://api.mytv666.top/api/hk.php?id=3133636463383564376130636362643433633466316532626264303232346139267469643d74762669643d313431
+靖天欢乐,http://api.mytv666.top/api/hkhk.php?id=3134396232666635333534363864333434386131613963356638653738366665267469643d6c6974762669643d3633&auth=123
+靖天欢乐,http://api.mytv666.top/api/hk.php?id=3839366637653866343562363363376538376632633733353235626162363134267469643d74762669643d313539
+靖天综合,http://api.mytv666.top/api/hkhk.php?id=3561353766363161633733306331323863643833666634383932313362633265267469643d6c6974762669643d3634&auth=123
+靖天综合,http://api.mytv666.top/api/hk.php?id=3730333133323235653333313763616232336432646539356165303036653662267469643d74762669643d313630
+靖天资讯,http://api.mytv666.top/api/hkhk.php?id=3732363365363838653232633932353739376366303137636161656564656131267469643d6c6974762669643d3635&auth=123
+靖天资讯,http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631
+靖天卡通,http://api.mytv666.top/api/hkhk.php?id=3230366535376533303361353437393836383434306434623664333466643863267469643d6c6974762669643d3636&auth=123
+靖天卡通,http://api.mytv666.top/api/hk.php?id=3536363563306635366665346566326566613430323937633364666166666632267469643d74762669643d313632
+靖天日本,http://api.mytv666.top/api/hkhk.php?id=3935663737663732643834633061633865323031366331666565633566323261267469643d6c6974762669643d3637&auth=123
+靖天日本,http://api.mytv666.top/api/hk.php?id=6262333561643236323763616135643836386163393966633066613330393130267469643d74762669643d313633
+靖天国际,http://api.mytv666.top/api/hkhk.php?id=3565323661663639343630666164366662613631396533383637386437313434267469643d6c6974762669643d3639&auth=123
+靖天国际,http://api.mytv666.top/api/hk.php?id=6364643431346437396338333162316133383236656439623265636138303732267469643d74762669643d313635
+靖天映画,http://api.mytv666.top/api/hkhk.php?id=3866323634653230653963633263353738626262303238666138363638386266267469643d6c6974762669643d3730&auth=123
+靖天映画,http://api.mytv666.top/api/hk.php?id=3366353563616434393236663337313533636664313136376136663331626566267469643d74762669643d313636
+靖天戏剧,http://api.mytv666.top/api/hkhk.php?id=3331323563616233346231323734653436373937363665383764383161376438267469643d6c6974762669643d3338&auth=123
+靖洋戏剧,http://api.mytv666.top/api/hkhk.php?id=3533353638626361633931373563626437623633393264653438633433663733267469643d6c6974762669643d3337&auth=123
+靖洋戏剧,http://api.mytv666.top/api/hk.php?id=3339666661346639386533613638363831376163336238643537356233633165267469643d74762669643d313333
+靖洋卡通,http://api.mytv666.top/api/hkhk.php?id=6466663863323731386139313532633764396232303464316434366237393163267469643d6c6974762669643d3638&auth=123
+靖洋卡通,http://api.mytv666.top/api/hk.php?id=6439333435633230343261376137336237646336336138646138643336303965267469643d74762669643d313634
+纬来日本,http://api.mytv666.top/api/hkhk.php?id=6162396334313766366139633661346139336139613735646138303363373534267469643d77696e74763132332669643d3830&auth=123
+纬来日本,http://api.mytv666.top/api/hk.php?id=3133363034363738393961346338323433306638356263633139386238313034267469643d74762669643d3738
+纬来育乐,http://api.mytv666.top/api/hkhk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831&auth=123
+纬来育乐,http://api.mytv666.top/api/hk.php?id=3330336638356238356263323033303763623537646464323863373231323864267469643d74762669643d3739
+纬来体育,http://api.mytv666.top/api/hkhk.php?id=3131306433316436386566396535356262303237306166353463653738636565267469643d77696e74763132332669643d3739&auth=123
+纬来体育,http://api.mytv666.top/api/hk.php?id=6330343464373162386136666261663835613165633337366136386437306133267469643d74762669643d3737
+ELta娱乐,http://api.mytv666.top/api/hkhk.php?id=3961333565346430633337313237346661636430653064346330323532653839267469643d6c6974762669643d3731&auth=123
+ELta体育1,http://api.mytv666.top/api/hkhk.php?id=6530633633653239613832326664653336343864636464623933373564383237267469643d77696e74763132332669643d3836&auth=123
+ELta体育2,http://api.mytv666.top/api/hkhk.php?id=6465613766636433643337373832333834303933613565636564633262316235267469643d77696e74763132332669643d3837&auth=123
+ELta体育3,http://api.mytv666.top/api/hkhk.php?id=3437336137313432303661343830343032643863306138343935653963313765267469643d77696e74763132332669643d3838&auth=123
+ELta体育4,http://api.mytv666.top/api/hkhk.php?id=6365383037626530323337343062646630353162326334353461333065303530267469643d77696e74763132332669643d3839&auth=123
+DAZN 1,http://api.mytv666.top/api/hkhk.php?id=3366366163306530383161323938613236396265353732323439646338386463267469643d77696e74763132332669643d3832&auth=123
+DAZN 2,http://api.mytv666.top/api/hkhk.php?id=3133333365353137306366656266346234663337626537306438613139366234267469643d77696e74763132332669643d3833&auth=123
+智林体育,http://api.mytv666.top/api/hkhk.php?id=6638663331646338663331356561343732326633346239613935316537653633267469643d6c6974762669643d3433&auth=123
+时尚运动,http://api.mytv666.top/api/hkhk.php?id=3865313930626266666238613133363566393561313763623231393036656362267469643d6c6974762669643d3434&auth=123
+博斯魅力,http://api.mytv666.top/api/hkhk.php?id=6334313632346532326234343530323736653235623161313933303461346237267469643d6c6974762669643d3436&auth=123
+博斯高球1,http://api.mytv666.top/api/hkhk.php?id=6163393832396132623633393938656138363564303038653761656566656630267469643d6c6974762669643d3437&auth=123
+博斯高球2,http://api.mytv666.top/api/hkhk.php?id=6331613065653365313663316238336133396361343736653930613835353064267469643d6c6974762669643d3438&auth=123
+博斯运动1,http://api.mytv666.top/api/hkhk.php?id=6534373937653266646539373135353365646661386536333439366464653430267469643d6c6974762669643d3439&auth=123
+博斯运动2,http://api.mytv666.top/api/hkhk.php?id=3736646433303331306661646439663737643838326364333263643838366134267469643d6c6974762669643d3530&auth=123
+博斯网球,http://api.mytv666.top/api/hkhk.php?id=6637636235336533376335313636643464653561663131643636663363393130267469643d6c6974762669643d3531&auth=123
+博斯无限1,http://api.mytv666.top/api/hkhk.php?id=6564633931623635323335616362303266393265626532396538343535376438267469643d6c6974762669643d3532&auth=123
+博斯无限2,http://api.mytv666.top/api/hkhk.php?id=3133303335636539333938393830303162336137313062623065336261626665267469643d6c6974762669643d3533&auth=123
+TRACE Sports,http://api.mytv666.top/api/hkhk.php?id=3137376539343332616163663134616437363162393832613630646237396163267469643d6c6974762669643d3534&auth=123
+好消息1,http://api.mytv666.top/api/hkhk.php?id=3964633130663731356437356634376163373434653361663839663331656264267469643d6c6974762669643d3932&auth=123
+好消息2,http://api.mytv666.top/api/hkhk.php?id=3038656532326464663964396264343735376563656235633337383666643935267469643d6c6974762669643d3933&auth=123
+国会频道1,http://api.mytv666.top/api/hkhk.php?id=3039643638373032383137663663366137623266363137316264613766373936267469643d6c6974762669643d3935&auth=123
+国会频道2,http://api.mytv666.top/api/hkhk.php?id=3565616135356538303165373566643733363431363637363565376436393334267469643d6c6974762669643d3936&auth=123
+HBO,http://api.mytv666.top/api/hkhk.php?id=3039623438623762383530346238303235643436376164373232633135316237267469643d77696e74763132332669643d313034&auth=123
+好莱坞电影,http://api.mytv666.top/api/hkhk.php?id=6266373463666136333137313336333434663535336432643739393566656163267469643d77696e74763132332669643d313033&auth=123
+amc电影,http://api.mytv666.top/api/hkhk.php?id=6633626132363036333635366236333130373939373033653230393833333332267469643d6c6974762669643d3238&auth=123
+影迷数位电影,http://api.mytv666.top/api/hk.php?id=6131303635353630643437386336346438346661633562366261343764303839267469643d74762669643d313233
+采昌影剧,http://api.mytv666.top/api/hkhk.php?id=6362386464633234316132343966613630303765386565376537646339633363267469643d6c6974762669643d3332&auth=123
+采昌影剧,http://api.mytv666.top/api/hk.php?id=6361386462373364393864616332363139666231356561623434633162633038267469643d74762669643d313238
+华仁纪实,http://api.mytv666.top/api/hkhk.php?id=6563666464333437656432313662626166386533313663346532616430343665267469643d6c6974762669643d3537&auth=123
+MCE,http://api.mytv666.top/api/hkhk.php?id=6162653635313936356639663139393632633964633039323538623336373136267469643d6c6974762669643d3133&auth=123
+FOX NEWS,http://api.mytv666.top/api/hkhk.php?id=3235346463643265363264313532353732653563336239333764633039393761267469643d77696e74763132332669643d313037&auth=123
+CNN,http://api.mytv666.top/api/hkhk.php?id=3561323535353230366331396166326338366665396463653732633764663332267469643d77696e74763132332669643d313038&auth=123
+BBC NEWS,http://api.mytv666.top/api/hkhk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039&auth=123
+MOMOTV,http://api.mytv666.top/api/hkhk.php?id=6534356461633961306339376166393737383630616335393438323139666238267469643d77696e74763132332669643d3934&auth=123
+FGM GOLD,http://api.mytv666.top/api/hkhk.php?id=3364326264363064333164633239393633623335343666353136616335316661267469643d6c6974762669643d3237&auth=123
+探索综合,http://api.mytv666.top/api/hkhk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133&auth=123
+韩国娱乐,http://api.mytv666.top/api/hkhk.php?id=3436363339353461663662623432623463613933376238663234393939613438267469643d6c6974762669643d3939&auth=123
+亚洲旅游,http://api.mytv666.top/api/hkhk.php?id=6265353938386233393861366131333835653637323939346236323234616130267469643d6c6974762669643d3738&auth=123
+客家电视,http://api.mytv666.top/api/hkhk.php?id=6432646362626465393131326335656532616234623138356262373139343138267469643d6c6974762669643d3739&auth=123
+爱放动漫,http://api.mytv666.top/api/hkhk.php?id=3663316530333938666330656132616333616163303738366532623434363838267469643d6c6974762669643d3830&auth=123
+古典音乐,http://api.mytv666.top/api/hkhk.php?id=3534396665646131653939343336353963316331353030653333333363333561267469643d6c6974762669643d3831&auth=123
+猪哥亮歌厅秀,http://api.mytv666.top/api/hkhk.php?id=6432616233393033346337353339313539383431303830336431306461366264267469643d6c6974762669643d3832&auth=123
+猪哥亮歌厅秀,http://api.mytv666.top/api/hk.php?id=6334366330373732363432326261363432663630353664313131336133336535267469643d74762669643d313738
+Smart知识,http://api.mytv666.top/api/hkhk.php?id=6131356162366361626534316431383237623137343061393265323562353433267469643d6c6974762669643d3836&auth=123
+达文西综合,http://api.mytv666.top/api/hkhk.php?id=3439373166323639316635353737376266626164343034393733353735613462267469643d6c6974762669643d3837&auth=123
+阿里郎综合,http://api.mytv666.top/api/hkhk.php?id=6336663565343534663631303631323438663365353630653163346262633463267469643d6c6974762669643d3838&auth=123
+生活英语,http://api.mytv666.top/api/hkhk.php?id=3637653733376161353230323065366565666639356133336361643731353538267469643d6c6974762669643d3839&auth=123
+国际财经,http://api.mytv666.top/api/hkhk.php?id=6434323935346233663665313661626165613662623032323865656337393061267469643d6c6974762669643d3930&auth=123
+美国之音,http://api.mytv666.top/api/hkhk.php?id=3461383333613830383337636436663339346261353564316165353766306332267469643d6c6974762669643d3931&auth=123
+TRACE URBAN,http://api.mytv666.top/api/hkhk.php?id=3737623431346630303965653732643162313031393161383230663035323139267469643d6c6974762669643d3937&auth=123
+MEZZO LIVE,http://api.mytv666.top/api/hkhk.php?id=3838323336653235316532343038353836656161303936666339393739336333267469643d6c6974762669643d3938&auth=123
+GINX-TV,http://api.mytv666.top/api/hkhk.php?id=3936636138376566333738666137303863306463303563623534323661363664267469643d6c6974762669643d313030&auth=12
 
 livehttpplay,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
