@@ -629,25 +629,7 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 
 福建,#genre#
-海峡卫视,http://8.138.7.223/tv/fjtv1.php?id=hxws
-东南卫视,http://8.138.7.223/tv/fjtv1.php?id=dnws
-福建综合,http://8.138.7.223/tv/fjtv1.php?id=fjzh
-福建新闻,http://8.138.7.223/tv/fjtv1.php?id=fjxw
-福建电视剧,http://8.138.7.223/tv/fjtv1.php?id=fjdsj
-福建经济,http://8.138.7.223/tv/fjtv1.php?id=fjjj
-福建文体,http://8.138.7.223/tv/fjtv1.php?id=fjwt
-福建少儿,http://8.138.7.223/tv/fjtv1.php?id=fjse
-福建乡村振兴公共,http://8.138.7.223/tv/fjtv1.php?id=fjxc
-福建旅游,http://8.138.7.223/tv/fjtv1.php?id=fjly
-福州新闻综合,http://8.138.7.223/tv/fjtv1.php?id=fz1
-漳州新闻综合,http://8.138.7.223/tv/fjtv1.php?id=zz1
-泉州新闻综合,http://8.138.7.223/tv/fjtv1.php?id=qz1
-三明综合,http://8.138.7.223/tv/fjtv1.php?id=sm1
-莆田综合,http://8.138.7.223/tv/fjtv1.php?id=pt1
-南平综合,http://8.138.7.223/tv/fjtv1.php?id=np1
-龙岩综合,http://8.138.7.223/tv/fjtv1.php?id=ly1
-宁德新闻综合,http://8.138.7.223/tv/fjtv1.php?id=nd1
-平潭综合,http://8.138.7.223/tv/fjtv1.php?id=pttv
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 海峡卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.151:8894
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.132:8708
 福建旅游,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.6:8030
