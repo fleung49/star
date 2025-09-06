@@ -228,7 +228,6 @@ CCTV 13 NEWS,http://dns.yiandrive.com:13571/douyin/kuaikancctv
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新聞2,http://cors.tundracast.com:2000/https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞 CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
@@ -1524,8 +1523,10 @@ ABC NES LIVE,https://livetv-fa.tubi.video/abc-news/index.m3u8
 BBC WORLD NEWS,https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CBS NEWS 24/7,https://fl3.moveonjoy.com/CBS_News/index.m3u8
+CBS NEWS 24/7,http://143.244.60.30/CBS_News/index.m3u8
 CBS NEWS 24/7,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBS SPORTS NETWORK,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+CBS SPORTS NETWORK,http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
@@ -1533,12 +1534,14 @@ CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CNBC,https://fl3.moveonjoy.com/CNBC/index.m3u8
 CNBC,https://fl5.moveonjoy.com/CNBC/index.m3u8
+CNBC,http://143.244.60.30/CNBC/index.m3u8
 CNBC,https://tvpass.org/live/CNBC/hd
 CNBC World,https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 CNN,https://fl3.moveonjoy.com/CNN/index.m3u8
 CNN,http://104.255.88.155/cnn/index.m3u8
 CNN,http://46.105.71.222:8080/cnn/index.m3u8
 ESPN NEWS,https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+ESPN_NEWS,http://143.244.60.30/ESPN_NEWS/index.m3u8
 ESPN 2,https://fl3.moveonjoy.com/ESPN_2/index.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 FOX BUSINESS,https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
@@ -1552,6 +1555,7 @@ Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FS1,http://23.237.104.106:8080/USA_FS1/index.m3u8
 FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
+MSNBC,http://143.244.60.30/MSNBC/index.m3u8
 MSNBC,https://tvpass.org/live/MSNBC/hd
 MSNBC,https://fl3.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
@@ -1566,4 +1570,9 @@ Stingray Everything '80s,https://lotus.stingray.com/manifest/ose-128ads-montreal
 Stingray Classic Rock,https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-
+NOW 70s,https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW 80s,https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW 90s00s,https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW ROCK,https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
