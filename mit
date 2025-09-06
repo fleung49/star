@@ -539,6 +539,8 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 大湾区卫视,http://117.141.162.238:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dwqws
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+广东卫视4K,https://chinaaudiovisual.gdtv.cn/live/gdws4k.m3u8?txSecret=b4c01fc549901637c035be388f69d34d&txTime=68BA1BA3
 广东卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
 广东卫视,http://live4play.uk/livehttpplay?channel_id=20024
 广东卫视,http://www.hkyc.site:1991/udp/239.253.64.200:5140
@@ -612,9 +614,17 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 深圳卫视,http://www.kaniptv.cn/zy/cd.php?id=1206
 深圳卫视,http://live4play.uk/livehttpplay?channel_id=20025
 深圳卫视,http://218.15.20.81:3388/hls/25/index.m3u8
+深圳卫视,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szws
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳都市,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szds
 深圳都市,http://117.141.162.238:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳电视剧,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szdsj
 深圳电视剧,http://117.141.162.238:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳体育,http://117.141.162.238:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳财经生活,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szcjsh
+深圳移动电视,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szyd
+深圳国际,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szgj
+深圳少儿,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szse
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
@@ -1212,222 +1222,6 @@ TCTV,http://www.hkyc.site:1991/udp/239.253.64.117:5140
 咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&
 
-🌌☘️香港api,#genre#
-凤凰中文,http://api.mytv666.top/api/hkhk.php?id=55d438218c64ccb778a95911e495827aefc93de421b4c0e250e16e7dbdc9e9f134f140627444eb980a329c0900806683461fc9177511b6f053bb3f7f528c2a92&auth=666666
-凤凰资讯,http://api.mytv666.top/api/hkhk.php?id=03c2386ba8cbb711767b6b9811258e4edad03ba465a46204fbe5bf246b8c9b1a34f140627444eb980a329c09008066831e0001fcb33822dfdde98e32c40be11d&auth=666666
-凤凰香港,http://api.mytv666.top/api/hkhk.php?id=bf23e77ac303eccd188bfd935316c792124252734fe619e18d5a858239b1c9b934f140627444eb980a329c0900806683f808afe0edf0dba920453405c7f32346&auth=666666
-无线新闻,http://api.mytv666.top/api/hkhk.php?id=a48a84abf1dd92baac8a4c1a325eb6e99c1f150efd31cb1b41cdb041a6b32c0f34f140627444eb980a329c0900806683e5a646fb96a296d4922a308188d9c3a8&auth=666666
-翡翠台,http://api.mytv666.top/api/hkhk.php?id=d5a4a7567d00ecf1a29cace71eab87d9931b2bc3e7cfb07c3d9b93c8ff8194f534f140627444eb980a329c0900806683af592c712b06983fce125d5bc2d9710a&auth=666666
-华丽翡翠台,http://api.mytv666.top/api/hkhk.php?id=0047fbffbd37a39f0271d878dae924795bf4c9bff3548132d9ed9ab5020dafb634f140627444eb980a329c0900806683072360b67bf3ee79a6af05846b40ab1a&auth=666666
-明珠台,http://api.mytv666.top/api/hkhk.php?id=3f2597f45d5a6ac79f9650cee89bd87d9da7e020938e9505612b05cba02b8d9134f140627444eb980a329c0900806683f60a4262034e4dbe8873c99314178ee9&auth=666666
-TVB Plus,http://api.mytv666.top/api/hkhk.php?id=abe8ea51a47cdb259638d3611a402150dc26ce1bfcd98825779567fc7daff96734f140627444eb980a329c09008066831656eb5fac607d739649b7367bf8cabb&auth=666666
-无线娱乐新闻台,http://api.mytv666.top/api/hkhk.php?id=eaeb015273eb8d8b4ac61549fc7014ad9f64fe79f8f5d6d3276707a2a014597e34f140627444eb980a329c0900806683e972b04a6fab9509cd075f1a8fd4da44&auth=666666
-HOY 78,http://api.mytv666.top/api/hkhk.php?id=58e8d47a7d7042d7222aa6738f52b0e1a74c44d6233ee5cf0d72294aa951e7ee34f140627444eb980a329c090080668322b062db1a34e0649b4fe19fad6636e2&auth=666666
-HOY 78,http://api.mytv666.top/api/hkhk.php?id=ab68a33aee92a2a015267ff2bf2d0e4218f2ba57ae98ae46106fc4ac9ef5484434f140627444eb980a329c0900806683b96d1b340a6b9ea95ba2ee6b13e25302&auth=666666
-HOY 77,http://api.mytv666.top/api/hkhk.php?id=db21221ff2e21ae66180f4011ee01a397d72fba181616ef0a4839b593557c67234f140627444eb980a329c090080668309aeff5891706bf3613fe21f3b205f53&auth=666666
-HOY 76,http://api.mytv666.top/api/hkhk.php?id=d3883f3fd4f2fb2927f8cd68ec3b4d7f915b05699a0a6ffe5f6dc434df31b7fe34f140627444eb980a329c09008066835c1f822c77819a0102ace26600235e93&auth=666666
-有线赛马18台,http://api.mytv666.top/api/hkhk.php?id=a95cba19447c40aff4e90ab2576c08ecad362bb577e89f5f95ba29e4c2e31cd034f140627444eb980a329c09008066835ba1067f084cfdff7f61aee72c45d99a&auth=666666
-now新闻台,http://api.mytv666.top/api/hkhk.php?id=5a17871f9d25bb3cb28c7142c266f2bc0df4d817575deff4ccae0eab6e5b81af34f140627444eb980a329c09008066835c6b1cadfc05a0527abb2f33d2cbda04&auth=666666
-now直播台,http://api.mytv666.top/api/hkhk.php?id=18937578ac9a28e07edec8afe6e142960c78fc2ee9f8469162a3f173fc70ac5c34f140627444eb980a329c0900806683292cd15bc95a87a2c9fee165e670824d&auth=666666
-now财经台,http://api.mytv666.top/api/hkhk.php?id=3461340d814909252efba259ffe75ea8fadac8b2e2c25acdf763b3f1dd68a37734f140627444eb980a329c0900806683a4bbadaaf99d96bacc4e3324ece6d2ff&auth=666666
-VIUTV,http://api.mytv666.top/api/hkhk.php?id=66819249553a8ea23eb50d3a978753f571ae53b91cc5b799d9ead31a5c4e046834f140627444eb980a329c09008066833657c8b60dc1e0cb51e60e4d27b8ab54&auth=666666
-VIUTV6,http://api.mytv666.top/api/hkhk.php?id=8efd265a8c86e8044c82c799385b2841c834da528a413cdace58263d1168262834f140627444eb980a329c0900806683e0bdc6e33df1fdcbb0fdd806673bad5d&auth=666666
-RTHK-31,http://api.mytv666.top/api/hkhk.php?id=44237565fa7ba4d8de4388e49e83341a2eb382c6cdaa05885c9c5cb3d5de75aa34f140627444eb980a329c09008066837b190d322912faf118a18bac6eefc840&auth=666666
-RTHK-32,http://api.mytv666.top/api/hkhk.php?id=8e0f47dfa50829d94c062721a2a884b01f631af2e335649437fb294296a2c80834f140627444eb980a329c09008066833fb2257c42b3ce9bf38d1b43d2085fb4&auth=666666
-美亚电影台,http://api.mytv666.top/api/hkhk.php?id=7b20fa270df1d2976143f0d780ae8f766a332d213672905d7cb8a1641785bc5f34f140627444eb980a329c0900806683906b11ddede62d0a673dcbd5f0a2ba96&auth=666666
-
-🌌☘️央视api,#genre#
-CCTV 1,http://api.mytv666.top/api/kzb.php?id=cctv1
-CCTV 1,http://api.mytv666.top/api/hkhk.php?id=bda0aaa383a22c6eb7de3814434719dbb433b436ae3575217447f65d966a92a79d64d6b6cdb992c2d305b93329092a17&auth=666666
-CCTV 2,http://api.mytv666.top/api/kzb.php?id=cctv2
-CCTV 3,http://api.mytv666.top/api/kzb.php?id=cctv3
-CCTV 4,http://api.mytv666.top/api/kzb.php?id=cctv4
-CCTV 4美洲,http://api.mytv666.top/api/kzb.php?id=CCTV4美洲
-CCTV 4欧洲,http://api.mytv666.top/api/kzb.php?id=CCTV4欧洲
-CCTV 5,http://api.mytv666.top/api/kzb.php?id=cctv5
-CCTV 5,http://api.mytv666.top/api/hkhk.php?id=0142964e2dcbc5b21507531c548325b9df82c7a236727a8b6c2b022f44eb3afe17835a3f476dc1ef578a67ae8280b17f&auth=666666
-CCTV 5+,http://api.mytv666.top/api/hkhk.php?id=750244677d43c4b377f2982fbcbbc202e24356b6bd97d51887f17abbca9a6c2e8545c6a1be820d8e680e6ceb6c7ab76b&auth=666666
-CCTV 5+,http://api.mytv666.top/api/kzb.php?id=cctv5p
-CCTV 6,http://api.mytv666.top/api/kzb.php?id=cctv6
-CCTV 7,http://api.mytv666.top/api/kzb.php?id=cctv7
-CCTV 8,http://api.mytv666.top/api/kzb.php?id=cctv8
-CCTV 9,http://api.mytv666.top/api/kzb.php?id=cctv9
-CCTV 10,http://api.mytv666.top/api/kzb.php?id=cctv10
-CCTV 11,http://api.mytv666.top/api/kzb.php?id=cctv11
-CCTV 12,http://api.mytv666.top/api/kzb.php?id=cctv12
-CCTV 13,http://api.mytv666.top/api/kzb.php?id=cctv13
-CCTV 13,http://api.mytv666.top/api/hkhk.php?id=869735b1139df922ad6084a962eab6147d9e318312bfac76f68fd7d08faf1d89d334af118dc0999a48e18e4d42abd553&auth=666666
-CCTV 14,http://api.mytv666.top/api/kzb.php?id=cctv14
-CCTV 15,http://api.mytv666.top/api/kzb.php?id=cctv15
-CCTV 17,http://api.mytv666.top/api/kzb.php?id=cctv17
-广东卫视4K,https://chinaaudiovisual.gdtv.cn/live/gdws4k.m3u8?txSecret=b4c01fc549901637c035be388f69d34d&txTime=68BA1BA3
-广东体育,http://api.mytv666.top/api/hkhk.php?id=908d62afa415f77aabeaa9119c880a026e6d286be8c46c2eb656c5568ababc883c1a65681016577869f5d914f3b1fa60&auth=666666
-广东珠江,http://api.mytv666.top/api/hkhk.php?id=214fabf69858bfecfc41c89ef01a8da68bb3bd02aad687df1ed011be4c1d696627e3d5d447fb343cc8525a593662c75b&auth=666666
-五星体育,http://api.mytv666.top/api/hkhk.php?id=741c9d3ed6237a05d0f95bcf6feb7704305846e957c497eb245d61d6f7b6aea858c4a36d5db532da532af034636a445a&auth=666666
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-深圳卫视,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szws
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-深圳都市,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szds
-深圳电视剧,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szdsj
-深圳财经生活,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szcjsh
-深圳移动电视,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szyd
-深圳国际,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szgj
-海峡少儿,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szse
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-湖南卫视,http://api.mytv666.top/api/hkhk.php?id=0c1287966b3c75d460ec75349a60831d6f18a4d7fc706717b1e11ccd34b46e0a0b1fc16504d05bbe53891d25ec82f3f7&auth=666666
-
-🌌☘️卫视api,#genre#
-东方卫视,http://api.mytv666.top/api/kzb.php?id=东方卫视
-湖南卫视,http://api.mytv666.top/api/kzb.php?id=湖南卫视
-浙江卫视,http://api.mytv666.top/api/kzb.php?id=浙江卫视
-江苏卫视,http://api.mytv666.top/api/kzb.php?id=江苏卫视
-北京卫视,http://api.mytv666.top/api/kzb.php?id=北京卫视
-深圳卫视,http://api.mytv666.top/api/kzb.php?id=深圳卫视
-安徽卫视,http://api.mytv666.top/api/kzb.php?id=安徽卫视
-广东卫视,http://api.mytv666.top/api/kzb.php?id=广东卫视
-湖北卫视,http://api.mytv666.top/api/kzb.php?id=湖北卫视
-山东卫视,http://api.mytv666.top/api/kzb.php?id=山东卫视
-江西卫视,http://api.mytv666.top/api/kzb.php?id=江西卫视
-海南卫视,http://api.mytv666.top/api/kzb.php?id=海南卫视
-黑龙江卫视,http://api.mytv666.top/api/kzb.php?id=黑龙江卫视
-东南卫视,http://api.mytv666.top/api/kzb.php?id=东南卫视
-河北卫视,http://api.mytv666.top/api/kzb.php?id=河北卫视
-四川卫视,http://api.mytv666.top/api/kzb.php?id=四川卫视
-辽宁卫视,http://api.mytv666.top/api/kzb.php?id=辽宁卫视
-重庆卫视,http://api.mytv666.top/api/kzb.php?id=重庆卫视
-河南卫视,http://api.mytv666.top/api/kzb.php?id=河南卫视
-贵州卫视,http://api.mytv666.top/api/kzb.php?id=贵州卫视
-广西卫视,http://api.mytv666.top/api/kzb.php?id=广西卫视
-吉林卫视,http://api.mytv666.top/api/kzb.php?id=吉林卫视
-陕西卫视,http://api.mytv666.top/api/kzb.php?id=陕西卫视
-天津卫视,http://api.mytv666.top/api/kzb.php?id=天津卫视
-青海卫视,http://api.mytv666.top/api/kzb.php?id=青海卫视
-甘肃卫视,http://api.mytv666.top/api/kzb.php?id=甘肃卫视
-新疆卫视,http://api.mytv666.top/api/kzb.php?id=新疆卫视
-山西卫视,http://api.mytv666.top/api/kzb.php?id=山西卫视
-
-🌌☘️台湾api,#genre#
-寰宇新闻台,http://api.mytv666.top/api/hkhk.php?id=b8a72af83508922d1b55e7313fad16ca7a444450e3f0ace7c29a814cd1c3e62734f140627444eb980a329c0900806683363987bbd75d17c647f05d9318e93647&auth=666666
-寰宇财经台,http://api.mytv666.top/api/hkhk.php?id=5165f1021d0a2d783df9ac546b9fd5a343259b1879ed771390dd2c66537a591beaa7cc8ad74133f1364d59ac0679eb61&auth=666666
-寰宇新闻台湾台,http://api.mytv666.top/api/hkhk.php?id=7c4565dce163428cfec625b92aac6bf29d0c65f3c600b775d1a3a2385d5d3e8e34f140627444eb980a329c0900806683b2fb8e8fb57bdd20cb55e4fc44fc9b2d&auth=666666
-镜新闻,http://api.mytv666.top:80/api/hkhk.php?id=b9ed40d10b4720f7e8c6d52e22278aa9e555816f3641611690d6db3c8427761a34f140627444eb980a329c09008066838f3a5e1bb1471cc21240859a6e423c56&auth=666666
-中天新闻,http://api.mytv666.top/api/hkhk.php?id=d9b86ce177ad9758f426365159346d5e54190acb2a5b904814904f75fe9a424434f140627444eb980a329c09008066834dda9f5bf0d7875f25dbb2ac17cde1fc&auth=666666
-中天亚洲,http://api.mytv666.top/api/hkhk.php?id=e98cfe69bda66fe73ae4769a902ce51785e2f0bddb07c9e7a4f1032bf8825c1934f140627444eb980a329c09008066837d667cb30ba80ee783c79dfe1e97c29c&auth=666666
-中天综合,http://api.mytv666.top/api/hkhk.php?id=c2f1a22c1a78edfec6f5f978e8a8f1f6ffd07ac76be4cfa075ad88f31820bd6934f140627444eb980a329c0900806683d4d5f08a0e07a5cda35dac9b71c45324&auth=666666
-东森新闻,http://api.mytv666.top/api/hkhk.php?id=b9ed40d10b4720f7e8c6d52e22278aa9e555816f3641611690d6db3c8427761a34f140627444eb980a329c09008066838f3a5e1bb1471cc21240859a6e423c56&auth=666666
-东森财经新闻,http://api.mytv666.top/api/hkhk.php?id=31039db78bc4a01f3b38a02bab9c7cae38001c86b6e7681ab1c0bb2ea886132134f140627444eb980a329c09008066830e12978ac6ae2037e325249fbcb1191d&auth=666666
-东森综合,http://api.mytv666.top/api/hkhk.php?id=acd6d32255ce9b870da8bf60235598052a3c277cead98a575f90724792154fdc34f140627444eb980a329c09008066837818da6f3ebc841b034f60223c7aae5d&auth=666666
-东森超视,http://api.mytv666.top/api/hkhk.php?id=70db575be2c0611b67ec24f5bb0063f67c604f59e40417adb3ce2abf43584f2e34f140627444eb980a329c09008066835198b108a11a6484a3ba5d8c2462bbc2&auth=666666
-东森电影,http://api.mytv666.top/api/hkhk.php?id=a72bca1bdab440e377b57ffa94e32b91cc63bdc593c2fcddeb910f639669942d34f140627444eb980a329c09008066835fd24f22c0aaca58fb1d67209341aad0&auth=666666
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
-东森美洲HD,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
-TVBS,http://api.mytv666.top/api/hkhk.php?id=f231b7a49c7fd07b031a1e99a8cbe1a045b5c125259af68cfa40202fc26350ab34f140627444eb980a329c0900806683bfd4ddfece86381d284e70ad0181fc7e&auth=666666
-TVBS ASIA,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新闻台,http://api.mytv666.top/api/hkhk.php?id=81ca6d7e9d76578c4f6b1714c987c592b821962bc74476ac4243fd0f84895b8734f140627444eb980a329c0900806683d05c46fc6ad1c8baab90d43532b5403c&auth=666666
-TVBS精采台,hhttp://api.mytv666.top/api/hkhk.php?id=6478d1035c5b8d66ecdf54f2a67d2eff18a3ad21157c2a9af17b4252fd97843334f140627444eb980a329c09008066831cc1f37efbac33c2f4634b106cccd653&auth=666666
-TVBS欢乐台,http://api.mytv666.top/api/hkhk.php?id=b2450263e97f617c914d2d3e33fa825d3e633e65b9c353f8a4758bdd2637928d34f140627444eb980a329c09008066834b3717a59793dc30f1d5989398c5815b&auth=666666
-TVBS NEWS LIVE YT,https://youtu.be/m_dhMSvUCIc
-三立新闻台,http://api.mytv666.top/api/hkhk.php?id=cd3045591618a9d70690bcb27b259b86fb5c43522227d10a9732576d12ae591c34f140627444eb980a329c09008066831f30ae82f5133fd1fc88b715cc9bbe8c&auth=666666
-三立台湾台,http://api.mytv666.top/api/hkhk.php?id=42392b4de9857d99f20d63ea38689bbef479ab3176c2692fba076a7e652254b934f140627444eb980a329c0900806683777be06088730ec20824bf16d6335d46&auth=666666
-三立综合台,http://api.mytv666.top/api/hkhk.php?id=52f2567aa93436bf592a042849048bdd0c6407f47ac9a71da1116fc20120f8f934f140627444eb980a329c0900806683d36625c94b27220107c6ff4ae13fac0f&auth=666666
-三立都会台,http://api.mytv666.top/api/hkhk.php?id=50271d40e0637faf9c42af194c4ea98540365eeb3724819e3cb945a8b5501cf834f140627444eb980a329c09008066838c3dda17a9524ae268fe523f37f83317&auth=666666
-非凡新闻,http://api.mytv666.top/api/hkhk.php?id=40a48755b0b85a645ded617c18077415b78b761ec2b56ee0d8ce5cb495255b5634f140627444eb980a329c09008066838142fbd14580a1cecbeaf37e5b2c929b&auth=666666
-非凡商业,http://api.mytv666.top/api/hkhk.php?id=b132f785e3a50040d6824567967218b774be4cd662ea28dc3fd75a651fa80633460add63f206b70088ea12ceb43e735c&auth=666666
-中视新闻,http://api.mytv666.top:80/api/hkhk.php?id=b9ed40d10b4720f7e8c6d52e22278aa9e555816f3641611690d6db3c8427761a34f140627444eb980a329c09008066838f3a5e1bb1471cc21240859a6e423c56&auth=666666
-中视,http://api.mytv666.top/api/hkhk.php?id=839aa89743cca4fdc2a42f46dba793dfed677dc7c4cf8865a6c22af15f52152e34f140627444eb980a329c09008066831588e13310af0d377a4d78544c520782&auth=666666
-中视经典,hhttp://api.mytv666.top/api/hkhk.php?id=2ef7b166e567602298929b197f753594bfab50b6c933c8f6888945497a0424f0caa52e502e35e2f2fc879c0e4a96f838&auth=666666
-中视菁采,http://api.mytv666.top/api/hkhk.php?id=3908122bd3e316e445e02161726e1bbc796eefe1a74a3a79e649f5dc3abae5592f433443516154742a2494da98fdd4b5&auth=666666
-年代新闻,http://api.mytv666.top/api/hkhk.php?id=6cb7d3d0c9a999a7986fb5292b1b3cdcbcd65785ba126ed42f79a931f3eed5ab34f140627444eb980a329c09008066830744d155cdbdd65930dca3b6dd124fda&auth=666666
-华视新闻,http://api.mytv666.top/api/hkhk.php?id=1700d29133fe737d3e03582b38742338124efd147445134f579644b6301110d734f140627444eb980a329c0900806683dfdf60e7837501cd40177990f7aea688&auth=666666
-华视,http://api.mytv666.top/api/hkhk.php?id=914534206d9af84ffdbc04ca8f6f332efeee5a6790010bf1cd4d228901a5683c34f140627444eb980a329c090080668330851b4e0b3d438b98afcdce2c9adfda&auth=666666
-台视,http://api.mytv666.top/api/hkhk.php?id=482324c4c6b9ace6d6a79bc66d06e138f5d36b546a479d61e38a67d8e21adc5734f140627444eb980a329c090080668305c4b793fd5da01ce2dbc1c7e95177b5&auth=666666
-台视财经,http://api.mytv666.top/api/hkhk.php?id=8036ce8962853149828f22af67de1b00750257849563759c3227abe71e151f67a20d76b8cc2cc29e547401917cacef88&auth=666666
-台视新闻,http://api.mytv666.top/api/hkhk.php?id=bacd5e1095a989ee80c410d035809f4f87930a6cbb632cbaccaec9a35f5d38db34f140627444eb980a329c0900806683f6af8cfeee93baf5a245a52fb096a8d9&auth=666666
-民视,http://api.mytv666.top/api/hkhk.php?id=c4b843ef3745d9e826b5b35975b27249ea7b0bfdb0e4f3f6f71833168f7febcf34f140627444eb980a329c09008066836ff8c673472b2fc2f3cd938e72a97454&auth=666666
-民视新闻,http://api.mytv666.top/api/hkhk.php?id=3bfd1d58de98332474ad1b92f20f335b47a149fdb1aa4bccb1fa999970ac75e234f140627444eb980a329c0900806683d337ab085021b4bf4a3761d7dae8d302&auth=666666
-民视台湾台,http://api.mytv666.top/api/hkhk.php?id=b4bb260f69f2339102ecedcec8d62b8f47ea1c4aae6bfa7b295c288c743ef63534f140627444eb980a329c0900806683e6e32c63d163b2bbf10903a47fc8c8d7&auth=666666
-民视第一台,http://api.mytv666.top/api/hkhk.php?id=bf7116f1812e51626367dd3218fd901296f0f4f764c20e0a685efaf69fee021b34f140627444eb980a329c0900806683bf386d1edd4bad133be9f7532a3a8a00&auth=666666
-民视综艺,http://api.mytv666.top/api/hkhk.php?id=0b35ea9dedb9b7a3724886a265319a379e79bb48435c62aab0f1092dfd34b8dc34f140627444eb980a329c09008066838bc05acbee1572d418290b319c962b2a&auth=666666
-民视旅游,http://api.mytv666.top/api/hkhk.php?id=74feed37700862aa9043abcff47aaaeff4ed3ebe507a55f7cc39dec6e51ec8fd34f140627444eb980a329c09008066831cd14b066825badec69e302738c468fa&auth=666666
-民视影剧,http://api.mytv666.top/api/hkhk.php?id=701c892758ce2afa78020ed2f4d789fc45791edde470bf4870f31c7bc334d31234f140627444eb980a329c090080668314a00694aad94bc26ecc02c69a55f7d5&auth=666666
-公视,http://api.mytv666.top/api/hkhk.php?id=4f2c53223c373725d46e221fe116e50bff67813cdedb6169f77337a83d10b80734f140627444eb980a329c0900806683208e95fdaabbaed2fed9906f65a9a3df&auth=666666
-公视戏剧,http://api.mytv666.top/api/hkhk.php?id=5634ce608d34e4148186a097b5c0cbf940ee0f691ecab87b2b8f7a595f08c210abee92d5fea4b56a92cec2330b4e2980&auth=666666
-台湾戏剧台,http://api.mytv666.top/api/hkhk.php?id=33a698906fbed9166c89387964bb906c8b7ed09f463367702e2ec0da976ae2f729cb94a8f7c219aaeae67b2ceb007786&auth=666666
-八大综合台,http://api.mytv666.top/api/hkhk.php?id=1190d4a2d7138073e6c4d93b3c6f6b98cf1055f3185a2da0ac6b971fecbf330234f140627444eb980a329c0900806683e7a2b76953cbcb6427bd64d2c277b538&auth=666666
-八大第一台,http://api.mytv666.top/api/hkhk.php?id=19e178509d5006ea51f7f9f27b7e05e7d9c804a0c1fa18220497a3ce764ada3534f140627444eb980a329c090080668357a6aa1abec57e027badbc3505e3b0a8&auth=666666
-八大精彩台,http://api.mytv666.top/api/hkhk.php?id=0ae39f7084f0fed886cd59ee62d6757c10625f02874e40dc26b7ddb4908363bb54243e3aea046cf6f06117727651d1cc&auth=666666
-八大综艺台,http://api.mytv666.top/api/hkhk.php?id=ce06ccd57c1049a4478c44a3521233c10a3f0c647984bdf8617c319049bde6ed6c7b58757fe741c326e753142a99df50&auth=666666
-龙华经典,http://api.mytv666.top/api/hkhk.php?id=0bfd22fe15db577225dbbab07e43838595bff9f6380f420c8fb17acb40b2d17dab17aa0077f9ca824d51b29c339af088&auth=666666
-龙华戏剧,http://api.mytv666.top/api/hkhk.php?id=4595aea1f783d0135e726bf5680493753895050b10a525c1a08623421507dde5c4717569f7c04039ea28ae654428bdfb&auth=666666
-龙华卡通,http://api.mytv666.top/api/hkhk.php?id=ca9fa6476dcd5361a933b85d623b28b85ae7a1dfca094d810e20d713253b08960aa3cadcd226fb2b1f7b32398c7c4741&auth=666666
-龙华日韩,http://api.mytv666.top/api/hkhk.php?id=1d1f8501fcbe497f599669e8a748afde588f86dd9739f98a3c6cf0204e52385ac1e8e0684be7a6c23183da6355f68d72&auth=666666
-龙华偶像,http://api.mytv666.top/api/hkhk.php?id=7d34282fd95ce627ba2a951c153787ce1ba88894cab0ff2c82396d6756d2d3c710a2dbf73c1c8cc285a143fa41ce8101&auth=666666
-龙华电影,http://api.mytv666.top/api/hkhk.php?id=8918320d1f035da81cb521e6efb59f842fc4ff5ee5d160899e41ec7e96ba2d4d408291f739b79fa3aea7c19b23b23ee6&auth=666666
-靖天电影,http://api.mytv666.top/api/hkhk.php?id=aef5b9e0d65eb9a25d301ed02bbc372e7f5627275ed090fb223052263ed9a4f2644a4d69e9486484c62123169b5df1db&auth=666666
-靖天育乐,http://api.mytv666.top/api/hkhk.php?id=921343141d46904004f40ec23e79e704b17afbf8b93eda8ba6cf59399fa67b89b342f948fb42e2ff0e6c338168acb97c&auth=666666
-靖天欢乐,http://api.mytv666.top/api/hkhk.php?id=26b7bb46c3cd958ae32be77cf0870f3a527e7a804206b5df98b46357e8ebb8e274e092cd49bd00f72128fbe13fdca275&auth=666666
-靖天综合,http://api.mytv666.top/api/hkhk.php?id=c1957942c001cadf8e64d0d7c39fa3b141a2856d98be5617a44389fb3ab9d88f1afa049aa9bc766715b5fe2f40b00895&auth=666666
-靖天资讯,http://api.mytv666.top/api/hkhk.php?id=74efd2422fe83692adce5cb00b9d7f1346f349057b6eab295b39159a9f6a1600f23d69648da1eb5beed5f1d1a99442be&auth=666666
-靖天卡通,http://api.mytv666.top/api/hkhk.php?id=159e6439730a9a3c71fdcb9a054643a42551963f39e1c9f83c99c990aa783536e87ec6421fd5d092c1c745c87a44d075&auth=666666
-靖天日本,http://api.mytv666.top/api/hkhk.php?id=1f6de291e04d0ebe465a3da68bdc06d82b536bcbac2e34975366fcbae59811462fbd5e0892d59e1a0122a206c755a9b0&auth=666666
-靖天国际,http://api.mytv666.top/api/hkhk.php?id=15748cc4a767af994144f88e7a54356ab61eb18c67b8455d983f768d2fca78db88062c6115ad2240f107e206fc571268&auth=666666
-靖天映画,http://api.mytv666.top/api/hkhk.php?id=ab0b2dd739e39af647ba3122ccbe7e7c64f60e07f5518eabcf81e3bbdb118365ad54f7681362b6e1fdfc43e42f4441c2&auth=666666
-靖天戏剧,http://api.mytv666.top/api/hkhk.php?id=c243d73801fa803c5c08ded951221cd6c0c52de60f74732102a4113ae311d1e26bf7cae0a95d9129f44a5a8d173794dc&auth=666666
-靖洋戏剧,http://api.mytv666.top/api/hkhk.php?id=f96a420509c9a0668192eb211122980dff41835103f1ab5842302d237ac34f1424308dc5f669b2c4b99e080c4b00881f&auth=666666
-靖洋卡通,http://api.mytv666.top/api/hkhk.php?id=ef630eeae87bf4be8aa934e92549f81be3540cc1ff338f3d7aa9ece99733e942f304f52d21def92f6f649d264eb5d719&auth=666666
-纬来日本,http://api.mytv666.top/api/hkhk.php?id=1d570667e5ce1cc3bc8cf348eab674c98873be7713d95e3d5d450ec88740c69834f140627444eb980a329c09008066835e9b4beeae6b5854935b8e38f5608a46&auth=666666
-纬来育乐,http://api.mytv666.top/api/hkhk.php?id=56029b8b7692d09e4c90cb5222bfa883b8485da95f0a5a976187fb08ceac47ef34f140627444eb980a329c09008066838545d3caaf83dc5603e56f5dffc51439&auth=666666
-纬来体育,http://api.mytv666.top/api/hkhk.php?id=c09072dce55b47f9eed18faf952783427402b93236a29a607928c6ac441990fa34f140627444eb980a329c0900806683871bd60ba27645d75161b48bccafa211&auth=666666
-ELta娱乐,http://api.mytv666.top/api/hkhk.php?id=c758a23b14de0183183a2e890d1f9a3a34ab4755c0290ce6771231515ef568b4734703d0b303a7dfe505e428765bc252&auth=666666
-ELta体育1,http://api.mytv666.top/api/hkhk.php?id=e017e0dca354e6e63b71d9020368f881503b23561acbfb4bdcde19ee0d616be434f140627444eb980a329c0900806683d886c5440399d9f656f79c20499d979c&auth=666666
-ELta体育2,http://api.mytv666.top/api/hkhk.php?id=a6b6fbc77b5e8e4f2e87d9dec0977337babe8e6e64e5bdc96e473823d95bd7d534f140627444eb980a329c09008066837eee5312abb9db72a0d354239a8b483c&auth=666666
-ELta体育3,http://api.mytv666.top/api/hkhk.php?id=da2f8a6d5c73249da0b5d8e25b36d76f1961232cb0843562ba3a522c403d017534f140627444eb980a329c090080668352bc3a406a69dff1b46b79f377c18ad2&auth=666666
-ELta体育4,http://api.mytv666.top/api/hkhk.php?id=3bef5c899ea5a40ab63ba703eba82412220e04ce110570551fcd5abd7448d04134f140627444eb980a329c09008066839f9b456c9fa3712ddcd27fbd7cfb481a&auth=666666
-DAZN 1,http://api.mytv666.top/api/hkhk.php?id=dab28b64750f40b1edcf6197a87ee85d6964feb6e65b9527602309ea92deb25134f140627444eb980a329c09008066837e04f4292e24255634a0010a912ee047&auth=666666
-DAZN 2,http://api.mytv666.top/api/hkhk.php?id=0f19f3fb2168cd924e43453e54908c6197f1170176907528a3ad6f0799e1e91734f140627444eb980a329c090080668370bec23e357c39e0598e4199d2c97f4c&auth=666666
-智林体育,http://api.mytv666.top/api/hkhk.php?id=1782a5354671c41e406d8dbf989e8c51d2e0d363b5a7a34e9f46315d17cd7d639384f72b85d6ac0fac570f0b24ca7602&auth=666666
-时尚运动,http://api.mytv666.top/api/hkhk.php?id=3a8bc1828cd289da249eb2743873a56ffa027ec6510d937b1b14b0398348082a978f7457df1978a4ee51b09d8bac4238&auth=666666
-博斯魅力,http://api.mytv666.top/api/hkhk.php?id=d548242d39652c1ab2ce4ab03de5a8b0e0fed0d12cbbf1d15817f04e1f298cd8f7d58a13ccd8423065c0dafd7fbc3e1a&auth=666666
-博斯高球1,http://api.mytv666.top/api/hkhk.php?id=c0a43703343b5daaa2aaa34e1386d0f1eb73c2b63340bba4d65b711d5bcbaf8dfa7989c183ecc5c9150113867fa278a2&auth=666666
-博斯高球2,http://api.mytv666.top/api/hkhk.php?id=f98b48106aa6806cb0e36d6cac4ead0b5f1bf559ff2766afc8dff8783652073e26cd2417676a6335cf059de9934f2232&auth=666666
-博斯运动1,http://api.mytv666.top/api/hkhk.php?id=8597f2f24b819847bfa2795a85840556c270540b618d9f30d80ddaa2ec9deda708ac41dfd12bfbb44491776aa7a75210&auth=666666
-博斯运动2,http://api.mytv666.top/api/hkhk.php?id=abc661fce08effb77de79251f514b834a60ed0fbb22e159db98841105083b3993345f5222ca1bf78a04476e2c4ce85ea&auth=666666
-博斯网球,http://api.mytv666.top/api/hkhk.php?id=72abf843de507449a8a590e4358f27782f28496e5a477c9c8aea0586b5cf46b651901b2a9c34f7feab4d3c0fe1ef0b60&auth=666666
-博斯无限1,http://api.mytv666.top/api/hkhk.php?id=0bf22528a6764ccc90d74c15e1374b0c2c932d3bac94f2e8c10b7c9b40109d008ade236d2cacaa651729bd8723756ddd&auth=666666
-博斯无限2,http://api.mytv666.top/api/hkhk.php?id=b4a3a4487311eada0042f5ca2ef72eb6ed0891295d36937c28fdb7ac607c8b632365c32b2ec48f6da73733b12b47c421&auth=666666
-TRACE Sports,http://api.mytv666.top/api/hkhk.php?id=33b3c96e451dd2ad1550f974253fa7417c332e9cfd27fc7b4ca907dc3639f93eaedc17c188814375806fb8d26b7b74cd&auth=666666
-好消息1,http://api.mytv666.top/api/hkhk.php?id=0d0e9ed77c8415190beb9acb24af213edf45c30f68aa0c69490a562855cc358828da251a7b1c33c0c7ca43db5f389fad&auth=666666
-好消息2,http://api.mytv666.top/api/hkhk.php?id=4d72936cb00bc1b9b9462ce66659dc965ed4332ff277bc62c8c1c579fc90d8889a9e0eff18b17fe22388560426388317&auth=666666
-国会频道1,http://api.mytv666.top/api/hkhk.php?id=e2c78d1de21ad259d6a017385144b9851d7744f9e70df3ee8f532f1405a950608e7aa92a9a912b05212958453b3a6749&auth=666666
-国会频道2,http://api.mytv666.top/api/hkhk.php?id=7be2b09b2121886924c66d9750a1d3cf4b15d0dfa60f291b5889f8a9204ee0e0b0be11d30f25737a2c0255503e04dcbe&auth=666666
-HBO,http://api.mytv666.top/api/hkhk.php?id=7dd6d9abca0ee42562d77fbef6d486c30632a97aae887f55d2cbe6510df9f5ab34f140627444eb980a329c09008066833e3d2cebbfa6d2680b22a0b7cef465a1&auth=666666
-好莱坞电影,http://api.mytv666.top/api/hkhk.php?id=d672dfc37ab40322019e46eac1aa0527265c497f27beb06b9614b94bbd807bbd34f140627444eb980a329c0900806683cc8827d1514ed3ec70a4970818066ca5&auth=666666
-amc电影,http://api.mytv666.top/api/hkhk.php?id=e3f2bdd44e75e06e932f5c3135ef8a943ad9cd10929e72da06721fb37d2fa46788c0f5f3dff2c3335cb7c84a90c96cfe&auth=666666
-影迷数位电影,http://api.mytv666.top/api/hkhk.php?id=cd7c080a1bda8502dbd59ec330abf09532edf97ae4ab71d37019be381fd7dd58b3ec06eaf101c2f5e4eb49c0dc621f01&auth=666666
-采昌影剧,http://api.mytv666.top/api/hkhk.php?id=ca7c44fe70cf5283e6191aeefcd819d2c96e9aeea1c37dd570660cdd648531e2bcf544f85a76345211b8fe4aa673556e&auth=666666
-华仁纪实,http://api.mytv666.top/api/hkhk.php?id=973b36ccce9f315160a8d8341162b30940c4fab4fdc500840e452b529902485e2b59dd82dc1b568ba999bdca6767a324&auth=666666
-MCE,http://api.mytv666.top/api/hkhk.php?id=e102d38fba25615783fe8bfc3f5f93c4cee2ecd356bb847849c7aeea3bd5f35a0376138e25456499cbacbab4f7d8912b&auth=666666
-FOX NEWS,http://api.mytv666.top/api/hkhk.php?id=1abf739761b7aa5952001a34b6358664de9ac3d3b84a5d518c344ed04917adf634f140627444eb980a329c0900806683c7d0fb2780efc1cb59cac6d4e5b4efee&auth=666666
-CNN,http://api.mytv666.top/api/hkhk.php?id=009b58b5b570331fe9cdaefdd621899cfce72bc5e21b722ce5d9fe8759e0654734f140627444eb980a329c090080668393639f7badafa8df137fc1a997b2baa5&auth=666666
-BBC NEWS,http://api.mytv666.top/api/hkhk.php?id=6eb37286484dfb087d83e4283b5f9d1eb012f8f67964576b29f07b819fcf355934f140627444eb980a329c0900806683c78cac8d664eeb006c391fd5599cd614&auth=666666
-MOMOTV,http://api.mytv666.top/api/hkhk.php?id=7090ff1746edde6e40911e04a53d9ba9bad4e93b9b4e7159b56de8c5f5c33aac34f140627444eb980a329c0900806683a8cc75620750f177c75845059aa98aba&auth=666666
-FGM GOLD,http://api.mytv666.top/api/hkhk.php?id=3364326264363064333164633239393633623335343666353136616335316661267469643d6c6974762669643d3237&auth=123
-探索综合,http://api.mytv666.top/api/hkhk.php?id=0aeb710bd2204586a1efd7967d566b114e1590b06508ca82cb509308c5a8f79034f140627444eb980a329c0900806683c7f79a79423af112cbf20a8d7a66d4c2&auth=666666
-韩国娱乐,http://api.mytv666.top/api/hkhk.php?id=a342512430ffa0f451fc57743a901448dfc1546fa0e89547d02d8c72c1bd29ed495c24eaea106d70d7b384a4c2c503fd&auth=666666
-亚洲旅游,http://api.mytv666.top/api/hkhk.php?id=b9677e40a2322797735b0874abcee05c16858077a8a41e175fb7aaf5582dfb72cfaef4993a5f7cab9af5f40b6735e118&auth=666666
-客家电视,http://api.mytv666.top/api/hkhk.php?id=b7cb4361c4179996518b24942da5bbe0a44c40942c0656b269c75a69980aa94fef8d00f248ce737c12e47f32d7f50ab2&auth=666666
-古典音乐,http://api.mytv666.top/api/hkhk.php?id=a28e31b858fba42351df1339d039ede3ebf54c39dbcaec4f78581b8c5878eddede788625f31874778df49219d0a8a139&auth=666666
-猪哥亮歌厅秀,http://api.mytv666.top/api/hkhk.php?id=d3ffdacf3f3f6b05d0889f5b82069c3fce60d27b4f794c49b9915d1b7ad76c73e9769e99c5c77d71b8ecf8bad4b60922&auth=666666
-Smart知识,http://api.mytv666.top/api/hkhk.php?id=0dd4ac0ca46560b9cd5821955e19a91ec4ce722007868f4a7fbf186f6b300447e35c543cfff38ff91355d52b31bcbff8&auth=666666
-达文西综合,http://api.mytv666.top/api/hkhk.php?id=2480702cc387f2e74ceda060569317049b054847aa62b766478336c226d4e0feed7742098bbc889bfbd2a32b1fccce6e&auth=666666
-阿里郎综合,http://api.mytv666.top/api/hkhk.php?id=8857a9ecc1362aee28a8e52f6ada451443fe0b5b869dbbece15c30a88d0bd53c15f414aff97216135ddb7528476b009c&auth=666666
-生活英语,http://api.mytv666.top/api/hkhk.php?id=625581eff0e1837570af25ccd9adb563a273b813b1aa5d38d07d2c55631ad8830f82358efef088fff4a0ff80072fff82&auth=666666
-国际财经,http://api.mytv666.top/api/hkhk.php?id=1190dbff6c510cbd55adb324e1e478f2793e4081170cf07abacc16f71ff759cb0859531efeda88ab4d5b5d798de8a6ab&auth=666666
-美国之音,http://api.mytv666.top/api/hkhk.php?id=ce9290fce9a102010ea3e427c0380d036bc4975c3a940374ac9268d720a65b40e70ad949b363e70981077dc27deb39dd&auth=666666
-TRACE URBAN,http://api.mytv666.top/api/hkhk.php?id=cf3f9518bda15e123fe91ce68c8d0e3f87f5b7ea537a2eff052a03849f6e4a7f33e59c6465834011429f80d2397c7ab6&auth=666666
-MEZZO LIVE,http://api.mytv666.top/api/hkhk.php?id=12578a6836bda452d6e18d18f47e56584071a6f3c3e2ab910e3bb8c02cf0a2577fe2fd5922a1189e569c0e3687476d30&auth=666666
-GINX-TV,http://api.mytv666.top/api/hkhk.php?id=6dcfa5a2379de8b38a2459973b4e0c0f42789d6d541b6df27307ccf811cc9e9e9065594a600c6287fa140cfee4ac93c6&auth=666666
-
 livehttpplay,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 翡翠台,http://live4play.uk/livehttpplay?channel_id=20124
@@ -1612,3 +1406,63 @@ TVG,http://xxip9.top:8080/tamikahomecare/tamikahomecare/10259
 TVG,http://thevdm.xyz:25461/live/timmadden/timmad4765/44199.ts
 TVG,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54180.ts
 TVG2,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54179.ts
+
+USA,#genre#
+KABC 24/7,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+CBSN lax,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBSN lax,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
+KABC,http://line.lebiptv.me/live/56GK2532/BQFR9453/548980.ts
+KCAL,http://line.lebiptv.me/live/56GK2532/BQFR9453/760122.ts
+KCBS,http://line.lebiptv.me/live/56GK2532/BQFR9453/549636.ts
+KNBC,http://line.lebiptv.me/live/56GK2532/BQFR9453/550382.ts
+KTLA,http://mypanel-4k.com/live/rmt8r91bac/tsleey7v5g/279327.ts
+KTTV,http://line.lebiptv.me/live/56GK2532/BQFR9453/549875.ts
+SPECTRUM NEWS SO CAL,http://suprino.xyz/live/Rogi007/95WXXSR/1284290.ts
+ABC NES LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC NES LIVE,https://livetv-fa.tubi.video/abc-news/index.m3u8
+BBC WORLD NEWS,https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBS NEWS 24/7,https://fl3.moveonjoy.com/CBS_News/index.m3u8
+CBS NEWS 24/7,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS SPORTS NETWORK,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+CNBC,https://fl3.moveonjoy.com/CNBC/index.m3u8
+CNBC,https://fl5.moveonjoy.com/CNBC/index.m3u8
+CNBC,https://tvpass.org/live/CNBC/hd
+CNBC World,https://fl3.moveonjoy.com/CNBC_World/index.m3u8
+CNN,https://fl3.moveonjoy.com/CNN/index.m3u8
+CNN,http://104.255.88.155/cnn/index.m3u8
+CNN,http://46.105.71.222:8080/cnn/index.m3u8
+ESPN NEWS,https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+ESPN 2,https://fl3.moveonjoy.com/ESPN_2/index.m3u8
+ESPN U,https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+FOX BUSINESS,https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+FOX NEWS,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+FOX NEWS,http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+FOX NEWS,https://tvpass.org/live/FoxNewsChannel/hd
+FOX WEATHER,https://247wlive.foxweather.com/stream/index.m3u8
+FOX WEATHER,https://livetv-fa.tubi.video/fox-weather/index.m3u8
+FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
+Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+FS1,http://23.237.104.106:8080/USA_FS1/index.m3u8
+FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
+MSNBC,http://41.205.93.154/MSNBC/index.m3u8
+MSNBC,https://tvpass.org/live/MSNBC/hd
+MSNBC,https://fl3.moveonjoy.com/MSNBC/index.m3u8
+MSNBC,http://104.255.88.155/msnbc/index.m3u8
+NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+beIN Sports USA,http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
+beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+Stingray Nothin' But 90s,https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+﻿Stingray Flashback 70's,https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+Stingray Everything '80s,https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+Stingray Classic Rock,https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
