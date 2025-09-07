@@ -260,16 +260,16 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港港台,#genre#
-无线新闻,http://cdn.163189.xyz/163189/wxxw#http://bxtv.3a.ink/api.php?id=wxxw#http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2#http://bxtv.3a.ink/api.php?id=mz#http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fct2#http://php.jdshipin.com/smt.php?id=jade_twn#http://bxtv.3a.ink/api.php?id=fct#http://php.jdshipin.com/TVOD/iptv.php?id=fct3#http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn#http://60.246.171.122:8892/bysid/83
+明珠台,http://60.246.171.122:8892/bysid/2#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2#http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#http://php.jdshipin.com/smt.php?id=jade_twn#http://60.246.171.122:8892/bysid/1
 翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 翡翠台B,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB PLUS,http://cdn.163189.xyz/163189/tvbp#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://php.jdshipin.com/TVOD/iptv.php?id=tvbp#http://bxtv.3a.ink/api.php?id=tvbp#http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+TVB PLUS,http://60.246.171.122:8892/bysid/82#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw#http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
@@ -288,8 +288,8 @@ RTHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK33 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2#http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8#http://bxtv.3a.ink/api.php?id=viutv#http://cdn.163189.xyz/163189/viu
-ViuTV 6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2#http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8#http://60.246.171.122:8892/bysid/99#http://cdn.163189.xyz/163189/viu
+ViuTV 6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8#http://60.246.171.122:8892/bysid/96
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://cdn.163189.xyz/163189/fhzw#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -976,78 +976,6 @@ CGTN俄语,http://117.72.194.224:656/zb.php?id=cgtnr
 咪咕熊猫9,http://117.72.194.224:656/zb.php?id=xm9
 咪咕熊猫10,http://117.72.194.224:656/zb.php?id=xm10
 
-咪咕央卫ckmg,#genre#
-CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
-CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
-CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
-CCTV-16,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv16
-CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
-CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
-CGTN纪录,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnjl
-CGTN西语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtne
-CGTN阿语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtna
-CGTN法语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnf
-CGTN俄语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnr
-中央新影-发现之旅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
-中央新影-老故事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
-中央新影-中学生,http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
-大湾区卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dwqws
-广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
-广东影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdys
-河南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hnws
-江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
-江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
-江苏教育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsjy
-江苏城市,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jscs
-江苏综艺,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jszy
-江苏影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsys
-江苏新闻,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsggxw
-江苏国际,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsgj
-江苏教育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsjy
-上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
-上海第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
-南京新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=njxwzh
-南京教科,http://mg.hmysapp.cn:177/ckmg/zb.php?id=njkj
-南京十八,http://mg.hmysapp.cn:177/ckmg/zb.php?id=njsb
-淮安新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=haxwzh
-连云港新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lygxwzh
-泰州新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=tzxwzh
-宿迁新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sqxwzh
-徐州新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzxwzh
-咪咕音乐,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ljcwhg
-咪咕新片放映厅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xpfyt
-咪咕经典深圳旁边电影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jdxgdy
-咪咕军事迷必看大片,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsdp
-咪咕24小时体育台,http://mg.hmysapp.cn:177/ckmg/zb.php?id=mg24hty
-咪咕体育轮播台,http://mg.hmysapp.cn:177/ckmg/zb.php?id=mglbt
-咪咕体育欧洲足球风云,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ozzqfy
-咪咕体育全民乒乓,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qmpp
-咪咕体育赛事最经典,http://nctv.top/IDOEPpiry/migu.php?id=sszjd
-咪咕体育体坛名栏汇,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ttmlh
-咪咕熊猫1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm1
-咪咕熊猫2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm2
-咪咕熊猫3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm3
-咪咕熊猫4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm4
-咪咕熊猫5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm5
-咪咕熊猫6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm6
-咪咕熊猫7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm7
-咪咕熊猫8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm8
-咪咕熊猫9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm9
-咪咕熊猫10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xm10
-
 央视卫视hkyc,#genre#
 CCTV1,http://www.hkyc.site:1991/udp/239.253.64.120:5140
 CCTV2,http://www.hkyc.site:1991/udp/239.253.64.195:5140
@@ -1561,6 +1489,8 @@ MSNBC,https://fl3.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
 NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+THE WEATHER CHANNE,https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+THE WEATHER CHANNE,http://143.244.60.30/THE_WEATHER_CHANNEL/index.m3u8
 beIN Sports USA,http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
