@@ -733,6 +733,7 @@ CCTV12,https://tv-1.iill.top/migu/cctv12
 CCTV13,https://tv-1.iill.top/migu/cctv13
 CCTV14,https://tv-1.iill.top/migu/cctv14
 CCTV15,https://tv-1.iill.top/migu/cctv15
+CCTV16,https://tv.iill.top/x/cctv16
 CCTV17,https://tv-1.iill.top/migu/cctv17
 CETV1,https://tv-1.iill.top/migu/cetv1
 CETV2,https://tv-1.iill.top/migu/cetv2
@@ -741,14 +742,13 @@ CETV4,https://tv-1.iill.top/migu/cetv4
 东方卫视,https://tv-1.iill.top/migu/dfws
 江苏卫视,https://tv-1.iill.top/migu/jsws
 广东卫视,https://tv-1.iill.top/migu/gdws
+北京卫视,https://tv.iill.top/x/bjws
+湖南卫视,https://tv.iill.top/x/hnws
 江西卫视,https://tv-1.iill.top/migu/jxws
 陕西卫视,https://tv-1.iill.top/migu/sxws
 湖北卫视,https://tv-1.iill.top/migu/hubws
-东南卫视,https://tv-1.iill.top/migu/dnws
-海峡卫视,https://tv-1.iill.top/migu/hxws
 四海钓鱼,https://tv-1.iill.top/migu/shdy
 上海新闻综合,https://tv-1.iill.top/migu/shxw
-上视东方影视,https://tv-1.iill.top/migu/shys
 CHC影迷电影,https://tv-1.iill.top/migu/chcym
 CHC动作电影,https://tv-1.iill.top/migu/chcdz
 CHC家庭影院,https://tv-1.iill.top/migu/chcjt
@@ -760,25 +760,9 @@ CHC家庭影院,https://tv-1.iill.top/migu/chcjt
 红色轮播,https://tv-1.iill.top/migu/xssh
 咪咕24小时体育,https://tv-1.iill.top/migu/mgty
 五环传奇,https://tv-1.iill.top/migu/whcq
-赛事最经典,https://tv-1.iill.top/migu/sszjd
-掼蛋精英赛,https://tv-1.iill.top/migu/gdjs
-体坛名栏汇,https://tv-1.iill.top/migu/ttmh
 和美乡途轮播,https://tv-1.iill.top/migu/hmxt
-最强综艺趴,https://tv-1.iill.top/migu/zqzyp
-嘉佳卡通,https://tv-1.iill.top/migu/jddh
 新动力量创一流,https://tv-1.iill.top/migu/xdll
 钱塘江,https://tv-1.iill.top/migu/qtj
-CCTV1,https://tv.iill.top/x/cctv1
-CCTV5,https://tv.iill.top/x/cctv5
-CCTV5+,https://tv.iill.top/x/cctv5+
-CCTV13,https://tv.iill.top/x/cctv13
-CCTV16,https://tv.iill.top/x/cctv16
-北京卫视,https://tv.iill.top/x/bjws
-江苏卫视,https://tv.iill.top/x/jsws
-东方卫视,https://tv.iill.top/x/dfws
-湖南卫视,https://tv.iill.top/x/hnws
-浙江卫视,https://tv.iill.top/x/zjws
-广东卫视,https://tv.iill.top/x/gdws
 
 💝「咪咕」150央卫视,#genre#
 CCTV1,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
