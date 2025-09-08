@@ -1,71 +1,556 @@
 香港 Hongkong,#genre#
-無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
-無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b57cc38d8bf115d2d37703173c910cc
-無線娱乐新聞台,http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=MD1D9440795894407958&ct=20241&tsum=214dcd85290b8848ccf1430ff7529dbe
-明珠台,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MEBE4061614940616149&ct=20241&tsum=cdf6fb32e44c73ecdb78c2fea61fc1c7
-翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&ct=20075&tsum=cd432288b12be8775123af37f179d76d
-翡翠台华丽,http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MD4D2403778024037780&ct=20241&tsum=c1359a362c3f4447b548ca3eeaced81f
-TVB 星河,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
-千禧经典,http://50.7.234.10:8278/Tvbclassic/playlist.m3u8?tid=MBEB8308380183083801&ct=20241&tsum=441da00bf96de3f029e6941bed18d849
-RHK 31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MAEA8431701684317016&ct=20241&tsum=718b3fd1e6869818b0294d9eca99feaa
-RHK 32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDFD5971862759718627&ct=20241&tsum=fac0acff791085d16b324ed5e8735736
-VIUTV1,http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF1F7819763178197631&ct=20241&tsum=73bf97ade6499317dabf81cdb36740a2
-Viu6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a7aca190a4214e266ea5045465eda737
-鳳凰衛視,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26f686711ab41843654db568f4f5f308
-鳳凰資訊,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ec493b2a59814fc8c73839955cb75f1
-鳳凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99d899b587d3106bb70fb3b60ee41ca5
+無線新聞台,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
+無線新聞台,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b57cc38d8bf115d2d37703173c910cc
+無線娱乐新聞台,http://smart.cityq.xyz:8278/Tvbentertainment/playlist.m3u8?tid=MD1D9440795894407958&ct=20241&tsum=214dcd85290b8848ccf1430ff7529dbe
+明珠台,http://smart.cityq.xyz:8278/pearl_twn/playlist.m3u8?tid=MEBE4061614940616149&ct=20241&tsum=cdf6fb32e44c73ecdb78c2fea61fc1c7
+翡翠台,http://smart.cityq.xyz:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&ct=20075&tsum=cd432288b12be8775123af37f179d76d
+翡翠台华丽,http://smart.cityq.xyz:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
+J2,http://smart.cityq.xyz:8278/j2_twn/playlist.m3u8?tid=MD4D2403778024037780&ct=20241&tsum=c1359a362c3f4447b548ca3eeaced81f
+TVB 星河,http://smart.cityq.xyz:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
+千禧经典,http://smart.cityq.xyz:8278/Tvbclassic/playlist.m3u8?tid=MBEB8308380183083801&ct=20241&tsum=441da00bf96de3f029e6941bed18d849
+RHK 31,http://smart.cityq.xyz:8278/rhk31_twn/playlist.m3u8?tid=MAEA8431701684317016&ct=20241&tsum=718b3fd1e6869818b0294d9eca99feaa
+RHK 32,http://smart.cityq.xyz:8278/rhk32_twn/playlist.m3u8?tid=MDFD5971862759718627&ct=20241&tsum=fac0acff791085d16b324ed5e8735736
+VIUTV1,http://smart.cityq.xyz:8278/viu1_twn/playlist.m3u8?tid=MF1F7819763178197631&ct=20241&tsum=73bf97ade6499317dabf81cdb36740a2
+Viu6,http://smart.cityq.xyz:8278/viusix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a7aca190a4214e266ea5045465eda737
+鳳凰衛視,http://smart.cityq.xyz:8278/phoenixtv_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26f686711ab41843654db568f4f5f308
+鳳凰資訊,http://smart.cityq.xyz:8278/phoenixinfo_hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ec493b2a59814fc8c73839955cb75f1
+鳳凰香港,http://smart.cityq.xyz:8278/hkphoenix_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99d899b587d3106bb70fb3b60ee41ca5
 
 中國 China,#genre#
-CCTV-1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
-CCTV-2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
-CCTV-3,http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
-CCTV-4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=MA1A3448852534488525&ct=20241&tsum=aae2a3f35cdb52ce3008899ee369f471
-CCTV-4,http://50.7.234.10:8278/Cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ac5275d7de91a42fef786150d3268d3b
-CCTV-5,http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
-CCTV-5+,http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
-CCTV-6,http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
-CCTV-7,http://50.7.234.10:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
-CCTV-8,http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
-CCTV-9,http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
-CCTV-10,http://50.7.234.10:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
-CCTV-11,http://50.7.234.10:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
-CCTV-12,http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
-CCTV-13,http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
-CCTV-14,http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
-CCTV-15,http://50.7.234.10:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
-CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
-CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
-湖南衛視,http://50.7.234.10:8278/hunan_twn/playlist.m3u8?tid=MD5D1798156717981567&ct=20241&tsum=c1b20243194b9fe443a887e95072b25c
-江蘇衛視,http://50.7.234.10:8278/jiangsu_twn/playlist.m3u8?tid=MC2C6314086963140869&ct=20241&tsum=8414cef5706939ce9879491b7cac0776
-深圳衛視,http://50.7.234.10:8278/shenzhen/playlist.m3u8?tid=MC3C4428558344285583&ct=20241&tsum=e53c541f43313161c299e6e990b40ea9
-大灣區衛視,http://50.7.234.10:8278/nanfang_twn/playlist.m3u8?tid=MC7C4030853240308532&ct=20241&tsum=f479783b1d24f238a6cb6f2d8d57aa69
-廣東衛視,http://50.7.234.10:8278/guangdongweishi_twn/playlist.m3u8?tid=MACA2095611520956115&ct=20241&tsum=a0109bb968ecdc5abc90c9c2749a1b8c
-北京衛視,http://50.7.234.10:8278/beijing/playlist.m3u8?tid=MF3F5463195854631958&ct=20241&tsum=6ddb60d19e11f10fd88ef39fb463e8b5
-廣東珠江,http://50.7.234.10:8278/zhujiang/playlist.m3u8?tid=MF8F1013732910137329&ct=20241&tsum=96c497cd89df9663c5814af198da3733
-廣西衛視,http://50.7.234.10:8278/guangxi/playlist.m3u8?tid=MACA1200775112007751&ct=20241&tsum=f5f3b4ca413da092aa9fbc8dc6d6b2fc
-湖北衛視,http://50.7.234.10:8278/hubei/playlist.m3u8?tid=MD0D9109283491092834&ct=20241&tsum=616bddac6186bd565dca4248d1d1bc3d
-四川衛視,http://50.7.234.10:8278/sichuan_twn/playlist.m3u8?tid=MFDF3528228735282287&ct=20242&tsum=02644e3e1e0b0c82ad947f6339898342
-東方衛視,http://50.7.234.10:8278/dongfangweishi_twn/playlist.m3u8?tid=MF8F5658203156582031&ct=20241&tsum=f4f0804c4983f7862c55053ecc6fc2e3
-东南卫视,http://50.7.234.10:8278/fujian/playlist.m3u8?tid=ME5E5081695550816955&ct=20241&tsum=c0a7f842e3ad3a5e04aa017a2768bd21
+CCTV-1,http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+CCTV-2,http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+CCTV-3,http://smart.cityq.xyz:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
+CCTV-4,http://smart.cityq.xyz:8278/cctv4/playlist.m3u8?tid=MA1A3448852534488525&ct=20241&tsum=aae2a3f35cdb52ce3008899ee369f471
+CCTV-4,http://smart.cityq.xyz:8278/Cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ac5275d7de91a42fef786150d3268d3b
+CCTV-5,http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+CCTV-5+,http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+CCTV-6,http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
+CCTV-7,http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
+CCTV-8,http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
+CCTV-9,http://smart.cityq.xyz:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
+CCTV-10,http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+CCTV-11,http://smart.cityq.xyz:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
+CCTV-12,http://smart.cityq.xyz:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+CCTV-13,http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+CCTV-14,http://smart.cityq.xyz:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
+CCTV-15,http://smart.cityq.xyz:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+CCTV-16,http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
+CCTV-17,http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+湖南衛視,http://smart.cityq.xyz:8278/hunan_twn/playlist.m3u8?tid=MD5D1798156717981567&ct=20241&tsum=c1b20243194b9fe443a887e95072b25c
+江蘇衛視,http://smart.cityq.xyz:8278/jiangsu_twn/playlist.m3u8?tid=MC2C6314086963140869&ct=20241&tsum=8414cef5706939ce9879491b7cac0776
+深圳衛視,http://smart.cityq.xyz:8278/shenzhen/playlist.m3u8?tid=MC3C4428558344285583&ct=20241&tsum=e53c541f43313161c299e6e990b40ea9
+大灣區衛視,http://smart.cityq.xyz:8278/nanfang_twn/playlist.m3u8?tid=MC7C4030853240308532&ct=20241&tsum=f479783b1d24f238a6cb6f2d8d57aa69
+廣東衛視,http://smart.cityq.xyz:8278/guangdongweishi_twn/playlist.m3u8?tid=MACA2095611520956115&ct=20241&tsum=a0109bb968ecdc5abc90c9c2749a1b8c
+北京衛視,http://smart.cityq.xyz:8278/beijing/playlist.m3u8?tid=MF3F5463195854631958&ct=20241&tsum=6ddb60d19e11f10fd88ef39fb463e8b5
+廣東珠江,http://smart.cityq.xyz:8278/zhujiang/playlist.m3u8?tid=MF8F1013732910137329&ct=20241&tsum=96c497cd89df9663c5814af198da3733
+廣西衛視,http://smart.cityq.xyz:8278/guangxi/playlist.m3u8?tid=MACA1200775112007751&ct=20241&tsum=f5f3b4ca413da092aa9fbc8dc6d6b2fc
+湖北衛視,http://smart.cityq.xyz:8278/hubei/playlist.m3u8?tid=MD0D9109283491092834&ct=20241&tsum=616bddac6186bd565dca4248d1d1bc3d
+四川衛視,http://smart.cityq.xyz:8278/sichuan_twn/playlist.m3u8?tid=MFDF3528228735282287&ct=20242&tsum=02644e3e1e0b0c82ad947f6339898342
+東方衛視,http://smart.cityq.xyz:8278/dongfangweishi_twn/playlist.m3u8?tid=MF8F5658203156582031&ct=20241&tsum=f4f0804c4983f7862c55053ecc6fc2e3
+东南卫视,http://smart.cityq.xyz:8278/fujian/playlist.m3u8?tid=ME5E5081695550816955&ct=20241&tsum=c0a7f842e3ad3a5e04aa017a2768bd21
 
 臺灣 Taiwan,#genre#
-寰宇新聞, http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=72315211ea2fb5525f48563203b6a7b8
-寰宇財經台,http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf7be8ecea972582b17a2ee35463c961
-中天新聞HD,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
-中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
-中天娛樂,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
-中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9cf843ae30d2500fa5b60e182a52b5c2
-TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f71d63a3f4f29c1989254097e43d1628
-東森財經新聞,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c72ebf556e1cc4f5f7d31b8de9b4de2
-東森戲劇,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26a349d5abdee81aa312e5c0715729a6
-東森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=81879e3735e7108c442ffd832a2c45c3
-東森綜合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
-東森電影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
-中視,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=32d18c5b25d1beb4c99b22e3309ae886
+寰宇新聞, http://smart.cityq.xyz:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=72315211ea2fb5525f48563203b6a7b8
+寰宇財經台,http://smart.cityq.xyz:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf7be8ecea972582b17a2ee35463c961
+中天新聞HD,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
+中天亞洲台,http://smart.cityq.xyz:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
+中天娛樂,http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
+中天綜合,http://smart.cityq.xyz:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
+TVBS HD,http://smart.cityq.xyz:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
+TVBS新聞,http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9cf843ae30d2500fa5b60e182a52b5c2
+TVBS歡樂台,http://smart.cityq.xyz:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
+東森新聞,http://smart.cityq.xyz:8278/ettvnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f71d63a3f4f29c1989254097e43d1628
+東森財經新聞,http://smart.cityq.xyz:8278/ettvcaijing_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c72ebf556e1cc4f5f7d31b8de9b4de2
+東森戲劇,http://smart.cityq.xyz:8278/ettvdrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26a349d5abdee81aa312e5c0715729a6
+東森洋片,http://smart.cityq.xyz:8278/ettvwestern/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=81879e3735e7108c442ffd832a2c45c3
+東森綜合,http://smart.cityq.xyz:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
+東森電影,http://smart.cityq.xyz:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
+中視,http://smart.cityq.xyz:8278/zhongshihd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=32d18c5b25d1beb4c99b22e3309ae886
+中視新聞,http://smart.cityq.xyz:8278/zhongshinews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aee7b18616349192467f869be107f08b
+中視經典,http://smart.cityq.xyz:8278/zhongshi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3f4d8745fb53a8bc0bc8b56595299f67
+三立台灣台,http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
+三立戲劇台,http://smart.cityq.xyz:8278/sanlixiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=abc21407f01eefcc6df98ebbdbd585ab
+三立綜合台,http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
+AXN,http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
+CINEMAX,http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6954ca5263b8dee34496f2c62329cfc
+EYE戲劇,http://smart.cityq.xyz:8278/eyetvxiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3d3cc7fc9fc11de8ea70e6d3f4146d75
+EYE旅遊,http://smart.cityq.xyz:8278/eyetvtravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec67faaab6ebecb645f4a654a0504976
+HBO,http://smart.cityq.xyz:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
+HBO Family,http://smart.cityq.xyz:8278/fyi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6b7b1a30c4faf9433b8de2037988922
+好萊塢電影台,http://smart.cityq.xyz:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adb194efeba5a77f0effa9d90cfb8f2b
+MTV Live,http://smart.cityq.xyz:8278/mtvhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4c5676d9df502deb44f03423724a399f
+TLC旅遊生活,http://smart.cityq.xyz:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
+亞洲旅遊台,http://smart.cityq.xyz:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
+亞洲美食,http://smart.cityq.xyz:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
+八大戲劇,http://smart.cityq.xyz:8278/badadrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=861e8fc388791a904100e419dfd4914a
+八大第一,http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1a04cd80a204e4b394f89b4d34ae00b7
+八大綜合,http://smart.cityq.xyz:8278/badazhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=020937c001062a4332afb110a312bd20
+公視,http://smart.cityq.xyz:8278/ctv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=100430272d79e1b58f70da883d75c794
+民視,http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19e1c2009b356aeb0b8cd2c4155ada22
+民視第一台,http://smart.cityq.xyz:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
+民視台灣台,http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8201e27c64398b11362da6f5a8afa92e
+民視新聞,http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3dc6c193ca21c9bf3a01b3b07c3c9800
+台視,http://smart.cityq.xyz:8278/ttv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=82fd176eb53ca34311ffe6c333804f14
+台視新聞,http://smart.cityq.xyz:8278/ttvnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2b575543b8a09372654cd3b50ae69c94
+華視,http://smart.cityq.xyz:8278/ctshd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f87c65eeec10c9bc82b4417c55523210
+華藝綜合,http://smart.cityq.xyz:8278/weishichinese_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c39a5b38259d9c50474fdf84e8dee60d
+大愛一台,http://smart.cityq.xyz:8278/daai_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e99baa96714160a139bfe06bba6e025e
+年代新聞,http://smart.cityq.xyz:8278/niandainews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91d8cf0514a580f2187d1f0dcb6dc2aa
+愛爾達影劇,http://smart.cityq.xyz:8278/eltayingju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ce748da1aad651ca8ee7f68760251dc
+愛爾達體育 1,http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19dc80cf972ed07683b0cd2b94e94b4b
+愛爾達體育 2,http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
+愛爾達體育 3,http://smart.cityq.xyz:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+ELEVEN 1,http://smart.cityq.xyz:8278/golfchannel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d77b31437cad11339692d7566897e46f
+博斯網球,http://smart.cityq.xyz:8278/bositennis_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=47e5003d17342241515e41171c21631e
+博斯運動1,http://smart.cityq.xyz:8278/bosisport1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aa5e8641589790e769e841e83d7c79cd
+博斯運動2,http://smart.cityq.xyz:8278/bosisport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=195d83131e7db600c58b235b19607c55
+博斯高球1,http://smart.cityq.xyz:8278/bosigolf1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0ccaaf225d754cebefa05176e55fb6b0
+博斯高球2,http://smart.cityq.xyz:8278/bosigolf2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9fca27100e58cd9d9218f95969edcb99
+探索亞洲,http://smart.cityq.xyz:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
+探索動力,http://smart.cityq.xyz:8278/discoveryturbo_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5212e5b1722767348ff4e08df9698985
+國家地理,http://smart.cityq.xyz:8278/natgeohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7a2359a2bf7a324b6b249ddeeff5f656
+野生動物,http://smart.cityq.xyz:8278/natgeowild_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fba311b00ad329c7dd6580f59917d416
+動物星球,http://smart.cityq.xyz:8278/animalplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b90fb5897f088ef819b3fb1f62e1fd31
+時尚,http://smart.cityq.xyz:8278/fashiontv_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=552d865caab15fc0a5d563d9647ba6cc
+Discovery Asia,http://smart.cityq.xyz:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
+Discovery HD, http://smart.cityq.xyz:8278/discoveryhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=be73404e18c83a0b9e6a60b7d6b22887
+緯來日本台,http://smart.cityq.xyz:8278/videolandjapan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=70283ceb3b9f1cb39c326f328521e79b
+緯來體育台,http://smart.cityq.xyz:8278/videolandsport/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c1c9d7b13616697395efac52288b8dde
+美亞電影,http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4a266dac5755d165e118db3624107ae0
+BBC World News,http://smart.cityq.xyz:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
+Bloomberg News,http://smart.cityq.xyz:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
+Fox News,http://smart.cityq.xyz:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acc82bd27a8e6ff0f264139ae8966e36
+阿里郎,http://smart.cityq.xyz:8278/arirang_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fefaee2f94f9244ff4b94fba23cde914
+CN卡通,http://smart.cityq.xyz:8278/momo1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=573ad445b8f616ddebc862c578dac5c5
+靖天卡通台,http://smart.cityq.xyz:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=918113915ab95013bdae540bbf8c4619
+靖天國際台,http://smart.cityq.xyz:8278/jingtianintl_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=594878ec85f4841d0e4b6cba429b0436
+非凡新聞,http://smart.cityq.xyz:8278/feifannews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=062cd4838cc875a5c2b36c7b6c0441d9
+龍祥時代,http://smart.cityq.xyz:8278/lungxiangtime_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ecef2e9ff71ee9b8a242099d17b88512
+龍華偶像,http://smart.cityq.xyz:8278/lunghuaidol_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=67ce20e649159389d4369ea496176477
+龍華戲劇,http://smart.cityq.xyz:8278/lunghuaxiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4be89a2c5525a1a325a079a4a6bec682
+龍華洋片,http://smart.cityq.xyz:8278/lunghuawestern_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=17a343fd040ef9c1283a111d60b8c242
+龍華經典,http://smart.cityq.xyz:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
+龍華電影,http://smart.cityq.xyz:8278/xingwei_movie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=810692f2d54b933cc82ecd02d2f13657
+
+馬來西亞 Malaysia,#genre#
+TV1, http://smart.cityq.xyz:8278/TV1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=12bffbee2d7c9637dbf47e98264a1af4
+TV1, http://smart.cityq.xyz:8278/TV1_backup/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=065ac1b5ab15254b6eb39afb607bbb9d
+TV2, http://smart.cityq.xyz:8278/TV2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d3baa546861909608a61a5e6207d612c
+TV3, http://smart.cityq.xyz:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+TV3, http://smart.cityq.xyz:8278/tv3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=27ca85cb74be928f0d859d5107c9abee
+NTV7, http://smart.cityq.xyz:8278/NTV7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc944fd715487ebee7f19eec4a3e88e1
+TV8, http://smart.cityq.xyz:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
+TV9, http://smart.cityq.xyz:8278/TV9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=016e330c761512c534ea1b11ae0521d2
+Warna, http://smart.cityq.xyz:8278/Warna-O/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=213ee2cb77a5aec5d658ebdcf5243ce7
+Warna, http://smart.cityq.xyz:8278/Warna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f9681a487eb53463880827539b95e7d
+Ria, http://smart.cityq.xyz:8278/Ria-0/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cc0e29bfde41580272ee071b6976aad3
+Ria, http://smart.cityq.xyz:8278/Ria49/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00063db5280882b5f34cce2c34c0abf7
+Ria-3, http://smart.cityq.xyz:8278/Ria_quanjia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=10c43059e46cdda3532fb54214477159
+Al-Hijrah, http://smart.cityq.xyz:8278/Alhijrah/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7477e1a7843aba765a0e152b23c33dc7
+Al-Hijrah, http://smart.cityq.xyz:8278/Alhijrah_backup/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e70a7d66d15b05b159d9c96bd6656673
+Awani, http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ccec11db5f1639921c5168032894cb38
+Bernama, http://smart.cityq.xyz:8278/Bernama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c96ab181c1a367bf23b712c873242a16
+Prima, http://smart.cityq.xyz:8278/Prima-0/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9103e3f8a739052b059350b58eab19f5
+Prima, http://smart.cityq.xyz:8278/Prima49/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=63d21195615c05954cab29ab759c6e23
+Ceria, http://smart.cityq.xyz:8278/Ceria/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=78b9549d37aec947b2c76d4c22ddfadc
+Astro MTV, http://smart.cityq.xyz:8278/AstroMTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c4cd3ed148a83f409ec704e46da948f5
+Mecca Live HD, http://smart.cityq.xyz:8278/quran_mido/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1806111aedeac3bbe5039e16b6455a03
+Madinah HD, http://smart.cityq.xyz:8278/sunnah_mido/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b80130e682e878c55e67864d40216d38
+Oasis, http://smart.cityq.xyz:8278/Oasis/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=190087901c1b8716abc19bb2a1ff6f3f
+HBO HD, http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
+HBO Signature, http://smart.cityq.xyz:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
+HBO Hits, http://smart.cityq.xyz:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
+NatGeo Wild HD, http://smart.cityq.xyz:8278/Natgeowild/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cbfead776de2db3f1f64152217ec0ca3
+Cartoon Network, http://smart.cityq.xyz:8278/Cn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b0fcf0a923421fe735b7e64503e6b18
+Nickelodeon, http://smart.cityq.xyz:8278/Nickelodeon/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9c4f74199dc59d1979b734b8b0b1b719
+Nick Jr, http://smart.cityq.xyz:8278/Nickjr/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dff75eda13bd728b0c5cdffad897e04f
+Citra, http://smart.cityq.xyz:8278/Citra/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=091dc463444f06b34cda3c1488bd148a
+Sensasi, http://smart.cityq.xyz:8278/Sensasi/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=48edd4db8f47dbe7f2dabb214bf33a92
+Aura, http://smart.cityq.xyz:8278/Aura/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91e7d7ba675fb23cd78c30957c529990
+Rania, http://smart.cityq.xyz:8278/Rania/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1d13044bfaeec37f4def31608ade157f
+Boo, http://smart.cityq.xyz:8278/Boo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7fe188dd8aea1f4c8433047807d12c1c
+Awesome TV, http://smart.cityq.xyz:8278/Awesome_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9910fafcb4c7ee5b5a3ef7d7c9738ed1
+Sony HD, http://smart.cityq.xyz:8278/SetOne/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=10a33bdabcff341acb4dde732b47c1fc
+KBS World, http://smart.cityq.xyz:8278/KBS/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7d9fd9c87562bdd1ad3d8608d501fac4
+TvN, http://smart.cityq.xyz:8278/TVN/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a59bb7edd84be290b90739d7e0e46ef8
+Astro Premier, http://smart.cityq.xyz:8278/Astropremier/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=db5a715e8ff12ebe795a2659b55c972f
+AEC, http://smart.cityq.xyz:8278/AEC/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ab96326353923d73453e2aeef08e551e
+AEC,http://smart.cityq.xyz:8278/CGTN/playlist.m3u8?tid=MA6A3294219932942199&ct=20241&tsum=ddcb4ac1b9fd21dc1873443aec1a8401
+華麗台 HD, http://smart.cityq.xyz:8278/Wlt/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0c87ba9cb03456ef75e5eeba639a768a
+歡喜台 HD, http://smart.cityq.xyz:8278/Huahee/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2520a8187490a4eee986b57cf28125c
+歡喜台, http://smart.cityq.xyz:8278/Huahee_backup/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c8af79218b042ad97235e285f3a3aecd
+Astro QJ, http://smart.cityq.xyz:8278/Quanjia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e331f7972867a4f2435dcdf4ef6c5a30
+TVB Jade, http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adbeabe32146fca166f6bdd0e898e2ff
+TVBS Asia, http://smart.cityq.xyz:8278/Tvbasia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b0e8d78674ed692e10c7e713fda8c754
+TVB Entertainment, http://smart.cityq.xyz:8278/Tvbentertainment/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6e58ae5d1ce9a6dd3a6ad163eaa6a906
+TVB Classic, http://smart.cityq.xyz:8278/Tvbclassic/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d060eda547944fafd441faa26d754b9d
+AOD, http://smart.cityq.xyz:8278/Aodhd/playlist.m3u8?tid=MDAD6684326166843261&ct=20241&tsum=f41b7e6b5828914ac4665c1634177f43
+One, http://smart.cityq.xyz:8278/One_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4613407608e42b8d35c0d1d0fe1a86af
+TVB 星河台, http://smart.cityq.xyz:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
+愛奇藝, http://smart.cityq.xyz:8278/Qiyi/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7d62d5fea12dacc9151769630129f89d
+Animal Planet (Eng), http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
+tvN Movie, http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2753286cb7047b4b1568511a16ac643a
+CNN, http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3e341840a340d97114693e20dfe078ae
+Celestial Classic, http://smart.cityq.xyz:8278/Celestial2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=303ebad7a9f6b70f71341428d7aca15c
+CNBC, http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=357229476e3bfc26cf51be598ab5e8bf
+RTM Sports HD, http://smart.cityq.xyz:8278/Rtmsport/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16b9ea7bdb2fa56959aecd9177959151
+TLC, http://smart.cityq.xyz:8278/Tlc/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75c5f2de48aba527b254c55911df3a64
+CNA, http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c208160b3f88f0b8a8c42e8333b7abb4
+AFC 亞洲旅遊台, http://smart.cityq.xyz:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
+BBC World News, http://smart.cityq.xyz:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
+Foodnetwork Hd, http://smart.cityq.xyz:8278/Foodnetwork_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6df1a7cdceb860f26b4e25a9b764965f
+HGTV, http://smart.cityq.xyz:8278/HGTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8e840c8540da88de9a665cff9a759fcc
+Arena, http://smart.cityq.xyz:8278/Arena/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dc38e674dfdf27988485c5053e7ed8e8
+Goshop, http://smart.cityq.xyz:8278/Goshop/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec54896230de5f3e65e2fba7c493a10f
+Celestial Movies HD, http://smart.cityq.xyz:8278/Celestial_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=80e6a08f227161dcc41335155c302dad
+Arena 2, http://smart.cityq.xyz:8278/Arena2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=74be5a1e0885831f85cddc9126ddae71
+Axn HD, http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=59bf5197a5d4ab6c4f3be441d265ace4
+Paramount Network, http://smart.cityq.xyz:8278/Paramountnetwork/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=baa3c497b9cc023fbf99ada7cb89ea1d
+BolaArena 1, http://smart.cityq.xyz:8278/Bolaarena1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4e8229df62a12d45f8576b483b33a838
+Astrol Kplus, http://smart.cityq.xyz:8278/Kplus/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=66ee9a709eac1a730477adcdba4f519d
+Rock Actions, http://smart.cityq.xyz:8278/Rockaction/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9570459bcb1c8a2b046a13f28edae337
+Bloomberg News, http://smart.cityq.xyz:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
+Al-Jazeera, http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
+Rock Entertainment, http://smart.cityq.xyz:8278/Rockentertain/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=587e8c084f17decd0e4472894f57b5fe
+Showcase, http://smart.cityq.xyz:8278/Showcase_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dbcdc2bb102e280059f7da619984f174
+BolaArena 2, http://smart.cityq.xyz:8278/Bolaarena2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f7b9777fad49d5e63293eea19c1dc757
+
+新加坡 Singapore,#genre#
+Channel 5, http://smart.cityq.xyz:8278/Channel5HD/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c467e4019865a2bd11e588470153592f
+Channel 5, http://smart.cityq.xyz:8278/Ch5_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=44d330636705885023085783634fba60
+Channel 8, http://smart.cityq.xyz:8278/Channel8HD/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aee9f02e8394f8d8846af4b6ee01da43
+Channel 8, http://smart.cityq.xyz:8278/Ch8_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c2d9ad49c0782e53777088d493c1245
+Suria, http://smart.cityq.xyz:8278/Suria/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=50a552d0ab638bfae56551c4fcb6fce5
+Suria, http://smart.cityq.xyz:8278/Suria_backup/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b1ff9ce059683805dff06cfe9195b447
+Channel U, http://smart.cityq.xyz:8278/ChannelU/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=45bbe75054128a2b4e01ded779aa75c9
+Channel U, http://smart.cityq.xyz:8278/ChU_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4aac079c0399b79ac29cd3323943ca74
+Vasantham, http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca2db7086a149858857250902ba03624
+Vasantham, http://smart.cityq.xyz:8278/Vasantham_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=90ddf0b47d1c16dc696186efb17c3285
+CNA, http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c208160b3f88f0b8a8c42e8333b7abb4
+CNA, http://smart.cityq.xyz:8278/cna_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=24626506b6a08b378f14b18d8f5abd4f
+
+印尼 Indonesia,#genre#
+TVRI National,http://smart.cityq.xyz:8278/TVRI/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a08e1dbbe5f7afe0d57009475c30cb7d
+RCTI,http://smart.cityq.xyz:8278/Rcti/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1198b29d2c8fd55f9aae12af5e9f6866
+Kompass TV,http://smart.cityq.xyz:8278/Kompass/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5dcf7ab227a836046597dfa05663d90a
+Berita Satu,http://smart.cityq.xyz:8278/BeritaSatu_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d62701e711c2cd6a892d23ccfe749e2
+Indosiar HD,http://smart.cityq.xyz:8278/Indosiar/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c9b27b4c7de9e1772c7e52cf40f7bd55
+AnTV,http://smart.cityq.xyz:8278/Antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ee3b56d5da66231fc3ee9dc9dafc786c
+MNC TV,http://smart.cityq.xyz:8278/Mnctv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ea845e9031e34ef4f68d13d6ea0bd7bf
+Trans 7,http://smart.cityq.xyz:8278/Trans7_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6af35944562d073011f85dd836aab31f
+Transtv,http://smart.cityq.xyz:8278/Transtv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=559265c65bf3062e53b42ad93e433ac1
+JTV,http://smart.cityq.xyz:8278/JTV_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f95e68b3a0ad0a86a8b241734af9c0c2
+Metro TV,http://smart.cityq.xyz:8278/metrotv_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=99329a7a667558dce68f0420cf676b89
+Cinemax,http://smart.cityq.xyz:8278/Cinemax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=50e3741a2c29baab231b6cbadfd47563
+SCTV,http://smart.cityq.xyz:8278/SCTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=cdfe2f28d1d9a5ec278d3d77f0e45126
+Tvone,http://smart.cityq.xyz:8278/Tvone/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=0bc334aba30ded1df4c346e7a57833cb
+TVMU,http://smart.cityq.xyz:8278/TVMU_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=e5f9df9ae30be27d199c036041f4d99b
+GTV,http://smart.cityq.xyz:8278/Gtv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1f13be44de9e4f9d35d71e4ca9d46e40
+RTV,http://smart.cityq.xyz:8278/Rtv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b4af8d90525fb682a9afa4c72b3e2765
+Jak TV,http://smart.cityq.xyz:8278/JakTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=892244afdf974c5d086e16b8526c5988
+iNews TV,http://smart.cityq.xyz:8278/Inewstv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=0a460b5c597688f1e0c4c78aa000d5bf
+Daai TV,http://smart.cityq.xyz:8278/DaaiTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b29adb902d7714f3ebab41ed05ba7f74
+Net TV,http://smart.cityq.xyz:8278/NetTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=9e396ddd569d6075d11297f54e571e2c
+Animax,http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
+EWTN,http://smart.cityq.xyz:8278/Ewtn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ab22277c6feda9d81bc119d158467a55
+AlQuran AlKareem,http://smart.cityq.xyz:8278/AlQuran/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b7176edd0ec43737dfedd07c26eb34b6
+Tawaf TV,http://smart.cityq.xyz:8278/TawafTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a1f3bec403af6ad81cb0006dba6f23b3
+Vision Prime,http://smart.cityq.xyz:8278/VisionPrime/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=e084735356006084a9afc1b4fe369505
+Muslim TV,http://smart.cityq.xyz:8278/MuslimTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=0f280d0327c4ec24fb6410c3c2921475
+Music TV,http://smart.cityq.xyz:8278/MusicTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=81f5133f28dddb94a7b40c6a33bc1380
+Lifestyle&Fashion,http://smart.cityq.xyz:8278/Lifestyle/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6df2bd6f8e097afef3f15343ef236621
+Entertain,http://smart.cityq.xyz:8278/Entertain/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c5a83c490459b14d04ff895da3bf4d6b
+Hits,http://smart.cityq.xyz:8278/Hits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=be634f5688f63652f393f1ba3ec61b11
+Warner TV,http://smart.cityq.xyz:8278/WarnerTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=cba8fbd0d48bb35836fc4843c498b8b9
+SCM,http://smart.cityq.xyz:8278/Weishimovie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=db575c6ceb0f6eade8e79d92d577fefe
+Thrill,http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=65c2cb5aec92c8119f2c29461c640231
+Fight Sports,http://smart.cityq.xyz:8278/Fs/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=0c68e8caa52e1fcf851fa21ecb37d398
+Beinsports 2 HD,http://smart.cityq.xyz:8278/Bein2hd/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=103f18b0aa0e8261beeed5024e88b102
+Hits Movie,http://smart.cityq.xyz:8278/Hitsmovie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2544ff8725706d9b664e64b445ad68b2
+One,http://smart.cityq.xyz:8278/One_mega/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=262b8b1daf98163469183847236c7588
+tvN Movie,http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bef509366086b2947512e385bb4a33d7
+Celestial Movies HD,http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6b606cecf8c8f952cd6a9f5d9774f394
+Rock Actions,http://smart.cityq.xyz:8278/Rockaction/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a770290a29f3b4c4f9baca44470db8d5
+Rock Entertainment,http://smart.cityq.xyz:8278/Rockentertain/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=761fae4a976f56c888520270917f56e5
+
+體育 Sports,#genre#
+Supersports 1, http://smart.cityq.xyz:8278/Assp1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=895bb7474f0180ad25f5fb3e6504200c
+Supersports 1, http://smart.cityq.xyz:8278/go_assp1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3a5b773e37e845ee0262f003e8053292
+Supersportq 1(備用2), http://smart.cityq.xyz:8278/Assp1_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=830c4c535c281d7781b35e42c3591e48
+Supersports 2, http://smart.cityq.xyz:8278/Assp2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=441fd03ebfe3a777de76f10492e74b47
+Supersports 2, http://smart.cityq.xyz:8278/go_assp2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f7842b637b12d06fae179ed39a4ea09b
+Supersports 3, http://smart.cityq.xyz:8278/Assp3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0feab91da4826697859533f87651abbc
+Supersports 3, http://smart.cityq.xyz:8278/go_assp3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=395fefdbc707e6ba4f0424cc7d31b431
+Supersports 3(備用2), http://smart.cityq.xyz:8278/Assp3_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=691b2c2b20ee7120e08f98043e39152f
+Supersports 4, http://smart.cityq.xyz:8278/Assp4_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6b4871136e06c8fb1499cb329bbc2cb9
+Supersports 4, http://smart.cityq.xyz:8278/go_assp4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c60aaaa9754e7ce112399119b833a24b
+Supersports 5, http://smart.cityq.xyz:8278/go_assp5/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=df85e9ffddb11b710e0ea8b51acb673a
+Bein 2HD, http://smart.cityq.xyz:8278/Beinhd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=028a43b4b2506afab67ebc9484037b11
+Beinsports HD, http://smart.cityq.xyz:8278/Besports/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b6a54ddb34ee2f96d7e4750394049f07
+Champion 5 EPL, http://smart.cityq.xyz:8278/Champion5epl/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=23b3d9b04034bd0793859f50c0709587
+WWE, http://smart.cityq.xyz:8278/Wwe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=86d5d831338ec6b88e80cdb4abbd280b
+Champion 6 EPL, http://smart.cityq.xyz:8278/Champion6epl/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5cb0213cf6b3d38f331bb907efe5b039
+Fight Sports, http://smart.cityq.xyz:8278/Fs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a0e00dc00c2b60d988c6877d28a01759
+UFC Network, http://smart.cityq.xyz:8278/ufc_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ce1331c201fd37bbea59f77a6bc42081
+NBA TV, http://smart.cityq.xyz:8278/nbatv_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0eb9f29fa915681cd6f64aecf46d0038
+Astro Cricket, http://smart.cityq.xyz:8278/Acricket_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e10a3e89e5134d8df419795459d72ea7
+Astro Golf, http://smart.cityq.xyz:8278/Agolf/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bf77fae2b7de1ba581af1fb0742cc78b
+TNT Sports 1, http://smart.cityq.xyz:8278/beeone/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=27fca8f0ca946ec2ee27e2658847252c
+TNT Sports 2, http://smart.cityq.xyz:8278/beetwo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=10198f29d4aa31338c757221f2f480cc
+TNT Sports 3, http://smart.cityq.xyz:8278/beethree/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2a41d558d5a3ae254564ee4135dd5350
+TNT Sports 4, http://smart.cityq.xyz:8278/beefour/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=266b02bf277ac19ae1d574a4825a6f77
+Sony Ten 1, http://smart.cityq.xyz:8278/ten1_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6ea725ddd83595752884e9ab92f4b7bd
+Sony Ten 2, http://smart.cityq.xyz:8278/ten2_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=daca63c438959b55132a0749f6a875da
+Sony Ten 3, http://smart.cityq.xyz:8278/ten3_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=46de4350803db13303e9e239de7ca044
+SPOTV 1 HD, http://smart.cityq.xyz:8278/go_spotv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a6745dab4a2bc8d50badd5a822cd6c50
+SPO TV 2, http://smart.cityq.xyz:8278/go_spotv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=222cc4b3d7fa1b676033b47a60686d6c
+Beinsports 2 HD, http://smart.cityq.xyz:8278/Bein2hd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=839d3bdbfa5041306f686f6e125222e2
+Skysports Arena, http://smart.cityq.xyz:8278/tiankongarena/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75cd7ce4c9a4182355be27df0bb6100b
+Skysports F1, http://smart.cityq.xyz:8278/tiankongf1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=86a941c8feae0446de627b2ec269317d
+Skysports Cricket, http://smart.cityq.xyz:8278/tiankongcricket/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=82fc77f10b02505ddc591c396afe4dec
+Skysports EPL, http://smart.cityq.xyz:8278/tiankongepl/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=edead6e2b4c5da0b458aa55e7476933d
+Skysports Football, http://smart.cityq.xyz:8278/tiankongfootball/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=67035a729e77dd24cd852d73b14ae480
+Skysports Golf, http://smart.cityq.xyz:8278/tiankonggolf/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4e03c1623b4f6567727f72d77c804c2a
+Skysports Main Event, http://smart.cityq.xyz:8278/tiankongmain/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dc681139ce48e307cfc7d1b9a83e15e6
+Skysports News, http://smart.cityq.xyz:8278/tiankongnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bb92015793e866eb7908d9db33064788
+Skysports NFL, http://smart.cityq.xyz:8278/tiankongnfl/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1bfe680f96e3400f83de4b04c2ae62ab
+Skysports Racing, http://smart.cityq.xyz:8278/tiankongracing/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bca48902cd1aeaff6d281a001c44f17d
+Skysports Mix, http://smart.cityq.xyz:8278/tiankongmix/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c2f758b8c514823784033001d2ce3c2d
+CCTV-5, http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d130c7c85f3ccb499f543ecb6e6e36a
+CCTV-5+, http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5199a3f2e4635c4b36a5b47835ea83d2
+愛爾達體育2台, http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
+愛爾達體育3台, http://smart.cityq.xyz:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+RTM Sports HD, http://smart.cityq.xyz:8278/Rtmsport/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16b9ea7bdb2fa56959aecd9177959151
+Arena, http://smart.cityq.xyz:8278/Arena/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dc38e674dfdf27988485c5053e7ed8e8
+Arena 2, http://smart.cityq.xyz:8278/Arena2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=74be5a1e0885831f85cddc9126ddae71
+BolaArena 1, http://smart.cityq.xyz:8278/Bolaarena1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4e8229df62a12d45f8576b483b33a838
+Bein 1 Sports, http://smart.cityq.xyz:8278/bein1_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9b27e0af8fadd19a0849bb862b71fb1f
+Bein 2 Sports, http://smart.cityq.xyz:8278/bein2_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8b1bcbab661a03555d4c0243dfbc47c0
+Bein 3 Sports, http://smart.cityq.xyz:8278/bein3_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b7b71bfa2af6275c072b6381ce6d2ab2
+Bein 4 Sports, http://smart.cityq.xyz:8278/bein4_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ec961a42d27512c75f15a3059294631
+Bein 5 Sports, http://smart.cityq.xyz:8278/bein5_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7aaff5d53dbb07d04e6e9455cf0d7e1a
+Bein 6 Sports, http://smart.cityq.xyz:8278/bein6_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef5dcd92d995d3b692d56d426c04ccf9
+Bein 7 Sports, http://smart.cityq.xyz:8278/bein7_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfa42c25fcb1ffab4113563493e0ef23
+Rugby Pass TV, http://smart.cityq.xyz:8278/Rugbypasstv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ad57068510c5b62701cdd5ecbcfd092b
+BolaArena 2, http://smart.cityq.xyz:8278/Bolaarena2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f7b9777fad49d5e63293eea19c1dc757
+
+電影 Movie,#genre#
+AXN, http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
+Animax, http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=90ba99b6d5f029b594e33429eb569415
+Astrol Kplus, http://smart.cityq.xyz:8278/Kplus/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=66ee9a709eac1a730477adcdba4f519d
+Axn HD, http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=59bf5197a5d4ab6c4f3be441d265ace4
+CCTV-6, http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=666b9a1497d069309993a0fd7dbf3bee
+CINEMAX, http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6954ca5263b8dee34496f2c62329cfc
+Celestial Classic, http://smart.cityq.xyz:8278/Celestial2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=303ebad7a9f6b70f71341428d7aca15c
+Celestial Movies HD, http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=345dfee9bedab7b1d4f2372a1faebd18
+Cinemax, http://smart.cityq.xyz:8278/Cinemax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ae34522f948767fdb444a2be1d65c5d3
+HBO Family, http://smart.cityq.xyz:8278/Hbofamily/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d915b44afcb0d8965d70dbf8a56ada7c
+HBO HD, http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf6f9507a05b62225bb842e056ed76f1
+HBO Hits, http://smart.cityq.xyz:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
+HBO Signature, http://smart.cityq.xyz:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
+HBO_HD, http://smart.cityq.xyz:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
+HBO_HITS, http://smart.cityq.xyz:8278/hbohits_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=23f261a6f03d4f03a095e3456d36a9b1
+Hits Movie, http://smart.cityq.xyz:8278/Hitsmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6bb2547d691d3de415900c8b25aa2ae8
+Hits, http://smart.cityq.xyz:8278/Hits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7dfe02aab94be705898ec9c923baf929
+Hollywood Movies, http://smart.cityq.xyz:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adb194efeba5a77f0effa9d90cfb8f2b
+Movies Now HD, http://smart.cityq.xyz:8278/moviesnow_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dcff204136235e0ac136d5e4ca879655
+One, http://smart.cityq.xyz:8278/One_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4613407608e42b8d35c0d1d0fe1a86af
+Paramount Network, http://smart.cityq.xyz:8278/Paramountnetwork/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=baa3c497b9cc023fbf99ada7cb89ea1d
+Rock Actions, http://smart.cityq.xyz:8278/Rockaction/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9570459bcb1c8a2b046a13f28edae337
+Rock Entertainment, http://smart.cityq.xyz:8278/Rockentertain/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=587e8c084f17decd0e4472894f57b5fe
+SCM, http://smart.cityq.xyz:8278/Weishimovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bc780740b35713a663d8b49e0590e1f1
+Sony Pix HD, http://smart.cityq.xyz:8278/sonypix_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=40ea96cfbc853ed7047a06ddf62e473e
+Star Movies HD, http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b8da40ee4a0082f1592c6271132ff18
+Thrill, http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d66da861193c2db867043239712cd9
+Warner TV, http://smart.cityq.xyz:8278/WarnerTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1f9bc3c455742415344925e47a131775
+tvN Movie, http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2753286cb7047b4b1568511a16ac643a
+大愛2台, http://smart.cityq.xyz:8278/catchplay_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c8a5bdf0b7d90ca2ca10dc7d82e923bc
+龍華電影, http://smart.cityq.xyz:8278/xingwei_movie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=810692f2d54b933cc82ecd02d2f13657
+東森洋片, http://smart.cityq.xyz:8278/ettvwestern/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=81879e3735e7108c442ffd832a2c45c3
+東森電影, http://smart.cityq.xyz:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
+美亞電影, http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4a266dac5755d165e118db3624107ae0
+龍華洋片, http://smart.cityq.xyz:8278/lunghuawestern_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=17a343fd040ef9c1283a111d60b8c242
+龍祥時代, http://smart.cityq.xyz:8278/lungxiangtime_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ecef2e9ff71ee9b8a242099d17b88512
+
+紀錄 Documentary,#genre#
+AFC 亞洲旅遊台, http://smart.cityq.xyz:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
+Animal Planet (Eng), http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
+Animal_Planet, http://smart.cityq.xyz:8278/animalplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b90fb5897f088ef819b3fb1f62e1fd31
+Asia Travel, http://smart.cityq.xyz:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
+BBC Earth HD, http://smart.cityq.xyz:8278/bbcearth_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ddef08a24302d188135bb632c4eeab74
+BBC Earth Lifestyle, http://smart.cityq.xyz:8278/bbclifestyle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6c95fe21db1c5a2843d1b283e70d418
+CI, http://smart.cityq.xyz:8278/ci_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cd820bca69c10e900a13d55dffc7497
+Discovery Asia, http://smart.cityq.xyz:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
+Discovery HD, http://smart.cityq.xyz:8278/discoveryhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=be73404e18c83a0b9e6a60b7d6b22887
+Fashion TV, http://smart.cityq.xyz:8278/fashiontv_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=552d865caab15fc0a5d563d9647ba6cc
+Foodnetwork Hd, http://smart.cityq.xyz:8278/Foodnetwork_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6df1a7cdceb860f26b4e25a9b764965f
+HGTV, http://smart.cityq.xyz:8278/HGTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8e840c8540da88de9a665cff9a759fcc
+History, http://smart.cityq.xyz:8278/History/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d29c4eddfd0ece929fb61205022c1258
+MTV Live, http://smart.cityq.xyz:8278/mtvhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4c5676d9df502deb44f03423724a399f
+NatGeo HD, http://smart.cityq.xyz:8278/Natgeo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8ba83c36c2d9ff844373d7bff4bad13d
+NatGeo Wild HD, http://smart.cityq.xyz:8278/Natgeowild/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cbfead776de2db3f1f64152217ec0ca3
+NatGeo_Wild HD, http://smart.cityq.xyz:8278/natgeowild_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fba311b00ad329c7dd6580f59917d416
+Natgeo_HD, http://smart.cityq.xyz:8278/natgeohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7a2359a2bf7a324b6b249ddeeff5f656
+TLC, http://smart.cityq.xyz:8278/Tlc/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75c5f2de48aba527b254c55911df3a64
+TLC Asia, http://smart.cityq.xyz:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
+亞洲美食, http://smart.cityq.xyz:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
+美食星球, http://smart.cityq.xyz:8278/foodplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=02319e7b6cea1c9837acb1b1d78e49af
+
+新聞 News,#genre#
+ABC News, http://smart.cityq.xyz:8278/abcnews_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1e113058428811847cc7e486b38db328
+Al-Jazeera, http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
+BBC World News, http://smart.cityq.xyz:8278/Bbcnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=693832a39c244f8e8544ad9c90490685
+BBC World News, http://smart.cityq.xyz:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
+Bloomberg News, http://smart.cityq.xyz:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
+CBS HD, http://smart.cityq.xyz:8278/cbshd_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=94d7397be57754dbff0c799bd4ed193a
+CBSN HD, http://smart.cityq.xyz:8278/cbsn_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=755171e1b8d79cde1645acad101757a1
+CGTN, http://smart.cityq.xyz:8278/CGTN/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=df0315ce04fb7673ff12ec0c5fe7cce9
+CNA, http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c208160b3f88f0b8a8c42e8333b7abb4
+CNBC, http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=357229476e3bfc26cf51be598ab5e8bf
+CNN International, http://smart.cityq.xyz:8278/Cnn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3392af44d331a3ba7795f7c893b28208
+CNN, http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3e341840a340d97114693e20dfe078ae
+DW (Deutsch), http://smart.cityq.xyz:8278/dw_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3c8f875a527b03473199bce934d7da1e
+Fox News, http://smart.cityq.xyz:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acc82bd27a8e6ff0f264139ae8966e36
+France 24, http://smart.cityq.xyz:8278/france24_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=617ffa4d83352bbbe44224fc5468c46d
+NHK World, http://smart.cityq.xyz:8278/nhkworld_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=13ce53efe3fcb9be3dc916f61e05bb77
+Skynews, http://smart.cityq.xyz:8278/skynews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91c15728ae6f7311715b110735f99c7d
+
+英國 United Kingdom,#genre#
+AlJazeera, http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
+Animal Planet (Eng), http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
+Axn HD, http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=59bf5197a5d4ab6c4f3be441d265ace4
+BBC 1, http://smart.cityq.xyz:8278/bbc1_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5536928b0bf136c8eb05b93c90033321
+BBC 2, http://smart.cityq.xyz:8278/bbc2_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2ffb9e0e37ef4e5e4c34a77aa2ede4a4
+BBC Earth HD, http://smart.cityq.xyz:8278/bbcearth_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ddef08a24302d188135bb632c4eeab74
+BBC Earth Lifestyle, http://smart.cityq.xyz:8278/bbclifestyle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6c95fe21db1c5a2843d1b283e70d418
+BBC World News, http://smart.cityq.xyz:8278/bbcworldnews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0603cd30a1159c3e1cf4f9eb25163b8e
+Bloomberg News, http://smart.cityq.xyz:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
+Boomerang, http://smart.cityq.xyz:8278/Boomerang/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5c79d559f4b5ea8e9e30c59c8d4cf249
+CBBC, http://smart.cityq.xyz:8278/cbbc_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a75511ccebe7104552bc4306b133aa5a
+CBeebies, http://smart.cityq.xyz:8278/Cbeebies/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75e9624cefa78865188fea18c8e9aaee
+CGTN, http://smart.cityq.xyz:8278/CGTN/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=df0315ce04fb7673ff12ec0c5fe7cce9
+CNBC, http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=357229476e3bfc26cf51be598ab5e8bf
+Channel 4, http://smart.cityq.xyz:8278/channel4_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=333e7e12a627909ce3cb3960ba96634e
+DW (Deutsch), http://smart.cityq.xyz:8278/dw_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3c8f875a527b03473199bce934d7da1e
+Euronews, http://smart.cityq.xyz:8278/euronews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e9c422efac3ee2609bb4a0897dc0fd56
+France 24, http://smart.cityq.xyz:8278/france24_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=617ffa4d83352bbbe44224fc5468c46d
+Freesports, http://smart.cityq.xyz:8278/freesports_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=04cf437420604fb8a6475080b6d25c3e
+HBO HD, http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf6f9507a05b62225bb842e056ed76f1
+HGTV, http://smart.cityq.xyz:8278/HGTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8e840c8540da88de9a665cff9a759fcc
+History, http://smart.cityq.xyz:8278/History/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d29c4eddfd0ece929fb61205022c1258
+Hits Movie, http://smart.cityq.xyz:8278/Hitsmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6bb2547d691d3de415900c8b25aa2ae8
+Kids TV, http://smart.cityq.xyz:8278/KidsTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5fbd7f9bfc2b8ed096359f0069f25c2e
+MTV Live, http://smart.cityq.xyz:8278/mtvhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4c5676d9df502deb44f03423724a399f
+More4, http://smart.cityq.xyz:8278/more4_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1f78f8aca897a26851f2c7c8ebb713e3
+NHK World, http://smart.cityq.xyz:8278/nhkworld_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=13ce53efe3fcb9be3dc916f61e05bb77
+NatGeo HD, http://smart.cityq.xyz:8278/Natgeo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8ba83c36c2d9ff844373d7bff4bad13d
+NatGeo Wild HD, http://smart.cityq.xyz:8278/Natgeowild/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cbfead776de2db3f1f64152217ec0ca3
+Nick Jr, http://smart.cityq.xyz:8278/Nickjr/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dff75eda13bd728b0c5cdffad897e04f
+Nickelodeon, http://smart.cityq.xyz:8278/Nickelodeon/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9c4f74199dc59d1979b734b8b0b1b719
+Pick TV, http://smart.cityq.xyz:8278/picktv_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f6ad32427553cd93499343755f69224a
+Skynews, http://smart.cityq.xyz:8278/skynews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91c15728ae6f7311715b110735f99c7d
+Skysports Arena, http://smart.cityq.xyz:8278/tiankongarena/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75cd7ce4c9a4182355be27df0bb6100b
+Skysports Cricket, http://smart.cityq.xyz:8278/tiankongcricket/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=82fc77f10b02505ddc591c396afe4dec
+Skysports EPL, http://smart.cityq.xyz:8278/tiankongepl/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=edead6e2b4c5da0b458aa55e7476933d
+Skysports F1, http://smart.cityq.xyz:8278/tiankongf1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=86a941c8feae0446de627b2ec269317d
+Skysports Football, http://smart.cityq.xyz:8278/tiankongfootball/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=67035a729e77dd24cd852d73b14ae480
+Skysports Golf, http://smart.cityq.xyz:8278/tiankonggolf/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4e03c1623b4f6567727f72d77c804c2a
+Skysports Main Event, http://smart.cityq.xyz:8278/tiankongmain/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dc681139ce48e307cfc7d1b9a83e15e6
+Skysports News, http://smart.cityq.xyz:8278/tiankongnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bb92015793e866eb7908d9db33064788
+Star Movies HD, http://smart.cityq.xyz:8278/starmovies_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b8da40ee4a0082f1592c6271132ff18
+TLC, http://smart.cityq.xyz:8278/Tlc/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=75c5f2de48aba527b254c55911df3a64
+Thrill, http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d66da861193c2db867043239712cd9
+Warner TV, http://smart.cityq.xyz:8278/WarnerTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1f9bc3c455742415344925e47a131775
+itv 1, http://smart.cityq.xyz:8278/itv1_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=54a2cf8d1739dd523c205355c0e49215
+itv 2, http://smart.cityq.xyz:8278/itv2_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77e0b068d9c648ce914f28f79d2c088f
+
+越南 Vietnam,#genre#
+ANTV, http://smart.cityq.xyz:8278/viet_antv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=58db040e31e577d3c9c04ea24636e12b
+BPTV 2, http://smart.cityq.xyz:8278/viet_bptv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=13410b6299d96a2d338fe38c5ead963e
+BRT HD, http://smart.cityq.xyz:8278/viet_brt/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=38b2d91a946a1f2e7167798c724b92bd
+Ca Mau TV, http://smart.cityq.xyz:8278/viet_camautv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3bbdfe837344d3cbb00a4a0e682e7645
+Danang TV1 HD, http://smart.cityq.xyz:8278/viet_danangtv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6742ce2146cb36c7696f79de70dd3d09
+Danang TV2 HD, http://smart.cityq.xyz:8278/viet_danangtv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=54e83a4de4f5f9a19428d3b67f19d380
+HBTV HD, http://smart.cityq.xyz:8278/viet_hbtv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3ea865e873a4ae75b469428e60160be0
+HTV 7, http://smart.cityq.xyz:8278/viet_htv7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=89e28b5622016465cfb796f8ec9ade43
+HTV 9, http://smart.cityq.xyz:8278/viet_htv9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6de3d7d3e114c73b77de6e1a40f72f49
+PTTH 1, http://smart.cityq.xyz:8278/viet_ptth1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8e8fc431300910af83be0e560587541a
+VTV 1, http://smart.cityq.xyz:8278/viet_vtv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=69e054bf47033e0171758db7fda091cb
+VTV 7, http://smart.cityq.xyz:8278/viet_vtv7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fdef20d1c9f07b3d92dcde5b93f89dbb
+
+韓國 Korea,#genre#
+All the Kpop, http://smart.cityq.xyz:8278/allthekpop_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=517935cfed724abf2bd9115bca169473
+Apps TV, http://smart.cityq.xyz:8278/appongoogle_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c8c92cb7b321c0f117492b7ad1b86500
+Arirang HD, http://smart.cityq.xyz:8278/arirang_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=84fcab892387554c7fcd6aaca3f2ae05
+CBS, http://smart.cityq.xyz:8278/cbs_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9dbf5f65636ff6a6e0e4a6cf47ba84f3
+CGNTV, http://smart.cityq.xyz:8278/cgntv_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=10adf7df245a9a39486242ca9f1d8fee
+EBS 1, http://smart.cityq.xyz:8278/ebs1_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9e9f78aecef838f788790b99421d389a
+EBS Kids, http://smart.cityq.xyz:8278/ebskids_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=203eb8a34a4bde42b0d813b1d2c5bc1c
+EBS Plus2, http://smart.cityq.xyz:8278/ebsplus2_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2919518eadc042fab6998b0aff981d0
+EBS2, http://smart.cityq.xyz:8278/ebs2_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8d95dfd9493f7cb47bae2ef1fed34d01
+J the Kpop, http://smart.cityq.xyz:8278/jthekpop_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ce29188b47dab1b3ad7a896e8355ee64
+KBS World 24, http://smart.cityq.xyz:8278/kbsworld24_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d1c9ac5d7af1bba8d18c4375834de74b
+SBS Plus, http://smart.cityq.xyz:8278/sbsplus_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fee71ed91f38a53cc82a8f0f2ea19ce1
+YTN DMB, http://smart.cityq.xyz:8278/ytndmb_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aa989c7e1a69949fd26f9c208c9491de
+YTN Korean, http://smart.cityq.xyz:8278/ytnkorean_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b3f2e0d11b78f76fd176a15765793fa8
+YTN Science, http://smart.cityq.xyz:8278/ytnscience_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ebe9bb2426aca4833cbaebfddf6a5868
+YTN, http://smart.cityq.xyz:8278/ytn_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=42caef2b6f94c84f4bb39b52f34a4dce
+Yonhap News, http://smart.cityq.xyz:8278/yonhapnews_korea/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2b6a02dd760e9e192dd0a59f9eb073a0
+
+日本 Japan,#genre#
+BS-TBS, http://smart.cityq.xyz:8278/bstbs_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=93fda6439abf3ce443a6b9137e7533f0
+BSジャパン 181, http://smart.cityq.xyz:8278/bs181_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ac512f54cbbb5f62e30347df2c35b52c
+BSフジ BS Fuji, http://smart.cityq.xyz:8278/bsfuji_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d3e6c2af58934ddd7723a0b4e8f287
+CNA Japan, http://smart.cityq.xyz:8278/cna_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=895f80388a5b974b452dccc8334319b1
+JET 綜合, http://smart.cityq.xyz:8278/jettv_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=138b96d4c7f6a5255a542971a1821aa3
+NHK Oaska, http://smart.cityq.xyz:8278/nhkosaka_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=61ee7250967252b80fb272fa901692db
+NHK World, http://smart.cityq.xyz:8278/nhkworld_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=13ce53efe3fcb9be3dc916f61e05bb77
+NHK-E, http://smart.cityq.xyz:8278/nhke_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ba87f1cb6fd210c87e2ad0396121778d
+NHK-総合-2, http://smart.cityq.xyz:8278/nhkg_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=78ce30fa045afaffa95aa69bab6aa6c7
+NHKBS1, http://smart.cityq.xyz:8278/nhkbs1_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=40a70a777c13cdf40c08ac97198a171e
+NHKBSプレミア Premium, http://smart.cityq.xyz:8278/nhkpremium_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6ee8428a92063c08589cf7355e089c88
+TOKYOMX, http://smart.cityq.xyz:8278/tokyomx_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7e5715885b0c878f549cbd7091a26d23
+テレビ朝日 Asahi TV, http://smart.cityq.xyz:8278/asahitv_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bce3360e509b4ebbd653c201ab5fc4ad
+テレビ東京 Tokyo TV, http://smart.cityq.xyz:8278/tokyotv_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f679da4722b2960a9328525fae10b18
+
+印度 Indian,#genre#
+Sun TV HD, http://smart.cityq.xyz:8278/Suntv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b230adf9723e28fced5d22a30eae55b
+Star Vijay, http://smart.cityq.xyz:8278/Starvijay/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=72c21da2e2a34f34d7acc670b472134e
+Colors Tamil, http://smart.cityq.xyz:8278/Colorstam_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a3274ef57986996aecff1e7309374425
+Sun Music, http://smart.cityq.xyz:8278/Sunmusic/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e15b4a1fd64b35ec9b61f2c23e170cbf
+Astro Sunlife, http://smart.cityq.xyz:8278/Sunlife/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc6237e19326319f48ca929c1713fdb2
+Astro Vaanavil, http://smart.cityq.xyz:8278/Vaanavil/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c98832644b3e228c7423ae8840a3be1
+Zee Tamil, http://smart.cityq.xyz:8278/Zeetamil/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6ee22bcb9aad1d2964b633db6ae018e3
+Zee Business, http://smart.cityq.xyz:8278/Zeebusiness/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e10b6659301af51a34075aa843c13b83
+News 18 Tamil, http://smart.cityq.xyz:8278/news18tamil_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b8fd3e86af0435bf3dd49bbf7824764e
+Adithya, http://smart.cityq.xyz:8278/Adithya/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0337fc1956ee7367e943f1364c07f42b
+Makkal TV, http://smart.cityq.xyz:8278/Makkaltv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dfb5a8ebe28cf7dea2fa21df3693edf8
+Zee Action, http://smart.cityq.xyz:8278/Zeeaction/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6ef67491a6ceb8cae2fec8c855888a5e
+Astro KTV, http://smart.cityq.xyz:8278/Astroktv/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4ea18eb3bf9fd7f18827330c260326fa
+Zee TV HD, http://smart.cityq.xyz:8278/Zeetvhd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9ceb3577900d39d77ceb20f47c10e02e
+Zee Cinema HD, http://smart.cityq.xyz:8278/Zeecinemahd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2536fdc644538ef24d5a72537cf50182
+Color HD, http://smart.cityq.xyz:8278/Colorhd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7051d822de32609a6d5728c7dce7bae3
+Starplus HD, http://smart.cityq.xyz:8278/Starplushd/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1d1859247322545b0f3b8198d876ab11
+Picture HD, http://smart.cityq.xyz:8278/Npicture/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3c59ea17dac4fe8d3faf38c6d53748aa
+Zee News, http://smart.cityq.xyz:8278/Zeenews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=24ac11eed2c1138a6544c0daaf350953
+Asianet, http://smart.cityq.xyz:8278/asianet_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=775bb3956968c898cb4724bdc4a94d33
+Asianet News, http://smart.cityq.xyz:8278/asianetnews_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d3a324d61d3141021b5c460a7198541e
+Times Now, http://smart.cityq.xyz:8278/timesnow_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d8a0a0567a56c576284b4c9766ab79c6
+BBC Earth Tamil, http://smart.cityq.xyz:8278/bbcearthtam_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d231966eaf1e1bbf3163e397f9f490d4
+Discovery World Tamil, http://smart.cityq.xyz:8278/discoveryworldtam_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=35cfc5c58a9b59dac5aeeeae5800e066
+History Tamil, http://smart.cityq.xyz:8278/historytam_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1104c2f14e0dba0453968e1bb9d794ac
+NatGeo Tamil, http://smart.cityq.xyz:8278/natgeotamil_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8c07446b16e90506fb56aa31f4bd37c0
+Natgeo Wild Tamil, http://smart.cityq.xyz:8278/natgeowildtamil_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=37de95db8b13d4e38b6ae4ba320d1f2e
+Discovery Kids Tamil, http://smart.cityq.xyz:8278/discoverykidtamil_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c0563e39fe268e7147671e8fb7b4d33b
+Discovery Tamil, http://smart.cityq.xyz:8278/discoverytamil_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c0841b44b6561d3cec0753d2bbcb6350
+Sony Yay Tamil, http://smart.cityq.xyz:8278/sonyyaytam_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f9f4d7d54c700a8e87a4e8e2e55396d
+Sun TV India, http://smart.cityq.xyz:8278/suntv_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=14178c88f05bcc86400dfa4cd65e41f1
+Starmaa HD, http://smart.cityq.xyz:8278/starmaa_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d4a49f29af810526d5c17d8b66ab9ab6
+Starmaa Movies HD, http://smart.cityq.xyz:8278/starmaamovies_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acb2c08f757c60ceb36f1a08b0598ae4
+Bollyone, http://smart.cityq.xyz:8278/Bollyone/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=501aa4bdfeb4aac48f8444ded2205cb8
+Astro Sunmusic, http://smart.cityq.xyz:8278/Sunmusic/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e15b4a1fd64b35ec9b61f2c23e170cbf
+Sony Pix HD, http://smart.cityq.xyz:8278/sonypix_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=40ea96cfbc853ed7047a06ddf62e473e
+Vijay Super, http://smart.cityq.xyz:8278/vijaysuper_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=22baddeaad3e864fae4eece0feb653e3
 中視新聞,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aee7b18616349192467f869be107f08b
 中視經典,http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3f4d8745fb53a8bc0bc8b56595299f67
 三立台灣台,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
