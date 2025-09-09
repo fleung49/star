@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="HK" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/67944.ts
-#EXTINF:-1 group-title="HK" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
 http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14930.ts
 #EXTINF:-1 group-title="HK" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
 http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19499.ts
@@ -339,3 +337,4 @@ http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/400006514.ts
 http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200151450.ts
 #EXTINF:-1 group-title="NEWS" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://epg.112114.xyz/logo/THE WEATHER CHANNEL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",THE WEATHER CHANNEL
 http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500002361.ts
+
