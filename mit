@@ -256,7 +256,6 @@ CHC高清电影,p2p://142.54.189.229:2666/64df526f0007690e05a02b8862980d8c.ts
 J2,p2p://142.54.189.229:2666/64df145e0003949404adb826220f65c7.ts
 凤凰资讯,p2p://142.54.189.229:2666/64df4dbc000cf286058dd1b77e200c8c.ts
 中天新闻,p2p://142.54.189.229:2666/64de52a70006e20d01b906297b7d0f95.ts
-中天新闻2,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
 TVBS新闻,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 东森新闻,p2p://142.54.189.229:2666/64df0db3000d67790493aeaf65c56300.ts
 三立新闻,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
@@ -305,6 +304,7 @@ CCTV 13 NEWS,http://dns.yiandrive.com:13571/douyin/kuaikancctv
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天新聞2,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞 CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
@@ -665,8 +665,11 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 深圳移动电视,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szyd
 深圳国际,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szgj
 深圳少儿,http://zb.hmysapp.cn:801/dft/guangdong/shenzhen.php?id=szse
+深圳龙岗,http://zhfw-t.szlg.com:8080/live/television1.m3u8
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
