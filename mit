@@ -1191,16 +1191,34 @@ ASTRO FOOTBALL,http://rstm.tvsapp.xyz:8080/live/besmircanajjj/ku1hmfwA8/86296.ts
 webview,#genre#
 凤凰中文,video://https://iptv.tvfix.org/play/fhzw
 凤凰资讯,video://https://iptv.tvfix.org/play/fwzx
-凤凰香港,webview://iptv.tvfix.org/play/fwxg
-无线新闻,webview://https://iptv.tvfix.org/play/inews
-翡翠台,webview://https://iptv.tvfix.org/play/jade
-明珠台,webview://https://iptv.tvfix.org/play/pearl
-无线娱乐新闻台,webview://https://iptv.tvfix.org/play/enews
-CCTV1,webview://https://iptv.tvfix.org/play/cctv1hdhk
-CGTN,webview://https://iptv.tvfix.org/play/cgtnhd
-CGTN DOC,webview://https://iptv.tvfix.org/play/cgtndochd
-TVBS ASIA,webview://https://iptv.tvfix.org/play/tvbs
-TVBS新聞台,webview://https://iptv.tvfix.org/play/tvbsnews
+凤凰香港,video://iptv.tvfix.org/play/fwxg
+无线新闻,video://https://iptv.tvfix.org/play/inews
+翡翠台,video://https://iptv.tvfix.org/play/jade
+明珠台,video://https://iptv.tvfix.org/play/pearl
+无线娱乐新闻台,video://https://iptv.tvfix.org/play/enews
+CCTV1,video://https://iptv.tvfix.org/play/cctv1hdhk
+CGTN,video://https://iptv.tvfix.org/play/cgtnhd
+CGTN DOC,video://https://iptv.tvfix.org/play/cgtndochd
+東方衛視國際,video://https://iptv.tvfix.org/play/dfhd
+广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
+广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
+广东GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
+广东GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
+广东岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
+广东纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
+广东台经典剧,video://https://www.gdtv.cn/tvChannelDetail/100
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+TVBS ASIA,video://https://iptv.tvfix.org/play/tvbs
+TVBS新聞台,video://https://iptv.tvfix.org/play/tvbsnews
+亞洲新聞台,video://https://iptv.tvfix.org/play/newsasia
+半島電視台,video://https://iptv.tvfix.org/play/aijazeera
+France 24,video://https://iptv.tvfix.org/play/france24
+DW,video://https://iptv.tvfix.org/play/dw
 
 LOS ANGELES,#genre# 
 CBSN,http://nonamevos.com:80/4500/4500/106333
