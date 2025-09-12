@@ -1018,48 +1018,6 @@ CCTV第一剧场,http://36.135.118.195:85/tsfile/live/1023_1.m3u8?key=txiptv&pla
 长春2,http://36.135.118.195:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 长春3,http://36.135.118.195:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 
-山西电信IPTV,#genre#
-CCTV1,http://110.177.144.14:9003/hls/1/index.m3u8?key=txiptv$山西电信
-CCTV2,http://110.177.144.14:9003/hls/2/index.m3u8?key=txiptv$山西电信
-CCTV3,http://110.177.144.14:9003/hls/3/index.m3u8?key=txiptv$山西电信
-CCTV4,http://110.177.144.14:9003/hls/4/index.m3u8?key=txiptv$山西电信
-CCTV5,http://110.177.144.14:9003/hls/5/index.m3u8?key=txiptv$山西电信
-CCTV5+,http://110.177.144.14:9003/hls/6/index.m3u8?key=txiptv$山西电信
-CCTV6,http://110.177.144.14:9003/hls/7/index.m3u8?key=txiptv$山西电信
-CCTV7,http://110.177.144.14:9003/hls/8/index.m3u8?key=txiptv$山西电信
-CCTV8,http://110.177.144.14:9003/hls/9/index.m3u8?key=txiptv$山西电信
-CCTV9,http://110.177.144.14:9003/hls/10/index.m3u8?key=txiptv$山西电信
-CCTV10,http://110.177.144.14:9003/hls/11/index.m3u8?key=txiptv$山西电信
-CCTV11,http://110.177.144.14:9003/hls/12/index.m3u8?key=txiptv$山西电信
-CCTV12,http://110.177.144.14:9003/hls/13/index.m3u8?key=txiptv$山西电信
-CCTV13,http://110.177.144.14:9003/hls/14/index.m3u8?key=txiptv$山西电信
-CCTV14,http://110.177.144.14:9003/hls/15/index.m3u8?key=txiptv$山西电信
-CCTV15,http://110.177.144.14:9003/hls/16/index.m3u8?key=txiptv$山西电信
-CCTV16,http://110.177.144.14:9003/hls/17/index.m3u8?key=txiptv$山西电信
-CCTV17,http://110.177.144.14:9003/hls/18/index.m3u8?key=txiptv$山西电信
-湖南卫视,http://110.177.144.14:9003/hls/33/index.m3u8?key=txiptv$山西电信
-江苏卫视,http://110.177.144.14:9003/hls/35/index.m3u8?key=txiptv$山西电信
-北京卫视,http://110.177.144.14:9003/hls/20/index.m3u8?key=txiptv$山西电信
-东南卫视,http://110.177.144.14:9003/hls/24/index.m3u8?key=txiptv$山西电信
-广东卫视,http://110.177.144.14:9003/hls/26/index.m3u8?key=txiptv$山西电信
-江苏卫视,http://110.177.144.14:9003/hls/35/index.m3u8?key=txiptv$山西电信
-江西卫视,http://110.177.144.14:9003/hls/36/index.m3u8?key=txiptv$山西电信
-湖北卫视,http://110.177.144.14:9003/hls/32/index.m3u8?key=txiptv$山西电信
-安徽卫视,http://110.177.144.14:9003/hls/21/index.m3u8?key=txiptv$山西电信
-山西卫视,http://110.177.144.14:9003/hls/19/index.m3u8?key=txiptv$山西电信
-河南卫视,http://110.177.144.14:9003/hls/30/index.m3u8?key=txiptv$山西电信
-河北卫视,http://110.177.144.14:9003/hls/29/index.m3u8?key=txiptv$山西电信
-黑龙江卫视,http://110.177.144.14:9003/hls/31/index.m3u8?key=txiptv$山西电信
-吉林卫视,http://110.177.144.14:9003/hls/34/index.m3u8?key=txiptv$山西电信
-辽宁卫视,http://110.177.144.14:9003/hls/37/index.m3u8?key=txiptv$山西电信
-重庆卫视,http://110.177.144.14:9003/hls/22/index.m3u8?key=txiptv$山西电信
-甘肃卫视,http://110.177.144.14:9003/hls/25/index.m3u8?key=txiptv$山西电信
-宁夏卫视,http://110.177.144.14:9003/hls/39/index.m3u8?key=txiptv$山西电信
-内蒙卫视,http://110.177.144.14:9003/hls/38/index.m3u8?key=txiptv$山西电信
-海南卫视,http://110.177.144.14:9003/hls/28/index.m3u8?key=txiptv$山西电信
-广西卫视,http://110.177.144.14:9003/hls/27/index.m3u8?key=txiptv$山西电信
-青海卫视,http://110.177.144.14:9003/hls/40/index.m3u8?key=txiptv$山西电信
-
 livehttpplay,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 翡翠台,http://live4play.uk/livehttpplay?channel_id=20124
@@ -1358,37 +1316,48 @@ KTTV,http://line.lebiptv.me/live/56GK2532/BQFR9453/549875.ts
 SPECTRUM NEWS SO CAL,http://suprino.xyz/live/Rogi007/95WXXSR/1284290.ts
 ABC NES LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC NES LIVE,https://livetv-fa.tubi.video/abc-news/index.m3u8
-BBC WORLD NEWS,https://fl5.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+ALJAZEERA,http://46.105.71.222:8080/aljazeera/index.m3u8
+BBC WORLD NEWS,https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
+BBC WORLD NEWS,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+BBC WORLD NEWS,http://46.105.71.222:8080/bbcnews/index.m3u8
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CBS NEWS 24/7,https://fl5.moveonjoy.com/CBS_News/index.m3u8
+CBS NEWS 24/7,https://fl1.moveonjoy.com/CBS_News/index.m3u8
 CBS NEWS 24/7,http://143.244.60.30/CBS_News/index.m3u8
 CBS NEWS 24/7,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-CBS SPORTS NETWORK,https://fl5.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+CBS SPORTS NETWORK,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 CBS SPORTS NETWORK,http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CNBC,https://fl5.moveonjoy.com/CNBC/index.m3u8
+CNBC,https://fl1.moveonjoy.com/CNBC/index.m3u8
 CNBC,http://143.244.60.30/CNBC/index.m3u8
 CNBC,https://tvpass.org/live/CNBC/hd
-CNBC World,https://fl5.moveonjoy.com/CNBC_World/index.m3u8
-CNN,https://fl5.moveonjoy.com/CNN/index.m3u8
+CNBC World,https://143.244.60.30/CNBC_World/index.m3u8
+CNBC World,https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+CNN,https://tvpass.org/live/CNN/hd
+CNN,http://41.205.93.154/CNN/index.m3u8
+CNN,http://143.244.60.30/CNN/index.m3u8
+CNN,https://fl1.moveonjoy.com/CNN/index.m3u8
 CNN,http://104.255.88.155/cnn/index.m3u8
 CNN,http://46.105.71.222:8080/cnn/index.m3u8
-ESPN NEWS,https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
+ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 ESPN_NEWS,http://143.244.60.30/ESPN_NEWS/index.m3u8
-ESPN 2,https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-ESPN U,https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-FOX BUSINESS,https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+ESPN 2,https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+ESPN U,https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+EURONEWS,http://46.105.71.222:8080/euronews/index.m3u8
+FOX BUSINESS,https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 FOX NEWS,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+FOX NEWS,http://46.105.71.222:8080/foxnews/index.m3u8
 FOX NEWS,http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 FOX NEWS,https://tvpass.org/live/FoxNewsChannel/hd
 FOX WEATHER,https://247wlive.foxweather.com/stream/index.m3u8
 FOX WEATHER,https://livetv-fa.tubi.video/fox-weather/index.m3u8
 FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
 Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+FRANCE24,http://46.105.71.222:8080/france24/index.m3u8
 FS1,http://23.237.104.106:8080/USA_FS1/index.m3u8
 FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
@@ -1398,21 +1367,84 @@ MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
 NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+SKY NEWS,http://46.105.71.222:8080/skynews/index.m3u8
 TVG,https://fl1.moveonjoy.com/TVG/index.m3u8
+TVG,http://143.244.60.30/TVG/index.m3u8
 THE WEATHER CHANNE,https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 THE WEATHER CHANNE,http://143.244.60.30/THE_WEATHER_CHANNEL/index.m3u8
 beIN Sports USA,http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+MAGIC,http://185.18.56.26:8888/magic/index.m3u8
+MAGIC,http://84.54.128.52:9090/play/a00c/index.m3u8
+NOW 70s,https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW 80s,https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW 90s00s,https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW ROCK,https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 Stingray Nothin' But 90s,https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 ﻿Stingray Flashback 70's,https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 Stingray Everything '80s,https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 Stingray Classic Rock,https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-NOW 70s,https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-NOW 80s,https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-NOW 90s00s,https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-NOW ROCK,https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-m
+
+UK,#genre#
+4 channel HD,http://150.129.9.194:8089/9/index.m3u8?token=test
+5 channel HD,http://150.129.9.194:8089/12/index.m3u8?token=test
+5ACTION,http://150.129.9.194:8089/54/index.m3u8?token=test
+5STAR,http://150.129.9.194:8089/31/index.m3u8?token=test
+5USA,http://150.129.9.194:8089/32/index.m3u8?token=test
+ANIMAL PLANET,http://150.129.9.194:8089/74/index.m3u8?token=test
+BBC NEWS HD,http://150.129.9.194:8089/76/index.m3u8?token=test
+BLOOMBERG,http://150.129.9.194:8089/80/index.m3u8?token=test
+Boomerang HD,http://150.129.9.194:8089/84/index.m3u8?token=test
+Cartoonito,http://150.129.9.194:8089/91/index.m3u8?token=test
+CN HD,http://150.129.9.194:8089/83/index.m3u8?token=test
+CNN HD,http://150.129.9.194:8089/78/index.m3u8?token=test
+Discovery HD,http://150.129.9.194:8089/62/index.m3u8?token=test
+DMAX,http://150.129.9.194:8089/72/index.m3u8?token=test
+Eurobews,http://84.54.128.52:9090/play/9004/index.m3u8
+Eurosport 1 HD,http://84.54.128.52:9090/play/15003/index.m3u8
+Eurosport 2 HD,http://84.54.128.52:9090/play/15004/index.m3u8
+Food Network,http://150.129.9.194:8089/51/index.m3u8?token=test
+FRANCE 24 HD,http://150.129.9.194:8089/79/index.m3u8?token=test
+HGTV,http://150.129.9.194:8089/50/index.m3u8?token=test
+HUB PREMIER 1 HD,http://150.129.9.194:8089/160/index.m3u8?token=test
+HUB PREMIER 2 HD,http://150.129.9.194:8089/161/index.m3u8?token=test
+HUB PREMIER 3 HD,http://150.129.9.194:8089/163/index.m3u8?token=test
+itv1 HD,http://150.129.9.194:8089/6/index.m3u8?token=test
+itv2 HD,http://150.129.9.194:8089/23/index.m3u8?token=test
+itv3 HD,http://150.129.9.194:8089/24/index.m3u8?token=test
+LEGEND,http://150.129.9.194:8089/47/index.m3u8?token=test
+More HD,http://150.129.9.194:8089/28/index.m3u8?token=test
+NAT GEO WILD HD,http://150.129.9.194:8089/69/index.m3u8?token=test
+Nick Jr HD,http://150.129.9.194:8089/86/index.m3u8?token=test
+Nickelodeon HD,http://150.129.9.194:8089/85/index.m3u8?token=test
+Nicktoon,http://150.129.9.194:8089/87/index.m3u8?token=test
+QUEST HD,http://150.129.9.194:8089/52/index.m3u8?token=test
+QUEST RED,http://150.129.9.194:8089/53/index.m3u8?token=test
+S4C HD,http://150.129.9.194:8089/11/index.m3u8?token=test
+Sky KIDS HD,http://150.129.9.194:8089/95/index.m3u8?token=test
+SKY NEWS HD,http://150.129.9.194:8089/77/index.m3u8?token=test
+sky sports + HD,http://150.129.9.194:8089/181/index.m3u8?token=test
+sky sports action,http://150.129.9.194:8089/127/index.m3u8?token=test
+sky sports criket HD,http://150.129.9.194:8089/124/index.m3u8?token=test
+sky sports F1,http://150.129.9.194:8089/134/index.m3u8?token=test
+sky sports Football HD,http://150.129.9.194:8089/121/index.m3u8?token=test
+sky sports golf,http://150.129.9.194:8089/131/index.m3u8?token=test
+sky sports news HD,http://150.129.9.194:8089/128/index.m3u8?token=test
+sky sports tennis HD,http://150.129.9.194:8089/171/index.m3u8?token=test
+TNT SPORTS 1 HD,http://150.129.9.194:8089/176/index.m3u8?token=test
+TNT sports 2,http://150.129.9.194:8089/141/index.m3u8?token=test
+TNT SPORTS 3,http://150.129.9.194:8089/144/index.m3u8?token=test
+TNT SPORTS 4,http://150.129.9.194:8089/146/index.m3u8?token=test
+TRUE CRIME,http://150.129.9.194:8089/48/index.m3u8?token=test
+U&alibi HD,http://150.129.9.194:8089/42/index.m3u8?token=test
+U&Dave HD,http://150.129.9.194:8089/30/index.m3u8?token=test
+U&DRAMA,http://150.129.9.194:8089/61/index.m3u8?token=test
+U&EDEN,http://150.129.9.194:8089/45/index.m3u8?token=test
+U&GOLD,http://150.129.9.194:8089/35/index.m3u8?token=test
+U&YESTERDAY,http://150.129.9.194:8089/44/index.m3u8?token=test
+
