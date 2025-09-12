@@ -1188,6 +1188,20 @@ ASTRO PURMIER LEAGUE,http://rstm.tvsapp.xyz:8080/live/besmircanajjj/ku1hmfwA8/86
 ASTRO PURMIER LEAGUE 2,http://rstm.tvsapp.xyz:8080/live/besmircanajjj/ku1hmfwA8/86294.ts
 ASTRO FOOTBALL,http://rstm.tvsapp.xyz:8080/live/besmircanajjj/ku1hmfwA8/86296.ts
 
+webview,#genre#
+凤凰中文,webview://https://iptv.tvfix.org/play/fhzw
+凤凰资讯,webview://https://iptv.tvfix.org/play/fwzx
+凤凰香港,webview://iptv.tvfix.org/play/fwxg
+无线新闻,webview://https://iptv.tvfix.org/play/inews
+翡翠台,webview://https://iptv.tvfix.org/play/jade
+明珠台,webview://https://iptv.tvfix.org/play/pearl
+无线娱乐新闻台,webview://https://iptv.tvfix.org/play/enews
+CCTV1,webview://https://iptv.tvfix.org/play/cctv1hdhk
+CGTN,webview://https://iptv.tvfix.org/play/cgtnhd
+CGTN DOC,webview://https://iptv.tvfix.org/play/cgtndochd
+TVBS ASIA,webview://https://iptv.tvfix.org/play/tvbs
+TVBS新聞台,webview://https://iptv.tvfix.org/play/tvbsnews
+
 LOS ANGELES,#genre# 
 CBSN,http://nonamevos.com:80/4500/4500/106333
 CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
