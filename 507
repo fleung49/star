@@ -1,6 +1,7 @@
 香港 Hongkong,#genre#
 無線新聞台,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 無線新聞台,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b57cc38d8bf115d2d37703173c910cc
+無線新聞台,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線娱乐新聞台,http://smart.cityq.xyz:8278/Tvbentertainment/playlist.m3u8?tid=MD1D9440795894407958&ct=20241&tsum=214dcd85290b8848ccf1430ff7529dbe
 無線娱乐新聞台,http://smart.cityq.xyz:8278/Tvbentertainment/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6e58ae5d1ce9a6dd3a6ad163eaa6a906
 明珠台,http://smart.cityq.xyz:8278/pearl_twn/playlist.m3u8?tid=MEBE4061614940616149&ct=20241&tsum=cdf6fb32e44c73ecdb78c2fea61fc1c7
@@ -8,6 +9,7 @@
 翡翠台华丽,http://smart.cityq.xyz:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
 翡翠台华丽,http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adbeabe32146fca166f6bdd0e898e2ff
 TVB PLUS,http://smart.cityq.xyz:8278/j2_twn/playlist.m3u8?tid=MD4D2403778024037780&ct=20241&tsum=c1359a362c3f4447b548ca3eeaced81f
+TVB PLUS,http://smart.cityq.xyz:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB 星河,http://smart.cityq.xyz:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
 TVB 星河台,http://smart.cityq.xyz:8278/Xinhe/playlist.m3u8?tid=MB8B4810882548108825&ct=20241&tsum=8716f769a950f1575a0358561226e5b0
 千禧经典,http://smart.cityq.xyz:8278/Tvbclassic/playlist.m3u8?tid=MBEB8308380183083801&ct=20241&tsum=441da00bf96de3f029e6941bed18d849
@@ -61,8 +63,9 @@ CCTV-17,http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F524676515246765
 臺灣 Taiwan,#genre#
 寰宇新聞,http://smart.cityq.xyz:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=72315211ea2fb5525f48563203b6a7b8
 寰宇財經台,http://smart.cityq.xyz:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf7be8ecea972582b17a2ee35463c961
-中天新聞HD,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
+中天新聞,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
 中天新聞,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+中天新聞,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天亞洲台,http://smart.cityq.xyz:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
 中天亞洲台,http://smart.cityq.xyz:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天娛樂,http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
