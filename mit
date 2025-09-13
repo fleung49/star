@@ -1197,6 +1197,7 @@ webview,#genre#
 明珠台,video://https://iptv.tvfix.org/play/pearl
 无线娱乐新闻台,video://https://iptv.tvfix.org/play/enews
 CCTV1,video://https://iptv.tvfix.org/play/cctv1hdhk
+CCTV13,video://https://tv.cctv.com/live/cctv1/index.shtml
 CGTN,video://https://iptv.tvfix.org/play/cgtnhd
 CGTN DOC,video://https://iptv.tvfix.org/play/cgtndochd
 東方衛視國際,video://https://iptv.tvfix.org/play/dfhd
@@ -1207,6 +1208,8 @@ TVBS新聞台,video://https://iptv.tvfix.org/play/tvbsnews
 France 24,video://https://iptv.tvfix.org/play/france24
 DW,video://https://iptv.tvfix.org/play/dw
 福建新闻频道,video://https://live.fjtv.net/xwpd/
+福建旅游频道,video://https://live.fjtv.net/dspd/
+福建公共频道,video://https://live.fjtv.net/ggpd/
 
 LOS ANGELES,#genre# 
 CBSN,http://nonamevos.com:80/4500/4500/106333
