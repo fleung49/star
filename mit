@@ -256,6 +256,7 @@ CHC高清电影,p2p://142.54.189.229:2666/64df526f0007690e05a02b8862980d8c.ts
 J2,p2p://142.54.189.229:2666/64df145e0003949404adb826220f65c7.ts
 凤凰资讯,p2p://142.54.189.229:2666/64df4dbc000cf286058dd1b77e200c8c.ts
 中天新闻,p2p://142.54.189.229:2666/64de52a70006e20d01b906297b7d0f95.ts
+中天新闻2,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
 TVBS新闻,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 东森新闻,p2p://142.54.189.229:2666/64df0db3000d67790493aeaf65c56300.ts
 三立新闻,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
@@ -1338,6 +1339,7 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 
 livehttpplay,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
@@ -1691,6 +1693,8 @@ CCTV13,video://https://tv.cctv.com/live/cctv1/index.shtml
 CGTN,video://https://iptv.tvfix.org/play/cgtnhd
 CGTN DOC,video://https://iptv.tvfix.org/play/cgtndochd
 東方衛視國際,video://https://iptv.tvfix.org/play/dfhd
+中天新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
+中天新闻,video://http://surl.wsmywlkj.top/bfyBi
 TVBS ASIA,video://https://iptv.tvfix.org/play/tvbs
 TVBS新聞台,video://https://iptv.tvfix.org/play/tvbsnews
 亞洲新聞台,video://https://iptv.tvfix.org/play/newsasia
