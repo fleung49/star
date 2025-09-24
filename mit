@@ -1461,6 +1461,7 @@ api香港,#genre#
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 翡翠台B,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
 无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+无线新闻,https://iptv.kukubao.online/memfs/2975977e-ff47-48ad-8088-d4d000965a2f.m3u8
 明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 TVB PLUS,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 HOY 78,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
@@ -1469,6 +1470,7 @@ ViuTV 6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
 RTHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
 RTHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰中文,https://iptv.kukubao.online/memfs/910ed059-a12e-42fc-9247-b4758a08fd26.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 
@@ -1682,24 +1684,60 @@ USA TVG Network,http://vocotv.pro:80/0000011/0000011/836
 USA TVG 2 Network,http://vocotv.pro:80/0000011/0000011/835
 
 webview,#genre#
-凤凰中文,video://https://iptv.tvfix.org/play/fhzw
-凤凰资讯,video://https://iptv.tvfix.org/play/fwzx
-凤凰香港,video://iptv.tvfix.org/play/fwxg
-无线新闻,video://https://iptv.tvfix.org/play/inews
-翡翠台,video://https://iptv.tvfix.org/play/jade
-明珠台,video://https://iptv.tvfix.org/play/pearl
+凤凰中文,video://https://m.345iptv.com/?act=play&token=68fa9923b35c84c701e7e86a1f3cd1a8&tid=gt&id=1
+凤凰资讯,video://https://m.345iptv.com/?act=play&token=31d43fcaca69478ca897ecd93328f237&tid=gt&id=2
+凤凰香港,video://https://m.345iptv.com/?act=play&token=fa1e20945dffc67cecdd9339690ffc24&tid=gt&id=3
+无线新闻,video://https://m.345iptv.com/?act=play&token=d61bf3728a3e9ef0e388ea88a2370484&tid=gt&id=6
+TVB PLUS,video://https://m.345iptv.com/?act=play&token=002e1ad98a82f4786f03b142dd275063&tid=gt&id=8
+翡翠台,video://https://m.345iptv.com/?act=play&token=48da22b137eef805745004721b48526a&tid=gt&id=5
+明珠台,video://https://m.345iptv.com/?act=play&token=e0bfde843d763ac375818a0f0c5d8e28&tid=gt&id=9
 无线娱乐新闻台,video://https://iptv.tvfix.org/play/enews
-CCTV1,video://https://iptv.tvfix.org/play/cctv1hdhk
-CCTV13,video://https://tv.cctv.com/live/cctv1/index.shtml
-CGTN,video://https://iptv.tvfix.org/play/cgtnhd
-CGTN DOC,video://https://iptv.tvfix.org/play/cgtndochd
-東方衛視國際,video://https://iptv.tvfix.org/play/dfhd
-TVBS ASIA,video://https://iptv.tvfix.org/play/tvbs
-TVBS新聞台,video://https://iptv.tvfix.org/play/tvbsnews
-亞洲新聞台,video://https://iptv.tvfix.org/play/newsasia
-半島電視台,video://https://iptv.tvfix.org/play/aijazeera
-France 24,video://https://iptv.tvfix.org/play/france24
-DW,video://https://iptv.tvfix.org/play/dw
+香港有线18台,video://https://m.345iptv.com/?act=play&token=d8f5d7ca348fec560a8556310993ce37&tid=gt&id=12
+NOW新闻台,video://https://m.345iptv.com/?act=play&token=f7faed24c4e33dc43ce067269eea839c&tid=gt&id=17
+NOW财经台,video://https://m.345iptv.com/?act=play&token=b485dad6cbf594ac1da9ec70de07087c&tid=gt&id=18
+VIUTV,video://https://m.345iptv.com/?act=play&token=39145bea5993ac5cb09043b28f47c4c9&tid=gt&id=19
+VIUTV 6,video://https://m.345iptv.com/?act=play&token=0aeba0c0f0e346595135f6e806998649&tid=gt&id=20
+HOY 76,video://https://m.345iptv.com/?act=play&token=97867f308758cc06f332cf270ba2bce3&tid=gt&id=22
+HOY 77,video://https://m.345iptv.com/?act=play&token=093f331478f10a3be2cb4fbba383cf5f&tid=gt&id=24
+HOY 78,video://https://m.345iptv.com/?act=play&token=08b4ba667fa06e5e35e5f3ba6217f878&tid=gt&id=23
+RTHK32,video://https://m.345iptv.com/?act=play&token=7a3677b8fb6e44291882b423641da3ab&tid=gt&id=26
+RTHK32,video://https://m.345iptv.com/?act=play&token=69ac3dde76a9f43c86137e3ab39d6e94&tid=gt&id=27
+CCTV1,video://https://m.345iptv.com/?act=play&token=782f0fe715a575d31bc31d562e6f2e37&tid=itv&id=7
+CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
+CCTV5,video://https://m.345iptv.com/?act=play&token=4115de165e379bdef3975431a24d2056&tid=itv&id=11
+CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59c089b&tid=itv&id=12
+CCTV13,video://https://m.345iptv.com/?act=play&token=3af25b7d22b111e7e2fd2f8aa0bde4c3&tid=itv&id=20
+CGTN,video://https://m.345iptv.com/?act=play&token=edd37e6db9c58fd074f12a73f2b397e7&tid=itv&id=29
+CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfbab3c7fff&tid=itv&id=30
+广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东珠江,video://https://m.345iptv.com/?act=play&token=06187fe5b629825aa3e2a7ae3c9ab1bf&tid=itv&id=5
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
+广东体育,video://https://m.345iptv.com/?act=play&token=30fa7b58e881216ed07f52e36443fe19&tid=itv&id=4
+广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
+广东GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
+广东GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
+广东岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
+广东纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
+广东台经典剧,video://https://www.gdtv.cn/tvChannelDetail/100
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+寰宇新闻台,video://https://m.345iptv.com/?act=play&token=2c356b910e5fa376aabe6134d1e1610b&tid=gt&id=53
+寰宇新闻台湾台,video://https://m.345iptv.com/?act=play&token=484697fe256d5141bcb19c8c8a63a340&tid=gt&id=54
+中天新闻,video://https://m.345iptv.com/?act=play&token=f34f02ea0d098bfb9e4521ca4c53953a&tid=gt&id=43
+TVBS ASIA,video://https://m.345iptv.com/?act=play&token=73ae63596875c9eca7e4e5b44cf8d6d1&tid=gt&id=56
+TVBS新聞台,video://https://m.345iptv.com/?act=play&token=a52016eb7361158f01188768f34ad289&tid=gt&id=55
+TVBS欢乐台,video://https://m.345iptv.com/?act=play&token=d2bd77d413fa36a2a202a26679fda2fc&tid=gt&id=57
+中视新闻,video://https://m.345iptv.com/?act=play&token=285532698a765a0d4bf7223dde1ef70b&tid=gt&id=46
+东森新闻,video://https://m.345iptv.com/?act=play&token=f652ee441417bb8d9f437261e604602b&tid=gt&id=44
+爱尔达体育1台,video://https://m.345iptv.com/?act=play&token=0c6b36ad06c2ddc51b18a850edcda79f&tid=gt&id=79
+爱尔达体育2台,video://https://m.345iptv.com/?act=play&token=f2e74c5950e2ebe34a213af8bdc4b3ce&tid=gt&id=80
+爱尔达体育3台,video://https://m.345iptv.com/?act=play&token=7435c7d2deb1b3a063f72e6ea0d7a60a&tid=gt&id=81
+爱尔达体育4台,video://https://m.345iptv.com/?act=play&token=f5d4134ebe18f6c6393d8d508b536b07&tid=gt&id=82
+DAZN 1,video://https://m.345iptv.com/?act=play&token=0674112992b178db6f311e7189c5b1f2&tid=gt&id=76
+DAZN 2,video://https://m.345iptv.com/?act=play&token=1b814b953a5067307aa4d1f78572979b&tid=gt&id=77
 福建新闻频道,video://https://live.fjtv.net/xwpd/
 福建旅游频道,video://https://live.fjtv.net/dspd/
 福建公共频道,video://https://live.fjtv.net/ggpd/
@@ -1735,6 +1773,8 @@ DW,video://https://iptv.tvfix.org/play/dw
 风云剧场,video://https://yangshipin.cn/tv/home?pid=600099658
 第一剧场,video://https://yangshipin.cn/tv/home?pid=600099655
 怀旧剧场,video://https://yangshipin.cn/tv/home?pid=600099620
+上海这一刻,video://https://live.kankanews.com/live/8029037XEw6
+东方卫视,video://https://live.kankanews.com/huikan?id=1
 上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 上海都市,video://https://live.kankanews.com/huikan?id=4
 第一财经,video://https://live.kankanews.com/huikan?id=5
