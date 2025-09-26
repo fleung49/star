@@ -1694,8 +1694,8 @@ webview,#genre#
 TVB PLUS,video://https://m.345iptv.com/?act=play&token=002e1ad98a82f4786f03b142dd275063&tid=gt&id=8
 翡翠台,video://https://m.345iptv.com/?act=play&token=48da22b137eef805745004721b48526a&tid=gt&id=5
 明珠台,video://https://m.345iptv.com/?act=play&token=e0bfde843d763ac375818a0f0c5d8e28&tid=gt&id=9
-无线娱乐新闻台,video://https://iptv.tvfix.org/play/enews
-SUPER識食,video://https://www.mytvsuper.com/tc/live/4/SUPER識食/
+TVB星河,video://https://www.kds.tw/tv/malaysia-tv-channels-online/xing-he/#google_vignette
+千禧经典台,video://https://www.kds.tw/tv/malaysia-tv-channels-online/tvb-classic/
 香港有线18台,video://https://m.345iptv.com/?act=play&token=d8f5d7ca348fec560a8556310993ce37&tid=gt&id=12
 NOW新闻台,video://https://m.345iptv.com/?act=play&token=f7faed24c4e33dc43ce067269eea839c&tid=gt&id=17
 NOW新闻台,video://https://news.now.com/home/live
@@ -1709,16 +1709,31 @@ HOY 78,video://https://m.345iptv.com/?act=play&token=08b4ba667fa06e5e35e5f3ba621
 RTHK32,video://https://m.345iptv.com/?act=play&token=7a3677b8fb6e44291882b423641da3ab&tid=gt&id=26
 RTHK32,video://https://m.345iptv.com/?act=play&token=69ac3dde76a9f43c86137e3ab39d6e94&tid=gt&id=27
 CCTV1,video://https://m.345iptv.com/?act=play&token=782f0fe715a575d31bc31d562e6f2e37&tid=itv&id=7
+CCTV1,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-general-channel/
+CCTV2,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel/
+CCTV3,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3/
+CCTV4,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-4-chinese-international/
 CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
 CCTV5,video://https://m.345iptv.com/?act=play&token=4115de165e379bdef3975431a24d2056&tid=itv&id=11
 CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59c089b&tid=itv&id=12
+CCTV6,video://https://www.kds.tw/tv/china-tv-channels-online/china-movie-channel/
+CCTV7,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel/
+CCTV8,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama/
+CCTV9,video://https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary/
+CCTV10,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel/
+CCTV11,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-11/
 CCTV13,video://https://m.345iptv.com/?act=play&token=3af25b7d22b111e7e2fd2f8aa0bde4c3&tid=itv&id=20
+CCTV13,video://https://www.kds.tw/tv/china-tv-channels-online/cctv13/
+CCTV14,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-14-childrens-channel/
+CCTV15,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-15-music/
 CGTN,video://https://m.345iptv.com/?act=play&token=edd37e6db9c58fd074f12a73f2b397e7&tid=itv&id=29
 CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfbab3c7fff&tid=itv&id=30
 广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东卫视,https://www.kds.tw/tv/china-tv-channels-online/grt-satellite-channel/
+广东珠江,video://https://www.kds.tw/tv/china-tv-channels-online/grt-pearl-river-channel/
 广东珠江,video://https://m.345iptv.com/?act=play&token=06187fe5b629825aa3e2a7ae3c9ab1bf&tid=itv&id=5
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
 广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
 广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
@@ -1729,12 +1744,30 @@ CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfba
 广东岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
 广东纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
 广东台经典剧,video://https://www.gdtv.cn/tvChannelDetail/100
-大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
 广州新闻,video://https://m.345iptv.com/?act=play&token=9b74905fb23635ba979b35e1251ff342&tid=itv&id=99
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+深圳卫视,video://https://www.kds.tw/tv/china-tv-channels-online/shenzhen-satellite-tv/
+东南卫视,video://https://www.kds.tw/tv/china-tv-channels-online/fujian-satellite-tv/
+浙江卫视,video://https://www.kds.tw/tv/china-tv-channels-online/zhejiang-satellite-tv/
+江苏卫视,video://https://www.kds.tw/tv/china-tv-channels-online/jiangsu-satellite-tv/
+北京卫视,video://https://www.kds.tw/tv/china-tv-channels-online/brtv/
+ASTRO Hua Hee Tai,video://https://www.kds.tw/tv/malaysia-tv-channels-online/hua-hee-tai/
+ASTRO Wah Lai Toi,video://https://www.kds.tw/tv/malaysia-tv-channels-online/wah-lai-toi/
+ASTRO AEC,video://https://www.kds.tw/tv/malaysia-tv-channels-online/aec/
+ASTRO BADMINTON,video://https://www.kds.tw/tv/sports-tv-live-streaming/astro-badminton/
+ASTRO QJ,video://https://www.kds.tw/tv/malaysia-tv-channels-online/astro-qj/
+ASTRO IQIYI爱奇艺,video://https://www.kds.tw/tv/malaysia-tv-channels-online/iqiyi/
+ASTRO CNA,video://https://www.kds.tw/tv/malaysia-tv-channels-online/cna/
+天映频道,video://https://www.kds.tw/tv/malaysia-tv-channels-online/celestial-movies-hd/
+天映经典,video://https://www.kds.tw/tv/malaysia-tv-channels-online/celestial-classic/
+8TV,https://www.kds.tw/tv/malaysia-tv-channels-online/8tv/
 寰宇新闻台,video://https://m.345iptv.com/?act=play&token=2c356b910e5fa376aabe6134d1e1610b&tid=gt&id=53
 寰宇新闻台湾台,video://https://m.345iptv.com/?act=play&token=484697fe256d5141bcb19c8c8a63a340&tid=gt&id=54
+中天新闻,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-news/
 中天新闻,video://https://m.345iptv.com/?act=play&token=f34f02ea0d098bfb9e4521ca4c53953a&tid=gt&id=43
-TVBS ASIA,video://https://m.345iptv.com/?act=play&token=73ae63596875c9eca7e4e5b44cf8d6d1&tid=gt&id=56
+中天综合,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-metro/
+TVBS,video://https://m.345iptv.com/?act=play&token=73ae63596875c9eca7e4e5b44cf8d6d1&tid=gt&id=56
+TVBS ASIA,video://https://www.kds.tw/tv/malaysia-tv-channels-online/tvb-asia/
 TVBS新聞台,video://https://m.345iptv.com/?act=play&token=a52016eb7361158f01188768f34ad289&tid=gt&id=55
 TVBS欢乐台,video://https://m.345iptv.com/?act=play&token=d2bd77d413fa36a2a202a26679fda2fc&tid=gt&id=57
 中视新闻,video://https://m.345iptv.com/?act=play&token=285532698a765a0d4bf7223dde1ef70b&tid=gt&id=46
