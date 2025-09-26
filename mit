@@ -307,6 +307,8 @@ CCTV 13 NEWS,http://dns.yiandrive.com:13571/douyin/kuaikancctv
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞2,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞3,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天新聞4,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新聞CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 中天新聞 CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
