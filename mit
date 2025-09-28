@@ -1709,28 +1709,31 @@ HOY 78,video://https://m.345iptv.com/?act=play&token=08b4ba667fa06e5e35e5f3ba621
 RTHK32,video://https://m.345iptv.com/?act=play&token=7a3677b8fb6e44291882b423641da3ab&tid=gt&id=26
 RTHK32,video://https://m.345iptv.com/?act=play&token=69ac3dde76a9f43c86137e3ab39d6e94&tid=gt&id=27
 CCTV1,video://https://m.345iptv.com/?act=play&token=782f0fe715a575d31bc31d562e6f2e37&tid=itv&id=7
-CCTV1,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-general-channel/
-CCTV2,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel/
-CCTV3,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3/
-CCTV4,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-4-chinese-international/
+CCTV1,video://https://tv.cctv.com/live/cctv1/
+CCTV2,video://https://tv.cctv.com/live/cctv2/
+CCTV3,video://https://tv.cctv.com/live/cctv3/
+CCTV4,video://https://tv.cctv.com/live/cctv4/
 CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
+CCTV4（欧）,video://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV5,video://https://m.345iptv.com/?act=play&token=4115de165e379bdef3975431a24d2056&tid=itv&id=11
 CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59c089b&tid=itv&id=12
-CCTV6,video://https://www.kds.tw/tv/china-tv-channels-online/china-movie-channel/
-CCTV7,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel/
-CCTV8,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama/
-CCTV9,video://https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary/
-CCTV10,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel/
-CCTV11,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-11/
+CCTV6,video://https://tv.cctv.com/live/cctv6/
+CCTV7,video://https://tv.cctv.com/live/cctv7/
+CCTV8,video://https://tv.cctv.com/live/cctv8/
+CCTV9,video://https://tv.cctv.com/live/cctvjilu/
+CCTV10,video://https://tv.cctv.com/live/cctv10/
+CCTV11,video://https://tv.cctv.com/live/cctv11/
+CCTV12,video://https://tv.cctv.com/live/cctv12/
 CCTV13,video://https://m.345iptv.com/?act=play&token=3af25b7d22b111e7e2fd2f8aa0bde4c3&tid=itv&id=20
-CCTV13,video://https://www.kds.tw/tv/china-tv-channels-online/cctv13/
-CCTV14,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-14-childrens-channel/
-CCTV15,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-15-music/
+CCTV13,video://https://tv.cctv.com/live/cctv13/
+CCTV14,video://https://tv.cctv.com/live/cctvchild/
+CCTV15,video://https://tv.cctv.com/live/cctv15/
+CCTV17,video://https://tv.cctv.com/live/cctv17/
+CCTV+,video://https://www.cctvplus.com/live/channel1.shtml
 CGTN,video://https://m.345iptv.com/?act=play&token=edd37e6db9c58fd074f12a73f2b397e7&tid=itv&id=29
 CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfbab3c7fff&tid=itv&id=30
 广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-广东卫视,https://www.kds.tw/tv/china-tv-channels-online/grt-satellite-channel/
 广东珠江,video://https://www.kds.tw/tv/china-tv-channels-online/grt-pearl-river-channel/
 广东珠江,video://https://m.345iptv.com/?act=play&token=06187fe5b629825aa3e2a7ae3c9ab1bf&tid=itv&id=5
 广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
@@ -1760,11 +1763,14 @@ ASTRO IQIYI爱奇艺,video://https://www.kds.tw/tv/malaysia-tv-channels-online/i
 ASTRO CNA,video://https://www.kds.tw/tv/malaysia-tv-channels-online/cna/
 天映频道,video://https://www.kds.tw/tv/malaysia-tv-channels-online/celestial-movies-hd/
 天映经典,video://https://www.kds.tw/tv/malaysia-tv-channels-online/celestial-classic/
-8TV,https://www.kds.tw/tv/malaysia-tv-channels-online/8tv/
+8TV,video://https://www.kds.tw/tv/malaysia-tv-channels-online/8tv/
+壹新聞,video://https://tv2.wfuapp.com/2019/11/next-tv-news.html
 寰宇新闻台,video://https://m.345iptv.com/?act=play&token=2c356b910e5fa376aabe6134d1e1610b&tid=gt&id=53
 寰宇新闻台湾台,video://https://m.345iptv.com/?act=play&token=484697fe256d5141bcb19c8c8a63a340&tid=gt&id=54
-中天新闻,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-news/
+今日新闻,video://https://tv2.wfuapp.com/2024/07/nownews-ai-live.html
+今日氣象,video://https://tv2.wfuapp.com/2025/06/nownews-ai-weather-live.html
 中天新闻,video://https://m.345iptv.com/?act=play&token=f34f02ea0d098bfb9e4521ca4c53953a&tid=gt&id=43
+中天新闻CTI+,video://https://tv2.wfuapp.com/2019/12/ctitv-news-live.html
 中天综合,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-metro/
 TVBS,video://https://m.345iptv.com/?act=play&token=73ae63596875c9eca7e4e5b44cf8d6d1&tid=gt&id=56
 TVBS ASIA,video://https://www.kds.tw/tv/malaysia-tv-channels-online/tvb-asia/
@@ -1858,10 +1864,12 @@ DAZN 2,video://https://m.345iptv.com/?act=play&token=1b814b953a5067307aa4d1f7857
 成都影视文艺,video://https://www.cditv.cn/show/4845-560.html
 成都公共,video://https://www.cditv.cn/show/4845-559.html
 成都少儿,video://https://www.cditv.cn/show/4845-558.html
+ABC NEWS LIVE,video://,video://
 ALJAZEERA,video://https://ufreetv.com/al-jazeera-news-live-stream.html
 BBC NEWS,https://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 BLOOMBERG,video://https://ufreetv.com/bloomberg-live-stream.html
-CBS LOS NGELES,video://https://ufreetv.com/cbs-los-angeles.html
+CBS LOS ANGELES,video://https://ufreetv.com/cbs-los-angeles.html
+CBS LOS ANGELES,video://https://www.cbsnews.com/losangeles/live/
 CBS NEWS 24/7,video://https://ufreetv.com/cbs-news-national.html
 CNBC,video://https://ufreetv.com/cnbc-live-stream.html
 CNN,video://https://ufreetv.com/cnn.html
@@ -1873,10 +1881,14 @@ FOX NEWS,video://https://ufreetv.com/foxnews.html
 FOX WEATHER,video://https://ufreetv.com/fox-weather-live-stream.html
 FRANCE 24,video://https://ufreetv.com/france-24.html
 GLOBAL NEWS CANADA,video://https://ufreetv.com/global-news.html
+KTLA,video://https://ktla.com/on-air/live-streaming/
 MSNBC,video://https://ufreetv.com/msnbc.html
+MSNBC,video://https://www.newslive.com/american/msnbc-news-live.html
 NBC NEWS NOW,video://https://ufreetv.com/nbc-news-now.html
 RT,video://https://ufreetv.com/rt-live-stream.html
+RT,video://https://hlsiptv.com/?hls=aHR0cHM6Ly9ydC1nbGIucnR0di5jb20vZHZyL3J0bmV3cy9wbGF5bGlzdF80NTAwS2IubTN1OA%3D%3D
 SKYNEWS,video://https://ufreetv.com/skynews.html
+TRT WORLD,video://https://hlsiptv.com/?hls=aHR0cHM6Ly90di10cnR3b3JsZC5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4
 THE WEATHER CHANNEL,https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 LOS ANGELES,#genre# 
