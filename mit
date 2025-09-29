@@ -1308,6 +1308,24 @@ SCTV-7高清,http://zqh2333.top:2222/udp/239.93.24.219:5140
 解密高清,http://zqh2333.top:2222/udp/239.93.24.199:9048
 地理高清,http://zqh2333.top:2222/udp/239.93.24.200:9052
 
+119央视频道,#genre#
+CCTV 1,http://119.123.177.78:8086/hls/2/index.m3u8
+CCTV 2,http://119.123.177.78:8086/hls/3/index.m3u8
+CCTV 3,http://119.123.177.78:8086/hls/4/index.m3u8
+CCTV 4,http://119.123.177.78:8086/hls/5/index.m3u8
+CCTV 5,http://119.123.177.78:8086/hls/6/index.m3u8
+CCTV 6,http://119.123.177.78:8086/hls/7/index.m3u8
+CCTV 7,http://119.123.177.78:8086/hls/8/index.m3u8
+CCTV 8,http://119.123.177.78:8086/hls/9/index.m3u8
+CCTV 9,http://119.123.177.78:8086/hls/10/index.m3u8
+CCTV 10,http://119.123.177.78:8086/hls/11/index.m3u8
+CCTV 11,http://119.123.177.78:8086/hls/12/index.m3u8
+CCTV 12,http://119.123.177.78:8086/hls/13/index.m3u8
+CCTV 13,http://119.123.177.78:8086/hls/14/index.m3u8
+CCTV 14,http://119.123.177.78:8086/hls/15/index.m3u8
+CCTV 15,http://119.123.177.78:8086/hls/16/index.m3u8
+CCTV 16,http://119.123.177.78:8086/hls/17/index.m3u8
+
 livehttpplay,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 翡翠台,http://live4play.uk/livehttpplay?channel_id=20124
