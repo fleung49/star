@@ -221,9 +221,12 @@ CCTV中文国际,https://www.youtube.com/watch?v=SdzewdkJa-o
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞2,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新聞3,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新聞4,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
-中天新聞CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+中天新闻3,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新聞4,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天新聞5,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻6,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 中天新聞 CTI+,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
@@ -364,8 +367,11 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
+中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
 中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 NOW爆谷台,https://iptv.kukubao.online/memfs/b52dc91b-5aba-4609-92d7-725e8cfb927c.m3u8
 NOW爆谷台,http://stream-ali1.csslcloud.net/live/vhNli7a2uwqrSArlhBpDjs0wGlm43VLkMnb9OJ2Hzj14qlP0TO.flv
@@ -1342,7 +1348,12 @@ VIUTV,http://live4play.uk/livehttpplay?channel_id=30032#http://live4play.uk/live
 FAIRCHILD 1,http://tlive24.uk/livehttpplay?channel_id=50208
 FAIRCHILD 2,http://tlive24.uk/livehttpplay?channel_id=50318
 TALENT TV,http://tlive24.uk/livehttpplay?channel_id=40319
+中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 博斯無限,http://tlive24.uk/livehttpplay?channel_id=42023
 博斯無限2,http://tlive24.uk/livehttpplay?channel_id=42024
 博斯網球,http://tlive24.uk/livehttpplay?channel_id=42026
@@ -1395,6 +1406,33 @@ VTV,http://tlive24.uk/livehttpplay?channel_id=20190
 VTV1,http://tlive24.uk/livehttpplay?channel_id=20185
 VTV3,http://tlive24.uk/livehttpplay?channel_id=20187
 VTV4,http://tlive24.uk/livehttpplay?channel_id=20188
+
+港台新闻,#genre#
+凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
+凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
+凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
+寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
+镜新闻,http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
+中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuo4srbiMv.flv 
+中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中视,http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
+东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+东森新闻(美),http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
+三立iNEWS,http://stream-ali1.csslcloud.net/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
+台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
+台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
+民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
+公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
+公视,http://stream-ali1.csslcloud.net/live/laQyY4srbiNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
+华视新闻,http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv
+华视,http://stream-ali1.csslcloud.net/live/pI4srbi6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
+年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
+非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
 
 api香港,#genre#
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
