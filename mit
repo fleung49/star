@@ -174,7 +174,7 @@ CCTV-15HD,p2p://142.54.189.229:2666/64df50100006a70e0596e8410f7e18c3.ts
 湖南卫视HD,p2p://142.54.189.229:2666/64df50670003ee5905983b6d504e0ab8.ts
 北京卫视HD,p2p://142.54.189.229:2666/64df50e700054825059a2fbb5c2266d3.ts
 安徽卫视HD,p2p://142.54.189.229:2666/64df515e0008bdb3059c017e298b6768.ts
-东方卫视,p2p://142.54.189.227:2215/64703b7100076f870424c94717f213ac.ts
+东方卫视,p2p://142.54.189.229:2666/64703b7100076f870424c94717f213ac.ts
 CHC家庭影院,p2p://142.54.189.229:2666/64df524500090962059f87e539814f92.ts
 CHC动作电影,p2p://142.54.189.229:2666/64df522000028fae059ef5b741fa1d46.ts
 CHC高清电影,p2p://142.54.189.229:2666/64df526f0007690e05a02b8862980d8c.ts
@@ -346,20 +346,13 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,https://tv-1.iill.top/phenix/fhzw
-凤凰资讯,https://tv-1.iill.top/phenix/fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,https://edge.163189.xyz/163189/fhzx
-凤凰香港,https://edge.163189.xyz/163189/fhhk
-凤凰香港,https://tv-1.iill.top/phenix/fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://110.235.82.60:8001/bysid/85
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-NOW新闻,http://api.mytv666.top/api/hkhk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331&auth=123
 澳视卫星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -372,6 +365,11 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+NOW爆谷台,https://iptv.kukubao.online/memfs/b52dc91b-5aba-4609-92d7-725e8cfb927c.m3u8
+NOW爆谷台,http://stream-ali1.csslcloud.net/live/vhNli7a2uwqrSArlhBpDjs0wGlm43VLkMnb9OJ2Hzj14qlP0TO.flv
+NOW星影台,http://stream-ali1.csslcloud.net/live/eZ15T2tea8ztrRlszHaTVfz0EB9nqz8GhiBZHNyMW0Glm43RZt.flv
 
 央视频道,#genre#
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMS9saXZlLm0zdTg=
@@ -510,6 +508,7 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 大湾区卫视,http://117.141.162.238:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://171.38.107.33:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+大湾区卫视,http://119.123.177.78:8086/hls/29/index.m3u8
 广东卫视,http://gd.wsd.gd.cn:1698/hls/2/index.m3u8
 广东卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
 广东卫视,http://live4play.uk/livehttpplay?channel_id=20024
@@ -522,16 +521,19 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 广东新闻,http://117.141.162.238:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://171.38.107.33:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+广东民生,http://119.123.177.78:8086/hls/39/index.m3u8
 广东民生,http://gd.wsd.gd.cn:1698/hls/10/index.m3u8
 广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://www.kaniptv.cn/zy/cd.php?id=1185
 广东民生,http://117.141.162.238:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://171.38.107.33:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://119.123.177.78:8086/hls/46/index.m3u8
 广东影视,http://gd.wsd.gd.cn:1698/hls/16/index.m3u8
 广东影视,http://www.kaniptv.cn/zy/cd.php?id=1199
 广东影视,http://117.141.162.238:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.38.107.33:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://183.236.194.118:8808/hls/18/index.m3u8
+广东珠江,http://119.123.177.78:8086/hls/47/index.m3u8
 广东珠江,http://gd.wsd.gd.cn:1698/hls/13/index.m3u8
 广东珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
 广东珠江,http://live4play.uk/livehttpplay?channel_id=20144
@@ -539,6 +541,7 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 广东珠江,http://171.38.107.33:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://cdn2.101.qzz.io/163189/gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://119.123.177.78:8086/hls/42/index.m3u8
 广东体育,http://gd.wsd.gd.cn:1698/hls/12/index.m3u8
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://www.kaniptv.cn/zy/cd.php?id=1184
@@ -549,6 +552,7 @@ CHANNEL U,https://cdn6.163189.xyz/live/chu/stream.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东综艺4K,http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://119.123.177.78:8086/hls/40/index.m3u8
 广东少儿,http://gd.wsd.gd.cn:1698/hls/17/index.m3u8
 广东少儿,http://www.kaniptv.cn/zy/cd.php?id=1200
 广东少儿,http://117.141.162.238:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
