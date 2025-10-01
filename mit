@@ -1634,35 +1634,37 @@ RTHK32,video://https://m.345iptv.com/?act=play&token=7a3677b8fb6e44291882b423641
 RTHK32,video://https://m.345iptv.com/?act=play&token=69ac3dde76a9f43c86137e3ab39d6e94&tid=gt&id=27
 CCTV1,video://https://m.345iptv.com/?act=play&token=782f0fe715a575d31bc31d562e6f2e37&tid=itv&id=7
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,video://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV1,video://https://www.bingdou.live/tv/player/?id=cctv1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV2,video://https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV3,video://https://www.yangshipin.cn/tv/home?pid=600001801
+CCTV2,video://https://www.bingdou.live/tv/player/?id=cctv2
+CCTV3,video://https://www.bingdou.live/tv/player/?id=cctv3
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
-CCTV4,video://https://www.yangshipin.cn/tv/home?pid=600001801
-CCTV4（欧）,video://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV4,video://https://www.bingdou.live/tv/player/?id=cctv4
+CCTV4（美）,https://www.bingdou.live/tv/player/?id=cctv4m
+CCTV4（欧）,video://https://www.bingdou.live/tv/player/?id=cctv4o
 CCTV5,video://https://m.345iptv.com/?act=play&token=4115de165e379bdef3975431a24d2056&tid=itv&id=11
-CCTV5,video://http://tv.haoqu99.com/1/cctv5.html
+CCTV5,video://https://www.bingdou.live/tv/player/?id=cctv5
 CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59c089b&tid=itv&id=12
-CCTV6,video://https://www.yangshipin.cn/tv/home?pid=600108442
-CCTV7,video://https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV8,video://https://www.yangshipin.cn/tv/home?pid=600001803
-CCTV9,video://https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV10,video://https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV11,video://https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV12,video://https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV5+,https://www.bingdou.live/tv/player/?id=cctv5p
+CCTV6,video://https://www.bingdou.live/tv/player/?id=cctv6
+CCTV7,video://https://www.bingdou.live/tv/player/?id=cctv7
+CCTV8,video://https://www.bingdou.live/tv/player/?id=cctv8
+CCTV9,video://https://www.bingdou.live/tv/player/?id=cctv9
+CCTV10,video://https://www.bingdou.live/tv/player/?id=cctv10
+CCTV11,video://https://www.bingdou.live/tv/player/?id=cctv11
+CCTV12,video://https://www.bingdou.live/tv/player/?id=cctv12
 CCTV13,video://https://m.345iptv.com/?act=play&token=3af25b7d22b111e7e2fd2f8aa0bde4c3&tid=itv&id=20
-CCTV13,video://https://www.yangshipin.cn/tv/home?pid=600001811
-CCTV14,video://https://www.yangshipin.cn/tv/home?pid=600001809
-CCTV15,video://https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV17,video://https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV13,video://https://www.bingdou.live/tv/player/?id=cctv13
+CCTV14,video://https://www.bingdou.live/tv/player/?id=cctv14
+CCTV15,video://https://www.bingdou.live/tv/player/?id=cctv15
+CCTV17,video://https://www.bingdou.live/tv/player/?id=cctv17
 CCTV+,video://https://www.cctvplus.com/live/channel1.shtml
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CGTN,video://https://m.345iptv.com/?act=play&token=edd37e6db9c58fd074f12a73f2b397e7&tid=itv&id=29
-CGTN,video://https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN,video://https://www.bingdou.live/tv/player/?id=cgtn
 CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfbab3c7fff&tid=itv&id=30
-CGTN DOC,video://https://www.yangshipin.cn/tv/home?pid=600084781
+CGTN DOC,video://https://www.bingdou.live/tv/player/?id=cgtnjl
 广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,video://https://www.kds.tw/tv/china-tv-channels-online/grt-pearl-river-channel/
@@ -1680,37 +1682,38 @@ CGTN DOC,video://https://www.yangshipin.cn/tv/home?pid=600084781
 广东台经典剧,video://https://www.gdtv.cn/tvChannelDetail/100
 广州新闻,video://https://m.345iptv.com/?act=play&token=9b74905fb23635ba979b35e1251ff342&tid=itv&id=99
 大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
-广东卫视,video://https://www.yangshipin.cn/tv/home?pid=600002485
-广西卫视,video://https://www.yangshipin.cn/tv/home?pid=600002509
-东方卫视,video://https://www.yangshipin.cn/tv/home?pid=600002483
-海南卫视,video://https://www.yangshipin.cn/tv/home?pid=600002506
-深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
-东南卫视,video://https://www.yangshipin.cn/tv/home?pid=600002484
-浙江卫视,video://https://www.yangshipin.cn/tv/home?pid=600002520
-江苏卫视,video://https://www.yangshipin.cn/tv/home?pid=600002521
-北京卫视,video://https://www.yangshipin.cn/tv/home?pid=600002309
-湖南卫视,video://https://www.yangshipin.cn/tv/home?pid=600002475
-湖北卫视,video://https://www.yangshipin.cn/tv/home?pid=600002508
-黑龙江卫视,video://https://www.yangshipin.cn/tv/home?pid=600002498
-重庆卫视,video://https://www.yangshipin.cn/tv/home?pid=600002531
-四川卫视,video://https://www.yangshipin.cn/tv/home?pid=600002516
-河南卫视,video://https://www.yangshipin.cn/tv/home?pid=600002525
-贵州卫视,video://https://www.yangshipin.cn/tv/home?pid=600002490
-江西卫视,video://https://www.yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,video://https://www.yangshipin.cn/tv/home?pid=600002505
-安徽卫视,video://https://www.yangshipin.cn/tv/home?pid=600002532
-河北卫视,video://https://www.yangshipin.cn/tv/home?pid=600002493
-山东卫视,video://https://www.yangshipin.cn/tv/home?pid=600002513
-天津卫视,video://https://www.yangshipin.cn/tv/home?pid=600152137
-吉林卫视,video://https://www.yangshipin.cn/tv/home?pid=600190405
-陕西卫视,video://https://www.yangshipin.cn/tv/home?pid=600190400
-内蒙古卫视,video://https://www.yangshipin.cn/tv/home?pid=600190401
-宁夏卫视,video://https://www.yangshipin.cn/tv/home?pid=600190737
-云南卫视,video://https://www.yangshipin.cn/tv/home?pid=600190402
-山西卫视,video://https://www.yangshipin.cn/tv/home?pid=600190407
-青海卫视,video://https://www.yangshipin.cn/tv/home?pid=600190406
-西藏卫视,video://https://www.yangshipin.cn/tv/home?pid=600190403
-新疆卫视,video://https://www.yangshipin.cn/tv/home?pid=600152138
+广东卫视,video://https://www.bingdou.live/tv/player/?id=gdws
+广西卫视,video://https://www.bingdou.live/tv/player/?id=gxws
+东方卫视,video://https://www.bingdou.live/tv/player/?id=dfws
+海南卫视,video://https://www.bingdou.live/tv/player/?id=hinws
+深圳卫视,video://https://www.bingdou.live/tv/player/?id=szws
+东南卫视,video://https://www.bingdou.live/tv/player/?id=dnws
+浙江卫视,video://https://www.bingdou.live/tv/player/?id=zjws
+江苏卫视,video://https://www.bingdou.live/tv/player/?id=jsws
+北京卫视,video://https://www.bingdou.live/tv/player/?id=bjws
+湖南卫视,video://https://www.bingdou.live/tv/player/?id=hunws
+湖北卫视,video://https://www.bingdou.live/tv/player/?id=hubws
+黑龙江卫视,video://https://www.bingdou.live/tv/player/?id=hljws
+重庆卫视,video://https://www.bingdou.live/tv/player/?id=cqws
+四川卫视,video://https://www.bingdou.live/tv/player/?id=gzws
+河南卫视,video://https://www.bingdou.live/tv/player/?id=hnws
+贵州卫视,video://https://www.bingdou.live/tv/player/?id=gzws
+江西卫视,video://https://www.bingdou.live/tv/player/?id=jxws
+辽宁卫视,video://https://www.bingdou.live/tv/player/?id=lnws
+安徽卫视,video://https://www.bingdou.live/tv/player/?id=ahws
+河北卫视,video://https://www.bingdou.live/tv/player/?id=hbws
+山东卫视,video://https://www.bingdou.live/tv/player/?id=sdws
+天津卫视,video://https://www.bingdou.live/tv/player/?id=tjws
+吉林卫视,video://https://www.bingdou.live/tv/player/?id=jlws
+陕西卫视,video://https://www.bingdou.live/tv/player/?id=sxws
+内蒙古卫视,video://https://www.bingdou.live/tv/player/?id=nmws
+宁夏卫视,video://https://www.bingdou.live/tv/player/?id=nxws
+云南卫视,video://https://www.bingdou.live/tv/player/?id=ynws
+山西卫视,video://https://www.bingdou.live/tv/player/?id=sxiws
+青海卫视,video://https://www.bingdou.live/tv/player/?id=qhws
+西藏卫视,video://https://www.bingdou.live/tv/player/?id=xzws
+新疆卫视,video://https://www.bingdou.live/tv/player/?id=xjws
+中国景点直播,video://https://www.bingdou.live/livechina/
 中国教育电视台1频道,video://https://www.yangshipin.cn/tv/home?pid=600171827
 ASTRO Hua Hee Tai,video://https://www.kds.tw/tv/malaysia-tv-channels-online/hua-hee-tai/
 ASTRO Wah Lai Toi,video://https://www.kds.tw/tv/malaysia-tv-channels-online/wah-lai-toi/
@@ -1786,6 +1789,16 @@ DAZN 2,video://https://m.345iptv.com/?act=play&token=1b814b953a5067307aa4d1f7857
 五星体育,video://https://live.kankanews.com/huikan?id=10
 魔都眼,video://https://live.kankanews.com/huikan?id=11
 新纪实,video://https://live.kankanews.com/huikan?id=12
+湖南国际,video://https://www.bingdou.live/tv/player/?id=hngj
+湖南经视,video://https://www.bingdou.live/tv/player/?id=hnjs
+湖南都市,video://https://www.bingdou.live/tv/player/?id=hnds
+湖南娱乐,video://https://www.bingdou.live/tv/player/?id=hnyl
+湖南电视剧,video://https://www.bingdou.live/tv/player/?id=hndsj
+湖南电影,video://https://www.bingdou.live/tv/player/?id=hndy
+湖南爱晚,video://https://www.bingdou.live/tv/player/?id=hngg
+湖南茶频道,video://https://www.bingdou.live/tv/player/?id=cpd
+长沙新闻,video://https://www.bingdou.live/tv/player/?id=csxw
+长沙政法,video://https://www.bingdou.live/tv/player/?id=cszf
 河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 河北农民,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
 河北都市,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
@@ -1823,17 +1836,17 @@ DAZN 2,video://https://m.345iptv.com/?act=play&token=1b814b953a5067307aa4d1f7857
 成都公共,video://https://www.cditv.cn/show/4845-559.html
 成都少儿,video://https://www.cditv.cn/show/4845-558.html
 ALJAZEERA,video://https://ufreetv.com/al-jazeera-news-live-stream.html
-BBC NEWS,https://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+BBC NEWS,https://fl25.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 BLOOMBERG,video://https://ufreetv.com/bloomberg-live-stream.html
 CBS LOS ANGELES,video://https://ufreetv.com/cbs-los-angeles.html
 CBS LOS ANGELES,video://https://www.cbsnews.com/losangeles/live/
 CBS NEWS 24/7,video://https://ufreetv.com/cbs-news-national.html
 CNBC,video://https://ufreetv.com/cnbc-live-stream.html
 CNN,video://https://ufreetv.com/cnn.html
-CNN INTL,https://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+CNN INTL,https://fl25.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 DW,video://https://ufreetv.com/deutsche-welle-news-live-stream.html
 EURONEWS,video://https://ufreetv.com/euro-news-live-stream.html
-FOX BUSINESS,https://fl7.moveonjoy.com/FOX_Business_Network/index.m3u8
+FOX BUSINESS,https://fl25.moveonjoy.com/FOX_Business_Network/index.m3u8
 FOX NEWS,video://https://ufreetv.com/foxnews.html
 FOX WEATHER,video://https://ufreetv.com/fox-weather-live-stream.html
 FRANCE 24,video://https://ufreetv.com/france-24.html
@@ -1846,7 +1859,7 @@ RT,video://https://ufreetv.com/rt-live-stream.html
 RT,video://https://hlsiptv.com/?hls=aHR0cHM6Ly9ydC1nbGIucnR0di5jb20vZHZyL3J0bmV3cy9wbGF5bGlzdF80NTAwS2IubTN1OA%3D%3D
 SKYNEWS,video://https://ufreetv.com/skynews.html
 TRT WORLD,video://https://hlsiptv.com/?hls=aHR0cHM6Ly90di10cnR3b3JsZC5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4
-THE WEATHER CHANNEL,https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+THE WEATHER CHANNEL,https://fl25.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 LOS ANGELES,#genre# 
 CBSN,http://nonamevos.com:80/4500/4500/106333
