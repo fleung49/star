@@ -187,7 +187,7 @@ Ceria,http://smart.cityq.xyz:8278/Ceria/playlist.m3u8?tid=mc609f36f8a214&ct=1161
 Citra,http://smart.cityq.xyz:8278/Citra/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=091dc463444f06b34cda3c1488bd148a
 CNA,http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c208160b3f88f0b8a8c42e8333b7abb4
 CNBC,http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=357229476e3bfc26cf51be598ab5e8bf
-CNN,http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3e341840a340d97114693e20dfe078ae
+CNN,http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 Food network Hd,http://smart.cityq.xyz:8278/Foodnetwork_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6df1a7cdceb860f26b4e25a9b764965f
 Goshop,http://smart.cityq.xyz:8278/Goshop/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec54896230de5f3e65e2fba7c493a10f
 HBO HD,http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
@@ -418,21 +418,21 @@ TLC Asia, http://smart.cityq.xyz:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&c
 美食星球, http://smart.cityq.xyz:8278/foodplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=02319e7b6cea1c9837acb1b1d78e49af
 
 新聞 News,#genre#
-ABC News,http://smart.cityq.xyz:8278/abcnews_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1e113058428811847cc7e486b38db328
+ABC News,http://smart.cityq.xyz:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 Aljazeera, http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
-BBC World News,http://smart.cityq.xyz:8278/Bbcnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=693832a39c244f8e8544ad9c90490685
+BBC World News,http://smart.cityq.xyz:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://smart.cityq.xyz:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
 Bloomberg News,http://smart.cityq.xyz:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
-CBS HD,http://smart.cityq.xyz:8278/cbshd_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=94d7397be57754dbff0c799bd4ed193a
+CBS HD,http://smart.cityq.xyz:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 CBSN HD,http://smart.cityq.xyz:8278/cbsn_glo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=755171e1b8d79cde1645acad101757a1
 CGTN,http://smart.cityq.xyz:8278/CGTN/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=df0315ce04fb7673ff12ec0c5fe7cce9
-CNA,http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c208160b3f88f0b8a8c42e8333b7abb4
+CNA,http://smart.cityq.xyz:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 CNBC,http://smart.cityq.xyz:8278/cnbc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=357229476e3bfc26cf51be598ab5e8bf
 CNN International,http://smart.cityq.xyz:8278/Cnn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3392af44d331a3ba7795f7c893b28208
-CNN,http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3e341840a340d97114693e20dfe078ae
+CNN,http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 DW (Deutsch),http://smart.cityq.xyz:8278/dw_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3c8f875a527b03473199bce934d7da1e
 Euronews,http://smart.cityq.xyz:8278/euronews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e9c422efac3ee2609bb4a0897dc0fd56
-Fox News,http://smart.cityq.xyz:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acc82bd27a8e6ff0f264139ae8966e36
+Fox News,http://smart.cityq.xyz:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 France 24,http://smart.cityq.xyz:8278/france24_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=617ffa4d83352bbbe44224fc5468c46d
 NHK World,http://smart.cityq.xyz:8278/nhkworld_japan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=13ce53efe3fcb9be3dc916f61e05bb77
 Sky News,http://smart.cityq.xyz:8278/skynews_antik/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91c15728ae6f7311715b110735f99c7d
