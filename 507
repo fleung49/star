@@ -65,8 +65,8 @@ CCTV-17,http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F524676515246765
 中天娛樂,http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天綜合,http://smart.cityq.xyz:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
 TVBS,http://smart.cityq.xyz:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-TVBS HD,http://smart.cityq.xyz:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
-TVBS新聞,http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9cf843ae30d2500fa5b60e182a52b5c2
+TVBS HD,http://smart.cityq.xyz:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS新聞,http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS歡樂台,http://smart.cityq.xyz:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
 TVBS欢乐台,http://smart.cityq.xyz:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 TVBS Asia,http://smart.cityq.xyz:8278/Tvbasia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b0e8d78674ed692e10c7e713fda8c754
@@ -96,15 +96,16 @@ TVBS Asia,http://smart.cityq.xyz:8278/Tvbasia/playlist.m3u8?tid=mc609f36f8a214&c
 八大戲劇,http://smart.cityq.xyz:8278/badadrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=861e8fc388791a904100e419dfd4914a
 八大第一,http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1a04cd80a204e4b394f89b4d34ae00b7
 八大綜合,http://smart.cityq.xyz:8278/badazhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=020937c001062a4332afb110a312bd20
-華藝綜合,http://smart.cityq.xyz:8278/weishichinese_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c39a5b38259d9c50474fdf84e8dee60d
+華藝綜合,http://smart.cityq.xyz:8278/weishichinese_twn/playlist.m3u8?tid=MADA3405227034052270&ct=19234&tsum=c34dd09cd30ff781054a12c1a06ab0f6
 大愛一台,http://smart.cityq.xyz:8278/daai_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e99baa96714160a139bfe06bba6e025e
 亞洲旅遊台,http://smart.cityq.xyz:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
 亞洲美食,http://smart.cityq.xyz:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
 好萊塢電影台,http://smart.cityq.xyz:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adb194efeba5a77f0effa9d90cfb8f2b
 愛爾達影劇,http://smart.cityq.xyz:8278/eltayingju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ce748da1aad651ca8ee7f68760251dc
-愛爾達體育 1,http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19dc80cf972ed07683b0cd2b94e94b4b
-愛爾達體育 2,http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
-愛爾達體育 3,http://smart.cityq.xyz:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+愛爾達體育1台,http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育2台,http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+愛爾達體育3台,http://smart.cityq.xyz:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+愛爾達體育4台,http://smart.cityq.xyz:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 博斯網球,http://smart.cityq.xyz:8278/bositennis_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=47e5003d17342241515e41171c21631e
 博斯運動1,http://smart.cityq.xyz:8278/bosisport1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aa5e8641589790e769e841e83d7c79cd
 博斯運動2,http://smart.cityq.xyz:8278/bosisport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=195d83131e7db600c58b235b19607c55
@@ -287,9 +288,10 @@ Vision Prime,http://smart.cityq.xyz:8278/VisionPrime/playlist.m3u8?tid=MF7F56655
 Warner TV,http://smart.cityq.xyz:8278/WarnerTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=cba8fbd0d48bb35836fc4843c498b8b9
 
 體育 Sports,#genre#
-愛爾達體育1台,http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19dc80cf972ed07683b0cd2b94e94b4b
-愛爾達體育2台,http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
+愛爾達體育1台,http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育2台,http://smart.cityq.xyz:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育3台,http://smart.cityq.xyz:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+愛爾達體育4台,http://smart.cityq.xyz:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 博斯網球,http://smart.cityq.xyz:8278/bositennis_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=47e5003d17342241515e41171c21631e
 博斯運動1,http://smart.cityq.xyz:8278/bosisport1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aa5e8641589790e769e841e83d7c79cd
 博斯運動2,http://smart.cityq.xyz:8278/bosisport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=195d83131e7db600c58b235b19607c55
