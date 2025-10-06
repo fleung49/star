@@ -1648,8 +1648,10 @@ RTHK32,video://https://m.345iptv.com/?act=play&token=69ac3dde76a9f43c86137e3ab39
 CCTV1,video://https://m.345iptv.com/?act=play&token=782f0fe715a575d31bc31d562e6f2e37&tid=itv&id=7
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,video://https://www.bingdou.live/tv/player/?id=cctv1
+CCTV1央视一套直播,video://https://live.douyin.com/456815963645
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV2,video://https://www.bingdou.live/tv/player/?id=cctv2
+CCTV2央视二套直播,video://https://live.douyin.com/296728101980
 CCTV3,video://https://www.bingdou.live/tv/player/?id=cctv3
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
@@ -1662,12 +1664,18 @@ CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59
 CCTV5+,https://www.bingdou.live/tv/player/?id=cctv5p
 CCTV6,video://https://www.bingdou.live/tv/player/?id=cctv6
 CCTV7,video://https://www.bingdou.live/tv/player/?id=cctv7
+CCTV7央视网快看播,video://https://live.douyin.com/127453393722
 CCTV8,video://https://www.bingdou.live/tv/player/?id=cctv8
 CCTV9,video://https://www.bingdou.live/tv/player/?id=cctv9
 CCTV10,video://https://www.bingdou.live/tv/player/?id=cctv10
 CCTV11,video://https://www.bingdou.live/tv/player/?id=cctv11
 CCTV12,video://https://www.bingdou.live/tv/player/?id=cctv12
 CCTV13,video://https://m.345iptv.com/?act=play&token=3af25b7d22b111e7e2fd2f8aa0bde4c3&tid=itv&id=20
+CCTV13央视频看抖播,video://https://live.douyin.com/50828500437
+CCTV13抖播,video://https://live.douyin.com/55740058708
+CCTV13央视频抖直播,video://https://live.douyin.com/50828500437
+CCTV13小央视频直播,video://https://live.douyin.com/547977714661
+CCTV13央视网抖直播,video://https://live.douyin.com/870887192950
 CCTV13,video://https://www.bingdou.live/tv/player/?id=cctv13
 CCTV14,video://https://www.bingdou.live/tv/player/?id=cctv14
 CCTV15,video://https://www.bingdou.live/tv/player/?id=cctv15
@@ -1678,6 +1686,14 @@ CGTN,video://https://m.345iptv.com/?act=play&token=edd37e6db9c58fd074f12a73f2b39
 CGTN,video://https://www.bingdou.live/tv/player/?id=cgtn
 CGTN DOC,video://https://m.345iptv.com/?act=play&token=8ef788a885be649d5e18cbfbab3c7fff&tid=itv&id=30
 CGTN DOC,video://https://www.bingdou.live/tv/player/?id=cgtnjl
+新华社快看播,video://https://live.douyin.com/832345075447
+看看新闻直播,video://https://live.douyin.com/808207714751
+北京日报直播,video://https://live.douyin.com/678544089361
+广州ING-直播,video://https://live.douyin.com/388615883521
+深圳新闻网播,video://https://live.douyin.com/983530344911
+佛山新闻网播,video://https://live.douyin.com/587225334216
+中山网抖直播,video://https://live.douyin.com/954175180811
+北斗融媒直播,video://https://live.douyin.com/196987735608
 广东4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,video://https://www.kds.tw/tv/china-tv-channels-online/grt-pearl-river-channel/
