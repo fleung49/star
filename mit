@@ -258,13 +258,10 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港港台,#genre#
-无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn#http://60.246.171.122:8892/bysid/83
 明珠台,http://60.246.171.122:8892/bysid/2#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2#http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#http://php.jdshipin.com/smt.php?id=jade_twn#http://60.246.171.122:8892/bysid/1
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台B,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB PLUS,http://60.246.171.122:8892/bysid/82#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
@@ -285,9 +282,10 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK33 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2#http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8#http://60.246.171.122:8892/bysid/99#http://cdn.163189.xyz/163189/viu
 ViuTV 6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8#http://60.246.171.122:8892/bysid/96
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://cdn.163189.xyz/163189/fhzw#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065#http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
@@ -316,25 +314,14 @@ CHU,http://cdn6.163189.xyz/163189/chu
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://110.235.82.60:8001/bysid/83
-无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台北美(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-明珠台,http://110.235.82.60:8001/bysid/2
-明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB Plus,http://110.235.82.60:8001/bysid/82
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -344,11 +331,10 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://110.235.82.60:8001/bysid/85
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065#http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
@@ -379,6 +365,9 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 中天亚洲,http://free.cnlive.club/channel/41d5ac2a/index.m3u8?q=1758062858372
 NOW爆谷台,https://iptv.kukubao.online/memfs/b52dc91b-5aba-4609-92d7-725e8cfb927c.m3u8
+FAIRCHILD TV 1,http://line.lebiptv.me/56GK2532/BQFR9453/500942
+FAIRCHILD TV 1 WEST,http://line.lebiptv.me/56GK2532/BQFR9453/500943
+FAIRCHILD TV 2,http://line.lebiptv.me/56GK2532/BQFR9453/500944
 
 央视频道,#genre#
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMS9saXZlLm0zdTg=
@@ -448,18 +437,17 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 
 粤港澳闽,#genre#
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江频备,http://cdn3.132.us.kg/live/gdzj/stream.m3u8
 广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育频备,http://cdn3.132.us.kg/live/gdty/stream.m3u8
 广州综合频道,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治频道,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国频道,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065#http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 无线新闻频道,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
@@ -1458,33 +1446,6 @@ VTV1,http://tlive24.uk/livehttpplay?channel_id=20185
 VTV3,http://tlive24.uk/livehttpplay?channel_id=20187
 VTV4,http://tlive24.uk/livehttpplay?channel_id=20188
 
-港台新闻,#genre#
-凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
-凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
-凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
-寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
-镜新闻,http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
-中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
-TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuo4srbiMv.flv 
-中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-中视,http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
-东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
-东森新闻(美),http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
-三立iNEWS,http://stream-ali1.csslcloud.net/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
-台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
-台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
-民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
-民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
-公视,http://stream-ali1.csslcloud.net/live/laQyY4srbiNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
-华视新闻,http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv
-华视,http://stream-ali1.csslcloud.net/live/pI4srbi6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
-年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
-非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
-
 api香港,#genre#
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 翡翠台B,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
@@ -1619,6 +1580,86 @@ Sky Sports Racing FHD UK,http://vocotv.pro:80/0000011/0000011/709380
 USA FanDuel TV Racing,http://vocotv.pro:80/0000011/0000011/815
 USA TVG Network,http://vocotv.pro:80/0000011/0000011/836
 USA TVG 2 Network,http://vocotv.pro:80/0000011/0000011/835
+
+LEBIPTV SPORTS,#genre#
+ASTRO SUPERSPORTS PL 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/766852.ts
+ASTRO SUPERSPORTS PL 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/766853.ts
+ASTRO SUPERSPORTS GRANDSTAND,http://line.lebiptv.me/live/56GK2532/BQFR9453/766854.ts
+ASTRO SUPERSPORTS FOOTBALL,http://line.lebiptv.me/live/56GK2532/BQFR9453/766855.ts
+BEIN SPORTS 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016907.ts
+BEIN SPORTS 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016908.ts
+BEIN SPORTS 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016909.ts
+BEIN SPORTS 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016910.ts
+BEIN SPORTS 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016911.ts
+BEIN SPORTS 6,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016912.ts
+BEIN SPORTS 7,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016913.ts
+BEIN SPORTS 8,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016914.ts
+BEIN SPORTS 9,http://line.lebiptv.me/live/56GK2532/BQFR9453/1016915.ts
+EQUIDIA,http://line.lebiptv.me/live/56GK2532/BQFR9453/832129.ts
+ESPN NEWS,http://line.lebiptv.me/live/56GK2532/BQFR9453/487783.ts
+ESPN 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/487782.ts
+ESPN 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/487781.ts
+ESPN U,http://line.lebiptv.me/live/56GK2532/BQFR9453/487778.ts
+EUROSPORT 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/577985.ts
+EUROSPORT 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/577984.ts
+HUB PREMIER SPORTS 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/827982.ts
+HUB PREMIER SPORTS 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/827981.ts
+HUB PREMIER SPORTS 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/827980.ts
+HUB PREMIER SPORTS 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/827979.ts
+HUB PREMIER SPORTS 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/827978.ts
+HUB PREMIER SPORTS 6,http://line.lebiptv.me/live/56GK2532/BQFR9453/827977.ts
+HUB PREMIER SPORTS 7,http://line.lebiptv.me/live/56GK2532/BQFR9453/827976.ts
+HUB PREMIER SPORTS 8,http://line.lebiptv.me/live/56GK2532/BQFR9453/827975.ts
+HUB PREMIER SPORTS 9,http://line.lebiptv.me/live/56GK2532/BQFR9453/827974.ts
+HUB PREMIER SPORTS 10,http://line.lebiptv.me/live/56GK2532/BQFR9453/827973.ts
+HUB PREMIER SPORTS 11,http://line.lebiptv.me/live/56GK2532/BQFR9453/827972.ts
+M.LALIGA 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/505621.ts
+M.LALIGA 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/505623.ts
+M.LALIGA 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/505625.ts
+M.LALIGA 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/505627.ts
+M.LALIGA 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/505628.ts
+NOW HK PREMIER SPORTS 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/827940.ts
+NOW HK PREMIER SPORTS 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/827939.ts
+NOW HK PREMIER SPORTS 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/827938.ts
+NOW HK PREMIER SPORTS 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/827937.ts
+NOW HK PREMIER SPORTS 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/827936.ts
+NOW HK PREMIER SPORTS 6,http://line.lebiptv.me/live/56GK2532/BQFR9453/827935.ts
+NOW HK PREMIER SPORTS 7,http://line.lebiptv.me/live/56GK2532/BQFR9453/827934.ts
+NOW HK PREMIER SPORTS 8,http://line.lebiptv.me/live/56GK2532/BQFR9453/827933.ts
+NOW SPORTS 1,http://line.lebiptv.me/56GK2532/BQFR9453/802488
+NOW SPORTS 2,http://line.lebiptv.me/56GK2532/BQFR9453/802487
+NOW SPORTS 3,http://line.lebiptv.me/56GK2532/BQFR9453/802486
+NOW SPORTS 4,http://line.lebiptv.me/56GK2532/BQFR9453/802485
+NOW SPORTS 5,http://line.lebiptv.me/56GK2532/BQFR9453/802484
+NOW SPORTS 6,http://line.lebiptv.me/56GK2532/BQFR9453/802483
+NOW SPORTS 7,http://line.lebiptv.me/56GK2532/BQFR9453/802482
+PREMIER SPORTS LALIGA,http://line.lebiptv.me/live/56GK2532/BQFR9453/577982.ts
+PREMIER SPORTS 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/577981.ts
+RACING 240,http://line.lebiptv.me/live/56GK2532/BQFR9453/1125022.ts
+RACING.COM,http://line.lebiptv.me/live/56GK2532/BQFR9453/259849.ts
+RACING TV UK,http://line.lebiptv.me/live/56GK2532/BQFR9453/577958.ts
+SKY RACING 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/879881.ts
+SKY RACING 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/879880.ts
+SKY SPORT 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/699776.ts
+SKY SPORT 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/699774.ts
+SKY SPORT 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/699752.ts
+SKY SPORT 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/699750.ts
+SKY SPORT 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/699748.ts
+SKY SPORT 6,http://line.lebiptv.me/live/56GK2532/BQFR9453/699746.ts
+SKY SPORT 7,http://line.lebiptv.me/live/56GK2532/BQFR9453/699744.ts
+SKY SPORT 8,http://line.lebiptv.me/live/56GK2532/BQFR9453/699742.ts
+SKY SPORT 9,http://line.lebiptv.me/live/56GK2532/BQFR9453/699740.ts
+SKY SPORT 10,http://line.lebiptv.me/live/56GK2532/BQFR9453/699738.ts
+SKY SPORTS MIX,http://line.lebiptv.me/live/56GK2532/BQFR9453/577989.ts
+SKY SPORTS MAIN EVENTS,http://line.lebiptv.me/live/56GK2532/BQFR9453/577997.ts
+SKY SPORTS NEWS,http://line.lebiptv.me/live/56GK2532/BQFR9453/577994.ts
+SKY SPORTS PREMIER LEAGUE,http://line.lebiptv.me/live/56GK2532/BQFR9453/577996.ts 
+SKY SPORTS RACING,http://line.lebiptv.me/live/56GK2532/BQFR9453/577988.ts
+TSN 1,http://line.lebiptv.me/live/56GK2532/BQFR9453/487807.ts
+TSN 2,http://line.lebiptv.me/live/56GK2532/BQFR9453/487806.ts
+TSN 3,http://line.lebiptv.me/live/56GK2532/BQFR9453/487805.ts
+TSN 4,http://line.lebiptv.me/live/56GK2532/BQFR9453/487804.ts
+TSN 5,http://line.lebiptv.me/live/56GK2532/BQFR9453/487803.ts
 
 webview,#genre#
 凤凰中文,video://https://m.345iptv.com/?act=play&token=68fa9923b35c84c701e7e86a1f3cd1a8&tid=gt&id=1
@@ -1950,7 +1991,6 @@ CGTN DOC,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&st
 CNA,https://tv4k.me/ungzcfav/74Ahxb1W8m/120448
 CNA,http://hostengine.live:25461/0895648/5683420/250018
 CNA,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/1163743.ts
-CNBC,http://194.26.203.25:81/8675/tracks-v1a1/mono.m3u8?token=CZPkVoWF8tgBYvi1
 CNBC,http://tkosportz.live:25461/anitah8044/8044/35524
 CNBC,http://hostengine.live:25461/0895648/5683420/53418
 CNBC,https://vp-txpro.com:443/play/XnxkzJ556l9FQ-S_et0x0ryh0-8V2wTx9ye2OMLhVkk
@@ -2080,61 +2120,4 @@ Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsu
 Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-m
 
-UK,#genre#
-4 channel HD,http://150.129.9.194:8089/9/index.m3u8?token=test
-5 channel HD,http://150.129.9.194:8089/12/index.m3u8?token=test
-5ACTION,http://150.129.9.194:8089/54/index.m3u8?token=test
-5STAR,http://150.129.9.194:8089/31/index.m3u8?token=test
-5USA,http://150.129.9.194:8089/32/index.m3u8?token=test
-ANIMAL PLANET,http://150.129.9.194:8089/74/index.m3u8?token=test
-BBC NEWS HD,http://150.129.9.194:8089/76/index.m3u8?token=test
-BLOOMBERG,http://150.129.9.194:8089/80/index.m3u8?token=test
-Boomerang HD,http://150.129.9.194:8089/84/index.m3u8?token=test
-Cartoonito,http://150.129.9.194:8089/91/index.m3u8?token=test
-CN HD,http://150.129.9.194:8089/83/index.m3u8?token=test
-CNN HD,http://150.129.9.194:8089/78/index.m3u8?token=test
-Discovery HD,http://150.129.9.194:8089/62/index.m3u8?token=test
-DMAX,http://150.129.9.194:8089/72/index.m3u8?token=test
-Eurobews,http://84.54.128.52:9090/play/9004/index.m3u8
-Eurosport 1 HD,http://84.54.128.52:9090/play/15003/index.m3u8
-Eurosport 2 HD,http://84.54.128.52:9090/play/15004/index.m3u8
-Food Network,http://150.129.9.194:8089/51/index.m3u8?token=test
-FRANCE 24 HD,http://150.129.9.194:8089/79/index.m3u8?token=test
-HGTV,http://150.129.9.194:8089/50/index.m3u8?token=test
-HUB PREMIER 1 HD,http://150.129.9.194:8089/160/index.m3u8?token=test
-HUB PREMIER 2 HD,http://150.129.9.194:8089/161/index.m3u8?token=test
-HUB PREMIER 3 HD,http://150.129.9.194:8089/163/index.m3u8?token=test
-itv1 HD,http://150.129.9.194:8089/6/index.m3u8?token=test
-itv2 HD,http://150.129.9.194:8089/23/index.m3u8?token=test
-itv3 HD,http://150.129.9.194:8089/24/index.m3u8?token=test
-LEGEND,http://150.129.9.194:8089/47/index.m3u8?token=test
-More HD,http://150.129.9.194:8089/28/index.m3u8?token=test
-NAT GEO WILD HD,http://150.129.9.194:8089/69/index.m3u8?token=test
-Nick Jr HD,http://150.129.9.194:8089/86/index.m3u8?token=test
-Nickelodeon HD,http://150.129.9.194:8089/85/index.m3u8?token=test
-Nicktoon,http://150.129.9.194:8089/87/index.m3u8?token=test
-QUEST HD,http://150.129.9.194:8089/52/index.m3u8?token=test
-QUEST RED,http://150.129.9.194:8089/53/index.m3u8?token=test
-S4C HD,http://150.129.9.194:8089/11/index.m3u8?token=test
-Sky KIDS HD,http://150.129.9.194:8089/95/index.m3u8?token=test
-SKY NEWS HD,http://150.129.9.194:8089/77/index.m3u8?token=test
-sky sports + HD,http://150.129.9.194:8089/181/index.m3u8?token=test
-sky sports action,http://150.129.9.194:8089/127/index.m3u8?token=test
-sky sports criket HD,http://150.129.9.194:8089/124/index.m3u8?token=test
-sky sports F1,http://150.129.9.194:8089/134/index.m3u8?token=test
-sky sports Football HD,http://150.129.9.194:8089/121/index.m3u8?token=test
-sky sports golf,http://150.129.9.194:8089/131/index.m3u8?token=test
-sky sports news HD,http://150.129.9.194:8089/128/index.m3u8?token=test
-sky sports tennis HD,http://150.129.9.194:8089/171/index.m3u8?token=test
-TNT SPORTS 1 HD,http://150.129.9.194:8089/176/index.m3u8?token=test
-TNT sports 2,http://150.129.9.194:8089/141/index.m3u8?token=test
-TNT SPORTS 3,http://150.129.9.194:8089/144/index.m3u8?token=test
-TNT SPORTS 4,http://150.129.9.194:8089/146/index.m3u8?token=test
-TRUE CRIME,http://150.129.9.194:8089/48/index.m3u8?token=test
-U&alibi HD,http://150.129.9.194:8089/42/index.m3u8?token=test
-U&Dave HD,http://150.129.9.194:8089/30/index.m3u8?token=test
-U&DRAMA,http://150.129.9.194:8089/61/index.m3u8?token=test
-U&EDEN,http://150.129.9.194:8089/45/index.m3u8?token=test
-U&GOLD,http://150.129.9.194:8089/35/index.m3u8?token=test
-U&YESTERDAY,http://150.129.9.194:8089/44/index.m3u8?token=test
 
