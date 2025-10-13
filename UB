@@ -1,38 +1,68 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
 http://cnlive.org/channel/47cdbb52/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
+http://free.cnlive.club/channel/n2c813f02/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
 http://cnlive.org/channel/47d01112/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
+http://free.cnlive.club/channel/n2c813f01/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
 http://cnlive.org/channel/47ced282/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
+http://free.cnlive.club/channel/n2c813f00/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
 http://cnlive.org/channel/7a879c85/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
+http://free.cnlive.club/channel/n2c813eff/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
 http://cnlive.org/channel/47c9f401/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
+http://free.cnlive.club/channel/n2c813efe/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
 http://cnlive.org/channel/n374503fe/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
+http://free.cnlive.club/channel/n4fd60eb5/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
 http://cnlive.org/channel/47cedd7d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
+http://free.cnlive.club/channel/n2c813efd/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
 http://cnlive.org/channel/n7ba2911b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
+http://free.cnlive.club/channel/n2c813efc/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
 http://cnlive.org/channel/n4dd18c29/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
+http://free.cnlive.club/channel/n2c813efb/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
 http://cnlive.org/channel/47d2f363/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
+http://free.cnlive.club/channel/n2c813efa/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
 http://cnlive.org/channel/n4fe64a4e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
+http://free.cnlive.club/channel/n63a6a10e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
 http://cnlive.org/channel/n4fe8b4d4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
+http://free.cnlive.club/channel/n63a6a10d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
 http://cnlive.org/channel/13604deb/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
+http://free.cnlive.club/channel/n63a6a10c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
 http://cnlive.org/channel/n4fe72c8e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
-http://cnlive.org/channel/n6e920980/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/n63a6a10b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
 http://cnlive.org/channel/n4fe8272c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
+http://free.cnlive.club/channel/n63a6a10a/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
 http://cnlive.org/channel/n4fe0755e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
+http://free.cnlive.club/channel/n63a6a109/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
 http://cnlive.org/channel/c15fcc8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
@@ -41,64 +71,138 @@ http://cnlive.org/channel/9e11396/index.m3u8?q=1758398900226
 http://cnlive.org/channel/36f451f2/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大湾区卫视
 http://cnlive.org/channel/n406d2eb6/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大湾区卫视
+http://free.cnlive.club/channel/n79ead88b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",北京卫视
 http://cnlive.org/channel/5dcc0104/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",北京卫视
+http://free.cnlive.club/channel/n7a5e7818/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖南卫视
 http://cnlive.org/channel/6a402f50/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖南卫视
+http://free.cnlive.club/channel/n6dea49cc/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖北卫视
 http://cnlive.org/channel/6a3f3f10/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖北卫视
+http://free.cnlive.club/channel/n6deb3a0c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏卫视
 http://cnlive.org/channel/6a0dba1f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏卫视
+http://free.cnlive.club/channel/n6e1cbefd/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东卫视
 http://cnlive.org/channel/62f9400c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东卫视
+http://free.cnlive.club/channel/n75313910/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",深圳卫视
 http://cnlive.org/channel/6a20c2b1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",深圳卫视
+http://free.cnlive.club/channel/n6e09b66b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",四川卫视
 http://cnlive.org/channel/5fbb3db1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",四川卫视
+http://free.cnlive.club/channel/n786f3b6b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东南卫视
 http://cnlive.org/channel/5b99f1ca/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东南卫视
+http://free.cnlive.club/channel/n7c908752/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",浙江卫视
 http://cnlive.org/channel/6a2b2475/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",浙江卫视
+http://free.cnlive.club/channel/n6dff54a7/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东方卫视
 http://cnlive.org/channel/5bdef3ac/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广西卫视
 http://cnlive.org/channel/63d82eaf/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广西卫视
+http://free.cnlive.club/channel/n74524a6d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东珠江
 http://cnlive.org/channel/n7017ab43/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏卫视4K" tvg-logo="https://epg.112114.xyz/logo/江苏卫视4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏卫视4K
+http://free.cnlive.club/channel/n59e8ed26/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏新闻" tvg-logo="https://epg.112114.xyz/logo/江苏新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏新闻
+http://free.cnlive.club/channel/n6e1a7c6d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏城市
+http://free.cnlive.club/channel/n6e1c62c4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏综艺
+http://free.cnlive.club/channel/n6e177fba/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏影视
+http://free.cnlive.club/channel/n6e1b4a43/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏体育休闲" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏体育休闲
+http://free.cnlive.club/channel/n6e1d46f9/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏教育" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏教育
+http://free.cnlive.club/channel/n6e1a9c3f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶央视卫视cnlive" tvg-name="江苏国际" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏国际
+http://free.cnlive.club/channel/n6e1c43d0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
 http://cnlive.org/channel/n3fad9608/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
+http://free.cnlive.club/channel/4d67d1ce/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
 http://cnlive.org/channel/n7549189d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
-http://cnlive.org/channel/699a0a04/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/1dc3cdb9/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="翡翠台 MY" tvg-logo="https://epg.112114.xyz/logo/翡翠台 MY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台 MY
+http://free.cnlive.club/channel/30ac9808/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",明珠台
 http://cnlive.org/channel/n75ab7db0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",明珠台
+http://free.cnlive.club/channel/1d6168a6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Plus
 http://cnlive.org/channel/6429ae4c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Plus
+http://free.cnlive.club/channel/n5fc2812e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB娱乐新闻台
+http://free.cnlive.club/channel/nac85e88/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河
+http://free.cnlive.club/channel/7b74207c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河
+http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="千禧经典台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",千禧经典台
+http://free.cnlive.club/channel/n1ab8717e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV
 http://cnlive.org/channel/78204936/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV
+http://free.cnlive.club/channel/7b7dee0c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="VIUTV 6" tvg-logo="https://epg.112114.xyz/logo/VIUTV 6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV 6
 http://cnlive.org/channel/necd2834/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="VIUTV 6" tvg-logo="https://epg.112114.xyz/logo/VIUTV 6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VIUTV 6
+http://free.cnlive.club/channel/nbc02c56/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY 78.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HOY 78
 http://cnlive.org/channel/7289243e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTHK31
 http://cnlive.org/channel/n8badbb5/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTHK31
+http://free.cnlive.club/channel/n11fe9b25/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTHK32
 http://cnlive.org/channel/n8badbb4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTHK32
+http://free.cnlive.club/channel/n11fe9b24/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
 http://cnlive.org/channel/n496e6eec/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
-http://cnlive.org/channel/n1d5897e0/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/n7ade8a82/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
+http://free.cnlive.club/channel/n7addc3c1/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
 http://cnlive.org/channel/n4966a4fb/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
+http://free.cnlive.club/channel/n7ad6c091/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
+http://free.cnlive.club/channel/n7ad6c091/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港
 http://cnlive.org/channel/n49654430/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶香港cnlive" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港
+http://free.cnlive.club/channel/n7ad55fc6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="ABC NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/ABC NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC NEWS LIVE
 http://cnlive.org/channel/n38043943/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ALJAZEERA
 http://cnlive.org/channel/65af47c7/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ALJAZEERA
+http://free.cnlive.club/channel/n5abdd660/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="BBC NEWS" tvg-logo="https://epg.112114.xyz/logo/BBC NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC NEWS
 http://cnlive.org/channel/n66a1746b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="BBC NEWS" tvg-logo="https://epg.112114.xyz/logo/BBC NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC NEWS
+http://free.cnlive.club/channel/2e8ad8ee/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BLOOMBERG
 http://cnlive.org/channel/72e3ee4f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CBS NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/CBS NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS NEWS LIVE
@@ -109,12 +213,18 @@ http://cnlive.org/channel/317a4f4b/index.m3u8?q=1758398900226
 http://cnlive.org/channel/n337674eb/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
 http://cnlive.org/channel/n43b97ee1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
+http://free.cnlive.club/channel/fa51166/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
 http://cnlive.org/channel/n33765cdd/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
+http://free.cnlive.club/channel/n1b02e444/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNN INTL" tvg-logo="https://epg.112114.xyz/logo/CNN INTL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN INTL
 http://cnlive.org/channel/n4d8e2986/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
 http://cnlive.org/channel/n5b2e0cca/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
+http://free.cnlive.club/channel/n1b9b2af1/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW
 http://cnlive.org/channel/7f39bd23/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶NEWS cnlive" tvg-name="FOX NEWS" tvg-logo="https://epg.112114.xyz/logo/FOX NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX NEWS
@@ -127,104 +237,184 @@ http://cnlive.org/channel/n683bca74/index.m3u8?q=1758398900226
 http://cnlive.org/channel/n38043943/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇新闻
 http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇新闻
+http://free.cnlive.club/channel/n4ea431ea/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇财经
 http://free.cnlive.club/channel/n4332074a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇财经
+http://free.cnlive.club/channel/n7621a744/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天新闻
 http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天新闻
+http://free.cnlive.club/channel/n7c70b121/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天新闻
 http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天亚洲" tvg-logo="https://epg.112114.xyz/logo/中天亚洲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天亚洲
 http://free.cnlive.club/channel/41d5ac2a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天亚洲" tvg-logo="https://epg.112114.xyz/logo/中天亚洲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天亚洲
+http://free.cnlive.club/channel/n1200b8fc/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天综合" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天综合
 http://free.cnlive.club/channel/41db6ede/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天综合" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天综合
+http://free.cnlive.club/channel/n7c6de2e0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天娱乐
 http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天娱乐
+http://free.cnlive.club/channel/n7c725d2d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS
 http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS 新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS 新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS 新闻
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS
+http://free.cnlive.club/channel/5ed1c94b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS新闻
 http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS 欢乐" tvg-logo="https://epg.112114.xyz/logo/TVBS 欢乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS 欢乐
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS新闻
+http://free.cnlive.club/channel/409fe5da/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS欢乐" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS欢乐
 http://free.cnlive.club/channel/n69c10b55/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS欢乐" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS欢乐
+http://free.cnlive.club/channel/40aba917/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TVBS ASIA" tvg-logo="https://epg.112114.xyz/logo/TVBS ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS ASIA
+http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森新闻
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森新闻
+http://free.cnlive.club/channel/n57e80cff/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森财经新闻
 http://free.cnlive.club/channel/209f9e70/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森财经新闻
+http://free.cnlive.club/channel/n502e74be/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森综合" tvg-logo="https://epg.112114.xyz/logo/东森综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森综合
 http://free.cnlive.club/channel/n31b0a4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森综合" tvg-logo="https://epg.112114.xyz/logo/东森综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森综合
+http://free.cnlive.club/channel/nb1296a6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森戏剧" tvg-logo="https://epg.112114.xyz/logo/东森戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森戏剧
 http://free.cnlive.club/channel/n9e78d0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森戏剧" tvg-logo="https://epg.112114.xyz/logo/东森戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森戏剧
+http://free.cnlive.club/channel/n70ba0273/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森电影
 http://free.cnlive.club/channel/n5502f4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森电影
+http://free.cnlive.club/channel/59c37ddf/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森洋片" tvg-logo="https://epg.112114.xyz/logo/东森洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森洋片
 http://free.cnlive.club/channel/n7160b4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森洋片" tvg-logo="https://epg.112114.xyz/logo/东森洋片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森洋片
+http://free.cnlive.club/channel/n7c3c789a/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森幼幼" tvg-logo="https://epg.112114.xyz/logo/东森幼幼.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森幼幼
 http://free.cnlive.club/channel/naa6d18/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森超视
 http://free.cnlive.club/channel/4210df69/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东森超视
+http://free.cnlive.club/channel/n7c387255/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
 http://free.cnlive.club/channel/dc53f4d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
+http://free.cnlive.club/channel/nf9451cf/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视新闻
 http://free.cnlive.club/channel/428f1dfa/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视新闻
+http://free.cnlive.club/channel/n7bba33c4/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/中视经典.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视经典
 http://free.cnlive.club/channel/4291e438/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立台湾" tvg-logo="https://epg.112114.xyz/logo/三立台湾.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立台湾
 http://free.cnlive.club/channel/642f20a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立台湾" tvg-logo="https://epg.112114.xyz/logo/三立台湾.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立台湾
+http://free.cnlive.club/channel/n7c051b18/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立都会" tvg-logo="https://epg.112114.xyz/logo/三立都会.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立都会
 http://free.cnlive.club/channel/72452bb/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立综合" tvg-logo="https://epg.112114.xyz/logo/三立综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立综合
 http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立综合" tvg-logo="https://epg.112114.xyz/logo/三立综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立综合
+http://free.cnlive.club/channel/n3ff9036/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立戏剧
 http://free.cnlive.club/channel/6748da0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三立戏剧
+http://free.cnlive.club/channel/n46c5862/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视
 http://free.cnlive.club/channel/5ef6ab90/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视
+http://free.cnlive.club/channel/nf93ed2e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视新闻
 http://free.cnlive.club/channel/452d9d57/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视新闻
+http://free.cnlive.club/channel/n791bb467/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="台视综合" tvg-logo="https://epg.112114.xyz/logo/台视综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视综合
 http://free.cnlive.club/channel/45306b98/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
 http://free.cnlive.club/channel/560bcbee/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
+http://free.cnlive.club/channel/nf93b2d0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视
 http://free.cnlive.club/channel/3b838b0c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="公视台语" tvg-logo="https://epg.112114.xyz/logo/公视台语.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视台语
 http://free.cnlive.club/channel/3ccf6783/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视
 http://free.cnlive.club/channel/n4d0434cf/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视
+http://free.cnlive.club/channel/nf90b333/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视新闻
 http://free.cnlive.club/channel/n4b747ee6/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视新闻
+http://free.cnlive.club/channel/n565564e8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视台湾" tvg-logo="https://epg.112114.xyz/logo/民视台湾.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视台湾
 http://free.cnlive.club/channel/n4bbbe8c9/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="民视台湾" tvg-logo="https://epg.112114.xyz/logo/民视台湾.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视台湾
+http://free.cnlive.club/channel/n569ccecb/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",非凡新闻
 http://free.cnlive.club/channel/6302a884/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",非凡新闻
+http://free.cnlive.club/channel/n5b46a93a/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",年代新闻
 http://free.cnlive.club/channel/49184630/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",年代新闻
+http://free.cnlive.club/channel/n30f01242/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大第一
 http://free.cnlive.club/channel/2733018a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大第一
+http://free.cnlive.club/channel/1c521b88/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大综合" tvg-logo="https://epg.112114.xyz/logo/八大综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大综合
 http://free.cnlive.club/channel/27420c52/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大综合" tvg-logo="https://epg.112114.xyz/logo/八大综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大综合
+http://free.cnlive.club/channel/1c612650/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大戏剧" tvg-logo="https://epg.112114.xyz/logo/八大戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大戏剧
 http://free.cnlive.club/channel/26d54426/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大戏剧" tvg-logo="https://epg.112114.xyz/logo/八大戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大戏剧
+http://free.cnlive.club/channel/1bf45e24/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="八大娱乐" tvg-logo="https://epg.112114.xyz/logo/八大娱乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",八大娱乐
 http://free.cnlive.club/channel/26b73cff/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="大爱电视" tvg-logo="https://epg.112114.xyz/logo/大爱电视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大爱电视
 http://free.cnlive.club/channel/46f9ba85/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="大爱" tvg-logo="https://epg.112114.xyz/logo/大爱.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大爱
+http://free.cnlive.club/channel/1d30c54e/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="大爱二" tvg-logo="https://epg.112114.xyz/logo/大爱二.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大爱二
 http://free.cnlive.club/channel/46f0bf6e/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="好消息 2" tvg-logo="https://epg.112114.xyz/logo/好消息 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好消息 2
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好消息2
 http://free.cnlive.club/channel/n5e3decc0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好消息2
+http://free.cnlive.club/channel/n691e7cd6/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="华艺中文合" tvg-logo="https://epg.112114.xyz/logo/华艺中文合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华艺中文合
+http://free.cnlive.club/channel/5af2eef0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="华艺中文台" tvg-logo="https://epg.112114.xyz/logo/华艺中文台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华艺中文台
+http://free.cnlive.club/channel/4df524a3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来体育
 http://free.cnlive.club/channel/5816d06e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来体育
+http://free.cnlive.club/channel/n66328150/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来精彩" tvg-logo="https://epg.112114.xyz/logo/纬来精彩.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来精彩
 http://free.cnlive.club/channel/581c2f1a/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来日本" tvg-logo="https://epg.112114.xyz/logo/纬来日本.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来日本
 http://free.cnlive.club/channel/58197296/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来日本" tvg-logo="https://epg.112114.xyz/logo/纬来日本.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来日本
+http://free.cnlive.club/channel/n5fcbb1e8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来电影" tvg-logo="https://epg.112114.xyz/logo/纬来电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来电影
-http://free.cnlive.club/channel/581b458b/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/n662e0c33/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来综合" tvg-logo="https://epg.112114.xyz/logo/纬来综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来综合
 http://free.cnlive.club/channel/581c693b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",纬来育乐
 http://free.cnlive.club/channel/581c988d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达综合
-http://free.cnlive.club/channel/n20929de1/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/29a2a67a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达综合
+http://free.cnlive.club/channel/n71ce781f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达影剧
 http://free.cnlive.club/channel/n2109392b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育1
@@ -245,8 +435,10 @@ http://free.cnlive.club/channel/n34995d66/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/4838e3b3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯无限
 http://free.cnlive.club/channel/47dd89d5/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙华戏剧
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙华电视戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华电视戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙华电视戏剧
 http://free.cnlive.club/channel/66c51883/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙华电视戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华电视戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙华电视戏剧
+http://free.cnlive.club/channel/n5784393b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙华偶像
 http://free.cnlive.club/channel/66c2f564/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙华电影
@@ -257,40 +449,76 @@ http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/66c892d4/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙祥时代
 http://free.cnlive.club/channel/67548a4f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙祥时代
+http://free.cnlive.club/channel/78976a30/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天国际
 http://free.cnlive.club/channel/63189371/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天国际
+http://free.cnlive.club/channel/nae6b763/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="靖天卡通" tvg-logo="https://epg.112114.xyz/logo/靖天卡通.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天卡通
 http://free.cnlive.club/channel/63181d62/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="靖天卡通" tvg-logo="https://epg.112114.xyz/logo/靖天卡通.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",靖天卡通
+http://free.cnlive.club/channel/n5b31345c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好莱坞电影
 http://free.cnlive.club/channel/n2db95de5/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",好莱坞电影
+http://free.cnlive.club/channel/7b2fa342/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="卫视电影" tvg-logo="https://epg.112114.xyz/logo/卫视电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",卫视电影
 http://free.cnlive.club/channel/5967d303/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美亚电影
 http://free.cnlive.club/channel/5824ef5e/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="华艺综合" tvg-logo="https://epg.112114.xyz/logo/华艺综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华艺综合
-http://free.cnlive.club/channel/5af2eef0/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYE 旅游" tvg-logo="https://epg.112114.xyz/logo/EYE 旅游.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYE 旅游
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美亚电影
+http://free.cnlive.club/channel/n5e6795b0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYETV旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYETV旅游
 http://free.cnlive.club/channel/28efa38/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYE 戏剧" tvg-logo="https://epg.112114.xyz/logo/EYE 戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYE 戏剧
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYETV旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYETV旅游
+http://free.cnlive.club/channel/7aa21eec/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYETV戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYETV戏剧
 http://free.cnlive.club/channel/27dadb3/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="EYETV戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EYETV戏剧
+http://free.cnlive.club/channel/7aa19011/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="亚洲旅游" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亚洲旅游
 http://free.cnlive.club/channel/852ca6f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="亚洲旅游" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亚洲旅游
+http://free.cnlive.club/channel/n28e1b93/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亚洲美食
 http://free.cnlive.club/channel/4258879f/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",亚洲美食
+http://free.cnlive.club/channel/n7bf0ca1f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美食星球
 http://free.cnlive.club/channel/5939fd4b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",美食星球
+http://free.cnlive.club/channel/n650f5473/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动物星球
+http://free.cnlive.club/channel/n7a0896c3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC旅游生活
 http://free.cnlive.club/channel/34964cb6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="Arirang" tvg-logo="https://epg.112114.xyz/logo/Arirang.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Arirang
 http://free.cnlive.club/channel/5a358dea/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="AXN Taiwan" tvg-logo="https://epg.112114.xyz/logo/AXN Taiwan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXN Taiwan
 http://free.cnlive.club/channel/n4e27c899/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="AXN Taiwan" tvg-logo="https://epg.112114.xyz/logo/AXN Taiwan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXN Taiwan
+http://free.cnlive.club/channel/7a5cb7c2/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
 http://free.cnlive.club/channel/7c7a1311/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
+http://free.cnlive.club/channel/n59c55a71/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
+http://free.cnlive.club/channel/n560d75d1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="CN" tvg-logo="https://epg.112114.xyz/logo/CN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CN
+http://free.cnlive.club/channel/n7ae3a06c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="DISCOVERY ASIA" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DISCOVERY ASIA
+http://free.cnlive.club/channel/n722ba170/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO
-http://free.cnlive.club/channel/2d329e1c/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/5ecc0b34/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO HD
+http://free.cnlive.club/channel/n24093c22/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="HBO FAMILY" tvg-logo="https://epg.112114.xyz/logo/HBO FAMILY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO FAMILY
+http://free.cnlive.club/channel/7ac0cf14/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="HBO_HITS" tvg-logo="https://epg.112114.xyz/logo/HBO_HITS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO_HITS
-http://free.cnlive.club/channel/n54fc5ba0/index.m3u8?q=1758398900226
+http://free.cnlive.club/channel/n4a22671d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="HBO SIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBO SIGNATURE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO SIGNATURE
+http://free.cnlive.club/channel/n23ff8e74/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV Live
 http://free.cnlive.club/channel/731620b3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶台湾台cnlive" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV Live
@@ -319,6 +547,8 @@ http://free.cnlive.club/channel/22029ca9/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/5d30c8a/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶新加坡cnlive" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
 http://free.cnlive.club/channel/4e9c8333/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶新加坡cnlive" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
+http://free.cnlive.club/channel/n68d27de3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶新加坡cnlive" tvg-name="CNA backup" tvg-logo="https://epg.112114.xyz/logo/CNA backup.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA backup
 http://free.cnlive.club/channel/7f3deb4f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶新加坡cnlive" tvg-name="CNA International" tvg-logo="https://epg.112114.xyz/logo/CNA International.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA International
@@ -337,10 +567,16 @@ http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro欢喜台" tvg-logo="https://epg.112114.xyz/logo/Astro欢喜台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro欢喜台
 http://free.cnlive.club/channel/n129801d1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro欢喜台" tvg-logo="https://epg.112114.xyz/logo/Astro欢喜台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro欢喜台
+http://free.cnlive.club/channel/4040a2cf/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro爱奇艺 iQiyi" tvg-logo="https://epg.112114.xyz/logo/Astro爱奇艺 iQiyi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro爱奇艺 iQiyi
 http://free.cnlive.club/channel/n367ccbbb/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/Astro QJ.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro QJ
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro爱奇艺 iQiyi" tvg-logo="https://epg.112114.xyz/logo/Astro爱奇艺 iQiyi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro爱奇艺 iQiyi
+http://free.cnlive.club/channel/1d8bee0c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro QJ全佳" tvg-logo="https://epg.112114.xyz/logo/Astro QJ全佳.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro QJ全佳
 http://free.cnlive.club/channel/n2d0f5476/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Astro QJ全佳" tvg-logo="https://epg.112114.xyz/logo/Astro QJ全佳.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro QJ全佳
+http://free.cnlive.club/channel/2317c921/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="AOD" tvg-logo="https://epg.112114.xyz/logo/AOD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AOD
 http://free.cnlive.club/channel/fa50a06/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="AEC" tvg-logo="https://epg.112114.xyz/logo/AEC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AEC
@@ -389,14 +625,20 @@ http://free.cnlive.club/channel/n606edc5a/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/8103ba8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Boo" tvg-logo="https://epg.112114.xyz/logo/Boo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boo
 http://free.cnlive.club/channel/fa511d2/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Boo" tvg-logo="https://epg.112114.xyz/logo/Boo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Boo
+http://free.cnlive.club/channel/1bd4f7aa/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/Cartoon Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cartoon Network
 http://free.cnlive.club/channel/607a1b6c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/Celestial Classic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Classic
 http://free.cnlive.club/channel/n7b0fbbc6/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies天映频道" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies天映频道.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies天映频道
 http://free.cnlive.club/channel/5150b0a1/index.m3u8?q=1758398900226
-#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies天映频道" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies天映频道.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies天映频道
+http://free.cnlive.club/channel/n70383adf/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies天映频道2" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies天映频道2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies天映频道2
 http://cnlive.org/channel/n4de56ec2/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Celestial Movies天映频道2" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies天映频道2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies天映频道2
+http://free.cnlive.club/channel/n70383ae0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Ceria" tvg-logo="https://epg.112114.xyz/logo/Ceria.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Ceria
 http://free.cnlive.club/channel/n454e7688/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Citra" tvg-logo="https://epg.112114.xyz/logo/Citra.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Citra
@@ -425,6 +667,8 @@ http://free.cnlive.club/channel/n4641f303/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n1b00b66f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KBS World
 http://free.cnlive.club/channel/14eeb45e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="LOVE NATURE" tvg-logo="https://epg.112114.xyz/logo/LOVE NATURE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",LOVE NATURE
+http://free.cnlive.club/channel/n6598e6ce/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Madinah" tvg-logo="https://epg.112114.xyz/logo/Madinah.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Madinah
 http://free.cnlive.club/channel/n782c73d0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶马来西亚cnlive" tvg-name="Mecca Live" tvg-logo="https://epg.112114.xyz/logo/Mecca Live.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Mecca Live
@@ -497,20 +741,38 @@ http://free.cnlive.club/channel/n1b6a6bd4/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n1af9ddff/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育1
 http://free.cnlive.club/channel/n6cd87fd/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育1
+http://free.cnlive.club/channel/22f30a81/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育2
 http://cnlive.org/channel/723ab075/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育2
+http://free.cnlive.club/channel/22f30aa0/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育3
 http://cnlive.org/channel/723ab094/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育3
+http://free.cnlive.club/channel/22f30abf/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="爱尔达体育4" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱尔达体育4
+http://free.cnlive.club/channel/3994338/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯运动一" tvg-logo="https://epg.112114.xyz/logo/博斯运动一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯运动一
 http://free.cnlive.club/channel/n3a1a5ced/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯运动一" tvg-logo="https://epg.112114.xyz/logo/博斯运动一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯运动一
+http://free.cnlive.club/channel/74a006f6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯运动二" tvg-logo="https://epg.112114.xyz/logo/博斯运动二.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯运动二
 http://free.cnlive.club/channel/n3a1a4bf9/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯运动二" tvg-logo="https://epg.112114.xyz/logo/博斯运动二.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯运动二
+http://free.cnlive.club/channel/3d918cad/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯高球一" tvg-logo="https://epg.112114.xyz/logo/博斯高球一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球一
 http://free.cnlive.club/channel/n34996e5a/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯高球一" tvg-logo="https://epg.112114.xyz/logo/博斯高球一.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球一
+http://free.cnlive.club/channel/3dbeffb9/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯高球二" tvg-logo="https://epg.112114.xyz/logo/博斯高球二.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球二
 http://free.cnlive.club/channel/n34995d66/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯高球二" tvg-logo="https://epg.112114.xyz/logo/博斯高球二.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯高球二
+http://free.cnlive.club/channel/3dbeffba/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯网球" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯网球
 http://free.cnlive.club/channel/4838e3b3/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯网球" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯网球
+http://free.cnlive.club/channel/n79e465e1/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",博斯无限
 http://free.cnlive.club/channel/47dd89d5/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="ASTRO ARENA" tvg-logo="https://epg.112114.xyz/logo/ASTRO ARENA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO ARENA
@@ -559,6 +821,8 @@ http://cnlive.org/channel/n44210d02/index.m3u8?q=1758398900226
 http://cnlive.org/channel/n5d959a6c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="CCTV 5+" tvg-logo="https://epg.112114.xyz/logo/CCTV 5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV 5+
 http://cnlive.org/channel/n4fd60eb5/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="DAZN 1" tvg-logo="https://epg.112114.xyz/logo/DAZN 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DAZN 1
+http://free.cnlive.club/channel/n7ee06ef6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="JSPORT 1" tvg-logo="https://epg.112114.xyz/logo/JSPORT 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JSPORT 1
 http://cnlive.org/channel/n774f4da/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="JSPORT 2" tvg-logo="https://epg.112114.xyz/logo/JSPORT 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JSPORT 2
@@ -603,12 +867,18 @@ http://cnlive.org/channel/n23c66d85/index.m3u8?q=1758398900226
 http://cnlive.org/channel/n23c66d84/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶SPORTS cnlive" tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WWE
 http://cnlive.org/channel/n52e4e43e/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="ABC NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/ABC NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC NEWS LIVE
+http://free.cnlive.club/channel/2fe5b83d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Al-Jazeera" tvg-logo="https://epg.112114.xyz/logo/Al-Jazeera.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Jazeera
 http://free.cnlive.club/channel/n312e1c58/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Al-Jazeera" tvg-logo="https://epg.112114.xyz/logo/Al-Jazeera.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al-Jazeera
+http://free.cnlive.club/channel/65af47c7/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/Animal Planet (Eng).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal Planet (Eng)
 http://free.cnlive.club/channel/23d55997/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Axn" tvg-logo="https://epg.112114.xyz/logo/Axn.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Axn
 http://free.cnlive.club/channel/n4a933563/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Axn" tvg-logo="https://epg.112114.xyz/logo/Axn.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Axn
+http://free.cnlive.club/channel/1bd4f0ff/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="BBC 1" tvg-logo="https://epg.112114.xyz/logo/BBC 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC 1
 http://free.cnlive.club/channel/n12f70f84/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="BBC 2" tvg-logo="https://epg.112114.xyz/logo/BBC 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC 2
@@ -619,32 +889,66 @@ http://free.cnlive.club/channel/3709a607/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/72553caa/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
 http://free.cnlive.club/channel/361e4ef6/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC World News
+http://free.cnlive.club/channel/n66a1746b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
 http://free.cnlive.club/channel/fa3b1b0/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bloomberg News
+http://free.cnlive.club/channel/72e3ee4f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="CBBC" tvg-logo="https://epg.112114.xyz/logo/CBBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBBC
 http://free.cnlive.club/channel/7b42ceb8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="CBeebies" tvg-logo="https://epg.112114.xyz/logo/CBeebies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBeebies
 http://free.cnlive.club/channel/n56ec6d34/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CBS NEWS" tvg-logo="https://epg.112114.xyz/logo/CBS NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS NEWS
+http://free.cnlive.club/channel/n2ff473c1/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CBS NEWS" tvg-logo="https://epg.112114.xyz/logo/CBS NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS NEWS
+http://free.cnlive.club/channel/317a4f4b/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
 http://free.cnlive.club/channel/7b42e3b6/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
+http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Channel 4" tvg-logo="https://epg.112114.xyz/logo/Channel 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 4
 http://free.cnlive.club/channel/2135795f/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
 http://free.cnlive.club/channel/7b42fbc4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
+http://free.cnlive.club/channel/n33765cdd/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CN" tvg-logo="https://epg.112114.xyz/logo/CN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CN
+http://free.cnlive.club/channel/n3f6d3a2/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
+http://free.cnlive.club/channel/1bd4f74b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CNN BACKUP" tvg-logo="https://epg.112114.xyz/logo/CNN BACKUP.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN BACKUP
+http://free.cnlive.club/channel/n5b2e0cca/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="CNN INTL" tvg-logo="https://epg.112114.xyz/logo/CNN INTL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN INTL
+http://free.cnlive.club/channel/n4d8e2986/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DMAX
+http://free.cnlive.club/channel/n72228966/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="DW (Deutsch)" tvg-logo="https://epg.112114.xyz/logo/DW (Deutsch).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW (Deutsch)
 http://free.cnlive.club/channel/2a24e4c4/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="DW (Deutsch)" tvg-logo="https://epg.112114.xyz/logo/DW (Deutsch).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW (Deutsch)
+http://free.cnlive.club/channel/7f39bd23/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Euronews" tvg-logo="https://epg.112114.xyz/logo/Euronews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Euronews
 http://free.cnlive.club/channel/19750d38/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Euronews" tvg-logo="https://epg.112114.xyz/logo/Euronews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Euronews
+http://free.cnlive.club/channel/483c7258/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="FOX NEWS" tvg-logo="https://epg.112114.xyz/logo/FOX NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX NEWS
+http://free.cnlive.club/channel/n41640285/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="France 24" tvg-logo="https://epg.112114.xyz/logo/France 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",France 24
 http://free.cnlive.club/channel/n13cd9691/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="France 24" tvg-logo="https://epg.112114.xyz/logo/France 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",France 24
+http://free.cnlive.club/channel/12188570/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Freesports" tvg-logo="https://epg.112114.xyz/logo/Freesports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Freesports
 http://free.cnlive.club/channel/7994d0e3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO
 http://free.cnlive.club/channel/n41a855c1/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
 http://free.cnlive.club/channel/7b452999/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
+http://free.cnlive.club/channel/5ecc1eb9/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="History" tvg-logo="https://epg.112114.xyz/logo/History.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History
 http://free.cnlive.club/channel/514cb39c/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="History" tvg-logo="https://epg.112114.xyz/logo/History.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History
+http://free.cnlive.club/channel/n50f8e184/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Hits Movie" tvg-logo="https://epg.112114.xyz/logo/Hits Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits Movie
 http://free.cnlive.club/channel/n6906b9d8/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="itv 1" tvg-logo="https://epg.112114.xyz/logo/itv 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",itv 1
@@ -663,6 +967,8 @@ http://free.cnlive.club/channel/530c09b4/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n5e0570c6/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHK World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK World
 http://free.cnlive.club/channel/71de198b/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHK World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK World
+http://free.cnlive.club/channel/n683bca74/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick Jr.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nick Jr
 http://free.cnlive.club/channel/n7234a5b3/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nickelodeon
@@ -671,6 +977,8 @@ http://free.cnlive.club/channel/24e2e10d/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n8682e17/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Sky News" tvg-logo="https://epg.112114.xyz/logo/Sky News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sky News
 http://free.cnlive.club/channel/n65136184/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Sky News" tvg-logo="https://epg.112114.xyz/logo/Sky News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sky News
+http://free.cnlive.club/channel/3105897c/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Sky Sports Cricket" tvg-logo="https://epg.112114.xyz/logo/Sky Sports Cricket.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sky Sports Cricket
 http://free.cnlive.club/channel/n178afb67/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Sky Sports EPL" tvg-logo="https://epg.112114.xyz/logo/Sky Sports EPL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sky Sports EPL
@@ -683,8 +991,12 @@ http://free.cnlive.club/channel/n40025455/index.m3u8?q=1758398900226
 http://free.cnlive.club/channel/n1595d4d5/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Star Movies" tvg-logo="https://epg.112114.xyz/logo/Star Movies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Star Movies
 http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Star Movies" tvg-logo="https://epg.112114.xyz/logo/Star Movies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Star Movies
+http://free.cnlive.club/channel/72a9f54/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
 http://free.cnlive.club/channel/n2b05b19d/index.m3u8?q=1758398900226
+#EXTINF:-1 group-title="📶英国cnlive" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
+http://free.cnlive.club/channel/nd67847d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="TLC" tvg-logo="https://epg.112114.xyz/logo/TLC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC
 http://free.cnlive.club/channel/n6760b00d/index.m3u8?q=1758398900226
 #EXTINF:-1 group-title="📶英国cnlive" tvg-name="Warner TV" tvg-logo="https://epg.112114.xyz/logo/Warner TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warner TV
