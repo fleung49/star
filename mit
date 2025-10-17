@@ -1232,6 +1232,26 @@ Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playliv
 云南卫视,http://116.77.33.98:44330/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 
+gaoyitv央视频道,#genre#
+CCTV 1,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv1_mbd.m3u8?auth_key=1760644232-0-pcs533874dc996e41fa92339c7cfeb654bb-c38014c803d31d5eb7fc4565feb76943&yid=pcs533874dc996e41fa92339c7cfeb6c38014c803d31d5eb7fc4565feb76943&yid=pcs533874dc996e41fa92339c7cfeb…54bb
+CCTV 1,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 2,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv2_mbd.m3u8?auth_key=1760644626-0-pcs4fca71b37cd742d7bcd68f125f8f416e-6da5bec322a6a01ea33e351bbb166a7a&yid=pcs4fca71b37cd742d7bcd68f125f8f46da5bec322a6a01ea33e351bbb166a7a&yid=pcs4fca71b37cd742d7bcd68f125f8f…16e
+CCTV 2,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 3,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 4,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5+,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 6,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 7,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 8,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 9,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 10,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 11,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 12,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 13,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 14,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 浙江央视卫视124,#genre#
 CCTV1-综合 1,http://124.90.45.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://124.90.45.52:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
