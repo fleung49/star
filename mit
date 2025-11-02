@@ -258,7 +258,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 港澳台|备①,#genre#
 无线新闻,http://live4play.uk/livehttpplay?channel_id=30024
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=153399
+无线新闻,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=153399
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -267,6 +267,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+华丽翡翠台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=571187
 华丽翡翠台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
@@ -293,8 +294,8 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=114695
-凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=156407
+凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=114695
+凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=156407
 凤凰资讯,https://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -348,13 +349,13 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 中天新闻,http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/34899
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
-中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=571212
+中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=571212
 FAIRCHILD TV 1,http://line.lebiptv.me/56GK2532/BQFR9453/500942
 FAIRCHILD TV 1 WEST,http://line.lebiptv.me/56GK2532/BQFR9453/500943
 FAIRCHILD TV 2,http://line.lebiptv.me/56GK2532/BQFR9453/500944
-FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=90350
-FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=90351
-FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:FB:1E:71&extension=ts&stream=90352
+FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
+FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
+FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90352
 
 央视频道,#genre#
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMS9saXZlLm0zdTg=
@@ -1596,26 +1597,6 @@ VTV,http://tlive24.uk/livehttpplay?channel_id=20190
 VTV1,http://tlive24.uk/livehttpplay?channel_id=20185
 VTV3,http://tlive24.uk/livehttpplay?channel_id=20187
 VTV4,http://tlive24.uk/livehttpplay?channel_id=20188
-
-风云TV央视频道,#genre#
-CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=cctv1
-CCTV2财经,http://iptv.4666888.xyz/iptv2A.php?id=cctv2
-CCTV3综艺,http://iptv.4666888.xyz/iptv2A.php?id=cctv3
-CCTV4中文国际,http://iptv.4666888.xyz/iptv2A.php?id=cctv4
-CCTV5体育,http://iptv.4666888.xyz/iptv2A.php?id=cctv5
-CCTV5+体育赛事,http://iptv.4666888.xyz/iptv2A.php?id=cctv5p
-CCTV6电影,http://iptv.4666888.xyz/iptv2A.php?id=cctv6
-CCTV7国防军事,http://iptv.4666888.xyz/iptv2A.php?id=cctv7
-CCTV8电视剧,http://iptv.4666888.xyz/iptv2A.php?id=cctv8
-CCTV9记录,http://iptv.4666888.xyz/iptv2A.php?id=cctv9
-CCTV10科教,http://iptv.4666888.xyz/iptv2A.php?id=cctv10
-CCTV11戏剧,http://iptv.4666888.xyz/iptv2A.php?id=cctv11
-CCTV12社会与法,http://iptv.4666888.xyz/iptv2A.php?id=cctv12
-CCTV13新闻,http://iptv.4666888.xyz/iptv2A.php?id=cctv13
-CCTV14少儿,http://iptv.4666888.xyz/iptv2A.php?id=cctv14
-CCTV15音乐,http://iptv.4666888.xyz/iptv2A.php?id=cctv15
-CCTV16奥林匹克,http://iptv.4666888.xyz/iptv2A.php?id=cctv16
-CCTV17农业农村,http://iptv.4666888.xyz/iptv2A.php?id=cctv17
 
 bxtv,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
