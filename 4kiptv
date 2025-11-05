@@ -1,340 +1,261 @@
-#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="HK" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14930.ts
-#EXTINF:-1 group-title="HK" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19499.ts
-#EXTINF:-1 group-title="HK" tvg-name="无线娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/无线娱乐新闻台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线娱乐新闻台
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19498.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVB1" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14927.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVB Drama" tvg-logo="https://epg.112114.xyz/logo/TVB Drama.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Drama
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14931.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVBE" tvg-logo="https://epg.112114.xyz/logo/TVBE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14929.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVBJ1" tvg-logo="https://epg.112114.xyz/logo/TVBJ1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBJ1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14926.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVB千禧经典台" tvg-logo="https://epg.112114.xyz/logo/TVB千禧经典台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB千禧经典台
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19497.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
-#EXTINF:-1 group-title="HK" tvg-name="FAIRCHILD 1" tvg-logo="https://epg.112114.xyz/logo/FAIRCHILD 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FAIRCHILD 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54673.ts
-#EXTINF:-1 group-title="HK" tvg-name="FAIRCHILD 2" tvg-logo="https://epg.112114.xyz/logo/FAIRCHILD 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FAIRCHILD 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54674.ts
-#EXTINF:-1 group-title="HK" tvg-name="FAIRCHILD W" tvg-logo="https://epg.112114.xyz/logo/FAIRCHILD W.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FAIRCHILD W
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26811.ts
-#EXTINF:-1 group-title="HK" tvg-name="LS TIMES" tvg-logo="https://epg.112114.xyz/logo/LS TIMES.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",LS TIMES
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54678.ts
-#EXTINF:-1 group-title="HK" tvg-name="WOW TV" tvg-logo="https://epg.112114.xyz/logo/WOW TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WOW TV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26821.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS PRIME" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS PRIME.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS PRIME
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304088.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS EPL 1" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS EPL 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS EPL 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304092.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS EPL 1" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS EPL 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS EPL 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304467.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304099.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304098.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 3" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 3
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304097.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 4" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 4
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304096.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 5" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 5
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304095.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 6" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 6
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304094.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 7" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 7
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304093.ts
-#EXTINF:-1 group-title="HK" tvg-name="NOW SPORTS 4K 1" tvg-logo="https://epg.112114.xyz/logo/NOW SPORTS 4K 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW SPORTS 4K 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304468.ts
-#EXTINF:-1 group-title="HK" tvg-name="天映经典CCM" tvg-logo="https://epg.112114.xyz/logo/天映经典CCM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",天映经典CCM
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19437.ts
-#EXTINF:-1 group-title="HK" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",天映频道
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
-#EXTINF:-1 group-title="HK" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天亚洲台
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVBS ASIA" tvg-logo="https://epg.112114.xyz/logo/TVBS ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS ASIA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14928.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVBS ASIA" tvg-logo="https://epg.112114.xyz/logo/TVBS ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS ASIA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500305399.ts
-#EXTINF:-1 group-title="HK" tvg-name="TVBS ASIA" tvg-logo="https://epg.112114.xyz/logo/TVBS ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS ASIA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CCTV 4" tvg-logo="https://epg.112114.xyz/logo/CCTV 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV 4
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19514.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4美洲
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/28345.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CCTV+ CGTN" tvg-logo="https://epg.112114.xyz/logo/CCTV+ CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV+ CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500283595.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54679.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19441.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500004818.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500299479.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN DOC" tvg-logo="https://epg.112114.xyz/logo/CGTN DOC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN DOC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CGTN DOC" tvg-logo="https://epg.112114.xyz/logo/CGTN DOC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN DOC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500199989.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CCTV-娛樂" tvg-logo="https://epg.112114.xyz/logo/CCTV-娛樂.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-娛樂
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54676.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54677.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="江苏国际" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江苏国际
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54689.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",海峡卫视
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54686.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="湖南国际" tvg-logo="https://epg.112114.xyz/logo/湖南国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖南国际
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54685.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="北京国际" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",北京国际
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54681.ts
-#EXTINF:-1 group-title="CHINA" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东方卫视
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54682.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="AFN" tvg-logo="https://epg.112114.xyz/logo/AFN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AFN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500157549.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CHANNEL 5" tvg-logo="https://epg.112114.xyz/logo/CHANNEL 5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CHANNEL 5
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500059296.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CHANNEL 8" tvg-logo="https://epg.112114.xyz/logo/CHANNEL 8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CHANNEL 8
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500059293.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500157524.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500171956.t
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO ARENA" tvg-logo="https://epg.112114.xyz/logo/ASTRO ARENA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO ARENA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78178.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO ARENA 2" tvg-logo="https://epg.112114.xyz/logo/ASTRO ARENA 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO ARENA 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19496.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO SUPERSPORT BADMINTON" tvg-logo="https://epg.112114.xyz/logo/ASTRO SUPERSPORT BADMINTON.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO SUPERSPORT BADMINTON
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19509.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO SUPERSPORT BADMINTON 2" tvg-logo="https://epg.112114.xyz/logo/ASTRO SUPERSPORT BADMINTON 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO SUPERSPORT BADMINTON 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19507.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO SUPERSPORT FOOTBALL" tvg-logo="https://epg.112114.xyz/logo/ASTRO SUPERSPORT FOOTBALL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO SUPERSPORT FOOTBALL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78184.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO SPORTS PLUS" tvg-logo="https://epg.112114.xyz/logo/ASTRO SPORTS PLUS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO SPORTS PLUS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19508.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO TUTOR TV" tvg-logo="https://epg.112114.xyz/logo/ASTRO TUTOR TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO TUTOR TV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19494.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19428.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="BEIN SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/BEIN SPORTS 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BEIN SPORTS 1
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19432.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="BEIN SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/BEIN SPORTS 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BEIN SPORTS 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78187.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="BEIN SPORTS 3" tvg-logo="https://epg.112114.xyz/logo/BEIN SPORTS 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BEIN SPORTS 3
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19430.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BLOOMBERG
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19433.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CN" tvg-logo="https://epg.112114.xyz/logo/CN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19533.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CINEMAX
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19444.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19519.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CRIME+INVESTIGATION" tvg-logo="https://epg.112114.xyz/logo/CRIME+INVESTIGATION.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CRIME+INVESTIGATION
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19443.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5240.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="DISCOVERY ASIA" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DISCOVERY ASIA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19451.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19517.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DISCOVERY
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="FRANCE 24" tvg-logo="https://epg.112114.xyz/logo/FRANCE 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FRANCE 24
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19446.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="GLOBAL TREKKER" tvg-logo="https://epg.112114.xyz/logo/GLOBAL TREKKER.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GLOBAL TREKKER
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/113772.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="GOLF CHANNEL" tvg-logo="https://epg.112114.xyz/logo/GOLF CHANNEL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GOLF CHANNEL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19465.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14293.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HBO FAMILY" tvg-logo="https://epg.112114.xyz/logo/HBO FAMILY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO FAMILY
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19548.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HBO HITS" tvg-logo="https://epg.112114.xyz/logo/HBO HITS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HBO HITS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19455.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HGTV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19534.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HISTORY
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19469.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HITS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19470.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HITS MOVIES" tvg-logo="https://epg.112114.xyz/logo/HITS MOVIES.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HITS MOVIES
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19431.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="HITS NOW" tvg-logo="https://epg.112114.xyz/logo/HITS NOW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HITS NOW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19454.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO IQIYI" tvg-logo="https://epg.112114.xyz/logo/ASTRO IQIYI.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO IQIYI
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/145226.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="MTV NOW" tvg-logo="https://epg.112114.xyz/logo/MTV NOW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV NOW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19525.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="NICK JR" tvg-logo="https://epg.112114.xyz/logo/NICK JR.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NICK JR
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="NICK" tvg-logo="https://epg.112114.xyz/logo/NICK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NICK
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO PREMIER SPORTS" tvg-logo="https://epg.112114.xyz/logo/ASTRO PREMIER SPORTS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO PREMIER SPORTS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19488.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO SHOWCASE" tvg-logo="https://epg.112114.xyz/logo/ASTRO SHOWCASE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO SHOWCASE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/55775.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="SKY NEWS" tvg-logo="https://epg.112114.xyz/logo/SKY NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SKY NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19527.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SPOTV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/76489.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="SPOTV 2" tvg-logo="https://epg.112114.xyz/logo/SPOTV 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SPOTV 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/85468.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO PREMIER LEAGUE 2" tvg-logo="https://epg.112114.xyz/logo/ASTRO PREMIER LEAGUE 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO PREMIER LEAGUE 2
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78182.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="ASTRO PREMIER LEAGUE 3" tvg-logo="https://epg.112114.xyz/logo/ASTRO PREMIER LEAGUE 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ASTRO PREMIER LEAGUE 3
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/151630.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="TLC" tvg-logo="https://epg.112114.xyz/logo/TLC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TLC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19493.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19529.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="TVN MOVIES" tvg-logo="https://epg.112114.xyz/logo/TVN MOVIES.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVN MOVIES
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19530.ts
-#EXTINF:-1 group-title="SG-MY" tvg-name="WSPORTS" tvg-logo="https://epg.112114.xyz/logo/WSPORTS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WSPORTS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78185.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="CBSN" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBSN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/32496.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="CBSN" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBSN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/154710.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KTLA" tvg-logo="https://epg.112114.xyz/logo/KTLA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KTLA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/131503.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KTLA" tvg-logo="https://epg.112114.xyz/logo/KTLA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KTLA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/32653.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KABC" tvg-logo="https://epg.112114.xyz/logo/KABC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KABC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/35909.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KABC" tvg-logo="https://epg.112114.xyz/logo/KABC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KABC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6822.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KABC" tvg-logo="https://epg.112114.xyz/logo/KABC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KABC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/130565.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KNBC" tvg-logo="https://epg.112114.xyz/logo/KNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/115710.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KNBC" tvg-logo="https://epg.112114.xyz/logo/KNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6697.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KNBC" tvg-logo="https://epg.112114.xyz/logo/KNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/71322.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KTTV" tvg-logo="https://epg.112114.xyz/logo/KTTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KTTV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/103443.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KTTV" tvg-logo="https://epg.112114.xyz/logo/KTTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KTTV
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600019046.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KCBS" tvg-logo="https://epg.112114.xyz/logo/KCBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KCBS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/103442.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KCBS" tvg-logo="https://epg.112114.xyz/logo/KCBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KCBS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6497.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KCAL" tvg-logo="https://epg.112114.xyz/logo/KCAL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KCAL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36148.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="KCAL" tvg-logo="https://epg.112114.xyz/logo/KCAL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KCAL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6498.ts
-#EXTINF:-1 group-title="LOS ANGELES" tvg-name="SPECTRUM NEWS 1 LOS ANGELES" tvg-logo="https://epg.112114.xyz/logo/SPECTRUM NEWS 1 LOS ANGELES.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SPECTRUM NEWS 1 LOS ANGELES
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/140551.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ABC NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/ABC NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC NEWS LIVE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/35917.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ABC NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/ABC NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC NEWS LIVE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200163528.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ABC NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/ABC NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC NEWS LIVE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/75498.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ALJAZEERA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/137231.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ALJAZEERA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500024077.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ALJAZEERA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500303987.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://epg.112114.xyz/logo/BBC WORLD NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC WORLD NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://epg.112114.xyz/logo/BBC WORLD NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC WORLD NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200155129.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BLOOMBERG
-p://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BLOOMBERG
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/97317.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="BLOOMBERG ASIA" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG ASIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BLOOMBERG ASIA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/44111.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CBS NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/CBS NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS NEWS LIVE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/700000627.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CBS NEWS LIVE" tvg-logo="https://epg.112114.xyz/logo/CBS NEWS LIVE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS NEWS LIVE
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/700002713.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/46923.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500298510.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CGTN DOC" tvg-logo="https://epg.112114.xyz/logo/CGTN DOC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN DOC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500306136.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CGTN DOC" tvg-logo="https://epg.112114.xyz/logo/CGTN DOC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CGTN DOC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19517.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNA
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/105713.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/144790.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/119955.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19955.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/72536.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN INTL" tvg-logo="https://epg.112114.xyz/logo/CNN INTL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN INTL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36152.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNN INTL" tvg-logo="https://epg.112114.xyz/logo/CNN INTL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNN INTL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5806.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/77270.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23049.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5240.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/88481.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FRANCE 24" tvg-logo="https://epg.112114.xyz/logo/FRANCE 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FRANCE 24
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30839.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FRANCE 24" tvg-logo="https://epg.112114.xyz/logo/FRANCE 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FRANCE 24
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500011560.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX BUSINESS" tvg-logo="https://epg.112114.xyz/logo/FOX BUSINESS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX BUSINESS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23053.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX BUSINESS" tvg-logo="https://epg.112114.xyz/logo/FOX BUSINESS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX BUSINESS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600001369.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX NEWS" tvg-logo="https://epg.112114.xyz/logo/FOX NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36155.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX NEWS" tvg-logo="https://epg.112114.xyz/logo/FOX NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23052.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX NEWS NOW" tvg-logo="https://epg.112114.xyz/logo/FOX NEWS NOW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX NEWS NOW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/111141.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX WEATHER" tvg-logo="https://epg.112114.xyz/logo/FOX WEATHER.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX WEATHER
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/135211.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="FOX WEATHER" tvg-logo="https://epg.112114.xyz/logo/FOX WEATHER.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX WEATHER
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/137516.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="MSNBC" tvg-logo="https://epg.112114.xyz/logo/MSNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MSNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/120002.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="MSNBC" tvg-logo="https://epg.112114.xyz/logo/MSNBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MSNBC
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500000406.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="NBC NEWS NOW" tvg-logo="https://epg.112114.xyz/logo/NBC NEWS NOW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NBC NEWS NOW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/104497.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="NBC NEWS NOW" tvg-logo="https://epg.112114.xyz/logo/NBC NEWS NOW.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NBC NEWS NOW
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/154735.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="RT NEWS" tvg-logo="https://epg.112114.xyz/logo/RT NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RT NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500048883.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="RT NEWS" tvg-logo="https://epg.112114.xyz/logo/RT NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RT NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/9587.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="RTE NEWS" tvg-logo="https://epg.112114.xyz/logo/RTE NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTE NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500302746.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="RTE NEWS" tvg-logo="https://epg.112114.xyz/logo/RTE NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTE NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600000574.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="SKY NEWS" tvg-logo="https://epg.112114.xyz/logo/SKY NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SKY NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200165142.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="SKY NEWS" tvg-logo="https://epg.112114.xyz/logo/SKY NEWS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SKY NEWS
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500001081.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="TRT WORLD" tvg-logo="https://epg.112114.xyz/logo/TRT WORLD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TRT WORLD
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600004118.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="TRT WORLD" tvg-logo="https://epg.112114.xyz/logo/TRT WORLD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TRT WORLD
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600004120.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="TVG" tvg-logo="https://epg.112114.xyz/logo/TVG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVG
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600001134.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="TVG" tvg-logo="https://epg.112114.xyz/logo/TVG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVG
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/400006514.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://epg.112114.xyz/logo/THE WEATHER CHANNEL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",THE WEATHER CHANNEL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200151450.ts
-#EXTINF:-1 group-title="NEWS" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://epg.112114.xyz/logo/THE WEATHER CHANNEL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",THE WEATHER CHANNEL
-http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500002361.ts
+HK,#genre#
+无线新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/67944.ts
+无线新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14930.ts
+翡翠台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19499.ts
+无线娱乐新闻台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19498.ts
+TVB1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14927.ts
+TVB Drama,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14931.ts
+TVBE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14929.ts
+TVBJ1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14926.ts
+TVB千禧经典台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19497.ts
+TVB星河,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
+凤凰美州台,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14956
+凤凰资讯,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14955
+FAIRCHILD 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54673.ts
+FAIRCHILD 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54675
+Fairchild 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26809
+FAIRCHILD 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54674.ts
+FAIRCHILD W,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26811.ts
+GREAT WALL ELITE,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14957
+ICITI,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14949
+iCiTi (S),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/88696
+IQIYI,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/145226.ts
+SKYLINK TV 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14947
+SKYLINK TV 2,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14948
+WOW TV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26821.ts
+NOW SPORTS PRIME,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304088.ts
+NOW SPORTS PRIME,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018694
+NOW SPORTS EPL 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304092.ts
+NOW SPORTS EPL 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304467.ts
+NOW SPORTS 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304099.ts
+NOW SPORTS 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304098.ts
+NOW SPORTS 3,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304097.ts
+NOW SPORTS 4,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304096.ts
+NOW SPORTS 5,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304095.ts
+NOW SPORTS 6,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304094.ts
+NOW SPORTS 7,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304093.ts
+NOW SPORTS 4K 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500304468.ts
+Now Sports 4K 616,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600005683
+天映经典CCM,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19437.ts
+天映频道,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
+中天亚洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
+TVBS ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14928.ts
+TVBS ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500305399.ts
+TVBS ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
+东森美州台,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14945
+东森中国台,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14941
+东森卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14942
+东森财经,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14944
+东森戏剧,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14943
+三立国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14938
+华视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14939
+民视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14937
+台视新闻,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14946
+台视综合,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14940
+LS TIMES,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54678.ts
+YOYO TV,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14951
 
+CHINA,#genre#
+CCTV 4,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19514.ts
+CCTV-4,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54677.ts
+CCTV4美洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/28345.ts
+CCTV4美洲,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14952
+CCTV4美洲,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54677
+CCTV+ CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500283595.ts
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54679.ts
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19441.ts
+CGTN,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14961
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500004818.ts
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500299479.ts
+CGTN DOC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts
+CGTN DOC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500199989.ts
+CCTV-娛樂,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54676.ts
+CCTV-娛樂,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14953
+CCTV-戏曲,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14954
+中国电影,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14965
+华厦电视台,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14970
+大湾区卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14959
+江苏国际,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54689.ts
+江苏国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14971
+海峡卫视,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54686.ts
+海峡卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14972
+湖南国际,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54685.ts
+北京国际,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54681.ts
+北京国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14964
+浙江国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14960
+东方卫视,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54682.ts
+东方卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14963
+深圳国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14967
+安徽国际,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14968
+湖南国际https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14966
+
+SG-MY,#genre#
+AFN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500157549.ts
+CHANNEL 5,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500059296.ts
+CHANNEL 8,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500059293.ts
+CNA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500157524.ts
+CINEMAX,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500171956.t
+ASTRO ARENA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78178.ts
+ASTRO ARENA 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19496.ts
+ASTRO SUPERSPORT BADMINTON,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19509.ts
+ASTRO SUPERSPORT BADMINTON 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19507.ts
+ASTRO SUPERSPORT FOOTBALL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78184.ts
+ASTRO SPORTS PLUS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19508.ts
+ASTRO TUTOR TV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19494.ts
+AXN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19428.ts
+BEIN SPORTS 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19432.ts
+BEIN SPORTS 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78187.ts
+BEIN SPORTS 3,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19430.ts
+BLOOMBERG,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19433.ts
+CN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19533.ts
+CINEMAX,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19444.ts
+CNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19519.ts
+CRIME+INVESTIGATION,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19443.ts
+DW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5240.ts
+DISCOVERY ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19451.ts
+CNA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19517.ts
+DISCOVERY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts
+FRANCE 24,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19446.ts
+GLOBAL TREKKER,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/113772.ts
+GOLF CHANNEL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19465.ts
+HBO,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14293.ts
+HBO FAMILY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19548.ts
+HBO HITS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19455.ts
+HGTV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19534.ts
+HISTORY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19469.ts
+HITS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19470.ts
+HITS MOVIES,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19431.ts
+HITS NOW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19454.ts
+ASTRO IQIYI,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/145226.ts
+MTV NOW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19525.ts
+NICK JR,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts
+NICK,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts
+ASTRO PREMIER SPORTS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19488.ts
+ASTRO SHOWCASE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/55775.ts
+SKY NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19527.ts
+SPOTV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/76489.ts
+SPOTV 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/85468.ts
+ASTRO PREMIER LEAGUE 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78182.ts
+ASTRO PREMIER LEAGUE 3,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/151630.ts
+TLC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19493.ts
+TVN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19529.ts
+TVN MOVIES,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19530.ts
+WSPORTS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/78185.ts
+
+LOS ANGELES,#genre#
+CBSN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/32496.ts
+CBSN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/154710.ts
+KTLA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/131503.ts
+KTLA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/32653.ts
+KABC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/35909.ts
+KABC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6822.ts
+KABC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/130565.ts
+KNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/115710.ts
+KNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6697.ts
+KNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/71322.ts
+KTTV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/103443.ts
+KTTV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600019046.ts
+KCBS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/103442.ts
+KCBS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6497.ts
+KCAL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36148.ts
+KCAL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/6498.ts
+SPECTRUM NEWS 1 LOS ANGELES,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/140551.ts
+
+NEWS,#genre#
+ABC NEWS LIVE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/35917.ts
+ABC NEWS LIVE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200163528.ts
+ABC NEWS LIVE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/75498.ts
+ALJAZEERA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/137231.ts
+ALJAZEERA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500024077.ts
+ALJAZEERA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500303987.ts
+BBC WORLD NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts
+BBC WORLD NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200155129.ts
+BLOOMBERG,p://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts
+BLOOMBERG,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/97317.ts
+BLOOMBERG ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/44111.ts
+CBS NEWS LIVE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/700000627.ts
+CBS NEWS LIVE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/700002713.ts
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/46923.ts
+CGTN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500298510.ts
+CGTN DOC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500306136.ts
+CGTN DOC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts
+CNA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19517.ts
+CNA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/105713.ts
+CNN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/144790.ts
+CNN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/119955.ts
+CNN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19955.ts
+CNN,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/72536.ts
+CNN INTL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36152.ts
+CNN INTL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5806.ts
+CNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/77270.ts
+CNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23049.ts
+DW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5240.ts
+DW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/88481.ts
+FRANCE 24,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30839.ts
+FRANCE 24,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500011560.ts
+FOX BUSINESS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23053.ts
+FOX BUSINESS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600001369.ts
+FOX NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/36155.ts
+FOX NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/23052.ts
+FOX NEWS NOW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/111141.ts
+FOX WEATHER,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/135211.ts
+FOX WEATHER,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/137516.ts
+MSNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/120002.ts
+MSNBC,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500000406.ts
+NBC NEWS NOW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/104497.ts
+NBC NEWS NOW,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/154735.ts
+RT NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500048883.ts
+RT NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/9587.ts
+RTE NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500302746.ts
+RTE NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600000574.ts
+SKY NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200165142.ts
+SKY NEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500001081.ts
+TRT WORLD,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600004118.ts
+TRT WORLD,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600004120.ts
+TVG,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600001134.ts
+TVG,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/400006514.ts
+THE WEATHER CHANNEL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200151450.ts
+THE WEATHER CHANNEL,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500002361.ts
+
+SPORTS,#genre#
+HUB PREMIER 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600012704
+HUB PREMIER 2,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600012693
+HUB PREMIER 3,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600012702
+HUB PREMIER 4,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600012701
+HUB SPORTS 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018704
+HUB SPORTS 2,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018705
+HUB SPORTS 3,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018706
+HUB SPORTS 4,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018707
+HUB SPORTS 5,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600018708
+
+SG,#genre#
+SG (SH) beIN SPORTS (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91627
+SG (SH) beIN SPORTS 2 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91626
+SG (SH) beIN Sports 3 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91628
+SG (SH) beIN Sports 4 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91629
+SG (SH) beIN Sports 5 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91630
+SG (SH) Channel 5 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90873
+SG (SH) Channel 8 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90874
+SG (SH) Channel U (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90875
+SG (SH) CNA (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90878
+SG (SH) Hub Sports 1 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91573
+SG (SH) Hub Sports 2 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91574
+SG (SH) Hub Sports 3 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91575
+SG (SH) Hub Sports 4 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91601
+SG (SH) Hub Sports 5 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91524
+SG (SH) HubPremier 1 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101337
+SG (SH) HubPremier 2 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101338
+SG (SH) HubPremier 3 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101339
+SG (SH) HubPremier 4 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101340
+SG (SH) HubPremier 5 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101341
+SG (SH) HubPremier 6 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101342
+SG (SH) HubPremier 7 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101343
+SG (SH) HubPremier 8 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101344
+SG (SH) HubPremier 9 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101345
+SG (SH) HubPremier 10 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101346
+SG (SH) HubPremier 11 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/101347
+SG (SH) KBS World (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/91577
+SG (SH) Live 1 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90879
+SG (SH) Live 2 (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90880
+SG (SH) Suria (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90876
+SG (SH) Vasantham (D),https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/90877
