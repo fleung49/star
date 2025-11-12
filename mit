@@ -328,7 +328,6 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-华丽翡翠台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=571187
 华丽翡翠台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
@@ -343,56 +342,41 @@ TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB娱乐新闻台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-TVB娱乐新闻台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153396
-TVBJ1,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153395
-TVBe,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153398
-TVB DRAMA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153400
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://120.196.235.42:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB XING HE,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153506
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 千禧经典台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-千禧经典台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=153503
-凤凰中文,https://php.jdshipin.com/smt.php?id=phoenixtv_hd
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=114695
 凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156407
-凤凰资讯,https://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,https://php.jdshipin.com/smt.php?id=hkphoenix_twn
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://110.235.82.60:8001/bysid/85
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰美洲台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156408
-Now新闻,http://cdn.163189.xyz/163189/now
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK31,http://cdn.163189.xyz/163189/rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK32,http://cdn.163189.xyz/163189/rthk32
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/smt.php?id=viu1_twn
 VIUTV,http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-VIUTV粤,https://cdn.163189.xyz/163189/viu
 VIUTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
 VIUTV6,http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com/smt.php?id=rhk31_twn
 RTHK31,http://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
 RTHK32,http://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
+C+頻道,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
+C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
@@ -416,20 +400,17 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 八度空间,http://smt.1678520.xyz/smt3.2.1.php?id=TV8
-中天新闻 v,video://https://saileitv.com/play.html?channelId=41d8a09d
-中天新闻,http://gotv.k.vu/api.php?id=ctinews
-中天亚洲,http://185.245.2.92/elgatoD1/82bac035f4/659279
+中天新聞,http://gotv.k.vu/api.php?id=ctinews
+中天新闻,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=571212
+中天亚洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
 FAIRCHILD TV 1,http://line.lebiptv.me/56GK2532/BQFR9453/500942
 FAIRCHILD TV 1 WEST,http://line.lebiptv.me/56GK2532/BQFR9453/500943
 FAIRCHILD TV 2,http://line.lebiptv.me/56GK2532/BQFR9453/500944
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90352
-GREAT WALL ELITE,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156410
-iQIYI [ASTRO],http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=571198
-SKYLINK TELEVISION 1,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156399
-SKYLINK TELEVISION 2,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156400
 
 央视频道nn 7x9d,#genre#
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMS9saXZlLm0zdTg=
@@ -2400,12 +2381,12 @@ CCTV3,video://https://tv.cctv.com/live/cctv3/index.shtml
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV4,video://https://m.345iptv.com/?act=play&token=3a68937c282f33fc2d22f0df849dc6a3&tid=itv&id=10
 CCTV4,video://https://tv.cctv.com/live/cctv4/index.shtml
-CCTV4（美）,https://www.bingdou.live/tv/player/?id=cctv4m
+CCTV4（美）,video://https://www.bingdou.live/tv/player/?id=cctv4m
 CCTV4（欧）,video://https://www.bingdou.live/tv/player/?id=cctv4o
 CCTV5,video://https://m.345iptv.com/?act=play&token=4115de165e379bdef3975431a24d2056&tid=itv&id=11
 CCTV5,video://https://tv.cctv.com/live/cctv5/index.shtml
 CCTV5+,video://https://m.345iptv.com/?act=play&token=664264d26615b92ffcd5da28c59c089b&tid=itv&id=12
-CCTV5+,https://https://tv.cctv.com/live/cctv5plus/index.shtml
+CCTV5+,video://https://https://tv.cctv.com/live/cctv5plus/index.shtml
 CCTV6,video://https://tv.cctv.com/live/cctv6/index.shtml
 CCTV7,video://https://tv.cctv.com/live/cctv7/index.shtml
 CCTV7央视网快看播,video://https://live.douyin.com/127453393722
