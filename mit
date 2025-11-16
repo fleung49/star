@@ -1800,6 +1800,23 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+cctv1,http://bxtv.3a.ink/migu.php?id=cctv1
+cctv2,http://bxtv.3a.ink/migu.php?id=cctv2
+cctv3,http://bxtv.3a.ink/migu.php?id=cctv3
+cctv4,http://bxtv.3a.ink/migu.php?id=cctv4
+cctv5,http://bxtv.3a.ink/migu.php?id=cctv5
+cctv5+,http://bxtv.3a.ink/migu.php?id=cctv5p
+cctv6,http://bxtv.3a.ink/migu.php?id=cctv6
+cctv7,http://bxtv.3a.ink/migu.php?id=cctv7
+cctv8,http://bxtv.3a.ink/migu.php?id=cctv8
+cctv9,http://bxtv.3a.ink/migu.php?id=cctv9
+cctv10,http://bxtv.3a.ink/migu.php?id=cctv10
+cctv11,http://bxtv.3a.ink/migu.php?id=cctv11
+cctv12,http://bxtv.3a.ink/migu.php?id=cctv12
+cctv13,http://bxtv.3a.ink/migu.php?id=cctv13
+cctv14,http://bxtv.3a.ink/migu.php?id=cctv14
+cctv15,http://bxtv.3a.ink/migu.php?id=cctv15
+cctv17,http://bxtv.3a.ink/migu.php?id=cctv17
 
 api香港,#genre#
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
