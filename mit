@@ -285,6 +285,7 @@ CCTV中文国际,https://www.youtube.com/watch?v=SdzewdkJa-o
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 中天新聞,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
+中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻 v,video://https://saileitv.com/play.html?channelId=41d8a09d
 中天亚洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
@@ -415,8 +416,9 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 八度空间,http://smt.1678520.xyz/smt3.2.1.php?id=TV8
 中天新聞,http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 中天新聞,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
-中天新闻,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻,http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=571212
 中天亚洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
 FAIRCHILD TV 1,http://line.lebiptv.me/56GK2532/BQFR9453/500942
@@ -1796,6 +1798,7 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
 cctv1,http://bxtv.3a.ink/migu.php?id=cctv1
 cctv2,http://bxtv.3a.ink/migu.php?id=cctv2
 cctv3,http://bxtv.3a.ink/migu.php?id=cctv3
@@ -2007,6 +2010,7 @@ CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8
 鏡電視新聞台,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
 中天亞洲台,http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
 中天新聞台,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 TVBS HD,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS台劇台,http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
 TVBS新聞台,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
