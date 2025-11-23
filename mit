@@ -382,14 +382,21 @@ TVB千禧经典台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19497.ts
 凤凰美州台,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14956
 凤凰美洲台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=156408
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,https://yang-1989.eu.org/live/now-332
 NOW财经台,https://yang-1989.eu.org/live/now-333
 Now Sports 精選,https://yang-1989.eu.org/live/now-630
+Now星影台,http://rihou.cc:8/Now星影
+Now星影台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
+Now爆谷台,http://rihou.cc:8/Now爆谷
+Now爆谷台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
+VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,https://yang-1989.eu.org/live/ViuTV
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/smt.php?id=viu1_twn
@@ -441,6 +448,8 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 八度空间,http://smt.1678520.xyz/smt3.2.1.php?id=TV8
+中天新聞,http://rihou.cc:8/中天新闻
+中天新聞,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
 中天新聞,http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 中天新聞,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
@@ -449,6 +458,10 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=571212
 中天亚洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
+TVBS,http://rihou.cc:8/tvbs闽南
+TVBS,http://test-al-livepull.migucloud.com:80/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
+TVBS新聞,http://rihou.cc:8/tvbs新话
+TVBS新聞,http://test-al-livepull.migucloud.com:80/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
 FAIRCHILD 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54673.ts
 FAIRCHILD 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54675
 Fairchild 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26809
@@ -3142,7 +3155,10 @@ TVG2,http://front-main.eagle-4k.me/live/9fshhuw2z7/54hw7lwwb1/54179.ts
 USA,#genre#
 KABC 24/7,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 CBSN lax,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBSN lax,https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 CBSN lax,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
+CBSN lax,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+CBSN lax,https://stream1.freetv.fun/a87bf43af0ea400cd00c2a8a73733f16f1486bc9da85086806b7e323a1096cb5.m3u8
 KABC,http://line.lebiptv.me/live/km6m4950/pqGB5365/548980.ts
 KCAL,http://line.lebiptv.me/live/km6m4950/pqGB5365/760122.ts
 KCBS,http://line.lebiptv.me/live/km6m4950/pqGB5365/549636.ts
@@ -3203,8 +3219,12 @@ Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/
 MAGIC,http://185.18.56.26:8888/magic/index.m3u8
 MAGIC,http://84.54.128.52:9090/play/a00c/index.m3u8
 NOW 70s,https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+NOW 70s,https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+NOW 70s,https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 NOW 80s,https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-NOW 90s00s,https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+Now 80s,https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+NOW 80s,https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+Now 90s,https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 NOW ROCK,https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 Stingray Nothin' But 90s,https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 ﻿Stingray Flashback 70's,https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
