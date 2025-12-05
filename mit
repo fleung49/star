@@ -320,11 +320,10 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 TVBS,http://pull-skycorp.speedws.com:80/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 TVBS新聞,http://pull-skycorp.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
 TVBS新闻台,http://pull-skycorp.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
-FAIRCHILD 1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54673.ts
-FAIRCHILD 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54675
-Fairchild 1,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26809
-FAIRCHILD 2,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54674.ts
-FAIRCHILD W,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26811.ts
+Fairchild 2,http://vocotv.pro:80/robins/robins/3888
+Fairchild Television,http://vocotv.pro:80/robins/robins/3887
+Fairchild Television Mandarin,http://vocotv.pro:80/robins/robins/3886
+Fairchild Television West,http://vocotv.pro:80/robins/robins/3885
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=90352
@@ -652,12 +651,6 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 广东经济欣赏,http://rihou.cc:555/tv/[AtI]广东经济
 广东少儿欣赏,http://rihou.cc:555/tv/[AtI]广东少儿
 广东卫视欣赏,http://rihou.cc:555/tv/[AtI]广东卫视
-广东珠江欣赏,http://rihou.cc:555/tv/[At|]广东珠江
-广东新闻欣赏,http://rihou.cc:555/tv/[At|]广东新闻
-广东民生欣赏,http://rihou.cc:555/tv/[At|]广东民生
-广东体育欣赏,http://rihou.cc:555/tv/[At|]广东体育
-广东湾区欣赏,http://rihou.cc:555/tv/[At|]广东湾区
-广东影视欣赏,http://rihou.cc:555/tv/[At|]广东影视
 广东珠江欣赏,http://rihou.cc:555/tv/[Atl]广东珠江
 广东新闻欣赏,http://rihou.cc:555/tv/[Atl]广东新闻
 广东民生欣赏,http://rihou.cc:555/tv/[Atl]广东民生
@@ -2694,28 +2687,35 @@ HBO SIGNATURE,video://https://saileitv.com/play.html?channelId=n1075adf9
 MTV Live,video://https://saileitv.com/play.html?channelId=731620b3
 
 LOS ANGELES,#genre# 
+CBS News Los Angeles,http://vocotv.pro:80/robins/robins/1051
 CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 CBSN,https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
+KABC,http://vocotv.pro:80/robins/robins/1239
 KABC,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10733.ts
 KABC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/215925
 KABC,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76897.ts
 KABC,http://lunar.pm:8080/live/Mrdon/4782314540/64455.ts
 KABC 24X7,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+KCBS,http://vocotv.pro:80/robins/robins/1404
 KCBS,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10749.ts
 KCBS,http://lunar.pm:8080/live/Mrdon/4782314540/64580.ts
 KCBS,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76745.ts
+KCAL,http://vocotv.pro:80/robins/robins/1514
 KCAL,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/17981.ts
 KCAL,http://lunar.pm:8080/live/Mrdon/4782314540/64570.ts
 KCAL,http://front-main.eagle-4k.me/rmt8r91bac/tsleey7v5g/76860
 KCAL,http://line.smootvone.vip/play/live.php?extension=ts&mac=A0:BB:3E:00:03:3d&stream=986800
+KTLA,http://vocotv.pro:80/robins/robins/2031
 KTLA,http://lunar.pm:8080/live/Mrdon/4782314540/64699.ts
 KTLA,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/189579
 KTLA,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/189579
 KTLA,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/279327.ts
+KTTV,http://vocotv.pro:80/robins/robins/1682
 KTTV,http://lunar.pm:8080/live/Mrdon/4782314540/64677.ts
 KTTV,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/149584
 KTTV,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76434.ts
 FOX 11 LOS ANGELES, https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
+KNBC,http://vocotv.pro:80/robins/robins/1836
 KNBC,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10792.ts
 KNBC,http://lunar.pm:8080/live/Mrdon/4782314540/64797.ts
 KNBC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/189595
@@ -2723,14 +2723,14 @@ KNBC,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/149587
 KNBC,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76617.ts
 SPECTRUM NEWS 1 LOS ANGELES,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/306915.ts
 
-##### LOS ANGELES CHANNELS #####,#genre#
-ABC 7 LOS ANGELES CA (KABC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=172930
-CBS 2 LOS ANGELES CA (KCBS),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=173138
-CBS 9 LOS ANGELES CA (KCAL),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=397115
-CBSN LOS ANGELES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=976293
-FOX 11 LOS ANGELES CA (KTTV),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=173612
-KTLA LOS ANGELES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=990397
-NBC 4 LOS ANGELES CA (KNBC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45533
+##### LOS ANGELES CHANNELS senpay23 #####,#genre#
+ABC 7 LOS ANGELES CA (KABC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=172930
+CBS 2 LOS ANGELES CA (KCBS),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=173138
+CBS 9 LOS ANGELES CA (KCAL),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=397115
+CBSN LOS ANGELES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=976293
+FOX 11 LOS ANGELES CA (KTTV),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=173612
+KTLA LOS ANGELES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=990397
+NBC 4 LOS ANGELES CA (KNBC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:06:9A:77&extension=ts&stream=45533
 
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,http://lunar.pm:8080/live/Mrdon/4782314540/21471.ts
@@ -2797,9 +2797,11 @@ TRT WORLD,http://lunar.pm:8080/live/Mrdon/4782314540/131950.ts
 TRT WORLD,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/75417.ts
 THE WEATHER CHANNEL,http://lunar.pm:8080/live/Mrdon/4782314540/9317.ts
 THE WEATHER CHANNEL,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/75416.ts
+TVG,http://vocotv.pro:80/robins/robins/836
 TVG,http://xxip9.top:8080/tamikahomecare/tamikahomecare/10259
 TVG,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/54180.ts
-TVG2,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/54179.ts
+TVG 2,http://vocotv.pro:80/robins/robins/835
+TVG 2,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/54179.ts
 
 USA,#genre#
 KABC 24/7,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
