@@ -1596,31 +1596,40 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=eb31361deb31361deb31361deb31361d
 
 PULL FLV,#genre#
-无线新闻,http://pull-skycorp.speedws.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfoHUf2RgNC09xXfFvAn4GP.flv
+无线新闻,http://bxtv.3a.ink/mytv/?id=wxxw
 翡翠台,http://hls-pull-wicketpw.speedws.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJls4gDp12oP6KkG1PhQWJK.flv
+翡翠台,http://bxtv.3a.ink/mytv/?id=fct
 无线华丽翡翠,http://hls-pull-wicketpw.speedws.com/live/QbsxHsZLNj2ktYls4gDZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
 黄金翡翠,http://pull-skycorp.speedws.com/live/R6HUf2RqenSOIcWLKrw7tdTr6YAlUncDMRVANBe7tBQpLPlbtN.flv
 明珠台,http://hls-pull-wicketpw.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5Pls4gDH9BhEE7d6usSBcnv4Ar.flv
-TVB Plus,http://pull-skycorp.speedws.com/live/O5YSEcBsq1SnHUf2Rdrf2uC7Ub3lAtYhmtOhbZFhdCdSpkHMDe.flv
+明珠台,http://bxtv.3a.ink/mytv/?id=mz
+TVB Plus,http://bxtv.3a.ink/mytv/?id=tvbp
+TVB 18,http://bxtv.3a.ink/mytv/?id=18
 无线千禧经典台,http://hls-pull-wicketpw.speedws.com/live/dExItls4gDRV3yeH33cbhn443lvbm4nz1qEI9Rfs1Slf1STsjz.flv
-无线明剧,http://pull-skycorp.speedws.com/live/U5Lu0QKcXlS8JlsFq99Y9fgbgHUf2RqtabagzClzSngLlR1hL2.flv
-无线华剧,http://pull-skycorp.speedws.com/live/13Jgp5L7rVHUf2RaDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
-无线生活,http://pull-skycorp.speedws.com/live/1YSKKplsCJMBhMsAS37PyHUf2R2UCOeqYgPS0IDjve8UKxS5QS.flv
+无线明剧,http://hls-pull-wicketpw.speedws.com/live/U5Lu0QKcXlS8JlsFq99Y9fgbgls4gDqtabagzClzSngLlR1hL2.flv
+无线华剧,http://hls-pull-wicketpw.speedws.com/live/13Jgp5L7rVHUf2RaDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
+无线生活,http://hls-pull-wicketpw.speedws.com/live/1YSKKplsCJMBhMsAS37PyHUf2R2UCOeqYgPS0IDjve8UKxS5QS.flv
 无线奖门,http://hls-pull-wicketpw.speedws.com/live/3UgJSu0qpO6Lo4NDZTH6fZd4REicls4gDCOyWGz4dpo1TK5hoA.flv  
 无线金曲,http://hls-pull-wicketpw.speedws.com/live/ACED2KZMC1lQgbghCsizDNVhe2Y4JROw2sG4WddZsHeTls4gDw.flv
+无线星河,http://hls-pull-wicketpw.speedws.com/live/uQ6GAaRJTHxrls4gDuthoagPy0FHuv5avbHvBZcOr5HvXfRxPV.flv
+无线功夫,http://hls-pull-wicketpw.speedws.com/live/chNDM1yls4gDfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
 黄金华剧,http://hls-pull-wicketpw.speedws.com/live/HZvZxcheOtbls4gDYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
 TVB DRAMA,http://hls-pull-wicketpw.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnls4gDTnY2MtgFyn0ArB7z.flv
 TVB1,http://hls-pull-wicketpw.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBls4gDePqp.flv
 TVBJ1,http://hls-pull-wicketpw.speedws.com/live/xU3SHbh8ls4gDCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
-MYTV SUPER,http://hls-pull-wicketpw.speedws.com/live/13Jgp5L7rVls4gDaDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
+MYTV SUPER 1,http://hls-pull-wicketpw.speedws.com/live/13Jgp5L7rVls4gDaDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
+MYTV SUPER 2,http://hls-pull-wicketpw.speedws.com/live/R6ls4gDqenSOIcWLKrw7tdTr6YAlUncDMRVANBe7tBQpLPlbtN.flv
+MYTV SUPER 3,http://bxtv.3a.ink/mytv/?id=qxjd
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/gwS5kbEwNmWObygXxkddls4gDYr0rZAqkFgLZRwPewJMVnfHy8.flv
-凤凰资讯,http://pull-skycorp.speedws.com/live/NHUf2RvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
-凤凰香港,http://pull-skycorp.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRHUf2RgUTYwb5D.flv
+凤凰中文,http://bxtv.3a.ink/mytv/?id=fhzw
+凤凰资讯,http://bxtv.3a.ink/mytv/?id=fhzx
+凤凰香港,http://bxtv.3a.ink/mytv/?id=fhhk
 Now新闻,http://cdn.163189.xyz/163189/now
-Now新闻,http://pull-skycorp.speedws.com:80/live/jZZ2hCFnEcClg2McuImLPcRzHUf2RaXDBKtltuWtYkNUFb7FPU.flv
-Now星影,http://pull-skycorp.speedws.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnHUf2R1EgdRk.flv
-Now爆谷,http://pull-skycorp.speedws.com/live/9kFYlsTAu8ScEZ4p2mWrkrHXa1Mu5yhBJ4DdZuc4EmzHUf2RfF.flv
-Now英超,http://pull-skycorp.speedws.com/live/YHju8lawaGbOf6Vv2TXTkVvWZ6VqtSS5PTDHDAI8uPpQ4ZntYF.flv
+Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
+Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
+Now爆谷,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+Now爆谷,http://23.237.228.133live2/baogutai.m3u8
+Now英超,http://hls-pull-wicketpw.speedws.com/live/YHju8lawaGbOf6Vv2TXTkVvWZ6VqtSS5PTDHDAI8uPpQ4ZntYF.flv
 HOY 76,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvls4gD0LemY.flv
 HOY 77,http://hls-pull-wicketpw.speedws.com/live/OCitoW8kzeqjIz3ls4gDfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
 HOY 77,http://cdn.163189.xyz/163189/hoy
@@ -1633,6 +1642,8 @@ RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 美亚电影台,http://hls-pull-wicketpw.speedws.com/live/IcmEedVfQlHHUXtdsqvDLaKLpE639j7xCDHMM7lsS5PTDJ9OQm.flv
+美亚电影台,http://bxtv.3a.ink/mytv/?id=meiya
+天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映经典,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv  
 澳视澳门,http://hls-pull-wicketpw.speedws.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQls4gDtD8Z686YrsM.flv
@@ -1654,10 +1665,13 @@ CCTV-16,http://hls-pull-wicketpw.speedws.com/live/F7VgQ37BtpBlwlovihJGN2fIB6PujH
 山西卫视,http://hls-pull-wicketpw.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
 青海卫视,http://hls-pull-wicketpw.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
 星空卫视,http://pull-skycorp.speedws.com/live/O6bfbXwHUf2RvwuzXM1D4wI4h1r2TYzMljRckRMJ0nU5YV9170.flv
-寰宇新闻,http://pull-skycorp.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中视新闻,http://pull-skycorp.speedws.com:80/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
+中天新闻,http://bxtv.3a.ink/mytv/?id=ztxw
+中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 TVBS,http://hls-pull-wicketpw.speedws.com:80/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
@@ -1675,6 +1689,7 @@ TVBS精彩台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp
 民视综艺,http://hls-pull-wicketpw.speedws.com/live/BS5PTDwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
 动物星球,http://pull-skycorp.speedws.com/live/089fd323ddfa1188ad22f6502931674f.flv
 华艺中文台,http://hls-pull-wicketpw.speedws.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNS5PTDHJRuFYfN3ccgIZrS.flv
+猪哥亮秀,http://hls-pull-wicketpw.speedws.com:80/live/hktv-kjfhslkdjngntw0089.flv
 博斯无限2,http://pull-skycorp.speedws.com/live/53f77a05d2ff4ec16eb90a2022febe76.flv
 博斯无限,http://pull-skycorp.speedws.com/live/730d2a95f49999aaeb5b76eb26a020bf.flv
 博斯网球,http://pull-skycorp.speedws.com/live/a3241d4c9ff602305fcaeff1f263614e.flv
@@ -1688,6 +1703,11 @@ TVBS精彩台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp
 高点综合,http://pull-skycorp.speedws.com/live/hktv-fsjhfdghgddg108gz.flv
 龙华电影,http://hls-pull-wicketpw.speedws.com/live/IpPvbrMRv3mmh9SqiPKggS5PTD0kDpl7ak7v0IYr5UdKor379J.flv
 龙祥时代,http://pull-skycorp.speedws.com/live/hktv-fsjhfdghgddg108ab56k99.flv
+ASTRO AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+ASTRO AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+ASTRO QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+ASTRO iQIYI,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+ASTRO 欢喜台,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 ANIMAX,http://pull-skycorp.speedws.com:80/live/5e3a0107ad14957865ff663f42f2abae.flv
 CARTOONITO,http://pull-skycorp.speedws.com/live/8e8a118872eca0ad8ba6f4cc046ed2f6.flv
 CATCHPLAY,http://pull-skycorp.speedws.com/live/726b3674f0c042468ffbdc7b4dd475f8.flv
