@@ -170,6 +170,7 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港澳台|备①,#genre#
+无线新闻,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
@@ -238,6 +239,7 @@ RTHK-32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
+NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,https://yang-1989.eu.org/live/now-332
 NOW财经台,https://yang-1989.eu.org/live/now-333
@@ -318,6 +320,87 @@ Fairchild Television West,http://vocotv.pro:80/robins/robins/3885
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=90352
+
+CDN香港,#genre#
+无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+无线新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+翡翠台,http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+华丽翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+华丽翡翠台,http://cdn9.veryfast.filegear-sg.me/live/jade/stream.m3u8
+华丽翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+明珠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+TVB PLUS,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB娱乐新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+TVB星河,http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
+TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+凤凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰中文,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+凤凰资讯,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+凤凰香港,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+HOY 77,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+HOY 77,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+HOY 78,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
+HOY剧集台,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
+ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+ViuTV,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+ViuTV6,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+RTHK31,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+RTHK32,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+澳门体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+澳门综艺,http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
+澳门莲花,http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
+CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+海峡卫视,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
+重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+天映频道,http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
+天映频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+天映经典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
+天映经典,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+八度空间,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 api香港,#genre#
 无线新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
@@ -1349,52 +1432,6 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-
-咪视界,#genre#
-赛事咪咕播4k,https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569
-赛事至臻视界,https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5
-赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=2056ac812056ac812056ac812056ac81
-赛事睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=2056ac822056ac822056ac822056ac82
-赛事睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=2056ac7e2056ac7e2056ac7e2056ac7e
-赛事睛彩广场,https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c
-军事国防央七,https://msj.188766.xyz/play?id=3000000010000011518&token=8b71f9a18b71f9a18b71f9a18b71f9a1
-军事国防央七,https://msj.188766.xyz/play?id=3000000020000011522&token=2056ac7b2056ac7b2056ac7b2056ac7b
-赛事咪咕播01,https://msj.188766.xyz/play?id=3000000001000005308&token=eaca6a59eaca6a59eaca6a59eaca6a59
-赛事咪咕播02,https://msj.188766.xyz/play?id=3000000001000005969&token=eaca819aeaca819aeaca819aeaca819a
-赛事咪咕播03,https://msj.188766.xyz/play?id=3000000001000007218&token=eacb4f75eacb4f75eacb4f75eacb4f75
-赛事咪咕播04,https://msj.188766.xyz/play?id=3000000001000008001&token=eacbbc2ceacbbc2ceacbbc2ceacbbc2c
-赛事咪咕播05,https://msj.188766.xyz/play?id=3000000001000008176&token=eacbc0cbeacbc0cbeacbc0cbeacbc0cb
-赛事咪咕播06,https://msj.188766.xyz/play?id=3000000001000008379&token=eacbc850eacbc850eacbc850eacbc850
-赛事咪咕播07,https://msj.188766.xyz/play?id=3000000001000010129&token=ead634bcead634bcead634bcead634bc
-赛事咪咕播08,https://msj.188766.xyz/play?id=3000000001000010948&token=ead65301ead65301ead65301ead65301
-赛事咪咕播09,https://msj.188766.xyz/play?id=3000000001000028638&token=eae80218eae80218eae80218eae80218
-赛事咪咕播10,https://msj.188766.xyz/play?id=3000000001000031494&token=eaf2e434eaf2e434eaf2e434eaf2e434
-赛事咪咕播11,https://msj.188766.xyz/play?id=3000000010000000097&token=8b635bf38b635bf38b635bf38b635bf3
-赛事咪咕播12,https://msj.188766.xyz/play?id=3000000010000002019&token=8b6443bb8b6443bb8b6443bb8b6443bb
-赛事咪咕播13,https://msj.188766.xyz/play?id=3000000010000002809&token=8b6461a48b6461a48b6461a48b6461a4
-赛事咪咕播14,https://msj.188766.xyz/play?id=3000000010000003915&token=8b64d9df8b64d9df8b64d9df8b64d9df
-赛事咪咕播15,https://msj.188766.xyz/play?id=3000000010000004193&token=8b65312c8b65312c8b65312c8b65312c
-赛事咪咕播16,https://msj.188766.xyz/play?id=3000000010000005837&token=8b65bf1c8b65bf1c8b65bf1c8b65bf1c
-赛事咪咕播17,https://msj.188766.xyz/play?id=3000000010000006077&token=8b6615ef8b6615ef8b6615ef8b6615ef
-赛事咪咕播18,https://msj.188766.xyz/play?id=3000000010000006658&token=8b662c388b662c388b662c388b662c38
-赛事咪咕播19,https://msj.188766.xyz/play?id=3000000010000009788&token=8b678d738b678d738b678d738b678d73
-赛事咪咕播20,https://msj.188766.xyz/play?id=3000000010000010833&token=8b7190be8b7190be8b7190be8b7190be
-赛事咪咕播21,https://msj.188766.xyz/play?id=3000000010000011297&token=8b71ef558b71ef558b71ef558b71ef55
-赛事咪咕播22,https://msj.188766.xyz/play?id=3000000010000012558&token=8b726e7c8b726e7c8b726e7c8b726e7c
-赛事咪咕播23,https://msj.188766.xyz/play?id=3000000010000012616&token=8b7271bf8b7271bf8b7271bf8b7271bf
-赛事咪咕播24,https://msj.188766.xyz/play?id=3000000010000015470&token=8b73c80e8b73c80e8b73c80e8b73c80e
-赛事咪咕播25,https://msj.188766.xyz/play?id=3000000010000015560&token=8b73cbb08b73cbb08b73cbb08b73cbb0
-赛事咪咕播26,https://msj.188766.xyz/play?id=3000000010000017678&token=8b74b8568b74b8568b74b8568b74b856
-赛事咪咕播27,https://msj.188766.xyz/play?id=3000000010000019839&token=8b75a81b8b75a81b8b75a81b8b75a81b
-赛事咪咕播28,https://msj.188766.xyz/play?id=3000000010000021904&token=8b8020038b8020038b8020038b802003
-赛事咪咕播29,https://msj.188766.xyz/play?id=3000000010000023434&token=8b80f6598b80f6598b80f6598b80f659
-赛事咪咕播30,https://msj.188766.xyz/play?id=3000000010000025380&token=8b81dbed8b81dbed8b81dbed8b81dbed
-赛事咪咕播31,https://msj.188766.xyz/play?id=3000000010000027691&token=8b82d00e8b82d00e8b82d00e8b82d00e
-赛事咪咕播32,https://msj.188766.xyz/play?id=3000000010000031669&token=8b8e2d008b8e2d008b8e2d008b8e2d00
-赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=2056ac622056ac622056ac622056ac62
-赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=2056ac632056ac632056ac632056ac63
-赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=2056ac792056ac792056ac792056ac79
-赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=2056ac7a2056ac7a2056ac7a2056ac7a
 
 PULL FLV,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
