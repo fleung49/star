@@ -183,7 +183,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://156.239.254.7:5555/smt.php?id=jade_twn
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
-翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://14.21.90.68:9901/tsfile/live/1007_1.m3u8?key=txiptv
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,http://156.239.254.7:5555/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
@@ -217,51 +217,49 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线赛马18台,http://bxtv.3a.ink/api.php?id=18
 凤凰中文,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/gwS5kbEwNmWObygXxkddls4gDYr0rZAqkFgLZRwPewJMVnfHy8.flv
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://156.239.254.7:5555/smt.php?id=phoenixtv_hd
 凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=114695
-凤凰资讯,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=156407
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://156.239.254.7:5555/smt.php?id=phoenixinfo_hd
 凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+凤凰香港,https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰香港,http://156.239.254.7:5555/smt.php?id=hkphoenix_twn
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
-凤凰美洲台,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=156408
+凤凰美洲台,https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
-HOY 77,http://cdn.163189.xyz/163189/hoy
+HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
 RTHK-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK-31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
 RTHK-32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK-32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
-NOW新闻台,https://yang-1989.eu.org/live/now-332
-NOW财经台,https://yang-1989.eu.org/live/now-333
 Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 Now Spors,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 Now Spors Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
-Now Sports 精選,https://yang-1989.eu.org/live/now-630
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-PopC电影,http://rihou.cc:555/tv/[FY]pₒₚc电影
 PopC电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 美亚电影,http://bxtv.3a.ink/api.php?id==meiya
 VIUTV,https://cdn.163189.xyz/163189/viu
-VIUTV,https://yang-1989.eu.org/live/ViuTV
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/smt.php?id=viu1_twn
 VIUTV,http://156.239.254.7:5555/smt.php?id=viu1_twn
-VIUTV6,https://yang-1989.eu.org/live/ViuTVsix
 VIUTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
 VIUTV6,http://156.239.254.7:5555/smt.php?id=viusix_twn
+VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com/smt.php?id=rhk31_twn
 RTHK31,http://156.239.254.7:5555/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
@@ -298,6 +296,7 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://156.239.254.7:5555/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 八度空间,http://156.239.254.7:5555/smt.php?id=TV8
+中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
@@ -308,11 +307,15 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
+TVBS,https://k44991.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS,http://hls-pull-wicketpw.speedws.com:80/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS精彩台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
 东森新闻,http://hls-pull-wicketpw.speedws.com/live/IfhEdN30gjBbSDBtzjSSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+海峡卫视,https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+北美新闻台,https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
+中国电影频道,https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 Fairchild 2,http://vocotv.pro:80/robins/robins/3888
 Fairchild Television,http://vocotv.pro:80/robins/robins/3887
 Fairchild Television Mandarin,http://vocotv.pro:80/robins/robins/3886
