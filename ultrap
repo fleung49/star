@@ -1,119 +1,1696 @@
-HK,#genre#
-翡翠台,http://dm.lion-ott.com/live/raj25692/t4K24112/500954.ts
-无线新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500949.ts
-TVB星河,http://dm.lion-ott.com/live/raj25692/t4K24112/500957.ts
-TVBJ1,http://dm.lion-ott.com/live/raj25692/t4K24112/500945.ts
-TVB1,http://dm.lion-ott.com/live/raj25692/t4K24112/500946.ts
-TVB1,http://dm.lion-ott.com/live/raj25692/t4K24112/500951.ts
-TVBS ASIA,http://dm.lion-ott.com/live/raj25692/t4K24112/500947.ts
-TVB DRAMA,http://dm.lion-ott.com/live/raj25692/t4K24112/500948.ts
-TVB娱乐新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500950.ts
-TVB娱乐新闻,http://dm.lion-ott.com/live/raj25692/t4K24112/500953.ts
-TVB千禧经典台,http://dm.lion-ott.com/live/raj25692/t4K24112/500952.ts
-凤凰资讯,http://dm.lion-ott.com/live/raj25692/t4K24112/500960.ts
-凤凰香港,http://dm.lion-ott.com/live/raj25692/t4K24112/500958.ts
-FAIRCHILD EAST,http://dm.lion-ott.com/live/raj25692/t4K24112/500942.ts
-FAIRCHILD WEST,http://dm.lion-ott.com/live/raj25692/t4K24112/500943.ts
-FAIRCHILD 2,http://dm.lion-ott.com/live/raj25692/t4K24112/500944.ts
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.iill.top/epg"?proxy=true
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png"?proxy=true group-title="综合其他",民视第一台
+http://210.61.15.55:50007/4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png"?proxy=true group-title="综合其他",民视台湾台
+http://210.61.15.55:50007/4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png"?proxy=true group-title="综合其他",民视HD
+http://210.61.15.55:50007/4gtv-4gtv002/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="大爱电视台" tvg-name="大爱电视台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png"?proxy=true group-title="综合其他",大爱电视
+http://210.61.15.55:50007/4gtv-live007/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png"?proxy=true group-title="综合其他",中视
+http://210.61.15.55:50007/4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png"?proxy=true group-title="电影戏剧",中视经典台
+http://210.61.15.55:50007/4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png"?proxy=true group-title="综合其他",华视
+http://210.61.15.55:50007/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png"?proxy=true group-title="综合其他",三立综合台
+http://210.61.15.55:50007/4gtv-live207/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png"?proxy=true group-title="综合其他",客家电视
+http://210.61.15.55:50007/4gtv-4gtv043/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png"?proxy=true group-title="音乐综艺",八大综艺
+http://210.61.15.55:50007/4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png"?proxy=true group-title="综合其他",中视菁采台
+http://210.61.15.55:50007/4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png"?proxy=true group-title="音乐综艺",TVBS精采台
+http://210.61.15.55:50007/4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png"?proxy=true group-title="音乐综艺",ELTA娱乐
+http://210.61.15.55:50007/4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png"?proxy=true group-title="综合其他",靖天综合
+http://210.61.15.55:50007/4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png"?proxy=true group-title="综合其他",靖天日本
+http://210.61.15.55:50007/4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png"?proxy=true group-title="综合其他",新唐人亚太台
+http://210.61.15.55:50007/4gtv-live050/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ARIRANG阿里郎频道" tvg-name="ARIRANG阿里郎频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png"?proxy=true group-title="综合其他",Arirang TV
+http://210.61.15.55:50007/4gtv-4gtv079/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="GLOBALTREKKER" tvg-logo="http://assets.livednow.com/logo/Global-Trekker.png"?proxy=true group-title="生活旅游",Global Trekker
+http://210.61.15.55:50007/4gtv-live112/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png"?proxy=true group-title="综合其他",原住民族电视台
+http://210.61.15.55:50007/4gtv-live014/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物四台" tvg-name="东森购物四台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物四台
+http://210.61.15.55:50007/4gtv-live049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="LIVEABC互动英语频道" tvg-name="LIVEABC互动英语频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png"?proxy=true group-title="儿童卡通",LiveABC互动英语频道
+http://210.61.15.55:50007/4gtv-live030/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png"?proxy=true group-title="儿童卡通",达文西频道
+http://210.61.15.55:50007/4gtv-4gtv018/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png"?proxy=true group-title="儿童卡通",ELTV生活英语台
+http://210.61.15.55:50007/litv-longturn20/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="NICKJR.儿童频道" tvg-name="NICKJR.儿童频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png"?proxy=true group-title="儿童卡通",Nick Jr.
+http://210.61.15.55:50007/4gtv-live032/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="尼克儿童频道" tvg-name="尼克儿童频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png"?proxy=true group-title="儿童卡通",Nickelodeon
+http://210.61.15.55:50007/4gtv-live105/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="DREAMWORKS频道" tvg-name="DREAMWORKS频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png"?proxy=true group-title="儿童卡通",DreamWorks
+http://210.61.15.55:50007/4gtv-live017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png"?proxy=true group-title="儿童卡通",靖天卡通
+http://210.61.15.55:50007/4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png"?proxy=true group-title="儿童卡通",靖洋卡通
+http://210.61.15.55:50007/4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png"?proxy=true group-title="儿童卡通",MOMO亲子
+http://210.61.15.55:50007/4gtv-live107/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物1台" tvg-name="东森购物1台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物一台
+http://210.61.15.55:50007/4gtv-live047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物1台" tvg-name="东森购物1台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物一台
+http://210.61.15.55:50007/4gtv-4gtv102/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png"?proxy=true group-title="新闻财经",镜电视新闻台
+http://210.61.15.55:50007/4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台"tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png"?proxy=true group-title="新闻财经",东森新闻
+http://210.61.15.55:50007/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png"?proxy=true group-title="新闻财经",华视新闻台
+http://210.61.15.55:50007/4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png"?proxy=true group-title="新闻财经",民视新闻
+http://210.61.15.55:50007/litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="三立新闻INEWS" tvg-name="三立新闻INEWS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png"?proxy=true group-title="新闻财经",三立iNEWS
+http://210.61.15.55:50007/4gtv-live089/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png"?proxy=true group-title="新闻财经",东森财经新闻
+http://210.61.15.55:50007/4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png"?proxy=true group-title="新闻财经",中视新闻台
+http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png""?proxy=true group-title="新闻财经",中天新闻台
+http://210.61.15.55:50007/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png"?proxy=true group-title="新闻财经",BLOOMBERG TV
+http://210.61.15.55:50007/4gtv-live059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png"?proxy=true group-title="新闻财经",寰宇新闻
+http://210.61.15.55:50007/litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png"?proxy=true group-title="新闻财经",寰宇新闻台湾台
+http://210.61.15.55:50007/4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png"?proxy=true group-title="新闻财经",SBN 全球财经台
+http://210.61.15.55:50007/4gtv-live060/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="NHK新闻资讯台" tvg-name="NHK新闻资讯台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png"?proxy=true group-title="新闻财经", NHK 新闻资讯台
+http://210.61.15.55:50007/4gtv-live168/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png"?proxy=true group-title="综合其他",TVBS HD
+http://210.61.15.55:50007/4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物2台" tvg-name="东森购物2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物二台
+http://210.61.15.55:50007/4gtv-live046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物2台" tvg-name="东森购物2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物二台
+http://210.61.15.55:50007/4gtv-4gtv103/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png"?proxy=true group-title="音乐综艺",民视综艺
+http://210.61.15.55:50007/4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png"?proxy=true group-title="音乐综艺",猪哥亮歌厅秀
+http://210.61.15.55:50007/4gtv-4gtv006/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png"?proxy=true group-title="综合其他",靖天育乐
+http://210.61.15.55:50007/4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="KLT靖天国际台HD" tvg-name="KLT靖天国际台HD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png"?proxy=true group-title="综合其他",靖天国际
+http://210.61.15.55:50007/4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="NICETV靖天欢乐台" tvg-name="NICETV靖天欢乐台" tvg-logo="http://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png"?proxy=true group-title="综合其他",靖天欢乐
+http://210.61.15.55:50007/4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png"?proxy=true group-title="综合其他",靖天资讯
+http://210.61.15.55:50007/4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png"?proxy=true group-title="音乐综艺",TVBS欢乐台
+http://210.61.15.55:50007/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png"?proxy=true group-title="综合其他",韩国娱乐台
+http://210.61.15.55:50007/4gtv-4gtv016/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png"?proxy=true group-title="电影戏剧",ROCK Entertainment
+http://210.61.15.55:50007/4gtv-live080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="LIFETIME娱乐频道" tvg-name="LIFETIME娱乐频道" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png"?proxy=true group-title="生活旅游", Lifetime
+http://210.61.15.55:50007/4gtv-live029/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png"?proxy=true group-title="音乐综艺",电影原声台 CMusic
+http://210.61.15.55:50007/4gtv-live031/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png"?proxy=true group-title="音乐综艺",TRACE Urban
+http://210.61.15.55:50007/4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MTVLIVEHD音乐频道" tvg-name="MTVLIVEHD音乐频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png"?proxy=true group-title="音乐综艺",MTV Live
+http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png"?proxy=true group-title="音乐综艺",Mezzo Live HD
+http://210.61.15.55:50007/4gtv-4gtv083/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png"?proxy=true group-title="音乐综艺",CLASSICA古典乐
+http://210.61.15.55:50007/4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物三台" tvg-name="东森购物三台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物三台
+http://210.61.15.55:50007/4gtv-live048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png"?proxy=true group-title="生活旅游",INULTRA
+http://210.61.15.55:50007/4gtv-live096/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png"?proxy=true group-title="体育竞技",TRACE Sport Stars
+http://210.61.15.55:50007/4gtv-4gtv077/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png"?proxy=true group-title="体育竞技",智林体育
+http://210.61.15.55:50007/4gtv-4gtv101/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png"?proxy=true group-title="体育竞技",时尚运动X
+http://210.61.15.55:50007/4gtv-4gtv014/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png"?proxy=true group-title="体育竞技",车迷 TV
+http://210.61.15.55:50007/4gtv-live201/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png"?proxy=true group-title="体育竞技", GINX Esports TV
+http://210.61.15.55:50007/4gtv-4gtv053/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="PETCLUBTVHD" tvg-name="PETCLUBTVHD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png"?proxy=true group-title="生活旅游",Pet Club TV
+http://210.61.15.55:50007/4gtv-4gtv110/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png"?proxy=true group-title="生活旅游",民视旅游
+http://210.61.15.55:50007/litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png"?proxy=true group-title="生活旅游",滚动力 Rollor
+http://210.61.15.55:50007/4gtv-live012/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png"?proxy=true group-title="生活旅游",亚洲旅游
+http://210.61.15.55:50007/4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="FUN探索娱乐台4K" tvg-name="FUN探索娱乐台4K" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png"?proxy=true group-title="生活旅游",fun探索娱乐台
+http://210.61.15.55:50007/4gtv-live011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png"?proxy=true group-title="生活旅游",幸福空间居家台
+http://210.61.15.55:50007/4gtv-live206/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png"?proxy=true group-title="生活旅游",LOVE NATURE
+http://210.61.15.55:50007/4gtv-live208/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="HISTORY历史频道" tvg-name="HISTORY历史频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png"?proxy=true group-title="纪实探索",历史频道
+http://210.61.15.55:50007/4gtv-live026/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="爱尔达生活旅游台" tvg-name="爱尔达生活旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png"?proxy=true group-title="生活旅游",ELTA生活旅游
+http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png"?proxy=true group-title="生活旅游",LUXE TV
+http://210.61.15.55:50007/4gtv-live121/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TV5MONDESTYLEHD生活时尚" tvg-name="TV5MONDESTYLEHD生活时尚" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png"?proxy=true group-title="生活旅游",TV5MONDE Style
+http://210.61.15.55:50007/4gtv-live122/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MAGELLANTV频道(麦哲伦频道)" tvg-name="MAGELLANTV频道(麦哲伦频道)" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png"?proxy=true group-title="生活旅游",MagellanTV频道
+http://210.61.15.55:50007/4gtv-live123/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png"?proxy=true group-title="电影戏剧",公视戏剧
+http://210.61.15.55:50007/4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png"?proxy=true group-title="电影戏剧",民视影剧
+http://210.61.15.55:50007/litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png"?proxy=true group-title="电影戏剧",HITS频道
+http://210.61.15.55:50007/4gtv-live620/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png"?proxy=true group-title="音乐综艺",八大精彩
+http://210.61.15.55:50007/4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="霹雳布袋戏" tvg-name="霹雳布袋戏" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png"?proxy=true group-title="电影戏剧",霹雳布袋戏
+http://210.61.15.55:50007/4gtv-live145/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png"?proxy=true group-title="电影戏剧",靖天戏剧
+http://210.61.15.55:50007/4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png"?proxy=true group-title="电影戏剧",靖洋戏剧
+http://210.61.15.55:50007/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CI罪案侦查频道" tvg-name="CI罪案侦查频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png"?proxy=true group-title="纪实探索",CI 罪案侦查频道
+http://210.61.15.55:50007/4gtv-live027/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CNEX纪实频道" tvg-name="CNEX纪实频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png"?proxy=true group-title="纪实探索",视纳华仁纪实频道
+http://210.61.15.55:50007/4gtv-4gtv013/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png"?proxy=true group-title="纪实探索",影迷数位纪实台
+http://210.61.15.55:50007/litv-ftv15/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png"?proxy=true group-title="电影戏剧",金光布袋戏
+http://210.61.15.55:50007/4gtv-live144/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"?proxy=true group-title="电影戏剧",ROCK Action
+http://210.61.15.55:50007/4gtv-live138/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png"?proxy=true group-title="电影戏剧",采昌影剧
+http://210.61.15.55:50007/4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png"?proxy=true group-title="电影戏剧",靖天映画
+http://210.61.15.55:50007/4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png"?proxy=true group-title="电影戏剧",靖天电影
+http://210.61.15.55:50007/4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png"?proxy=true group-title="电影戏剧",影迷数位电影台
+http://210.61.15.55:50007/4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png"?proxy=true group-title="电影戏剧",amc电影台
+http://210.61.15.55:50007/4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png"?proxy=true group-title="电影戏剧",Cinema World
+http://210.61.15.55:50007/4gtv-live069/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MYCINEMAEUROPEHD我的欧洲电影" tvg-name="MYCINEMAEUROPEHD我的欧洲电影" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png"?proxy=true group-title="电影戏剧",欧洲光影
+http://210.61.15.55:50007/litv-ftv10/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png"?proxy=true group-title="综合其他",好消息
+http://210.61.15.55:50007/litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png"?proxy=true group-title="综合其他",好消息2台
+http://210.61.15.55:50007/litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png"?proxy=true group-title="综合其他",大爱二台
+http://210.61.15.55:50007/4gtv-live106/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png"?proxy=true group-title="综合其他",人间卫视
+http://210.61.15.55:50007/4gtv-live008/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="FRANCE24英文台" tvg-name="FRANCE24英文台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png"?proxy=true group-title="新闻财经",FRANCE24 英文台
+http://210.61.15.55:50007/4gtv-live146/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png"?proxy=true group-title="新闻财经",半岛国际新闻台
+http://210.61.15.55:50007/4gtv-live157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png"?proxy=true group-title="新闻财经",VOA 美国之音
+http://210.61.15.55:50007/litv-ftv03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CNBCASIA财经台" tvg-name="CNBCASIA财经台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png"?proxy=true group-title="新闻财经",CNBC Asia 财经台
+http://210.61.15.55:50007/4gtv-live130/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="DW" tvg-name="DW德国之声" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png"?proxy=true group-title="新闻财经",DW德国之声
+http://210.61.15.55:50007/4gtv-live071/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png"?proxy=true group-title="综合其他",国会频道1台
+http://210.61.15.55:50007/4gtv-4gtv084/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png"?proxy=true group-title="综合其他",国会频道2台
+http://210.61.15.55:50007/4gtv-4gtv085/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png"?proxy=true group-title="音乐综艺",TVBS综艺台
+http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png"?proxy=true group-title="电影戏剧",TVBS台剧台
+http://210.61.15.55:50007/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png"?proxy=true group-title="电影戏剧",经典电影台
+http://210.61.15.55:50007/4gtv-live021/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png"?proxy=true group-title="儿童卡通",经典卡通台
+http://210.61.15.55:50007/4gtv-live022/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png"?proxy=true group-title="儿童卡通",精选动漫台
+http://210.61.15.55:50007/4gtv-live024/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="戏剧免费看 1台" tvg-name="戏剧免费看 1台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png"?proxy=true group-title="电影戏剧",戏剧免费看1台
+http://210.61.15.55:50007/4gtv-live010/index.m3u8?proxy=true
 
-SPORTS,#genre#
-NOW SPORTS 1,http://dm.lion-ott.com/live/raj25692/t4K24112/802488.ts
-NOW SPORTS 2,http://dm.lion-ott.com/live/raj25692/t4K24112/802487.ts
-NOW SPORTS 3,http://dm.lion-ott.com/live/raj25692/t4K24112/802486.ts
-NOW SPORTS 4,http://dm.lion-ott.com/live/raj25692/t4K24112/802485.ts
-NOW SPORTS 5,http://dm.lion-ott.com/live/raj25692/t4K24112/802484.ts
-NOW SPORTS 6,http://dm.lion-ott.com/live/raj25692/t4K24112/802483.ts
-NOW SPORTS 7,http://dm.lion-ott.com/live/raj25692/t4K24112/802482.ts
-ASTRO SPORTS 1,http://dm.lion-ott.com/live/raj25692/t4K24112/828098.ts
-ASTRO SPORTS 2,http://dm.lion-ott.com/live/raj25692/t4K24112/828097.ts
-ASTRO SPORTS 3,http://dm.lion-ott.com/live/raj25692/t4K24112/828096.ts
-ASTRO SPORTS 4,http://dm.lion-ott.com/live/raj25692/t4K24112/828095.ts
-ASTRO SPORTS 5,http://dm.lion-ott.com/live/raj25692/t4K24112/828094.ts
-BEIN SPORTS FR 1,http://dm.lion-ott.com/live/raj25692/t4K24112/832066.ts
-BEIN SPORTS FR 2,http://dm.lion-ott.com/live/raj25692/t4K24112/832062.ts
-BEIN SPORTS FR 3,http://dm.lion-ott.com/live/raj25692/t4K24112/832058.ts
-BEIN SPORTS FR 4,http://dm.lion-ott.com/live/raj25692/t4K24112/832054.ts
-BEIN SPORTS FR 5,http://dm.lion-ott.com/live/raj25692/t4K24112/832052.ts
-BEIN SPORTS FR 6,http://dm.lion-ott.com/live/raj25692/t4K24112/832051.ts
-BEIN SPORTS FR 7,http://dm.lion-ott.com/live/raj25692/t4K24112/832049.ts
-BEIN SPORTS FR 8,http://dm.lion-ott.com/live/raj25692/t4K24112/832046.ts
-BEIN SPORTS FR 9,http://dm.lion-ott.com/live/raj25692/t4K24112/832044.ts
-BEIN SPORTS FR 1O,http://dm.lion-ott.com/live/raj25692/t4K24112/832042.ts
-BEIN SPORTS EN 1,http://dm.lion-ott.com/live/raj25692/t4K24112/828083.ts
-BEIN SPORTS EN 2,http://dm.lion-ott.com/live/raj25692/t4K24112/828071.ts
-BEIN SPORTS EN 3,http://dm.lion-ott.com/live/raj25692/t4K24112/828070.ts
-BEIN SPORTS AR 1,http://dm.lion-ott.com/live/raj25692/t4K24112/1156649.ts
-BEIN SPORTS AR 2,http://dm.lion-ott.com/live/raj25692/t4K24112/1156648.ts
-BEIN SPORTS AR 3,http://dm.lion-ott.com/live/raj25692/t4K24112/1156647.ts
-BEIN SPORTS AR 4,http://dm.lion-ott.com/live/raj25692/t4K24112/1156646.ts
-BEIN SPORTS AR 5,http://dm.lion-ott.com/live/raj25692/t4K24112/1156645.ts
-BEIN SPORTS AR 6,http://dm.lion-ott.com/live/raj25692/t4K24112/1156644.ts
-BEIN SPORTS AR 7,http://dm.lion-ott.com/live/raj25692/t4K24112/1156643.ts
-BEIN SPORTS AR 8,http://dm.lion-ott.com/live/raj25692/t4K24112/1156642.ts
-BEIN SPORTS AR 9,http://dm.lion-ott.com/live/raj25692/t4K24112/1156641.ts
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png"?proxy=true group-title="综合其他",民视第一台
+http://210.61.15.55:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png"?proxy=true group-title="综合其他",民视台湾台
+http://210.61.15.55:50007/li-4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png"?proxy=true group-title="综合其他",民视HD
+http://210.61.15.55:50007/4gtv-4gtv155/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png"?proxy=true group-title="综合其他",中视
+http://210.61.15.55:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png"?proxy=true group-title="电影戏剧",中视经典台
+http://210.61.15.55:50007/li-4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png"?proxy=true group-title="综合其他",华视
+http://210.61.15.55:50007/li-4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png"?proxy=true group-title="新闻财经",华视新闻台
+http://210.61.15.55:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png"?proxy=true group-title="电影戏剧",龙华洋片
+http://210.61.15.55:50007/li-litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png"?proxy=true group-title="儿童卡通",龙华卡通
+http://210.61.15.55:50007/li-litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png"?proxy=true group-title="电影戏剧",龙华电影
+http://210.61.15.55:50007/li-litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png"?proxy=true group-title="电影戏剧",龙华日韩
+http://210.61.15.55:50007/li-litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png"?proxy=true group-title="电影戏剧",龙华偶像
+http://210.61.15.55:50007/li-litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png"?proxy=true group-title="电影戏剧",龙华戏剧
+http://210.61.15.55:50007/li-litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png"?proxy=true group-title="电影戏剧",龙华经典
+http://210.61.15.55:50007/li-litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png"?proxy=true group-title="体育竞技",博斯魅力
+http://210.61.15.55:50007/litv-longturn04/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png"?proxy=true group-title="体育竞技",博斯高球I
+http://210.61.15.55:50007/litv-longturn05/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png"?proxy=true group-title="体育竞技",博斯高球II
+http://210.61.15.55:50007/litv-longturn06/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png"?proxy=true group-title="体育竞技",博斯运动I
+http://210.61.15.55:50007/litv-longturn07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯运动二台HD" tvg-name="博斯运动二台HD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png"?proxy=true group-title="体育竞技",博斯运动II
+http://210.61.15.55:50007/litv-longturn08/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png"?proxy=true group-title="体育竞技",博斯网球
+http://210.61.15.55:50007/litv-longturn09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯无限台HD" tvg-name="博斯无限台HD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png"?proxy=true group-title="体育竞技",博斯无限I
+http://210.61.15.55:50007/litv-longturn10/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png"?proxy=true group-title="体育竞技",博斯无限II
+http://210.61.15.55:50007/litv-longturn13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png""?proxy=true group-title="新闻财经",非凡新闻
+http://210.61.15.55:50007/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="非凡商业台" tvg-name="非凡商业台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png""?proxy=true group-title="新闻财经",非凡商业
+http://210.61.15.55:50007/4gtv-4gtv048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png"?proxy=true group-title="新闻财经",台视财经台
+http://210.61.15.55:50007/4gtv-4gtv056/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png"?proxy=true group-title="综合其他",中天亚洲台
+http://210.61.15.55:50007/4gtv-4gtv109/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png"?proxy=true group-title="综合其他",客家电视
+http://210.61.15.55:50007/li-4gtv-4gtv043/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="http://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png"?proxy=true group-title="音乐综艺",八大综艺
+http://210.61.15.55:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png"?proxy=true group-title="综合其他",中视菁采台
+http://210.61.15.55:50007/li-4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png"?proxy=true group-title="音乐综艺",TVBS精采台
+http://210.61.15.55:50007/li-4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png"?proxy=true group-title="音乐综艺",ELTA娱乐
+http://210.61.15.55:50007/li-4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png"?proxy=true group-title="综合其他",靖天综合
+http://210.61.15.55:50007/li-4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png"?proxy=true group-title="综合其他",靖天日本
+http://210.61.15.55:50007/li-4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ARIRANG阿里郎频道" tvg-name="ARIRANG阿里郎频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png"?proxy=true group-title="综合其他",Arirang TV
+http://210.61.15.55:50007/li-4gtv-4gtv079/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png"?proxy=true group-title="儿童卡通",达文西频道
+http://210.61.15.55:50007/li-4gtv-4gtv018/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="PETCLUBTVHD" tvg-name="PETCLUBTVHD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png"?proxy=true group-title="生活旅游",Pet Club TV
+http://210.61.15.55:50007/li-4gtv-4gtv110/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png"?proxy=true group-title="儿童卡通",ELTV生活英语台
+http://210.61.15.55:50007/li-litv-longturn20/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png"?proxy=true group-title="儿童卡通",靖天卡通
+http://210.61.15.55:50007/li-4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png"?proxy=true group-title="儿童卡通",靖洋卡通
+http://210.61.15.55:50007/li-4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台"tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png"?proxy=true group-title="新闻财经",东森新闻
+http://210.61.15.55:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png"?proxy=true group-title="新闻财经",民视新闻
+http://210.61.15.55:50007/li-litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png"?proxy=true group-title="新闻财经",TVBS新闻台
+http://210.61.15.55:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png"?proxy=true group-title="新闻财经",东森财经新闻
+http://210.61.15.55:50007/li-4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png"?proxy=true group-title="新闻财经",中视新闻台
+http://210.61.15.55:50007/li-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png""?proxy=true group-title="新闻财经",中天新闻台
+http://210.61.15.55:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png"?proxy=true group-title="新闻财经",寰宇新闻
+http://210.61.15.55:50007/li-litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png"?proxy=true group-title="新闻财经",寰宇新闻台湾台
+http://210.61.15.55:50007/li-4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png"?proxy=true group-title="新闻财经",寰宇财经
+http://210.61.15.55:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png"?proxy=true group-title="综合其他",TVBS HD
+http://210.61.15.55:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png"?proxy=true group-title="音乐综艺",民视综艺
+http://210.61.15.55:50007/li-4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png"?proxy=true group-title="音乐综艺",猪哥亮歌厅秀
+http://210.61.15.55:50007/li-4gtv-4gtv006/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png"?proxy=true group-title="综合其他",靖天育乐
+http://210.61.15.55:50007/li-4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="KLT靖天国际台HD" tvg-name="KLT靖天国际台HD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png"?proxy=true group-title="综合其他",靖天国际
+http://210.61.15.55:50007/li-4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="NICETV靖天欢乐台" tvg-name="NICETV靖天欢乐台" tvg-logo="http://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png"?proxy=true group-title="综合其他",靖天欢乐
+http://210.61.15.55:50007/li-4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png"?proxy=true group-title="综合其他",靖天资讯
+http://210.61.15.55:50007/li-4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png"?proxy=true group-title="音乐综艺",TVBS欢乐台
+http://210.61.15.55:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png"?proxy=true group-title="综合其他",韩国娱乐台
+http://210.61.15.55:50007/li-4gtv-4gtv016/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png"?proxy=true group-title="音乐综艺",TRACE Urban
+http://210.61.15.55:50007/li-4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png"?proxy=true group-title="音乐综艺",Mezzo Live HD
+http://210.61.15.55:50007/li-4gtv-4gtv083/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png"?proxy=true group-title="音乐综艺",CLASSICA古典乐
+http://210.61.15.55:50007/li-4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png"?proxy=true group-title="体育竞技",TRACE Sport Stars
+http://210.61.15.55:50007/li-4gtv-4gtv077/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png"?proxy=true group-title="体育竞技",智林体育
+http://210.61.15.55:50007/li-4gtv-4gtv101/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png"?proxy=true group-title="体育竞技",时尚运动X
+http://210.61.15.55:50007/li-4gtv-4gtv014/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png"?proxy=true group-title="体育竞技", GINX Esports TV
+http://210.61.15.55:50007/li-4gtv-4gtv053/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png"?proxy=true group-title="生活旅游",民视旅游
+http://210.61.15.55:50007/li-litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png"?proxy=true group-title="生活旅游",亚洲旅游
+http://210.61.15.55:50007/li-4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png"?proxy=true group-title="电影戏剧",公视戏剧
+http://210.61.15.55:50007/li-4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png"?proxy=true group-title="电影戏剧",民视影剧
+http://210.61.15.55:50007/li-litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png"?proxy=true group-title="音乐综艺",八大精彩
+http://210.61.15.55:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png"?proxy=true group-title="电影戏剧",靖天戏剧
+http://210.61.15.55:50007/li-4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png"?proxy=true group-title="电影戏剧",靖洋戏剧
+http://210.61.15.55:50007/li-4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CNEX纪实频道" tvg-name="CNEX纪实频道" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png"?proxy=true group-title="纪实探索",视纳华仁纪实频道
+http://210.61.15.55:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png"?proxy=true group-title="纪实探索",影迷数位纪实台
+http://210.61.15.55:50007/li-litv-ftv15/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png"?proxy=true group-title="电影戏剧",采昌影剧
+http://210.61.15.55:50007/li-4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png"?proxy=true group-title="电影戏剧",靖天映画
+http://210.61.15.55:50007/li-4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png"?proxy=true group-title="电影戏剧",靖天电影
+http://210.61.15.55:50007/li-4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png"?proxy=true group-title="电影戏剧",影迷数位电影台
+http://210.61.15.55:50007/li-4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png"?proxy=true group-title="电影戏剧",amc电影台
+http://210.61.15.55:50007/li-4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png"?proxy=true group-title="综合其他",好消息
+http://210.61.15.55:50007/li-litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png"?proxy=true group-title="综合其他",好消息2台
+http://210.61.15.55:50007/li-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png"?proxy=true group-title="新闻财经",VOA 美国之音
+http://210.61.15.55:50007/li-litv-ftv03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道1台" tvg-name="国会频道1台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png"?proxy=true group-title="综合其他",国会频道1台
+http://210.61.15.55:50007/li-4gtv-4gtv084/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道2台" tvg-name="国会频道2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png"?proxy=true group-title="综合其他",国会频道2台
+http://210.61.15.55:50007/li-4gtv-4gtv085/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png"?proxy=true group-title="电影戏剧",台湾戏剧台
+http://210.61.15.55:50007/li-litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SMART知识台" tvg-name="SMART知识台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png"?proxy=true group-title="生活旅游",Smart知识台
+http://210.61.15.55:50007/li-litv-longturn19/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png"?proxy=true group-title="新闻财经",台视新闻台
+http://210.61.15.55:50007/li-4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png"?proxy=true group-title="综合其他",台视HD
+http://210.61.15.55:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png"?proxy=true group-title="新闻财经",第1商业台
+http://210.61.15.55:50007/li-4gtv-4gtv104/index.m3u8?proxy=true
 
-LOS ANGELES,#genre#
-KABC,http://dm.lion-ott.com/live/raj25692/t4K24112/548980.ts
-KCBS,http://dm.lion-ott.com/live/raj25692/t4K24112/549636.ts
-KCAL,http://dm.lion-ott.com/live/raj25692/t4K24112/760122.ts
-KTTV,http://dm.lion-ott.com/live/raj25692/t4K24112/549875.ts
-KNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/550382.ts
-KTLA,http://dm.lion-ott.com/live/raj25692/t4K24112/469336.ts
-SPECTRUM NEWS SOCAL,http://dm.lion-ott.com/live/raj25692/t4K24112/720288.ts
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png"?proxy=true group-title="新闻财经",台视新闻台
+http://210.61.15.55:50007/4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png"?proxy=true group-title="综合其他",台视HD
+http://210.61.15.55:50007/4gtv-4gtv066/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png"?proxy=true group-title="综合其他",中视
+http://210.61.15.55:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png"?proxy=true group-title="新闻财经",中视新闻台
+http://210.61.15.55:50007/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png"?proxy=true group-title="综合其他",华视
+http://210.61.15.55:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png"?proxy=true group-title="新闻财经",华视新闻台
+http://210.61.15.55:50007/of-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png""?proxy=true group-title="新闻财经",中天新闻台
+http://210.61.15.55:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png"?proxy=true group-title="新闻财经",寰宇新闻
+http://210.61.15.55:50007/of-litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png"?proxy=true group-title="新闻财经",寰宇新闻台湾台
+http://210.61.15.55:50007/of-4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png"?proxy=true group-title="新闻财经",寰宇财经
+http://210.61.15.55:50007/of-4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png"?proxy=true group-title="生活旅游",亚洲旅游
+http://210.61.15.55:50007/of-4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png"?proxy=true group-title="综合其他",好消息
+http://210.61.15.55:50007/of-litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png"?proxy=true group-title="综合其他",好消息2台
+http://210.61.15.55:50007/of-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道1台" tvg-name="国会频道1台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png"?proxy=true group-title="综合其他",国会频道1台
+http://210.61.15.55:50007/of-4gtv-4gtv084/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国会频道2台" tvg-name="国会频道2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png"?proxy=true group-title="综合其他",国会频道2台
+http://210.61.15.55:50007/of-4gtv-4gtv085/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png"?proxy=true group-title="电影戏剧",台湾戏剧台
+http://210.61.15.55:50007/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SMART知识台" tvg-name="SMART知识台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png"?proxy=true group-title="生活旅游",Smart知识台
+http://210.61.15.55:50007/litv-longturn19/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png"?proxy=true group-title="新闻财经",第1商业台
+http://210.61.15.55:50007/4gtv-4gtv104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="三立新闻INEWS" tvg-name="三立新闻INEWS" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png"?proxy=true group-title="新闻财经",三立iNEWS
+http://210.61.15.55:50007/iNEWS/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png"?proxy=true group-title="儿童卡通",ELTV生活英语台
+http://210.61.15.55:50007/of-litv-longturn20/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png"?proxy=true group-title="电影戏剧",龙华洋片
+http://210.61.15.55:50007/litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png"?proxy=true group-title="儿童卡通",龙华卡通
+http://210.61.15.55:50007/litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png"?proxy=true group-title="电影戏剧",龙华电影
+http://210.61.15.55:50007/litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png"?proxy=true group-title="电影戏剧",龙华日韩
+http://210.61.15.55:50007/litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png"?proxy=true group-title="电影戏剧",龙华偶像
+http://210.61.15.55:50007/litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png"?proxy=true group-title="电影戏剧",龙华戏剧
+http://210.61.15.55:50007/litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png"?proxy=true group-title="电影戏剧",龙华经典
+http://210.61.15.55:50007/litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物1台" tvg-name="东森购物1台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物一台
+http://210.61.15.55:50007/of-4gtv-4gtv102/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森购物2台" tvg-name="东森购物2台" tvg-logo="http://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png"?proxy=true group-title="综合其他",东森购物二台
+http://210.61.15.55:50007/of-4gtv-4gtv103/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="倪珍播新闻" tvg-name="倪珍播新闻" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png"?proxy=true group-title="新闻财经",倪珍播新闻
+http://210.61.15.55:50007/nnews-zh/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="倪珍越南语新闻" tvg-name="倪珍越南语新闻" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png"?proxy=true group-title="新闻财经",倪珍越南语新闻
+http://210.61.15.55:50007/nnews-vn/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="倪珍报气象" tvg-name="倪珍报气象" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png"?proxy=true group-title="新闻财经",倪珍报气象
+http://210.61.15.55:50007/nnews-wf/index.m3u8?proxy=true
 
-NEWS,#genre#
-ABC NEWS LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/551995.ts
-ALJAZEERA,http://dm.lion-ott.com/live/raj25692/t4K24112/704492.ts
-BBC NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/627023.ts
-BLOOMBERG,http://dm.lion-ott.com/live/raj25692/t4K24112/469299.ts
-CBS NEWS LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/551996.ts
-CCTV 4,http://dm.lion-ott.com/live/raj25692/t4K24112/552941.ts
-CGTN,http://dm.lion-ott.com/live/raj25692/t4K24112/311707.ts
-CGTN DOCUMENTARY,http://dm.lion-ott.com/live/raj25692/t4K24112/552941.ts
-CNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/551993.ts
-CNN,http://dm.lion-ott.com/live/raj25692/t4K24112/552001.ts
-CNN INTL,http://dm.lion-ott.com/live/raj25692/t4K24112/551998.ts
-DW,http://dm.lion-ott.com/live/raj25692/t4K24112/469315.ts
-EURONEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577209.ts
-FOX NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/551988.ts
-FOX BUSINESS,http://dm.lion-ott.com/live/raj25692/t4K24112/551968.ts
-FRANCE 24,http://dm.lion-ott.com/live/raj25692/t4K24112/704491.ts
-MSNBC,http://dm.lion-ott.com/live/raj25692/t4K24112/551986.ts
-RT NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577215.ts
-RTE NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/578145.ts
-SKY NEWS,http://dm.lion-ott.com/live/raj25692/t4K24112/577515.ts
-SKY RACING 1,http://dm.lion-ott.com/live/raj25692/t4K24112/879881.ts
-SKY RACING 2,http://dm.lion-ott.com/live/raj25692/t4K24112/879880.ts
-RACING.COM,http://dm.lion-ott.com/live/raj25692/t4K24112/259849.ts
-THE WEATHER CHANNEL,http://dm.lion-ott.com/live/raj25692/t4K24112/469343.ts
-TRT WORLD,http://dm.lion-ott.com/live/raj25692/t4K24112/577212.ts
-TVG,http://dm.lion-ott.com/live/raj25692/t4K24112/487634.ts
-TVG 2,http://dm.lion-ott.com/live/raj25692/t4K24112/487633.ts
+#EXTINF:-1 tvg-id="公视金奖台" tvg-name="公视金奖台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png"?proxy=true group-title="欧飞点播",公视金奖台
+http://210.61.15.55:50007/ofiii13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="空中英语教室HD频道" tvg-name="空中英语教室HD频道" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png"?proxy=true group-title="欧飞点播",空中英语教室HD频道
+http://210.61.15.55:50007/ofiii16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="哆啦Ａ梦台" tvg-name="哆啦Ａ梦台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png"group-title="欧飞点播",哆啦Ａ梦台?proxy=true
+http://210.61.15.55:50007/ofiii22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="新哆啦A梦(中文版)" tvg-name="新哆啦A梦(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png"?proxy=true group-title="欧飞点播",新哆啦A梦(中文版)
+http://210.61.15.55:50007/ofiii23/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png"?proxy=true group-title="欧飞点播",TVBS食尚玩家
+http://210.61.15.55:50007/ofiii31/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东森娱乐台" tvg-name="东森娱乐台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png"?proxy=true group-title="欧飞点播",东森娱乐台
+http://210.61.15.55:50007/ofiii32/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中天亚洲精采台" tvg-name="中天亚洲精采台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png"?proxy=true group-title="欧飞点播",中天亚洲精采台
+http://210.61.15.55:50007/ofiii36/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="经典剧场" tvg-name="经典剧场" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png"?proxy=true group-title="欧飞点播",经典剧场
+http://210.61.15.55:50007/ofiii38/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Yes娱乐" tvg-name="Yes娱乐" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png"?proxy=true group-title="欧飞点播",Yes娱乐
+http://210.61.15.55:50007/ofiii47/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Focus风采戏剧台" tvg-name="Focus风采戏剧台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png"?proxy=true group-title="欧飞点播",Focus风采戏剧台
+http://210.61.15.55:50007/ofiii1048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="掏掏新闻" tvg-name="掏掏新闻" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png"?proxy=true group-title="欧飞点播",掏掏新闻
+http://210.61.15.55:50007/ofiii50/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国际大小事" tvg-name="国际大小事" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png"?proxy=true group-title="欧飞点播",国际大小事
+http://210.61.15.55:50007/ofiii55/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="全国大罢免" tvg-name="全国大罢免" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3660_ofiii56_tv_20250311.png"?proxy=true group-title="欧飞点播",全国大罢免
+http://210.61.15.55:50007/ofiii56/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="第1财经" tvg-name="第1财经" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png"?proxy=true group-title="欧飞点播",第1财经
+http://210.61.15.55:50007/ofiii64/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Golden 强片台" tvg-name="Golden 强片台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png"?proxy=true group-title="欧飞点播",Golden 强片台
+http://210.61.15.55:50007/ofiii70/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="周星驰台" tvg-name="周星驰台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png"?proxy=true group-title="欧飞点播",周星驰台
+http://210.61.15.55:50007/ofiii73/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="欧飞电影台" tvg-name="欧飞电影台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png"?proxy=true group-title="欧飞点播",欧飞电影台
+http://210.61.15.55:50007/ofiii74/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="欧飞动作电影台" tvg-name="欧飞动作电影台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png"?proxy=true group-title="欧飞点播",欧飞动作电影台
+http://210.61.15.55:50007/ofiii75/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png"?proxy=true group-title="欧飞点播",Focus探索新知台
+http://210.61.15.55:50007/ofiii82/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="乡民大学问" tvg-name="乡民大学问" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png"?proxy=true group-title="欧飞点播",乡民大学问
+http://210.61.15.55:50007/ofiii83/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="野球名人房" tvg-name="野球名人房" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png"?proxy=true group-title="欧飞点播",野球名人房
+http://210.61.15.55:50007/ofiii84/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="社会NOW什麽" tvg-name="社会NOW什麽" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png"?proxy=true group-title="欧飞点播",社会NOW什麽
+http://210.61.15.55:50007/ofiii85/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="啦啦队独家专访" tvg-name="啦啦队独家专访" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png"?proxy=true group-title="欧飞点播",啦啦队独家专访
+http://210.61.15.55:50007/ofiii88/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="泰可爱旋风" tvg-name="泰可爱旋风" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png"?proxy=true group-title="欧飞点播",泰可爱旋风
+http://210.61.15.55:50007/ofiii89/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="演唱会直击" tvg-name="演唱会直击" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png"?proxy=true group-title="欧飞点播",演唱会直击
+http://210.61.15.55:50007/ofiii91/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="健康问良医" tvg-name="健康问良医" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png"?proxy=true group-title="欧飞点播",健康问良医
+http://210.61.15.55:50007/ofiii92/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ASMR行车纪录" tvg-name="ASMR行车纪录" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png"?proxy=true group-title="欧飞点播",ASMR行车纪录
+http://210.61.15.55:50007/ofiii94/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Freeman @台湾" tvg-name="Freeman @台湾" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png"?proxy=true group-title="欧飞点播",Freeman @台湾
+http://210.61.15.55:50007/ofiii95/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="饕客揪爱吃" tvg-name="饕客揪爱吃" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png"?proxy=true group-title="欧飞点播",饕客揪爱吃
+http://210.61.15.55:50007/ofiii96/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="人气动漫预告" tvg-name="人气动漫预告" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png"?proxy=true group-title="欧飞点播",人气动漫预告
+http://210.61.15.55:50007/ofiii97/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="银发聚乐部" tvg-name="银发聚乐部" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png"?proxy=true group-title="欧飞点播",银发聚乐部
+http://210.61.15.55:50007/ofiii99/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="锦绣安宁" tvg-name="锦绣安宁" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png"?proxy=true group-title="欧飞点播",锦绣安宁
+http://210.61.15.55:50007/ofiii100/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="琅琊榜" tvg-name="琅琊榜" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png"?proxy=true group-title="欧飞点播",琅琊榜
+http://210.61.15.55:50007/ofiii101/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="扶摇" tvg-name="扶摇" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png"?proxy=true group-title="欧飞点播",扶摇
+http://210.61.15.55:50007/ofiii102/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="三国" tvg-name="三国" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png"?proxy=true group-title="欧飞点播",三国
+http://210.61.15.55:50007/ofiii103/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="武媚娘传奇" tvg-name="武媚娘传奇" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png"?proxy=true group-title="欧飞点播",武媚娘传奇
+http://210.61.15.55:50007/ofiii104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="长乐曲" tvg-name="长乐曲" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png"?proxy=true group-title="欧飞点播",长乐曲
+http://210.61.15.55:50007/ofiii105/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="军师联盟" tvg-name="军师联盟" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png"?proxy=true group-title="欧飞点播",军师联盟
+http://210.61.15.55:50007/ofiii106/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="军师联盟2 虎啸龙吟" tvg-name="军师联盟2 虎啸龙吟" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png"?proxy=true group-title="欧飞点播",军师联盟2 虎啸龙吟
+http://210.61.15.55:50007/ofiii107/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="东宫(完整版)" tvg-name="东宫(完整版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png"?proxy=true group-title="欧飞点播",东宫(完整版)
+http://210.61.15.55:50007/ofiii108/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国色芳华" tvg-name="国色芳华" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png"?proxy=true group-title="欧飞点播",国色芳华
+http://210.61.15.55:50007/ofiii109/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="楚乔传" tvg-name="楚乔传" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png"?proxy=true group-title="欧飞点播",楚乔传
+http://210.61.15.55:50007/ofiii110/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="倚天屠龙记 2019" tvg-name="倚天屠龙记 2019" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png"?proxy=true group-title="欧飞点播",倚天屠龙记 2019
+http://210.61.15.55:50007/ofiii111/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="凤囚凰" tvg-name="凤囚凰" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png"?proxy=true group-title="欧飞点播",凤囚凰
+http://210.61.15.55:50007/ofiii112/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="步步惊心" tvg-name="步步惊心" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png"?proxy=true group-title="欧飞点播",步步惊心
+http://210.61.15.55:50007/ofiii113/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png"?proxy=true group-title="欧飞点播",九重紫
+http://210.61.15.55:50007/ofiii114/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png"?proxy=true group-title="欧飞点播",私藏浪漫
+http://210.61.15.55:50007/ofiii115/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="去有风的地方" tvg-name="去有风的地方" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png"?proxy=true group-title="欧飞点播",去有风的地方
+http://210.61.15.55:50007/ofiii116/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="以爱为营" tvg-name="以爱为营" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png"?proxy=true group-title="欧飞点播",以爱为营
+http://210.61.15.55:50007/ofiii117/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="向风而行" tvg-name="向风而行" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png"?proxy=true group-title="欧飞点播",向风而行
+http://210.61.15.55:50007/ofiii118/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png"?proxy=true group-title="欧飞点播",以家人之名
+http://210.61.15.55:50007/ofiii119/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="有你的时光里" tvg-name="有你的时光里" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png"?proxy=true group-title="欧飞点播",有你的时光里
+http://210.61.15.55:50007/ofiii120/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好运家" tvg-name="好运家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3599_ofiii121_tv_20250221.png"?proxy=true group-title="欧飞点播",好运家
+http://210.61.15.55:50007/ofiii121/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="请叫我总监" tvg-name="请叫我总监" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png"?proxy=true group-title="欧飞点播",请叫我总监
+http://210.61.15.55:50007/ofiii122/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="三十而已" tvg-name="三十而已" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png"?proxy=true group-title="欧飞点播",三十而已
+http://210.61.15.55:50007/ofiii123/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png"?proxy=true group-title="欧飞点播",月嫂先生
+http://210.61.15.55:50007/ofiii124/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="猪哥壹级棒" tvg-name="猪哥壹级棒" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png"?proxy=true group-title="欧飞点播",猪哥壹级棒
+http://210.61.15.55:50007/ofiii126/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="医师好辣" tvg-name="医师好辣" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png"?proxy=true group-title="欧飞点播",医师好辣
+http://210.61.15.55:50007/ofiii128/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="WTO姐妹会" tvg-name="WTO姐妹会" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png"?proxy=true group-title="欧飞点播",WTO姐妹会
+http://210.61.15.55:50007/ofiii129/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="综艺玩很大" tvg-name="综艺玩很大" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png"?proxy=true group-title="欧飞点播",综艺玩很大
+http://210.61.15.55:50007/ofiii130/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png"?proxy=true group-title="欧飞点播",全民星攻略
+http://210.61.15.55:50007/ofiii131/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png"?proxy=true group-title="欧飞点播",健康2.0
+http://210.61.15.55:50007/ofiii132/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id=台湾启示录" tvg-name="台湾启示录" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png"?proxy=true group-title="欧飞点播",台湾启示录
+http://210.61.15.55:50007/ofiii133/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="法眼黑与白" tvg-name="法眼黑与白" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png"?proxy=true group-title="欧飞点播",法眼黑与白
+http://210.61.15.55:50007/ofiii134/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png"?proxy=true group-title="欧飞点播",天才冲冲冲
+http://210.61.15.55:50007/ofiii135/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="一步一脚印 发现新台湾" tvg-name="一步一脚印 发现新台湾" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png"?proxy=true group-title="欧飞点播",一步一脚印 发现新台湾
+http://210.61.15.55:50007/ofiii136/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png"?proxy=true group-title="欧飞点播",女人我最大
+http://210.61.15.55:50007/ofiii137/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="看板人物" tvg-name="看板人物" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3602_ofiii138_tv_20250221.png"?proxy=true group-title="欧飞点播",看板人物
+http://210.61.15.55:50007/ofiii138/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="威廉沉欢乐送" tvg-name="威廉沉欢乐送" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png"?proxy=true group-title="欧飞点播",威廉沉欢乐送
+http://210.61.15.55:50007/ofiii139/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id=木曜4超玩 一日系列" tvg-name="木曜4超玩 一日系列" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png"?proxy=true group-title="欧飞点播",木曜4超玩 一日系列
+http://210.61.15.55:50007/ofiii140/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id=一字千金" tvg-name="一字千金" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png"?proxy=true group-title="欧飞点播",一字千金
+http://210.61.15.55:50007/ofiii142/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="11点热吵店" tvg-name="11点热吵店" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png"?proxy=true group-title="欧飞点播",11点热吵店
+http://210.61.15.55:50007/ofiii143/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="麦卡贝网路电视" tvg-name="麦卡贝网路电视" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3750_ofiii144_tv_20250529.png"?proxy=true group-title="欧飞点播",麦卡贝网路电视
+http://210.61.15.55:50007/ofiii144/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="回到20岁" tvg-name="回到20岁" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png"?proxy=true group-title="欧飞点播",回到20岁
+http://210.61.15.55:50007/ofiii145/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png"?proxy=true group-title="欧飞点播",白雪公主非死不可
+http://210.61.15.55:50007/ofiii146/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="好搭档" tvg-name="好搭档" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png"?proxy=true group-title="欧飞点播",好搭档
+http://210.61.15.55:50007/ofiii147/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="头脑共助" tvg-name="头脑共助" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2886_ofiii148_tv_20250225.png"?proxy=true group-title="欧飞点播",头脑共助
+http://210.61.15.55:50007/ofiii148/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="凌晨两点的灰姑娘" tvg-name="凌晨两点的灰姑娘" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20250225.png"?proxy=true group-title="欧飞点播",凌晨两点的灰姑娘
+http://210.61.15.55:50007/ofiii149/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾灵异事件" tvg-name="台湾灵异事件" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png"?proxy=true group-title="欧飞点播",台湾灵异事件
+http://210.61.15.55:50007/ofiii150/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png"?proxy=true group-title="欧飞点播",包青天 1993版
+http://210.61.15.55:50007/ofiii151/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="我的婆婆怎麽那麽可爱" tvg-name="我的婆婆怎麽那麽可爱" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png"?proxy=true group-title="欧飞点播",我的婆婆怎麽那麽可爱
+http://210.61.15.55:50007/ofiii152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="村里来了个暴走女外科" tvg-name="村里来了个暴走女外科" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png"?proxy=true group-title="欧飞点播",村里来了个暴走女外科
+http://210.61.15.55:50007/ofiii153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png"?proxy=true group-title="欧飞点播",一把青
+http://210.61.15.55:50007/ofiii154/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png"?proxy=true group-title="欧飞点播",茶金
+http://210.61.15.55:50007/ofiii155/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png"?proxy=true group-title="欧飞点播",苦力
+http://210.61.15.55:50007/ofiii156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="俗女养成记" tvg-name="俗女养成记" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png"?proxy=true group-title="欧飞点播",俗女养成记
+http://210.61.15.55:50007/ofiii157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="麻醉风暴" tvg-name="麻醉风暴" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png"?proxy=true group-title="欧飞点播",麻醉风暴
+http://210.61.15.55:50007/ofiii158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="虽然等级只有1级但固有技能是最强的" tvg-name="虽然等级只有1级但固有技能是最强的" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png"?proxy=true group-title="欧飞点播",虽然等级只有1级但固有技能是最强的
+http://210.61.15.55:50007/ofiii159/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="拥有超常技能的异世界流浪美食家" tvg-name="拥有超常技能的异世界流浪美食家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png"?proxy=true group-title="欧飞点播",拥有超常技能的异世界流浪美食家
+http://210.61.15.55:50007/ofiii160/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="WIND BREAKER—防风少年—" tvg-name="WIND BREAKER—防风少年—" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3446_ofiii161_tv_20250221.png"?proxy=true group-title="欧飞点播",WIND BREAKER—防风少年—
+http://210.61.15.55:50007/ofiii161/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～" tvg-name="在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png"?proxy=true group-title="欧飞点播",在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
+http://210.61.15.55:50007/ofiii162/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png"?proxy=true group-title="欧飞点播",第一神拳
+http://210.61.15.55:50007/ofiii163/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="刀剑神域(中文版)" tvg-name="刀剑神域(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png"?proxy=true group-title="欧飞点播",刀剑神域(中文版)
+http://210.61.15.55:50007/ofiii164/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="蜡笔小新(中文版)" tvg-name="蜡笔小新(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png"?proxy=true group-title="欧飞点播",蜡笔小新(中文版)
+http://210.61.15.55:50007/ofiii165/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="我们这一家" tvg-name="我们这一家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png"?proxy=true group-title="欧飞点播",我们这一家
+http://210.61.15.55:50007/ofiii166/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="猎人(中文版)" tvg-name="猎人(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png"?proxy=true group-title="欧飞点播",猎人(中文版)
+http://210.61.15.55:50007/ofiii167/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中华一番(中文版)" tvg-name="中华一番(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png"?proxy=true group-title="欧飞点播",中华一番(中文版)
+http://210.61.15.55:50007/ofiii168/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="队长小翼(中文版)" tvg-name="队长小翼(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png"?proxy=true group-title="欧飞点播",队长小翼(中文版)
+http://210.61.15.55:50007/ofiii169/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SPY X FAMILY 间谍家家酒" tvg-name="SPY X FAMILY 间谍家家酒" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png"?proxy=true group-title="欧飞点播",SPY X FAMILY 间谍家家酒
+http://210.61.15.55:50007/ofiii170/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SPY X FAMILY 间谍家家酒(中文版)" tvg-name="SPY X FAMILY 间谍家家酒(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png"?proxy=true group-title="欧飞点播",SPY X FAMILY 间谍家家酒(中文版)
+http://210.61.15.55:50007/ofiii171/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="无职转生，到了异世界就拿出真本事" tvg-name="无职转生，到了异世界就拿出真本事" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png"?proxy=true group-title="欧飞点播",无职转生，到了异世界就拿出真本事
+http://210.61.15.55:50007/ofiii172/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="关于我转生变成史莱姆这档事(国)" tvg-name="关于我转生变成史莱姆这档事(国)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png"?proxy=true group-title="欧飞点播",关于我转生变成史莱姆这档事(国)
+http://210.61.15.55:50007/ofiii173/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="夏目友人帐" tvg-name="夏目友人帐" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png"?proxy=true group-title="欧飞点播",夏目友人帐
+http://210.61.15.55:50007/ofiii174/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="家庭教师HITMAN REBORN!(中文版)" tvg-name="家庭教师HITMAN REBORN!(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3205_ofiii175_tv_20250221.png"?proxy=true group-title="欧飞点播",家庭教师HITMAN REBORN!(中文版)
+http://210.61.15.55:50007/ofiii175/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="烘焙王(中文版)" tvg-name="烘焙王(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png"?proxy=true group-title="欧飞点播",烘焙王(中文版)
+http://210.61.15.55:50007/ofiii176/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="钢之鍊金术师" tvg-name="钢之鍊金术师" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png"?proxy=true group-title="欧飞点播",钢之鍊金术师
+http://210.61.15.55:50007/ofiii177/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="JOJO 的奇妙冒险" tvg-name="JOJO 的奇妙冒险" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png"?proxy=true group-title="欧飞点播",JOJO 的奇妙冒险
+http://210.61.15.55:50007/ofiii178/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="葬送的芙莉莲" tvg-name="葬送的芙莉莲" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png"?proxy=true group-title="欧飞点播",葬送的芙莉莲
+http://210.61.15.55:50007/ofiii179/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="史上最强弟子兼一(中文版)" tvg-name="史上最强弟子兼一(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png"?proxy=true group-title="欧飞点播",史上最强弟子兼一(中文版)
+http://210.61.15.55:50007/ofiii180/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png"?proxy=true group-title="欧飞点播",爆漫王(中文版)
+http://210.61.15.55:50007/ofiii181/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="忍者乱太郎(中文版)" tvg-name="忍者乱太郎(中文版)" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png"?proxy=true group-title="欧飞点播",忍者乱太郎(中文版)
+http://210.61.15.55:50007/ofiii182/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="胆大党" tvg-name="胆大党" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png"?proxy=true group-title="欧飞点播",胆大党
+http://210.61.15.55:50007/ofiii183/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png"?proxy=true group-title="欧飞点播",新忍者哈特利
+http://210.61.15.55:50007/ofiii184/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="凡尔赛玫瑰" tvg-name="凡尔赛玫瑰" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png"?proxy=true group-title="欧飞点播",凡尔赛玫瑰
+http://210.61.15.55:50007/ofiii185/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="生命的赢家" tvg-name="生命的赢家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png"?proxy=true group-title="欧飞点播",生命的赢家
+http://210.61.15.55:50007/ofiii192/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png"?proxy=true group-title="欧飞点播",海派甜心
+http://210.61.15.55:50007/ofiii195/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png"?proxy=true group-title="欧飞点播",不良笑花
+http://210.61.15.55:50007/ofiii196/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="战神" tvg-name="战神" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png"?proxy=true group-title="欧飞点播",战神
+http://210.61.15.55:50007/ofiii197/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="王子看见二公主" tvg-name="王子看见二公主" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png"?proxy=true group-title="欧飞点播",王子看见二公主
+http://210.61.15.55:50007/ofiii198/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="呼叫大明星" tvg-name="呼叫大明星" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3663_ofiii199_tv_20250305.png"?proxy=true group-title="欧飞点播",呼叫大明星
+http://210.61.15.55:50007/ofiii199/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="大新闻大爆卦" tvg-name="大新闻大爆卦" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png"?proxy=true group-title="欧飞点播",大新闻大爆卦
+http://210.61.15.55:50007/ofiii201/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="新闻大白话" tvg-name="新闻大白话" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png"?proxy=true group-title="欧飞点播",新闻大白话
+http://210.61.15.55:50007/ofiii202/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="文茜的世界周报" tvg-name="文茜的世界周报" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png"?proxy=true group-title="欧飞点播",文茜的世界周报
+http://210.61.15.55:50007/ofiii203/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="寰宇全视界" tvg-name="寰宇全视界" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png"?proxy=true group-title="欧飞点播",寰宇全视界
+http://210.61.15.55:50007/ofiii204/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="文茜的世界财经周报" tvg-name="文茜的世界财经周报" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png"?proxy=true group-title="欧飞点播",文茜的世界财经周报
+http://210.61.15.55:50007/ofiii205/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="环球大战线" tvg-name="环球大战线" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png"?proxy=true group-title="欧飞点播",环球大战线
+http://210.61.15.55:50007/ofiii206/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="少康战情室" tvg-name="少康战情室" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png"?proxy=true group-title="欧飞点播",少康战情室
+http://210.61.15.55:50007/ofiii207/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="国民大会" tvg-name="国民大会" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png"?proxy=true group-title="欧飞点播",国民大会
+http://210.61.15.55:50007/ofiii208/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="电动车时代" tvg-name="电动车时代" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png"?proxy=true group-title="欧飞点播",电动车时代
+http://210.61.15.55:50007/ofiii215/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="SiCAR爱车酷" tvg-name="SiCAR爱车酷" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png"?proxy=true group-title="欧飞点播",SiCAR爱车酷
+http://210.61.15.55:50007/ofiii216/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png"?proxy=true group-title="欧飞点播",狂人日誌
+http://210.61.15.55:50007/ofiii217/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="脖子解说 Mr. Neck" tvg-name="脖子解说 Mr. Neck" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png"?proxy=true group-title="欧飞点播",脖子解说 Mr. Neck
+http://210.61.15.55:50007/ofiii218/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-Hello腹饿代" tvg-name="食尚玩家-Hello腹饿代" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png"?proxy=true group-title="欧飞点播",食尚玩家-Hello腹饿代
+http://210.61.15.55:50007/ofiii225/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-天菜就酱吃" tvg-name="食尚玩家-天菜就酱吃" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png"?proxy=true group-title="欧飞点播",食尚玩家-天菜就酱吃
+http://210.61.15.55:50007/ofiii226/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-2天1夜go" tvg-name="食尚玩家-2天1夜go" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png"?proxy=true group-title="欧飞点播",食尚玩家-2天1夜go
+http://210.61.15.55:50007/ofiii227/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-热血48小时" tvg-name="食尚玩家-热血48小时" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png"?proxy=true group-title="欧飞点播",食尚玩家-热血48小时
+http://210.61.15.55:50007/ofiii228/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-鱼肉乡民" tvg-name="食尚玩家-鱼肉乡民" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20250221.png"?proxy=true group-title="欧飞点播",食尚玩家-鱼肉乡民
+http://210.61.15.55:50007/ofiii229/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="食尚玩家-疯狂总部" tvg-name="食尚玩家-疯狂总部" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png"?proxy=true group-title="欧飞点播",食尚玩家-疯狂总部
+http://210.61.15.55:50007/ofiii230/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png"?proxy=true group-title="欧飞点播",非凡大探索
+http://210.61.15.55:50007/ofiii234/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾1001个故事" tvg-name="台湾1001个故事" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png"?proxy=true group-title="欧飞点播",台湾1001个故事
+http://210.61.15.55:50007/ofiii235/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png"?proxy=true group-title="欧飞点播",詹姆士出走料理
+http://210.61.15.55:50007/ofiii236/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="进击的台湾" tvg-name="进击的台湾" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png"?proxy=true group-title="欧飞点播",进击的台湾
+http://210.61.15.55:50007/ofiii237/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png"?proxy=true group-title="欧飞点播",世界第一等
+http://210.61.15.55:50007/ofiii238/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾第一等" tvg-name="台湾第一等" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png"?proxy=true group-title="欧飞点播",台湾第一等
+http://210.61.15.55:50007/ofiii239/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="溢游未尽" tvg-name="溢游未尽" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png"?proxy=true group-title="欧飞点播",溢游未尽
+http://210.61.15.55:50007/ofiii240/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾真善美" tvg-name="台湾真善美" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png"?proxy=true group-title="欧飞点播",台湾真善美
+http://210.61.15.55:50007/ofiii241/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="请问今晚住谁家" tvg-name="请问今晚住谁家" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png"?proxy=true group-title="欧飞点播",请问今晚住谁家
+http://210.61.15.55:50007/ofiii242/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="早餐中国" tvg-name="早餐中国" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png"?proxy=true group-title="欧飞点播",早餐中国
+http://210.61.15.55:50007/ofiii243/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png"?proxy=true group-title="欧飞点播",溢起趣打卡
+http://210.61.15.55:50007/ofiii244/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台湾壹百种味道" tvg-name="台湾壹百种味道" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png"?proxy=true group-title="欧飞点播",台湾壹百种味道
+http://210.61.15.55:50007/ofiii245/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="纾压雷雨声" tvg-name="纾压雷雨声" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png"?proxy=true group-title="欧飞点播",纾压雷雨声
+http://210.61.15.55:50007/ofiii250/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="疗癒下雨声" tvg-name="疗癒下雨声" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png"?proxy=true group-title="欧飞点播",疗癒下雨声
+http://210.61.15.55:50007/ofiii251/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="放松的爵士午后" tvg-name="放松的爵士午后" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png"?proxy=true group-title="欧飞点播",放松的爵士午后
+http://210.61.15.55:50007/ofiii252/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="外烧柴火声" tvg-name="外烧柴火声" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png"?proxy=true group-title="欧飞点播",野外烧柴火声
+http://210.61.15.55:50007/ofiii253/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="夏日阳光海浪声" tvg-name="夏日阳光海浪声" tvg-logo="http://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png"?proxy=true group-title="欧飞点播",夏日阳光海浪声
+http://210.61.15.55:50007/ofiii254/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.v1.mk/logo/翡翠台.png"?proxy=true group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn&proxy=true
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://epg.v1.mk/logo/凤凰中文.png"?proxy=true group-title="香港频道",鳳凰衛視中文台
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd&proxy=true
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.v1.mk/logo/凤凰香港.png"?proxy=true group-title="香港频道",鳳凰衛視香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn&proxy=true
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.v1.mk/logo/凤凰资讯.png"?proxy=true group-title="香港频道",鳳凰衛視資訊台
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd&proxy=true
 
-MUSIC,#genre#
-KARAOKE 1,http://dm.lion-ott.com/live/raj25692/t4K24112/697149.ts
-KARAOKE 2,http://dm.lion-ott.com/live/raj25692/t4K24112/697150.ts
-KARAOKE 3,http://dm.lion-ott.com/live/raj25692/t4K24112/697151.ts
-KARAOKE 4,http://dm.lion-ott.com/live/raj25692/t4K24112/697152.ts
-KARAOKE 5,http://dm.lion-ott.com/live/raj25692/t4K24112/697153.ts
-KARAOKE 6,http://dm.lion-ott.com/live/raj25692/t4K24112/697154.ts
-KARAOKE 7,http://dm.lion-ott.com/live/raj25692/t4K24112/697155.ts
-KARAOKE 8,http://dm.lion-ott.com/live/raj25692/t4K24112/697156.ts
-MTV 00s,http://dm.lion-ott.com/live/raj25692/t4K24112/1267442.ts
-MTV BASE,http://dm.lion-ott.com/live/raj25692/t4K24112/577452.ts
-MTV LIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/577450.ts
-MTV MUSIC,http://dm.lion-ott.com/live/raj25692/t4K24112/577454.ts
-MTV HITS,http://dm.lion-ott.com/live/raj25692/t4K24112/577449.ts
-MC 90s,http://dm.lion-ott.com/live/raj25692/t4K24112/577429.ts
-MC ALTERNATIVE,http://dm.lion-ott.com/live/raj25692/t4K24112/577428.ts
-MC POP&COUNTRY,http://dm.lion-ott.com/live/raj25692/t4K24112/577418.ts
-MC POP HITS,http://dm.lion-ott.com/live/raj25692/t4K24112/577417.ts
-MC R&B SOUL,http://dm.lion-ott.com/live/raj25692/t4K24112/577415.ts
-MC Y2K,http://dm.lion-ott.com/live/raj25692/t4K24112/577407.ts
-NOW 70s,http://dm.lion-ott.com/live/raj25692/t4K24112/577432.ts
-NOW 80s,http://dm.lion-ott.com/live/raj25692/t4K24112/577431.ts
-NOW 90s,http://dm.lion-ott.com/live/raj25692/t4K24112/577430.ts
-NOW ROCK,http://dm.lion-ott.com/live/raj25692/t4K24112/1276281.ts
-DANCE TV,http://dm.lion-ott.com/live/raj25692/t4K24112/1110685.ts
-CLUBLAND TV,http://dm.lion-ott.com/live/raj25692/t4K24112/577445.ts
-TRACE URBAN,http://dm.lion-ott.com/live/raj25692/t4K24112/577436.ts
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="http://epg.v1.mk/logo/美亚电影台.png"?proxy=true group-title="香港频道",美亞電影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn&proxy=true
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://epg.112114.xyz/logo/POPC.png"?proxy=true group-title="香港频道",PopC
+http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://epg.v1.mk/logo/明珠台.png"?proxy=true group-title="香港频道",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://epg.v1.mk/logo/tvbplus.png"?proxy=true group-title="香港频道",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://epg.112114.xyz/logo/天映经典.png"?proxy=true group-title="香港频道",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://epg.v1.mk/logo/华丽翡翠台.png"?proxy=true group-title="香港频道",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade&proxy=true
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://epg.v1.mk/logo/TVB星河.png"?proxy=true group-title="香港频道",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe&proxy=true
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://epg.v1.mk/logo/无线新闻.png"?proxy=true group-title="香港频道",无线新闻
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="http://epg.v1.mk/logo/TVB娱乐新闻台.png"?proxy=true group-title="香港频道",TVB娱乐新闻台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment&proxy=true
+#EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://epg.v1.mk/logo/viutv.png"?proxy=true group-title="香港频道",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn&proxy=true
+#EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="http://epg.v1.mk/logo/VIUTVSIX.png"?proxy=true group-title="香港频道",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn&proxy=true
+#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="http://epg.v1.mk/logo/rthk31.png"?proxy=true group-title="香港频道",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn&proxy=true
+#EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="http://epg.v1.mk/logo/rthk32.png"?proxy=true group-title="香港频道",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn&proxy=true
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://epg.v1.mk/logo/千禧经典台.png"?proxy=true group-title="香港频道",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic&proxy=true
+#EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://epg.v1.mk/logo/天映.png"?proxy=true group-title="香港频道",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial&proxy=true
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://epg.v1.mk/logo/天映经典.png"?proxy=true group-title="香港频道",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2&proxy=true
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="http://epg.v1.mk/logo/八度空间.png"?proxy=true group-title="香港频道",八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8&proxy=true
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="http://epg.v1.mk/logo/AstroAOD.png"?proxy=true group-title="香港频道",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd&proxy=true
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="http://epg.v1.mk/logo/AstroAEC.png"?proxy=true group-title="香港频道",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC&proxy=true
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="http://epg.v1.mk/logo/爱奇艺.png"?proxy=true group-title="香港频道",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi&proxy=true
+#EXTINF:-1 tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="http://epg.v1.mk/logo/ASTROQUANJIA.png"?proxy=true group-title="香港频道",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia&proxy=true
+#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="http://epg.v1.mk/logo/Astro欢喜台.png"?proxy=true group-title="香港频道",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee&proxy=true
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.112114.xyz/logo/翡翠台.png"?proxy=true group-title="Smart☠️源",香港|翡翠台
+http://156.239.254.7:5555/smt.php?id=jade_twn&proxy=true
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.112114.xyz/logo/翡翠台.png"?proxy=true group-title="Smart☠️源",香港|翡翠台 backup
+http://156.239.254.7:5555/smt.php?id=Jade_xue&proxy=true
+#EXTINF:-1 tvg-id="香港|iNews 新闻台" tvg-name="香港|iNews 新闻台" tvg-logo="http://epg.112114.xyz/logo/香港|INEWS新闻台.png"?proxy=true group-title="Smart☠️源",香港|iNews 新闻台
+http://156.239.254.7:5555/smt.php?id=inews_twn&proxy=true
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://epg.112114.xyz/logo/J2.png"?proxy=true group-title="Smart☠️源",香港|J 2
+http://156.239.254.7:5555/smt.php?id=j2_twn&proxy=true
+#EXTINF:-1 tvg-id="香港|珍珠台" tvg-name="香港|珍珠台" tvg-logo="http://epg.112114.xyz/logo/香港|珍珠台.png"?proxy=true group-title="Smart☠️源",香港|珍珠台
+http://156.239.254.7:5555/smt.php?id=pearl_twn&proxy=true
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.112114.xyz/logo/凤凰香港.png"?proxy=true group-title="Smart☠️源",香港|凤凰香港
+http://156.239.254.7:5555/smt.php?id=hkphoenix_twn&proxy=true
+#EXTINF:-1 tvg-id="香港|HOY资讯台" tvg-name="香港|HOY资讯台" tvg-logo="http://epg.112114.xyz/logo/香港|HOY资讯台.png"?proxy=true group-title="Smart☠️源",香港|HOY资讯台
+http://156.239.254.7:5555/smt.php?id=hoycaijing_twn&proxy=true
+#EXTINF:-1 tvg-id="香港|RHK 31" tvg-name="香港|RHK 31" tvg-logo="http://epg.112114.xyz/logo/香港|RHK31.png"?proxy=true group-title="Smart☠️源",香港|RHK 31
+http://156.239.254.7:5555/smt.php?id=rhk31_twn&proxy=true
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="http://epg.112114.xyz/logo/VIUTV.png"?proxy=true group-title="Smart☠️源",香港|VIUTV1
+http://156.239.254.7:5555/smt.php?id=viu1_twn&proxy=true
+#EXTINF:-1 tvg-id="香港|RHK 32" tvg-name="香港|RHK 32" tvg-logo="http://epg.112114.xyz/logo/香港|RHK32.png"?proxy=true group-title="Smart☠️源",香港|RHK 32
+http://156.239.254.7:5555/smt.php?id=rhk32_twn&proxy=true
+#EXTINF:-1 tvg-id="香港|凤凰卫视" tvg-name="香港|凤凰卫视" tvg-logo="http://epg.112114.xyz/logo/香港|凤凰卫视.png"?proxy=true group-title="Smart☠️源",香港|凤凰卫视
+http://156.239.254.7:5555/smt.php?id=phoenixtv_hd&proxy=true
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.112114.xyz/logo/凤凰资讯.png"?proxy=true group-title="Smart☠️源",香港|凤凰资讯
+http://156.239.254.7:5555/smt.php?id=phoenixinfo_hd&proxy=true
+#EXTINF:-1 tvg-id="香港|Viu6" tvg-name="香港|Viu6" tvg-logo="http://epg.112114.xyz/logo/香港|VIU6.png"?proxy=true group-title="Smart☠️源",香港|Viu6
+http://156.239.254.7:5555/smt.php?id=viusix_twn&proxy=true
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.112114.xyz/logo/CCTV1.png"?proxy=true group-title="Smart☠️源",中国|CCTV-1 综合 HD
+http://156.239.254.7:5555/smt.php?id=cctv1&proxy=true
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.112114.xyz/logo/CCTV2.png"?proxy=true group-title="Smart☠️源",中国|CCTV-2 财经
+http://156.239.254.7:5555/smt.php?id=cctv2&proxy=true
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.112114.xyz/logo/CCTV3.png"?proxy=true group-title="Smart☠️源",中国|CCTV-3 综艺 HD
+http://156.239.254.7:5555/smt.php?id=cctv3&proxy=true
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.112114.xyz/logo/CCTV4.png"?proxy=true group-title="Smart☠️源",中国|CCTV-4 中文国际
+http://156.239.254.7:5555/smt.php?id=cctv4&proxy=true
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.112114.xyz/logo/CCTV4.png"?proxy=true group-title="Smart☠️源",中国|CCTV4 新闻台
+http://156.239.254.7:5555/smt.php?id=Cctv4&proxy=true
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://epg.112114.xyz/logo/CCTV7.png"?proxy=true group-title="Smart☠️源",中国|CCTV-7 军事农业
+http://156.239.254.7:5555/smt.php?id=cctv7&proxy=true
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://epg.112114.xyz/logo/CCTV8.png"?proxy=true group-title="Smart☠️源",中国|CCTV-8 电视剧 HD
+http://156.239.254.7:5555/smt.php?id=cctv8hd&proxy=true
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://epg.112114.xyz/logo/CCTV9.png"?proxy=true group-title="Smart☠️源",中国|CCTV-9 记录 HD
+http://156.239.254.7:5555/smt.php?id=cctv9hd&proxy=true
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://epg.112114.xyz/logo/CCTV10.png"?proxy=true group-title="Smart☠️源",中国|CCTV-10 科教 HD
+http://156.239.254.7:5555/smt.php?id=cctv10hd&proxy=true
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://epg.112114.xyz/logo/CCTV11.png"?proxy=true group-title="Smart☠️源",中国|CCTV-11 戏曲
+http://156.239.254.7:5555/smt.php?id=cctv11&proxy=true
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://epg.112114.xyz/logo/CCTV12.png"?proxy=true group-title="Smart☠️源",中国|CCTV-12 社会与法
+http://156.239.254.7:5555/smt.php?id=cctv12&proxy=true
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://epg.112114.xyz/logo/CCTV13.png"?proxy=true group-title="Smart☠️源",中国|CCTV-13 新闻频道
+http://156.239.254.7:5555/smt.php?id=cctv13&proxy=true
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://epg.112114.xyz/logo/CCTV14.png"?proxy=true group-title="Smart☠️源",中国|CCTV-14 少儿
+http://156.239.254.7:5555/smt.php?id=cctv14&proxy=true
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://epg.112114.xyz/logo/CCTV6.png"?proxy=true group-title="Smart☠️源",中国|CCTV-6
+http://156.239.254.7:5555/smt.php?id=cctv6&proxy=true
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://epg.112114.xyz/logo/CCTV15.png"?proxy=true group-title="Smart☠️源",中国|CCTV-15 音乐
+http://156.239.254.7:5555/smt.php?id=cctv15&proxy=true
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.112114.xyz/logo/湖南卫视.png"?proxy=true group-title="Smart☠️源",中国|湖南卫视
+http://156.239.254.7:5555/smt.php?id=hunan_twn&proxy=true
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.112114.xyz/logo/浙江卫视.png"?proxy=true group-title="Smart☠️源",中国|浙江卫视
+http://156.239.254.7:5555/smt.php?id=zhejiang_twn&proxy=true
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.112114.xyz/logo/江苏卫视.png"?proxy=true group-title="Smart☠️源",中国|江苏卫视
+http://156.239.254.7:5555/smt.php?id=jiangsu_twn&proxy=true
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.112114.xyz/logo/深圳卫视.png"?proxy=true group-title="Smart☠️源",中国|深圳卫视
+http://156.239.254.7:5555/smt.php?id=shenzhen&proxy=true
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://epg.112114.xyz/logo/东南卫视.png"?proxy=true group-title="Smart☠️源",中国|福建东南卫视
+http://156.239.254.7:5555/smt.php?id=fujian&proxy=true
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="http://epg.112114.xyz/logo/南方卫视.png"?proxy=true group-title="Smart☠️源",中国|广东南方卫视
+http://156.239.254.7:5555/smt.php?id=nanfang_twn&proxy=true
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.112114.xyz/logo/广东卫视.png"?proxy=true group-title="Smart☠️源",中国|广东卫视
+http://156.239.254.7:5555/smt.php?id=guangdongweishi_twn&proxy=true
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.112114.xyz/logo/北京卫视.png"?proxy=true group-title="Smart☠️源",中国|北京卫视
+http://156.239.254.7:5555/smt.php?id=beijing&proxy=true
+#EXTINF:-1 tvg-id="珠江" tvg-name="珠江" tvg-logo="http://epg.112114.xyz/logo/珠江.png"?proxy=true group-title="Smart☠️源",中国|珠江台
+http://156.239.254.7:5555/smt.php?id=zhujiang&proxy=true
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://epg.112114.xyz/logo/广西卫视.png"?proxy=true group-title="Smart☠️源",中国|广西卫视
+http://156.239.254.7:5555/smt.php?id=guangxi&proxy=true
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://epg.112114.xyz/logo/湖北卫视.png"?proxy=true group-title="Smart☠️源",中国|湖北卫视
+http://156.239.254.7:5555/smt.php?id=hubei&proxy=true
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.112114.xyz/logo/四川卫视.png"?proxy=true group-title="Smart☠️源",中国|四川卫视
+http://156.239.254.7:5555/smt.php?id=sichuan_twn&proxy=true
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.112114.xyz/logo/东方卫视.png"?proxy=true group-title="Smart☠️源",中国|东方卫视
+http://156.239.254.7:5555/smt.php?id=dongfangweishi_twn&proxy=true
+#EXTINF:-1 tvg-id="中国|CGTN" tvg-name="中国|CGTN" tvg-logo="http://epg.112114.xyz/logo/中国|CGTN.png"?proxy=true group-title="Smart☠️源",中国|CGTN
+http://156.239.254.7:5555/smt.php?id=CGTN&proxy=true
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.112114.xyz/logo/CCTV5.png"?proxy=true group-title="Smart☠️源",中国|CCTV-5 体育频道
+http://156.239.254.7:5555/smt.php?id=cctv5&proxy=true
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://epg.112114.xyz/logo/CCTV5+.png"?proxy=true group-title="Smart☠️源",中国|CCTV-5+ 体育赛事 HD
+http://156.239.254.7:5555/smt.php?id=cctv5plus&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Premier League 1" tvg-name="体育频道|Astro Premier League 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE1.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Premier League 1
+http://156.239.254.7:5555/smt.php?id=go_assp1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro EPL 1 backup" tvg-name="体育频道|Astro EPL 1 backup" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROEPL1BACKUP.png"?proxy=true group-title="Smart☠️源",体育频道|Astro EPL 1 backup
+http://156.239.254.7:5555/smt.php?id=go_assp1x&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Premier League 2" tvg-name="体育频道|Astro Premier League 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE2.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Premier League 2
+http://156.239.254.7:5555/smt.php?id=go_assp2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Grandstand" tvg-name="体育频道|Astro Grandstand" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROGRANDSTAND.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Grandstand
+http://156.239.254.7:5555/smt.php?id=go_assp3&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Football" tvg-name="体育频道|Astro Football" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Football
+http://156.239.254.7:5555/smt.php?id=go_assp4&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Sports Plus
+http://156.239.254.7:5555/smt.php?id=go_sportsplus&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Badminton 1
+http://156.239.254.7:5555/smt.php?id=go_badminton1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Badminton 2
+http://156.239.254.7:5555/smt.php?id=go_badminton2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png"?proxy=true group-title="Smart☠️源",体育频道|Astro W-Sports
+http://156.239.254.7:5555/smt.php?id=go_assp5&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Supersports 1" tvg-name="体育频道|Supersports 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|SUPERSPORTS1.png"?proxy=true group-title="Smart☠️源",体育频道|Supersports 1
+http://156.239.254.7:5555/smt.php?id=Assp1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Supersports 2" tvg-name="体育频道|Supersports 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|SUPERSPORTS2.png"?proxy=true group-title="Smart☠️源",体育频道|Supersports 2
+http://156.239.254.7:5555/smt.php?id=Assp2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Supersports 3" tvg-name="体育频道|Supersports 3" tvg-logo="http://epg.112114.xyz/logo/体育频道|SUPERSPORTS3.png"?proxy=true group-title="Smart☠️源",体育频道|Supersports 3
+http://156.239.254.7:5555/smt.php?id=Assp3&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Supersports 4" tvg-name="体育频道|Supersports 4" tvg-logo="http://epg.112114.xyz/logo/体育频道|SUPERSPORTS4.png"?proxy=true group-title="Smart☠️源",体育频道|Supersports 4
+http://156.239.254.7:5555/smt.php?id=Assp4&proxy=true
+#EXTINF:-1 tvg-id="体育频道|WWE" tvg-name="体育频道|WWE" tvg-logo="http://epg.112114.xyz/logo/体育频道|WWE.png"?proxy=true group-title="Smart☠️源",体育频道|WWE
+http://156.239.254.7:5555/smt.php?id=Wwe&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Fight Sports" tvg-name="体育频道|Fight Sports" tvg-logo="http://epg.112114.xyz/logo/体育频道|FIGHTSPORTS.png"?proxy=true group-title="Smart☠️源",体育频道|Fight Sports
+http://156.239.254.7:5555/smt.php?id=Fs&proxy=true
+#EXTINF:-1 tvg-id="体育频道|NBA TV" tvg-name="体育频道|NBA TV" tvg-logo="http://epg.112114.xyz/logo/体育频道|NBATV.png"?proxy=true group-title="Smart☠️源",体育频道|NBA TV
+http://156.239.254.7:5555/smt.php?id=Nba&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Cricket
+http://156.239.254.7:5555/smt.php?id=Acricket&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROGOLF.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Golf
+http://156.239.254.7:5555/smt.php?id=Agolf&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Tnt Sports 1" tvg-name="体育频道|Tnt Sports 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|TNTSPORTS1.png"?proxy=true group-title="Smart☠️源",体育频道|Tnt Sports 1
+http://156.239.254.7:5555/smt.php?id=6fac0aaead&proxy=true
+#EXTINF:-1 tvg-id="体育频道|TNT Sports 2" tvg-name="体育频道|TNT Sports 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|TNTSPORTS2.png"?proxy=true group-title="Smart☠️源",体育频道|TNT Sports 2
+http://156.239.254.7:5555/smt.php?id=d9a76a79cc&proxy=true
+#EXTINF:-1 tvg-id="体育频道|TNT Sports 3" tvg-name="体育频道|TNT Sports 3" tvg-logo="http://epg.112114.xyz/logo/体育频道|TNTSPORTS3.png"?proxy=true group-title="Smart☠️源",体育频道|TNT Sports 3
+http://156.239.254.7:5555/smt.php?id=5fea4d73db&proxy=true
+#EXTINF:-1 tvg-id="体育频道|TNT Sports 4" tvg-name="体育频道|TNT Sports 4" tvg-logo="http://epg.112114.xyz/logo/体育频道|TNTSPORTS4.png"?proxy=true group-title="Smart☠️源",体育频道|TNT Sports 4
+http://156.239.254.7:5555/smt.php?id=tntsport4&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Sony Ten 1" tvg-name="体育频道|Sony Ten 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|SONYTEN1.png"?proxy=true group-title="Smart☠️源",体育频道|Sony Ten 1
+http://156.239.254.7:5555/smt.php?id=ten1_raj&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Sony Ten 2" tvg-name="体育频道|Sony Ten 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|SONYTEN2.png"?proxy=true group-title="Smart☠️源",体育频道|Sony Ten 2
+http://156.239.254.7:5555/smt.php?id=ten2_raj&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Sony Ten 3" tvg-name="体育频道|Sony Ten 3" tvg-logo="http://epg.112114.xyz/logo/体育频道|SONYTEN3.png"?proxy=true group-title="Smart☠️源",体育频道|Sony Ten 3
+http://156.239.254.7:5555/smt.php?id=ten3_raj&proxy=true
+#EXTINF:-1 tvg-id="体育频道|SPOTV 1 HD" tvg-name="体育频道|SPOTV 1 HD" tvg-logo="http://epg.112114.xyz/logo/体育频道|SPOTV1.png"?proxy=true group-title="Smart☠️源",体育频道|SPOTV 1 HD
+http://156.239.254.7:5555/smt.php?id=go_spotv&proxy=true
+#EXTINF:-1 tvg-id="体育频道|SPO TV 2" tvg-name="体育频道|SPO TV 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|SPOTV2.png"?proxy=true group-title="Smart☠️源",体育频道|SPO TV 2
+http://156.239.254.7:5555/smt.php?id=go_spotv2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Skysports F1" tvg-name="体育频道|Skysports F1" tvg-logo="http://epg.112114.xyz/logo/体育频道|SKYSPORTSF1.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports F1
+http://156.239.254.7:5555/smt.php?id=tiankongf1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Skysports Cricket" tvg-name="体育频道|Skysports Cricket" tvg-logo="http://epg.112114.xyz/logo/体育频道|SKYSPORTSCRICKET.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports Cricket
+http://156.239.254.7:5555/smt.php?id=tiankongcricket&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Skysports EPL" tvg-name="体育频道|Skysports EPL" tvg-logo="http://epg.112114.xyz/logo/体育频道|SKYSPORTSEPL.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports EPL
+http://156.239.254.7:5555/smt.php?id=tiankongepl&proxy=true
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="http://epg.112114.xyz/logo/EVE.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports Main Event
+http://156.239.254.7:5555/smt.php?id=tiankongmain&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Skysports News" tvg-name="体育频道|Skysports News" tvg-logo="http://epg.112114.xyz/logo/体育频道|SKYSPORTSNEWS.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports News
+http://156.239.254.7:5555/smt.php?id=tiankongnews&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Skysports Mix" tvg-name="体育频道|Skysports Mix" tvg-logo="http://epg.112114.xyz/logo/体育频道|SKYSPORTSMIX.png"?proxy=true group-title="Smart☠️源",体育频道|Skysports Mix
+http://156.239.254.7:5555/smt.php?id=tiankongmix&proxy=true
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="http://epg.112114.xyz/logo/爱尔达体育2.png"?proxy=true group-title="Smart☠️源",体育频道|爱尔达体育2台
+http://156.239.254.7:5555/smt.php?id=eltasport2_twn&proxy=true
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="http://epg.112114.xyz/logo/爱尔达体育3.png"?proxy=true group-title="Smart☠️源",体育频道|爱尔达体育3台
+http://156.239.254.7:5555/smt.php?id=eltasport3_twn&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Rugby Pass TV" tvg-name="体育频道|Rugby Pass TV" tvg-logo="http://epg.112114.xyz/logo/体育频道|RUGBYPASSTV.png"?proxy=true group-title="Smart☠️源",体育频道|Rugby Pass TV
+http://156.239.254.7:5555/smt.php?id=Rugbypasstv&proxy=true
+#EXTINF:-1 tvg-id="体育频道|RTM Sports HD" tvg-name="体育频道|RTM Sports HD" tvg-logo="http://epg.112114.xyz/logo/体育频道|RTMSPORTS.png"?proxy=true group-title="Smart☠️源",体育频道|RTM Sports HD
+http://156.239.254.7:5555/smt.php?id=Rtmsport&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="http://epg.112114.xyz/logo/体育频道|ARENA.png"?proxy=true group-title="Smart☠️源",体育频道|Arena
+http://156.239.254.7:5555/smt.php?id=Arena&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|ARENA2.png"?proxy=true group-title="Smart☠️源",体育频道|Arena 2
+http://156.239.254.7:5555/smt.php?id=Arena2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|BOLAARENA1.png"?proxy=true group-title="Smart☠️源",体育频道|BolaArena 1
+http://156.239.254.7:5555/smt.php?id=Bolaarena1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|BOLAARENA2.png"?proxy=true group-title="Smart☠️源",体育频道|BolaArena 2
+http://156.239.254.7:5555/smt.php?id=Bolaarena2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Beinsports 1" tvg-name="体育频道|Astro Beinsports 1" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS1.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Beinsports 1
+http://156.239.254.7:5555/smt.php?id=Astrobein1&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Beinsports 2" tvg-name="体育频道|Astro Beinsports 2" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS2.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Beinsports 2
+http://156.239.254.7:5555/smt.php?id=Astrobein2&proxy=true
+#EXTINF:-1 tvg-id="体育频道|Astro Beinsports 3" tvg-name="体育频道|Astro Beinsports 3" tvg-logo="http://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS3.png"?proxy=true group-title="Smart☠️源",体育频道|Astro Beinsports 3
+http://156.239.254.7:5555/smt.php?id=Astrobein3&proxy=true
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://epg.112114.xyz/logo/TVBS.png"?proxy=true group-title="Smart☠️源",台湾|TVBS News 新闻台
+http://156.239.254.7:5555/smt.php?id=tvbs_n&proxy=true
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://epg.112114.xyz/logo/TVBS.png"?proxy=true group-title="Smart☠️源",台湾|TVBS 欢乐台 （备份）
+http://156.239.254.7:5555/smt.php?id=tvbshuanle_twn&proxy=true
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://epg.112114.xyz/logo/TVBS.png"?proxy=true group-title="Smart☠️源",台湾|TVBS HD
+http://156.239.254.7:5555/smt.php?id=tvbs&proxy=true
+#EXTINF:-1 tvg-id="台湾|中天新闻 HD" tvg-name="台湾|中天新闻 HD" tvg-logo="http://epg.112114.xyz/logo/台湾|中天新闻.png"?proxy=true group-title="Smart☠️源",台湾|中天新闻 HD
+http://156.239.254.7:5555/smt.php?id=ctinews&proxy=true
+#EXTINF:-1 tvg-id="台湾|中天娱乐 CTI Entertaiment" tvg-name="台湾|中天娱乐 CTI Entertaiment" tvg-logo="http://epg.112114.xyz/logo/台湾|中天娱乐CTIENTERTAIMENT.png"?proxy=true group-title="Smart☠️源",台湾|中天娱乐 CTI Entertaiment
+http://156.239.254.7:5555/smt.php?id=ctient&proxy=true
+#EXTINF:-1 tvg-id="台湾|中天综合 CTI Metro" tvg-name="台湾|中天综合 CTI Metro" tvg-logo="http://epg.112114.xyz/logo/台湾|中天综合CTIMETRO.png"?proxy=true group-title="Smart☠️源",台湾|中天综合 CTI Metro
+http://156.239.254.7:5555/smt.php?id=ctizhonghe&proxy=true
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="http://epg.112114.xyz/logo/中天亚洲台.png"?proxy=true group-title="Smart☠️源",台湾|中天亚洲台
+http://156.239.254.7:5555/smt.php?id=ctiasia_twn&proxy=true
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.112114.xyz/logo/台视.png"?proxy=true group-title="Smart☠️源",台湾|台视 TTV HD
+http://156.239.254.7:5555/smt.php?id=ttv_taiwan&proxy=true
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.112114.xyz/logo/台视.png"?proxy=true group-title="Smart☠️源",台湾|台视新闻台
+http://156.239.254.7:5555/smt.php?id=ttvnews_twn&proxy=true
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.112114.xyz/logo/台视.png"?proxy=true group-title="Smart☠️源",台湾|台视综合台
+http://156.239.254.7:5555/smt.php?id=ttvzhonghe&proxy=true
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://epg.112114.xyz/logo/中视.png"?proxy=true group-title="Smart☠️源",台湾|中视 HD
+http://156.239.254.7:5555/smt.php?id=zhongshihd_twn&proxy=true
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://epg.112114.xyz/logo/中视.png"?proxy=true group-title="Smart☠️源",台湾|中视新闻台
+http://156.239.254.7:5555/smt.php?id=zhongshinews_twn&proxy=true
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.112114.xyz/logo/民视.png"?proxy=true group-title="Smart☠️源",台湾|民视 HD
+http://156.239.254.7:5555/smt.php?id=ftvhd_taiwan&proxy=true
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://epg.112114.xyz/logo/TVN.png"?proxy=true group-title="Smart☠️源",台湾|民视新闻台 FTV News
+http://156.239.254.7:5555/smt.php?id=ftvnew_taiwan&proxy=true
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.112114.xyz/logo/民视.png"?proxy=true group-title="Smart☠️源",台湾|民视台湾台
+http://156.239.254.7:5555/smt.php?id=ftvtaiwan_twn&proxy=true
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://epg.112114.xyz/logo/华视.png"?proxy=true group-title="Smart☠️源",台湾|华视 CTS HD
+http://156.239.254.7:5555/smt.php?id=ctshd_twn&proxy=true
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="http://epg.112114.xyz/logo/公视.png"?proxy=true group-title="Smart☠️源",台湾|公视 CTV
+http://156.239.254.7:5555/smt.php?id=ctv18_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|八大第一 GTV First" tvg-name="台湾|八大第一 GTV First" tvg-logo="http://epg.112114.xyz/logo/台湾|八大第一GTVFIRST.png"?proxy=true group-title="Smart☠️源",台湾|八大第一 GTV First
+http://156.239.254.7:5555/smt.php?id=badafirst&proxy=true
+#EXTINF:-1 tvg-id="台湾|八大综合 GTV Metro" tvg-name="台湾|八大综合 GTV Metro" tvg-logo="http://epg.112114.xyz/logo/台湾|八大综合GTVMETRO.png"?proxy=true group-title="Smart☠️源",台湾|八大综合 GTV Metro
+http://156.239.254.7:5555/smt.php?id=badazhonghe&proxy=true
+#EXTINF:-1 tvg-id="台湾|八大戏剧 GTV Drama" tvg-name="台湾|八大戏剧 GTV Drama" tvg-logo="http://epg.112114.xyz/logo/台湾|八大戏剧GTVDRAMA.png"?proxy=true group-title="Smart☠️源",台湾|八大戏剧 GTV Drama
+http://156.239.254.7:5555/smt.php?id=badadrama&proxy=true
+#EXTINF:-1 tvg-id="台湾|八大娱乐 GTV Entertainment" tvg-name="台湾|八大娱乐 GTV Entertainment" tvg-logo="http://epg.112114.xyz/logo/台湾|八大娱乐GTVENTERTAINMENT.png"?proxy=true group-title="Smart☠️源",台湾|八大娱乐 GTV Entertainment
+http://156.239.254.7:5555/smt.php?id=badaentertain&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",台湾|HBO_HD
+http://156.239.254.7:5555/smt.php?id=hbohd_twn&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",台湾|HBO_HITS
+http://156.239.254.7:5555/smt.php?id=hbohit_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|Hollywood Movies" tvg-name="台湾|Hollywood Movies" tvg-logo="http://epg.112114.xyz/logo/台湾|HOLLYWOODMOVIES.png"?proxy=true group-title="Smart☠️源",台湾|Hollywood Movies
+http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|三立台湾 Sanli Taiwan" tvg-name="台湾|三立台湾 Sanli Taiwan" tvg-logo="http://epg.112114.xyz/logo/台湾|三立台湾SANLITAIWAN.png"?proxy=true group-title="Smart☠️源",台湾|三立台湾 Sanli Taiwan
+http://156.239.254.7:5555/smt.php?id=sanlitaiwan&proxy=true
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="http://epg.112114.xyz/logo/三立戏剧.png"?proxy=true group-title="Smart☠️源",台湾|三立戏剧台
+http://156.239.254.7:5555/smt.php?id=sanlixiju_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|三立综合 Sanli Metro" tvg-name="台湾|三立综合 Sanli Metro" tvg-logo="http://epg.112114.xyz/logo/台湾|三立综合SANLIMETRO.png"?proxy=true group-title="Smart☠️源",台湾|三立综合 Sanli Metro
+http://156.239.254.7:5555/smt.php?id=sanlizhonghe&proxy=true
+#EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="http://epg.112114.xyz/logo/三立都会台.png"?proxy=true group-title="Smart☠️源",台湾|三立都会台
+http://156.239.254.7:5555/smt.php?id=sanlidouhui&proxy=true
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://epg.112114.xyz/logo/TVN.png"?proxy=true group-title="Smart☠️源",台湾|东森新闻 ETTV News
+http://156.239.254.7:5555/smt.php?id=ettvnews&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",台湾|CINEMAX
+http://156.239.254.7:5555/smt.php?id=cinemax_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森综合 ETTV Metro" tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="http://epg.112114.xyz/logo/台湾|东森综合ETTVMETRO.png"?proxy=true group-title="Smart☠️源",台湾|东森综合 ETTV Metro
+http://156.239.254.7:5555/smt.php?id=ettvzhonghe&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森戏剧 ETTV Drama" tvg-name="台湾|东森戏剧 ETTV Drama" tvg-logo="http://epg.112114.xyz/logo/台湾|东森戏剧ETTVDRAMA.png"?proxy=true group-title="Smart☠️源",台湾|东森戏剧 ETTV Drama
+http://156.239.254.7:5555/smt.php?id=ettvdrama&proxy=true
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="http://epg.112114.xyz/logo/东森超视.png"?proxy=true group-title="Smart☠️源",台湾|东森超视
+http://156.239.254.7:5555/smt.php?id=ettvsuper&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="http://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png"?proxy=true group-title="Smart☠️源",台湾|东森财经新闻 ETTV Business
+http://156.239.254.7:5555/smt.php?id=ettvcaijing_twn&proxy=true
+#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="http://epg.112114.xyz/logo/寰宇财经.png"?proxy=true group-title="Smart☠️源",台湾|寰宇财经
+http://156.239.254.7:5555/smt.php?id=huanyutaiwan_twn&proxy=true
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="http://epg.112114.xyz/logo/寰宇新闻.png"?proxy=true group-title="Smart☠️源",台湾|寰宇新闻台
+http://156.239.254.7:5555/smt.php?id=huanyuxinwen_twn&proxy=true
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="http://epg.112114.xyz/logo/公视.png"?proxy=true group-title="Smart☠️源",台湾|公视2
+http://156.239.254.7:5555/smt.php?id=ctv2_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|大爱1台" tvg-name="台湾|大爱1台" tvg-logo="http://epg.112114.xyz/logo/台湾|大爱1台.png"?proxy=true group-title="Smart☠️源",台湾|大爱1台
+http://156.239.254.7:5555/smt.php?id=daai_twn&proxy=true
+#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="http://epg.112114.xyz/logo/非凡新闻台.png"?proxy=true group-title="Smart☠️源",台湾|非凡新闻台
+http://156.239.254.7:5555/smt.php?id=feifannews_twn&proxy=true
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="http://epg.112114.xyz/logo/龙华戏剧.png"?proxy=true group-title="Smart☠️源",台湾|龙华戏剧 Lunghua Drama
+http://156.239.254.7:5555/smt.php?id=lunghuaxiju_twn&proxy=true
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="http://epg.112114.xyz/logo/龙华经典.png"?proxy=true group-title="Smart☠️源",台湾|龙华经典台
+http://156.239.254.7:5555/smt.php?id=lunghuajingdian_twn&proxy=true
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="http://epg.112114.xyz/logo/龙华偶像.png"?proxy=true group-title="Smart☠️源",台湾|龙华偶像
+http://156.239.254.7:5555/smt.php?id=lunghuaidol_twn&proxy=true
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://epg.112114.xyz/logo/AXN.png"?proxy=true group-title="Smart☠️源",台湾|AXN Taiwan
+http://156.239.254.7:5555/smt.php?id=axn_twn&proxy=true
+#EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="http://epg.112114.xyz/logo/靖天国际.png"?proxy=true group-title="Smart☠️源",台湾|靖天国际台
+http://156.239.254.7:5555/smt.php?id=jingtianintl_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="http://epg.112114.xyz/logo/台湾|年代新闻.png"?proxy=true group-title="Smart☠️源",台湾|年代新闻
+http://156.239.254.7:5555/smt.php?id=niandainews_twn&proxy=true
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="http://epg.112114.xyz/logo/纬来日本台.png"?proxy=true group-title="Smart☠️源",台湾|纬来日本台
+http://156.239.254.7:5555/smt.php?id=videolandjapan&proxy=true
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="http://epg.112114.xyz/logo/纬来电影台.png"?proxy=true group-title="Smart☠️源",台湾|纬来电影台
+http://156.239.254.7:5555/smt.php?id=videolandmovie&proxy=true
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="http://epg.112114.xyz/logo/纬来体育台.png"?proxy=true group-title="Smart☠️源",台湾|纬来体育台
+http://156.239.254.7:5555/smt.php?id=videolandsport&proxy=true
+#EXTINF:-1 tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="http://epg.112114.xyz/logo/纬来综合台.png"?proxy=true group-title="Smart☠️源",台湾|纬来综合台
+http://156.239.254.7:5555/smt.php?id=videolandzonghe&proxy=true
+#EXTINF:-1 tvg-id="台湾|纬来育乐" tvg-name="台湾|纬来育乐" tvg-logo="http://epg.112114.xyz/logo/台湾|纬来育乐.png"?proxy=true group-title="Smart☠️源",台湾|纬来育乐
+http://156.239.254.7:5555/smt.php?id=videolandyule&proxy=true
+#EXTINF:-1 tvg-id="台湾|纬来精彩" tvg-name="台湾|纬来精彩" tvg-logo="http://epg.112114.xyz/logo/台湾|纬来精彩.png"?proxy=true group-title="Smart☠️源",台湾|纬来精彩
+http://156.239.254.7:5555/smt.php?id=videolandspecial_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|好消息 2" tvg-name="台湾|好消息 2" tvg-logo="http://epg.112114.xyz/logo/台湾|好消息2.png"?proxy=true group-title="Smart☠️源",台湾|好消息 2
+http://156.239.254.7:5555/smt.php?id=good2_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|大爱2台" tvg-name="台湾|大爱2台" tvg-logo="http://epg.112114.xyz/logo/台湾|大爱2台.png"?proxy=true group-title="Smart☠️源",台湾|大爱2台
+http://156.239.254.7:5555/smt.php?id=daai2_twn&proxy=true
+#EXTINF:-1 tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="http://epg.112114.xyz/logo/亚洲美食.png"?proxy=true group-title="Smart☠️源",台湾|亚洲美食
+http://156.239.254.7:5555/smt.php?id=afc_twn&proxy=true
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="http://epg.112114.xyz/logo/美食星球.png"?proxy=true group-title="Smart☠️源",台湾|美食星球
+http://156.239.254.7:5555/smt.php?id=foodplanet_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|亚洲旅游 TLC Asia" tvg-name="台湾|亚洲旅游 TLC Asia" tvg-logo="http://epg.112114.xyz/logo/台湾|亚洲旅游TLCASIA.png"?proxy=true group-title="Smart☠️源",台湾|亚洲旅游 TLC Asia
+http://156.239.254.7:5555/smt.php?id=tlc_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森电影 ETTV Movie" tvg-name="台湾|东森电影 ETTV Movie" tvg-logo="http://epg.112114.xyz/logo/台湾|东森电影ETTVMOVIE.png"?proxy=true group-title="Smart☠️源",台湾|东森电影 ETTV Movie
+http://156.239.254.7:5555/smt.php?id=ettvmovie&proxy=true
+#EXTINF:-1 tvg-id="台湾|阿里郎 Arirang" tvg-name="台湾|阿里郎 Arirang" tvg-logo="http://epg.112114.xyz/logo/台湾|阿里郎ARIRANG.png"?proxy=true group-title="Smart☠️源",台湾|阿里郎 Arirang
+http://156.239.254.7:5555/smt.php?id=arirang_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|博斯运动 1" tvg-name="台湾|博斯运动 1" tvg-logo="http://epg.112114.xyz/logo/台湾|博斯运动1.png"?proxy=true group-title="Smart☠️源",台湾|博斯运动 1
+http://156.239.254.7:5555/smt.php?id=bosisport1_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|博斯运动 2" tvg-name="台湾|博斯运动 2" tvg-logo="http://epg.112114.xyz/logo/台湾|博斯运动2.png"?proxy=true group-title="Smart☠️源",台湾|博斯运动 2
+http://156.239.254.7:5555/smt.php?id=bosisport2_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|博斯高球2 HD" tvg-name="台湾|博斯高球2 HD" tvg-logo="http://epg.112114.xyz/logo/台湾|博斯高球2.png"?proxy=true group-title="Smart☠️源",台湾|博斯高球2 HD
+http://156.239.254.7:5555/smt.php?id=bosigolf2_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|博斯网球 HD" tvg-name="台湾|博斯网球 HD" tvg-logo="http://epg.112114.xyz/logo/台湾|博斯网球.png"?proxy=true group-title="Smart☠️源",台湾|博斯网球 HD
+http://156.239.254.7:5555/smt.php?id=bositennis_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森洋片 ETTV Western" tvg-name="台湾|东森洋片 ETTV Western" tvg-logo="http://epg.112114.xyz/logo/台湾|东森洋片ETTVWESTERN.png"?proxy=true group-title="Smart☠️源",台湾|东森洋片 ETTV Western
+http://156.239.254.7:5555/smt.php?id=ettvwestern&proxy=true
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="http://epg.112114.xyz/logo/龙华洋片.png"?proxy=true group-title="Smart☠️源",台湾|龙华洋片 Lunghua Western
+http://156.239.254.7:5555/smt.php?id=lunghuawestern_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|博斯无限" tvg-name="台湾|博斯无限" tvg-logo="http://epg.112114.xyz/logo/台湾|博斯无限.png"?proxy=true group-title="Smart☠️源",台湾|博斯无限
+http://156.239.254.7:5555/smt.php?id=bosiunlimited_twn&proxy=true
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://epg.112114.xyz/logo/MTV.png"?proxy=true group-title="Smart☠️源",台湾|MTV Live
+http://156.239.254.7:5555/smt.php?id=mtvhd_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|龙详时代" tvg-name="台湾|龙详时代" tvg-logo="http://epg.112114.xyz/logo/台湾|龙详时代.png"?proxy=true group-title="Smart☠️源",台湾|龙详时代
+http://156.239.254.7:5555/smt.php?id=lungxiangtime_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|EYETV 旅游" tvg-name="台湾|EYETV 旅游" tvg-logo="http://epg.112114.xyz/logo/台湾|EYETV旅游.png"?proxy=true group-title="Smart☠️源",台湾|EYETV 旅游
+http://156.239.254.7:5555/smt.php?id=eyetvtravel_twn&proxy=true
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="http://epg.112114.xyz/logo/靖天卡通台.png"?proxy=true group-title="Smart☠️源",台湾|靖天卡通台
+http://156.239.254.7:5555/smt.php?id=jingtiancartoon_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|EYETV 戏剧" tvg-name="台湾|EYETV 戏剧" tvg-logo="http://epg.112114.xyz/logo/台湾|EYETV戏剧.png"?proxy=true group-title="Smart☠️源",台湾|EYETV 戏剧
+http://156.239.254.7:5555/smt.php?id=eyetvxiju_twn&proxy=true
+#EXTINF:-1 tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="http://epg.112114.xyz/logo/卫视中文台.png"?proxy=true group-title="Smart☠️源",台湾|卫视中文台 Star Movies Chinese
+http://156.239.254.7:5555/smt.php?id=weishichinese_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|东森幼幼 Yoyo TV" tvg-name="台湾|东森幼幼 Yoyo TV" tvg-logo="http://epg.112114.xyz/logo/台湾|东森幼幼YOYOTV.png"?proxy=true group-title="Smart☠️源",台湾|东森幼幼 Yoyo TV
+http://156.239.254.7:5555/smt.php?id=yoyo_twn&proxy=true
+#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="http://epg.112114.xyz/logo/卫视电影台.png"?proxy=true group-title="Smart☠️源",台湾|卫视电影台
+http://156.239.254.7:5555/smt.php?id=weishimovie_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="http://epg.112114.xyz/logo/台湾|美亚电影.png"?proxy=true group-title="Smart☠️源",台湾|美亚电影
+http://156.239.254.7:5555/smt.php?id=meiyamovie_twn&proxy=true
+#EXTINF:-1 tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="http://epg.112114.xyz/logo/爱尔达影剧.png"?proxy=true group-title="Smart☠️源",台湾|爱尔达影剧台
+http://156.239.254.7:5555/smt.php?id=eltayingju_twn&proxy=true
+#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="http://epg.112114.xyz/logo/爱尔达综合.png"?proxy=true group-title="Smart☠️源",台湾|爱尔达综合台
+http://156.239.254.7:5555/smt.php?id=eltazonghe_twn&proxy=true
+#EXTINF:-1 tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="http://epg.112114.xyz/logo/台湾|星卫电影.png"?proxy=true group-title="Smart☠️源",台湾|星卫电影
+http://156.239.254.7:5555/smt.php?id=xingwei_movie&proxy=true
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="http://epg.112114.xyz/logo/亚洲旅游台.png"?proxy=true group-title="Smart☠️源",台湾|AFC 亚洲旅游台
+http://156.239.254.7:5555/smt.php?id=asiatravel_twn&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",电影频道|Cinemax
+http://156.239.254.7:5555/smt.php?id=Cinemax&proxy=true
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="http://epg.112114.xyz/logo/ANIMAX.png"?proxy=true group-title="Smart☠️源",电影频道|Animax
+http://156.239.254.7:5555/smt.php?id=Animax&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="http://epg.112114.xyz/logo/电影频道|MOVIESNOW.png"?proxy=true group-title="Smart☠️源",电影频道|Movies Now HD
+http://156.239.254.7:5555/smt.php?id=moviesnow_raj&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="http://epg.112114.xyz/logo/电影频道|STARMOVIES.png"?proxy=true group-title="Smart☠️源",电影频道|Star Movies HD
+http://156.239.254.7:5555/smt.php?id=starmovies_raj&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",电影频道|HBO Family
+http://156.239.254.7:5555/smt.php?id=Hbofamily&proxy=true
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="http://epg.112114.xyz/logo/HITS.png"?proxy=true group-title="Smart☠️源",电影频道|Hits
+http://156.239.254.7:5555/smt.php?id=Hits&proxy=true
+#EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="http://epg.112114.xyz/logo/WARNERTV.png"?proxy=true group-title="Smart☠️源",电影频道|Warner TV
+http://156.239.254.7:5555/smt.php?id=WarnerTV&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",电影频道|HBO HD
+http://156.239.254.7:5555/smt.php?id=Hbo&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",电影频道|HBO Signature
+http://156.239.254.7:5555/smt.php?id=Hbosignature&proxy=true
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://epg.112114.xyz/logo/HBO.png"?proxy=true group-title="Smart☠️源",电影频道|HBO Hits
+http://156.239.254.7:5555/smt.php?id=Hbohitshd&proxy=true
+#EXTINF:-1 tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="http://epg.112114.xyz/logo/电影频道|SCM.png"?proxy=true group-title="Smart☠️源",电影频道|SCM
+http://156.239.254.7:5555/smt.php?id=Weishimovie&proxy=true
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="http://epg.112114.xyz/logo/DREAMWORKS.png"?proxy=true group-title="Smart☠️源",电影频道|Dreamworks
+http://156.239.254.7:5555/smt.php?id=Dreamworks&proxy=true
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="http://epg.112114.xyz/logo/THRILL.png"?proxy=true group-title="Smart☠️源",电影频道|Thrill
+http://156.239.254.7:5555/smt.php?id=Thrill&proxy=true
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="http://epg.112114.xyz/logo/HITS.png"?proxy=true group-title="Smart☠️源",电影频道|Hits Movie
+http://156.239.254.7:5555/smt.php?id=Hitsmovie&proxy=true
+#EXTINF:-1 tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="http://epg.112114.xyz/logo/电影频道|ONE.png"?proxy=true group-title="Smart☠️源",电影频道|One
+http://156.239.254.7:5555/smt.php?id=One&proxy=true
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://epg.112114.xyz/logo/TVN.png"?proxy=true group-title="Smart☠️源",电影频道|tvN Movie
+http://156.239.254.7:5555/smt.php?id=Tvnmovie&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="http://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png"?proxy=true group-title="Smart☠️源",电影频道|Celestial Classic
+http://156.239.254.7:5555/smt.php?id=Celestial2&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="http://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png"?proxy=true group-title="Smart☠️源",电影频道|Celestial Movies HD
+http://156.239.254.7:5555/smt.php?id=Celestialindo&proxy=true
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://epg.112114.xyz/logo/AXN.png"?proxy=true group-title="Smart☠️源",电影频道|Axn HD
+http://156.239.254.7:5555/smt.php?id=Axn&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="http://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png"?proxy=true group-title="Smart☠️源",电影频道|Paramount Network
+http://156.239.254.7:5555/smt.php?id=Paramountnetwork&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="http://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png"?proxy=true group-title="Smart☠️源",电影频道|Astrol Kplus
+http://156.239.254.7:5555/smt.php?id=Kplus&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="http://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png"?proxy=true group-title="Smart☠️源",电影频道|Rock Actions
+http://156.239.254.7:5555/smt.php?id=Rockaction&proxy=true
+#EXTINF:-1 tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="http://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png"?proxy=true group-title="Smart☠️源",电影频道|Rock Entertainment
+http://156.239.254.7:5555/smt.php?id=Rockentertain&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="http://epg.112114.xyz/logo/纪录频道|NATGEO_.png"?proxy=true group-title="Smart☠️源",纪录频道|Natgeo_HD
+http://156.239.254.7:5555/smt.php?id=natgeohd_twn&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="http://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png"?proxy=true group-title="Smart☠️源",纪录频道|NatGeo_Wild HD
+http://156.239.254.7:5555/smt.php?id=natgeowild_twn&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="http://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png"?proxy=true group-title="Smart☠️源",纪录频道|Animal_Planet
+http://156.239.254.7:5555/smt.php?id=animalplanet_twn&proxy=true
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://epg.112114.xyz/logo/DISCOVERY.png"?proxy=true group-title="Smart☠️源",纪录频道|Discovery Asia
+http://156.239.254.7:5555/smt.php?id=discoverytwn_twn&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",纪录频道|CI
+http://156.239.254.7:5555/smt.php?id=ci_twn&proxy=true
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://epg.112114.xyz/logo/DISCOVERY.png"?proxy=true group-title="Smart☠️源",纪录频道|Discovery HD
+http://156.239.254.7:5555/smt.php?id=discoveryhd_twn&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="http://epg.112114.xyz/logo/纪录频道|NATGEO.png"?proxy=true group-title="Smart☠️源",纪录频道|NatGeo HD
+http://156.239.254.7:5555/smt.php?id=Natgeo&proxy=true
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="http://epg.112114.xyz/logo/FASHIONTV.png"?proxy=true group-title="Smart☠️源",纪录频道|Fashion TV
+http://156.239.254.7:5555/smt.php?id=fashiontv_twn&proxy=true
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://epg.112114.xyz/logo/HISTORY.png"?proxy=true group-title="Smart☠️源",纪录频道|History
+http://156.239.254.7:5555/smt.php?id=History&proxy=true
+#EXTINF:-1 tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="http://epg.112114.xyz/logo/BBCEARTH.png"?proxy=true group-title="Smart☠️源",纪录频道|BBC Earth HD
+http://156.239.254.7:5555/smt.php?id=bbcearth_twn&proxy=true
+#EXTINF:-1 tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="http://epg.112114.xyz/logo/BBCEARTH.png"?proxy=true group-title="Smart☠️源",纪录频道|BBC Earth Lifestyle
+http://156.239.254.7:5555/smt.php?id=bbclifestyle_twn&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="http://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png"?proxy=true group-title="Smart☠️源",纪录频道|NatGeo Wild HD
+http://156.239.254.7:5555/smt.php?id=Natgeowild&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="http://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png"?proxy=true group-title="Smart☠️源",纪录频道|Animal Planet (Eng)
+http://156.239.254.7:5555/smt.php?id=AnimalPlanet&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="http://epg.112114.xyz/logo/纪录频道|TLC.png"?proxy=true group-title="Smart☠️源",纪录频道|TLC
+http://156.239.254.7:5555/smt.php?id=Tlc&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="http://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png"?proxy=true group-title="Smart☠️源",纪录频道|Foodnetwork Hd
+http://156.239.254.7:5555/smt.php?id=Foodnetwork&proxy=true
+#EXTINF:-1 tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="http://epg.112114.xyz/logo/纪录频道|HGTV.png"?proxy=true group-title="Smart☠️源",纪录频道|HGTV
+http://156.239.254.7:5555/smt.php?id=HGTV&proxy=true
+#EXTINF:-1 tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="http://epg.112114.xyz/logo/SKYNEWS.png"?proxy=true group-title="Smart☠️源",新闻频道|Skynews
+http://156.239.254.7:5555/smt.php?id=skynews_twn&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|ABC News" tvg-name="新闻频道|ABC News" tvg-logo="http://epg.112114.xyz/logo/新闻频道|ABCNEWS.png"?proxy=true group-title="Smart☠️源",新闻频道|ABC News
+http://156.239.254.7:5555/smt.php?id=abcnews_glo&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|CBS HD" tvg-name="新闻频道|CBS HD" tvg-logo="http://epg.112114.xyz/logo/新闻频道|CBS.png"?proxy=true group-title="Smart☠️源",新闻频道|CBS HD
+http://156.239.254.7:5555/smt.php?id=cbshd_glo&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|CBSN HD" tvg-name="新闻频道|CBSN HD" tvg-logo="http://epg.112114.xyz/logo/新闻频道|CBSN.png"?proxy=true group-title="Smart☠️源",新闻频道|CBSN HD
+http://156.239.254.7:5555/smt.php?id=cbsn_glo&proxy=true
+#EXTINF:-1 tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="http://epg.112114.xyz/logo/FRANCE24.png"?proxy=true group-title="Smart☠️源",新闻频道|France 24
+http://156.239.254.7:5555/smt.php?id=france24_twn&proxy=true
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="http://epg.112114.xyz/logo/DW.png"?proxy=true group-title="Smart☠️源",新闻频道|DW (Deutsch)
+http://156.239.254.7:5555/smt.php?id=dw_twn&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",新闻频道|NHK World
+http://156.239.254.7:5555/smt.php?id=nhkworld_japan&proxy=true
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://epg.112114.xyz/logo/FOX.png"?proxy=true group-title="Smart☠️源",新闻频道|Fox News
+http://156.239.254.7:5555/smt.php?id=foxnews_twn&proxy=true
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://epg.112114.xyz/logo/CNN.png"?proxy=true group-title="Smart☠️源",新闻频道|CNN International
+http://156.239.254.7:5555/smt.php?id=Cnn&proxy=true
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://epg.112114.xyz/logo/CNN.png"?proxy=true group-title="Smart☠️源",新闻频道|CNN backup
+http://156.239.254.7:5555/smt.php?id=cnn_twn&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|CNBC" tvg-name="新闻频道|CNBC" tvg-logo="http://epg.112114.xyz/logo/新闻频道|CNBC.png"?proxy=true group-title="Smart☠️源",新闻频道|CNBC
+http://156.239.254.7:5555/smt.php?id=cnbc_twn&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|CNA" tvg-name="新闻频道|CNA" tvg-logo="http://epg.112114.xyz/logo/新闻频道|CNA.png"?proxy=true group-title="Smart☠️源",新闻频道|CNA
+http://156.239.254.7:5555/smt.php?id=cna&proxy=true
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.112114.xyz/logo/BBCWORLDNEWS.png"?proxy=true group-title="Smart☠️源",新闻频道|BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcnews_twn&proxy=true
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.112114.xyz/logo/BBCWORLDNEWS.png"?proxy=true group-title="Smart☠️源",新闻频道|BBC World News
+http://156.239.254.7:5555/smt.php?id=Bbcnews&proxy=true
+#EXTINF:-1 tvg-id="新闻频道|Bloomberg News" tvg-name="新闻频道|Bloomberg News" tvg-logo="http://epg.112114.xyz/logo/新闻频道|BLOOMBERGNEWS.png"?proxy=true group-title="Smart☠️源",新闻频道|Bloomberg News
+http://156.239.254.7:5555/smt.php?id=bloomberg_twn&proxy=true
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="http://epg.112114.xyz/logo/ALJAZEERA.png"?proxy=true group-title="Smart☠️源",新闻频道|Al-Jazeera
+http://156.239.254.7:5555/smt.php?id=aljazeera_twn&proxy=true
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="http://epg.112114.xyz/logo/BABYTV.png"?proxy=true group-title="Smart☠️源",儿童频道|Baby TV Eng
+http://156.239.254.7:5555/smt.php?id=Babytv&proxy=true
+#EXTINF:-1 tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="http://epg.112114.xyz/logo/CBEEBIES.png"?proxy=true group-title="Smart☠️源",儿童频道|CBeebies
+http://156.239.254.7:5555/smt.php?id=Cbeebies&proxy=true
+#EXTINF:-1 tvg-id="儿童频道|Kids TV" tvg-name="儿童频道|Kids TV" tvg-logo="http://epg.112114.xyz/logo/儿童频道|KIDSTV.png"?proxy=true group-title="Smart☠️源",儿童频道|Kids TV
+http://156.239.254.7:5555/smt.php?id=KidsTV&proxy=true
+#EXTINF:-1 tvg-id="儿童频道|Momo TV" tvg-name="儿童频道|Momo TV" tvg-logo="http://epg.112114.xyz/logo/儿童频道|MOMOTV.png"?proxy=true group-title="Smart☠️源",儿童频道|Momo TV
+http://156.239.254.7:5555/smt.php?id=momo1_twn&proxy=true
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="http://epg.112114.xyz/logo/BABYTV.png"?proxy=true group-title="Smart☠️源",儿童频道|Baby TV
+http://156.239.254.7:5555/smt.php?id=babytv_twn&proxy=true
+#EXTINF:-1 tvg-id="儿童频道|MiaoMi" tvg-name="儿童频道|MiaoMi" tvg-logo="http://epg.112114.xyz/logo/儿童频道|MIAOMI.png"?proxy=true group-title="Smart☠️源",儿童频道|MiaoMi
+http://156.239.254.7:5555/smt.php?id=MiaoMi&proxy=true
+#EXTINF:-1 tvg-id="儿童频道|Cartoon Network" tvg-name="儿童频道|Cartoon Network" tvg-logo="http://epg.112114.xyz/logo/儿童频道|CARTOONNETWORK.png"?proxy=true group-title="Smart☠️源",儿童频道|Cartoon Network
+http://156.239.254.7:5555/smt.php?id=Cn&proxy=true
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://epg.112114.xyz/logo/NICKELODEON.png"?proxy=true group-title="Smart☠️源",儿童频道|Nickelodeon
+http://156.239.254.7:5555/smt.php?id=Nickelodeon&proxy=true
+#EXTINF:-1 tvg-id="儿童频道|Nick Jr" tvg-name="儿童频道|Nick Jr" tvg-logo="http://epg.112114.xyz/logo/儿童频道|NICKJR.png"?proxy=true group-title="Smart☠️源",儿童频道|Nick Jr
+http://156.239.254.7:5555/smt.php?id=Nickjr&proxy=true
+#EXTINF:-1 tvg-id="新加坡|Channel 5" tvg-name="新加坡|Channel 5" tvg-logo="http://epg.112114.xyz/logo/新加坡|CHANNEL5.png"?proxy=true group-title="Smart☠️源",新加坡|Channel 5
+http://156.239.254.7:5555/smt.php?id=Channel5HD&proxy=true
+#EXTINF:-1 tvg-id="新加坡|Channel 8" tvg-name="新加坡|Channel 8" tvg-logo="http://epg.112114.xyz/logo/新加坡|CHANNEL8.png"?proxy=true group-title="Smart☠️源",新加坡|Channel 8
+http://156.239.254.7:5555/smt.php?id=Channel8HD&proxy=true
+#EXTINF:-1 tvg-id="新加坡|Suria" tvg-name="新加坡|Suria" tvg-logo="http://epg.112114.xyz/logo/新加坡|SURIA.png"?proxy=true group-title="Smart☠️源",新加坡|Suria
+http://156.239.254.7:5555/smt.php?id=Suria&proxy=true
+#EXTINF:-1 tvg-id="新加坡|Channel U" tvg-name="新加坡|Channel U" tvg-logo="http://epg.112114.xyz/logo/新加坡|CHANNELU.png"?proxy=true group-title="Smart☠️源",新加坡|Channel U
+http://156.239.254.7:5555/smt.php?id=ChannelU&proxy=true
+#EXTINF:-1 tvg-id="新加坡|Vasantham" tvg-name="新加坡|Vasantham" tvg-logo="http://epg.112114.xyz/logo/新加坡|VASANTHAM.png"?proxy=true group-title="Smart☠️源",新加坡|Vasantham
+http://156.239.254.7:5555/smt.php?id=Vasantham&proxy=true
+#EXTINF:-1 tvg-id="新加坡|CNA backup" tvg-name="新加坡|CNA backup" tvg-logo="http://epg.112114.xyz/logo/新加坡|CNABACKUP.png"?proxy=true group-title="Smart☠️源",新加坡|CNA backup
+http://156.239.254.7:5555/smt.php?id=cna_twn&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch Ch 5" tvg-name="新加坡|MeWatch Ch 5" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHCH5.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch Ch 5
+http://156.239.254.7:5555/smt.php?id=Mewatch_ch5&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch Ch 8" tvg-name="新加坡|MeWatch Ch 8" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHCH8.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch Ch 8
+http://156.239.254.7:5555/smt.php?id=Mewatch_ch8&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch Ch U" tvg-name="新加坡|MeWatch Ch U" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHCHU.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch Ch U
+http://156.239.254.7:5555/smt.php?id=Mewatch_chU&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch Suria" tvg-name="新加坡|MeWatch Suria" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHSURIA.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch Suria
+http://156.239.254.7:5555/smt.php?id=Mewatch_Suria&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch Vasantham" tvg-name="新加坡|MeWatch Vasantham" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHVASANTHAM.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch Vasantham
+http://156.239.254.7:5555/smt.php?id=Mewatch_Vasantham&proxy=true
+#EXTINF:-1 tvg-id="新加坡|MeWatch CNA" tvg-name="新加坡|MeWatch CNA" tvg-logo="http://epg.112114.xyz/logo/新加坡|MEWATCHCNA.png"?proxy=true group-title="Smart☠️源",新加坡|MeWatch CNA
+http://156.239.254.7:5555/smt.php?id=Mewatch_cna&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV1" tvg-name="马来西亚|TV1" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV1.png"?proxy=true group-title="Smart☠️源",马来西亚|TV1
+http://156.239.254.7:5555/smt.php?id=TV1&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV1 backup" tvg-name="马来西亚|TV1 backup" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV1BACKUP.png"?proxy=true group-title="Smart☠️源",马来西亚|TV1 backup
+http://156.239.254.7:5555/smt.php?id=TV1_backup&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV2" tvg-name="马来西亚|TV2" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV2.png"?proxy=true group-title="Smart☠️源",马来西亚|TV2
+http://156.239.254.7:5555/smt.php?id=TV2&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV3" tvg-name="马来西亚|TV3" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV3.png"?proxy=true group-title="Smart☠️源",马来西亚|TV3
+http://156.239.254.7:5555/smt.php?id=TV3&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV3 SD" tvg-name="马来西亚|TV3 SD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV3SD.png"?proxy=true group-title="Smart☠️源",马来西亚|TV3 SD
+http://156.239.254.7:5555/smt.php?id=TV3_mega&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|NTV7" tvg-name="马来西亚|NTV7" tvg-logo="http://epg.112114.xyz/logo/马来西亚|NTV7.png"?proxy=true group-title="Smart☠️源",马来西亚|NTV7
+http://156.239.254.7:5555/smt.php?id=NTV7&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV8" tvg-name="马来西亚|TV8" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV8.png"?proxy=true group-title="Smart☠️源",马来西亚|TV8
+http://156.239.254.7:5555/smt.php?id=TV8&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TV9" tvg-name="马来西亚|TV9" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TV9.png"?proxy=true group-title="Smart☠️源",马来西亚|TV9
+http://156.239.254.7:5555/smt.php?id=TV9&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Ria" tvg-name="马来西亚|Ria" tvg-logo="http://epg.112114.xyz/logo/马来西亚|RIA.png"?proxy=true group-title="Smart☠️源",马来西亚|Ria
+http://156.239.254.7:5555/smt.php?id=Ria-0&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Ria-3" tvg-name="马来西亚|Ria-3" tvg-logo="http://epg.112114.xyz/logo/马来西亚|RIA3.png"?proxy=true group-title="Smart☠️源",马来西亚|Ria-3
+http://156.239.254.7:5555/smt.php?id=Ria_backup&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Al-Hijrah" tvg-name="马来西亚|Al-Hijrah" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ALHIJRAH.png"?proxy=true group-title="Smart☠️源",马来西亚|Al-Hijrah
+http://156.239.254.7:5555/smt.php?id=Alhijrah&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Al-Hijrah backup" tvg-name="马来西亚|Al-Hijrah backup" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ALHIJRAHBACKUP.png"?proxy=true group-title="Smart☠️源",马来西亚|Al-Hijrah backup
+http://156.239.254.7:5555/smt.php?id=Alhijrah_backup&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Awani" tvg-name="马来西亚|Awani" tvg-logo="http://epg.112114.xyz/logo/马来西亚|AWANI.png"?proxy=true group-title="Smart☠️源",马来西亚|Awani
+http://156.239.254.7:5555/smt.php?id=Awani&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Bernama" tvg-name="马来西亚|Bernama" tvg-logo="http://epg.112114.xyz/logo/马来西亚|BERNAMA.png"?proxy=true group-title="Smart☠️源",马来西亚|Bernama
+http://156.239.254.7:5555/smt.php?id=Bernama&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Prima" tvg-name="马来西亚|Prima" tvg-logo="http://epg.112114.xyz/logo/马来西亚|PRIMA.png"?proxy=true group-title="Smart☠️源",马来西亚|Prima
+http://156.239.254.7:5555/smt.php?id=Prima-0&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Prima backup" tvg-name="马来西亚|Prima backup" tvg-logo="http://epg.112114.xyz/logo/马来西亚|PRIMABACKUP.png"?proxy=true group-title="Smart☠️源",马来西亚|Prima backup
+http://156.239.254.7:5555/smt.php?id=AAprima1&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Prima backup 2" tvg-name="马来西亚|Prima backup 2" tvg-logo="http://epg.112114.xyz/logo/马来西亚|PRIMABACKUP2.png"?proxy=true group-title="Smart☠️源",马来西亚|Prima backup 2
+http://156.239.254.7:5555/smt.php?id=AAprima&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Ceria" tvg-name="马来西亚|Ceria" tvg-logo="http://epg.112114.xyz/logo/马来西亚|CERIA.png"?proxy=true group-title="Smart☠️源",马来西亚|Ceria
+http://156.239.254.7:5555/smt.php?id=Ceria&proxy=true
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://epg.112114.xyz/logo/MTV.png"?proxy=true group-title="Smart☠️源",马来西亚|Astro MTV
+http://156.239.254.7:5555/smt.php?id=AstroMTV&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Mecca Live HD" tvg-name="马来西亚|Mecca Live HD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|MECCALIVE.png"?proxy=true group-title="Smart☠️源",马来西亚|Mecca Live HD
+http://156.239.254.7:5555/smt.php?id=quran_mido&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Madinah HD" tvg-name="马来西亚|Madinah HD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|MADINAH.png"?proxy=true group-title="Smart☠️源",马来西亚|Madinah HD
+http://156.239.254.7:5555/smt.php?id=sunnah_mido&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Oasis" tvg-name="马来西亚|Oasis" tvg-logo="http://epg.112114.xyz/logo/马来西亚|OASIS.png"?proxy=true group-title="Smart☠️源",马来西亚|Oasis
+http://156.239.254.7:5555/smt.php?id=Oasis&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Siar" tvg-name="马来西亚|Siar" tvg-logo="http://epg.112114.xyz/logo/马来西亚|SIAR.png"?proxy=true group-title="Smart☠️源",马来西亚|Siar
+http://156.239.254.7:5555/smt.php?id=Siar&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",马来西亚|Citra
+http://156.239.254.7:5555/smt.php?id=AAcitra&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",马来西亚|Citra backup
+http://156.239.254.7:5555/smt.php?id=AAcitra1&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Sensasi" tvg-name="马来西亚|Sensasi" tvg-logo="http://epg.112114.xyz/logo/马来西亚|SENSASI.png"?proxy=true group-title="Smart☠️源",马来西亚|Sensasi
+http://156.239.254.7:5555/smt.php?id=Sensasi&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Aura" tvg-name="马来西亚|Aura" tvg-logo="http://epg.112114.xyz/logo/马来西亚|AURA.png"?proxy=true group-title="Smart☠️源",马来西亚|Aura
+http://156.239.254.7:5555/smt.php?id=Aura&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Rania" tvg-name="马来西亚|Rania" tvg-logo="http://epg.112114.xyz/logo/马来西亚|RANIA.png"?proxy=true group-title="Smart☠️源",马来西亚|Rania
+http://156.239.254.7:5555/smt.php?id=Rania&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|KBS World" tvg-name="马来西亚|KBS World" tvg-logo="http://epg.112114.xyz/logo/马来西亚|KBSWORLD.png"?proxy=true group-title="Smart☠️源",马来西亚|KBS World
+http://156.239.254.7:5555/smt.php?id=KBS&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Boo" tvg-name="马来西亚|Boo" tvg-logo="http://epg.112114.xyz/logo/马来西亚|BOO.png"?proxy=true group-title="Smart☠️源",马来西亚|Boo
+http://156.239.254.7:5555/smt.php?id=Boo&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Awesome TV" tvg-name="马来西亚|Awesome TV" tvg-logo="http://epg.112114.xyz/logo/马来西亚|AWESOMETV.png"?proxy=true group-title="Smart☠️源",马来西亚|Awesome TV
+http://156.239.254.7:5555/smt.php?id=Dsangat&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Astro Sonypix" tvg-name="马来西亚|Astro Sonypix" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ASTROSONYPIX.png"?proxy=true group-title="Smart☠️源",马来西亚|Astro Sonypix
+http://156.239.254.7:5555/smt.php?id=Asonypix&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Sony HD" tvg-name="马来西亚|Sony HD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|SONY.png"?proxy=true group-title="Smart☠️源",马来西亚|Sony HD
+http://156.239.254.7:5555/smt.php?id=SetOne&proxy=true
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://epg.112114.xyz/logo/TVN.png"?proxy=true group-title="Smart☠️源",马来西亚|TvN
+http://156.239.254.7:5555/smt.php?id=TVN&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|AEC" tvg-name="马来西亚|AEC" tvg-logo="http://epg.112114.xyz/logo/马来西亚|AEC.png"?proxy=true group-title="Smart☠️源",马来西亚|AEC
+http://156.239.254.7:5555/smt.php?id=AEC&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|华丽台 HD （Wah Lai Toi）" tvg-name="马来西亚|华丽台 HD （Wah Lai Toi）" tvg-logo="http://epg.112114.xyz/logo/马来西亚|华丽台HD（WAHLAITOI）.png"?proxy=true group-title="Smart☠️源",马来西亚|华丽台 HD （Wah Lai Toi）
+http://156.239.254.7:5555/smt.php?id=Wlt&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|欢喜台 HD （Hua Hee Tai）" tvg-name="马来西亚|欢喜台 HD （Hua Hee Tai）" tvg-logo="http://epg.112114.xyz/logo/马来西亚|欢喜台HD（HUAHEETAI）.png"?proxy=true group-title="Smart☠️源",马来西亚|欢喜台 HD （Hua Hee Tai）
+http://156.239.254.7:5555/smt.php?id=Huahee&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Astro QJ" tvg-name="马来西亚|Astro QJ" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ASTROQJ.png"?proxy=true group-title="Smart☠️源",马来西亚|Astro QJ
+http://156.239.254.7:5555/smt.php?id=Quanjia&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TVB Jade" tvg-name="马来西亚|TVB Jade" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TVBJADE.png"?proxy=true group-title="Smart☠️源",马来西亚|TVB Jade
+http://156.239.254.7:5555/smt.php?id=Tvbjade&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TVB Asia" tvg-name="马来西亚|TVB Asia" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TVBASIA.png"?proxy=true group-title="Smart☠️源",马来西亚|TVB Asia
+http://156.239.254.7:5555/smt.php?id=Tvbasia&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TVB Entertainment" tvg-name="马来西亚|TVB Entertainment" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TVBENTERTAINMENT.png"?proxy=true group-title="Smart☠️源",马来西亚|TVB Entertainment
+http://156.239.254.7:5555/smt.php?id=Tvbentertainment&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TVB Classic" tvg-name="马来西亚|TVB Classic" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TVBCLASSIC.png"?proxy=true group-title="Smart☠️源",马来西亚|TVB Classic
+http://156.239.254.7:5555/smt.php?id=Tvbclassic&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|AOD" tvg-name="马来西亚|AOD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|AOD.png"?proxy=true group-title="Smart☠️源",马来西亚|AOD
+http://156.239.254.7:5555/smt.php?id=Aodhd&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|TVB 星河台 Xing He" tvg-name="马来西亚|TVB 星河台 Xing He" tvg-logo="http://epg.112114.xyz/logo/马来西亚|TVB星河台XINGHE.png"?proxy=true group-title="Smart☠️源",马来西亚|TVB 星河台 Xing He
+http://156.239.254.7:5555/smt.php?id=Xinhe&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|爱奇艺 iQiyi" tvg-name="马来西亚|爱奇艺 iQiyi" tvg-logo="http://epg.112114.xyz/logo/马来西亚|爱奇艺IQIYI.png"?proxy=true group-title="Smart☠️源",马来西亚|爱奇艺 iQiyi
+http://156.239.254.7:5555/smt.php?id=Qiyi&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Goshop" tvg-name="马来西亚|Goshop" tvg-logo="http://epg.112114.xyz/logo/马来西亚|GOSHOP.png"?proxy=true group-title="Smart☠️源",马来西亚|Goshop
+http://156.239.254.7:5555/smt.php?id=Goshop&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Celestial Movies HD" tvg-name="马来西亚|Celestial Movies HD" tvg-logo="http://epg.112114.xyz/logo/马来西亚|CELESTIALMOVIES.png"?proxy=true group-title="Smart☠️源",马来西亚|Celestial Movies HD
+http://156.239.254.7:5555/smt.php?id=Celestial&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Astro LOL" tvg-name="马来西亚|Astro LOL" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ASTROLOL.png"?proxy=true group-title="Smart☠️源",马来西亚|Astro LOL
+http://156.239.254.7:5555/smt.php?id=Astro_lol&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|Astro Rusi" tvg-name="马来西亚|Astro Rusi" tvg-logo="http://epg.112114.xyz/logo/马来西亚|ASTRORUSI.png"?proxy=true group-title="Smart☠️源",马来西亚|Astro Rusi
+http://156.239.254.7:5555/smt.php?id=Rusi&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|WION" tvg-name="马来西亚|WION" tvg-logo="http://epg.112114.xyz/logo/马来西亚|WION.png"?proxy=true group-title="Smart☠️源",马来西亚|WION
+http://156.239.254.7:5555/smt.php?id=Wion&proxy=true
+#EXTINF:-1 tvg-id="马来西亚|RTM Asean" tvg-name="马来西亚|RTM Asean" tvg-logo="http://epg.112114.xyz/logo/马来西亚|RTMASEAN.png"?proxy=true group-title="Smart☠️源",马来西亚|RTM Asean
+http://156.239.254.7:5555/smt.php?id=Rtmasean&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|TVRI National" tvg-name="印度尼西亚|TVRI National" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TVRINATIONAL.png"?proxy=true group-title="Smart☠️源",印度尼西亚|TVRI National
+http://156.239.254.7:5555/smt.php?id=TVRI&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|RCTI" tvg-name="印度尼西亚|RCTI" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|RCTI.png"?proxy=true group-title="Smart☠️源",印度尼西亚|RCTI
+http://156.239.254.7:5555/smt.php?id=Rcti&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Kompass TV" tvg-name="印度尼西亚|Kompass TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|KOMPASSTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Kompass TV
+http://156.239.254.7:5555/smt.php?id=Kompass&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Berita Satu" tvg-name="印度尼西亚|Berita Satu" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|BERITASATU.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Berita Satu
+http://156.239.254.7:5555/smt.php?id=BeritaSatu_eko&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Indosiar HD
+http://156.239.254.7:5555/smt.php?id=Indosiar&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|AnTV" tvg-name="印度尼西亚|AnTV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|ANTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|AnTV
+http://156.239.254.7:5555/smt.php?id=Antv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|MNC TV" tvg-name="印度尼西亚|MNC TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|MNCTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|MNC TV
+http://156.239.254.7:5555/smt.php?id=Mnctv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Trans 7" tvg-name="印度尼西亚|Trans 7" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TRANS7.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Trans 7
+http://156.239.254.7:5555/smt.php?id=Trans7_eko&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Transtv" tvg-name="印度尼西亚|Transtv" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TRANSTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Transtv
+http://156.239.254.7:5555/smt.php?id=Transtv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|JTV" tvg-name="印度尼西亚|JTV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|JTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|JTV
+http://156.239.254.7:5555/smt.php?id=JTV_eko&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Metro TV" tvg-name="印度尼西亚|Metro TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|METROTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Metro TV
+http://156.239.254.7:5555/smt.php?id=metrotv_eko&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|SCTV" tvg-name="印度尼西亚|SCTV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|SCTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|SCTV
+http://156.239.254.7:5555/smt.php?id=SCTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Tvone" tvg-name="印度尼西亚|Tvone" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TVONE.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Tvone
+http://156.239.254.7:5555/smt.php?id=Tvone&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|TVMU" tvg-name="印度尼西亚|TVMU" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TVMU.png"?proxy=true group-title="Smart☠️源",印度尼西亚|TVMU
+http://156.239.254.7:5555/smt.php?id=TVMU_eko&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|GTV" tvg-name="印度尼西亚|GTV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|GTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|GTV
+http://156.239.254.7:5555/smt.php?id=Gtv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|RTV" tvg-name="印度尼西亚|RTV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|RTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|RTV
+http://156.239.254.7:5555/smt.php?id=Rtv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Jak TV" tvg-name="印度尼西亚|Jak TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|JAKTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Jak TV
+http://156.239.254.7:5555/smt.php?id=JakTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|iNews TV" tvg-name="印度尼西亚|iNews TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|INEWSTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|iNews TV
+http://156.239.254.7:5555/smt.php?id=Inewstv&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Daai TV" tvg-name="印度尼西亚|Daai TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|DAAITV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Daai TV
+http://156.239.254.7:5555/smt.php?id=DaaiTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Net TV" tvg-name="印度尼西亚|Net TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|NETTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Net TV
+http://156.239.254.7:5555/smt.php?id=NetTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|EWTN" tvg-name="印度尼西亚|EWTN" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|EWTN.png"?proxy=true group-title="Smart☠️源",印度尼西亚|EWTN
+http://156.239.254.7:5555/smt.php?id=Ewtn&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|AlQuran AlKareem" tvg-name="印度尼西亚|AlQuran AlKareem" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|ALQURANALKAREEM.png"?proxy=true group-title="Smart☠️源",印度尼西亚|AlQuran AlKareem
+http://156.239.254.7:5555/smt.php?id=AlQuran&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Tawaf TV" tvg-name="印度尼西亚|Tawaf TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|TAWAFTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Tawaf TV
+http://156.239.254.7:5555/smt.php?id=TawafTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Vision Prime" tvg-name="印度尼西亚|Vision Prime" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|VISIONPRIME.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Vision Prime
+http://156.239.254.7:5555/smt.php?id=VisionPrime&proxy=true
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://epg.112114.xyz/logo/MTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Muslim TV
+http://156.239.254.7:5555/smt.php?id=MuslimTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Music TV" tvg-name="印度尼西亚|Music TV" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|MUSICTV.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Music TV
+http://156.239.254.7:5555/smt.php?id=MusicTV&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Lifestyle&amp;Fashion" tvg-name="印度尼西亚|Lifestyle&amp;Fashion" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|LIFESTYLE&amp;FASHION.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Lifestyle&amp;Fashion
+http://156.239.254.7:5555/smt.php?id=Lifestyle&proxy=true
+#EXTINF:-1 tvg-id="印度尼西亚|Entertain" tvg-name="印度尼西亚|Entertain" tvg-logo="http://epg.112114.xyz/logo/印度尼西亚|ENTERTAIN.png"?proxy=true group-title="Smart☠️源",印度尼西亚|Entertain
+http://156.239.254.7:5555/smt.php?id=Entertain&proxy=true
+#EXTINF:-1 tvg-id="印度|Sun TV HD" tvg-name="印度|Sun TV HD" tvg-logo="http://epg.112114.xyz/logo/印度|SUNTV.png"?proxy=true group-title="Smart☠️源",印度|Sun TV HD
+http://156.239.254.7:5555/smt.php?id=Suntv&proxy=true
+#EXTINF:-1 tvg-id="印度|Star Vijay" tvg-name="印度|Star Vijay" tvg-logo="http://epg.112114.xyz/logo/印度|STARVIJAY.png"?proxy=true group-title="Smart☠️源",印度|Star Vijay
+http://156.239.254.7:5555/smt.php?id=Starvijay&proxy=true
+#EXTINF:-1 tvg-id="印度|Colors Tamil" tvg-name="印度|Colors Tamil" tvg-logo="http://epg.112114.xyz/logo/印度|COLORSTAMIL.png"?proxy=true group-title="Smart☠️源",印度|Colors Tamil
+http://156.239.254.7:5555/smt.php?id=Colorstam&proxy=true
+#EXTINF:-1 tvg-id="印度|Sun Music" tvg-name="印度|Sun Music" tvg-logo="http://epg.112114.xyz/logo/印度|SUNMUSIC.png"?proxy=true group-title="Smart☠️源",印度|Sun Music
+http://156.239.254.7:5555/smt.php?id=Sunmusic&proxy=true
+#EXTINF:-1 tvg-id="印度|Astro Sunlife" tvg-name="印度|Astro Sunlife" tvg-logo="http://epg.112114.xyz/logo/印度|ASTROSUNLIFE.png"?proxy=true group-title="Smart☠️源",印度|Astro Sunlife
+http://156.239.254.7:5555/smt.php?id=Sunlife&proxy=true
+#EXTINF:-1 tvg-id="印度|Astro Vaanavil" tvg-name="印度|Astro Vaanavil" tvg-logo="http://epg.112114.xyz/logo/印度|ASTROVAANAVIL.png"?proxy=true group-title="Smart☠️源",印度|Astro Vaanavil
+http://156.239.254.7:5555/smt.php?id=Vaanavil&proxy=true
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="http://epg.112114.xyz/logo/Z.png"?proxy=true group-title="Smart☠️源",印度|Zee Tamil
+http://156.239.254.7:5555/smt.php?id=Zeetamil&proxy=true
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="http://epg.112114.xyz/logo/Z.png"?proxy=true group-title="Smart☠️源",印度|Zee Business
+http://156.239.254.7:5555/smt.php?id=Zeebusiness&proxy=true
+#EXTINF:-1 tvg-id="印度|News 18 Tamil" tvg-name="印度|News 18 Tamil" tvg-logo="http://epg.112114.xyz/logo/印度|NEWS18TAMIL.png"?proxy=true group-title="Smart☠️源",印度|News 18 Tamil
+http://156.239.254.7:5555/smt.php?id=news18tamil_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Adithya" tvg-name="印度|Adithya" tvg-logo="http://epg.112114.xyz/logo/印度|ADITHYA.png"?proxy=true group-title="Smart☠️源",印度|Adithya
+http://156.239.254.7:5555/smt.php?id=Adithya&proxy=true
+#EXTINF:-1 tvg-id="印度|Makkal TV" tvg-name="印度|Makkal TV" tvg-logo="http://epg.112114.xyz/logo/印度|MAKKALTV.png"?proxy=true group-title="Smart☠️源",印度|Makkal TV
+http://156.239.254.7:5555/smt.php?id=Makkaltv&proxy=true
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="http://epg.112114.xyz/logo/Z.png"?proxy=true group-title="Smart☠️源",印度|Zee Action
+http://156.239.254.7:5555/smt.php?id=Zeeaction&proxy=true
+#EXTINF:-1 tvg-id="印度|Astro KTV" tvg-name="印度|Astro KTV" tvg-logo="http://epg.112114.xyz/logo/印度|ASTROKTV.png"?proxy=true group-title="Smart☠️源",印度|Astro KTV
+http://156.239.254.7:5555/smt.php?id=Astroktv&proxy=true
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="http://epg.112114.xyz/logo/Z.png"?proxy=true group-title="Smart☠️源",印度|Zee TV HD
+http://156.239.254.7:5555/smt.php?id=Zeetvhd&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",印度|Zee Cinema HD
+http://156.239.254.7:5555/smt.php?id=Zeecinemahd&proxy=true
+#EXTINF:-1 tvg-id="印度|Color HD" tvg-name="印度|Color HD" tvg-logo="http://epg.112114.xyz/logo/印度|COLOR.png"?proxy=true group-title="Smart☠️源",印度|Color HD
+http://156.239.254.7:5555/smt.php?id=Colorhd&proxy=true
+#EXTINF:-1 tvg-id="印度|Starplus HD" tvg-name="印度|Starplus HD" tvg-logo="http://epg.112114.xyz/logo/印度|STARPLUS.png"?proxy=true group-title="Smart☠️源",印度|Starplus HD
+http://156.239.254.7:5555/smt.php?id=Starplushd&proxy=true
+#EXTINF:-1 tvg-id="印度|Picture HD" tvg-name="印度|Picture HD" tvg-logo="http://epg.112114.xyz/logo/印度|PICTURE.png"?proxy=true group-title="Smart☠️源",印度|Picture HD
+http://156.239.254.7:5555/smt.php?id=Npicture&proxy=true
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="http://epg.112114.xyz/logo/Z.png"?proxy=true group-title="Smart☠️源",印度|Zee News
+http://156.239.254.7:5555/smt.php?id=Zeenews&proxy=true
+#EXTINF:-1 tvg-id="印度|Asianet" tvg-name="印度|Asianet" tvg-logo="http://epg.112114.xyz/logo/印度|ASIANET.png"?proxy=true group-title="Smart☠️源",印度|Asianet
+http://156.239.254.7:5555/smt.php?id=asianet_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Asianet News" tvg-name="印度|Asianet News" tvg-logo="http://epg.112114.xyz/logo/印度|ASIANETNEWS.png"?proxy=true group-title="Smart☠️源",印度|Asianet News
+http://156.239.254.7:5555/smt.php?id=asianetnews_raj&proxy=true
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://epg.112114.xyz/logo/DISCOVERY.png"?proxy=true group-title="Smart☠️源",印度|Discovery World Tamil
+http://156.239.254.7:5555/smt.php?id=discoveryworldtam_raj&proxy=true
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://epg.112114.xyz/logo/HISTORY.png"?proxy=true group-title="Smart☠️源",印度|History Tamil
+http://156.239.254.7:5555/smt.php?id=historytam_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|NatGeo Tamil" tvg-name="印度|NatGeo Tamil" tvg-logo="http://epg.112114.xyz/logo/印度|NATGEOTAMIL.png"?proxy=true group-title="Smart☠️源",印度|NatGeo Tamil
+http://156.239.254.7:5555/smt.php?id=natgeotamil_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Natgeo Wild Tamil" tvg-name="印度|Natgeo Wild Tamil" tvg-logo="http://epg.112114.xyz/logo/印度|NATGEOWILDTAMIL.png"?proxy=true group-title="Smart☠️源",印度|Natgeo Wild Tamil
+http://156.239.254.7:5555/smt.php?id=natgeowildtamil_raj&proxy=true
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://epg.112114.xyz/logo/DISCOVERY.png"?proxy=true group-title="Smart☠️源",印度|Discovery Kids Tamil
+http://156.239.254.7:5555/smt.php?id=discoverykidtamil_raj&proxy=true
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://epg.112114.xyz/logo/DISCOVERY.png"?proxy=true group-title="Smart☠️源",印度|Discovery Tamil
+http://156.239.254.7:5555/smt.php?id=discoverytamil_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Sony Yay Tamil" tvg-name="印度|Sony Yay Tamil" tvg-logo="http://epg.112114.xyz/logo/印度|SONYYAYTAMIL.png"?proxy=true group-title="Smart☠️源",印度|Sony Yay Tamil
+http://156.239.254.7:5555/smt.php?id=sonyyaytam_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Sun TV India" tvg-name="印度|Sun TV India" tvg-logo="http://epg.112114.xyz/logo/印度|SUNTVINDIA.png"?proxy=true group-title="Smart☠️源",印度|Sun TV India
+http://156.239.254.7:5555/smt.php?id=suntv_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Starmaa HD" tvg-name="印度|Starmaa HD" tvg-logo="http://epg.112114.xyz/logo/印度|STARMAA.png"?proxy=true group-title="Smart☠️源",印度|Starmaa HD
+http://156.239.254.7:5555/smt.php?id=starmaa_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Starmaa Movies HD" tvg-name="印度|Starmaa Movies HD" tvg-logo="http://epg.112114.xyz/logo/印度|STARMAAMOVIES.png"?proxy=true group-title="Smart☠️源",印度|Starmaa Movies HD
+http://156.239.254.7:5555/smt.php?id=starmaamovies_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Bollyone" tvg-name="印度|Bollyone" tvg-logo="http://epg.112114.xyz/logo/印度|BOLLYONE.png"?proxy=true group-title="Smart☠️源",印度|Bollyone
+http://156.239.254.7:5555/smt.php?id=Bollyone&proxy=true
+#EXTINF:-1 tvg-id="印度|Vijay Super" tvg-name="印度|Vijay Super" tvg-logo="http://epg.112114.xyz/logo/印度|VIJAYSUPER.png"?proxy=true group-title="Smart☠️源",印度|Vijay Super
+http://156.239.254.7:5555/smt.php?id=vijaysuper_raj&proxy=true
+#EXTINF:-1 tvg-id="印度|Vellithirai" tvg-name="印度|Vellithirai" tvg-logo="http://epg.112114.xyz/logo/印度|VELLITHIRAI.png"?proxy=true group-title="Smart☠️源",印度|Vellithirai
+http://156.239.254.7:5555/smt.php?id=Vellithirai&proxy=true
+#EXTINF:-1 tvg-id="泰国|Channel 3 Thailand" tvg-name="泰国|Channel 3 Thailand" tvg-logo="http://epg.112114.xyz/logo/泰国|CHANNEL3THAILAND.png"?proxy=true group-title="Smart☠️源",泰国|Channel 3 Thailand
+http://156.239.254.7:5555/smt.php?id=ch3_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Channel 5 Thailand" tvg-name="泰国|Channel 5 Thailand" tvg-logo="http://epg.112114.xyz/logo/泰国|CHANNEL5THAILAND.png"?proxy=true group-title="Smart☠️源",泰国|Channel 5 Thailand
+http://156.239.254.7:5555/smt.php?id=ch5_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Channel 7 Thailand" tvg-name="泰国|Channel 7 Thailand" tvg-logo="http://epg.112114.xyz/logo/泰国|CHANNEL7THAILAND.png"?proxy=true group-title="Smart☠️源",泰国|Channel 7 Thailand
+http://156.239.254.7:5555/smt.php?id=ch7_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|MCOT HD Thailand-1" tvg-name="泰国|MCOT HD Thailand-1" tvg-logo="http://epg.112114.xyz/logo/泰国|MCOTHDTHAILAND1.png"?proxy=true group-title="Smart☠️源",泰国|MCOT HD Thailand-1
+http://156.239.254.7:5555/smt.php?id=mcot_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|PPTV Thailand1" tvg-name="泰国|PPTV Thailand1" tvg-logo="http://epg.112114.xyz/logo/泰国|PPTVTHAILAND1.png"?proxy=true group-title="Smart☠️源",泰国|PPTV Thailand1
+http://156.239.254.7:5555/smt.php?id=pptv_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Thai Thai" tvg-name="泰国|Thai Thai" tvg-logo="http://epg.112114.xyz/logo/泰国|THAITHAI.png"?proxy=true group-title="Smart☠️源",泰国|Thai Thai
+http://156.239.254.7:5555/smt.php?id=thaithai_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Amarin" tvg-name="泰国|Amarin" tvg-logo="http://epg.112114.xyz/logo/泰国|AMARIN.png"?proxy=true group-title="Smart☠️源",泰国|Amarin
+http://156.239.254.7:5555/smt.php?id=amarin_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Ch 8" tvg-name="泰国|Ch 8" tvg-logo="http://epg.112114.xyz/logo/泰国|CH8.png"?proxy=true group-title="Smart☠️源",泰国|Ch 8
+http://156.239.254.7:5555/smt.php?id=ch8_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|GmmOne" tvg-name="泰国|GmmOne" tvg-logo="http://epg.112114.xyz/logo/泰国|GMMONE.png"?proxy=true group-title="Smart☠️源",泰国|GmmOne
+http://156.239.254.7:5555/smt.php?id=gmmone_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Mono" tvg-name="泰国|Mono" tvg-logo="http://epg.112114.xyz/logo/泰国|MONO.png"?proxy=true group-title="Smart☠️源",泰国|Mono
+http://156.239.254.7:5555/smt.php?id=mono_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Thairath" tvg-name="泰国|Thairath" tvg-logo="http://epg.112114.xyz/logo/泰国|THAIRATH.png"?proxy=true group-title="Smart☠️源",泰国|Thairath
+http://156.239.254.7:5555/smt.php?id=thairath_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|tpbs" tvg-name="泰国|tpbs" tvg-logo="http://epg.112114.xyz/logo/泰国|TPBS.png"?proxy=true group-title="Smart☠️源",泰国|tpbs
+http://156.239.254.7:5555/smt.php?id=tpbs_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Workpoint" tvg-name="泰国|Workpoint" tvg-logo="http://epg.112114.xyz/logo/泰国|WORKPOINT.png"?proxy=true group-title="Smart☠️源",泰国|Workpoint
+http://156.239.254.7:5555/smt.php?id=workpoint_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Gmm Channel" tvg-name="泰国|Gmm Channel" tvg-logo="http://epg.112114.xyz/logo/泰国|GMMCHANNEL.png"?proxy=true group-title="Smart☠️源",泰国|Gmm Channel
+http://156.239.254.7:5555/smt.php?id=gmmchannel_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Nation" tvg-name="泰国|Nation" tvg-logo="http://epg.112114.xyz/logo/泰国|NATION.png"?proxy=true group-title="Smart☠️源",泰国|Nation
+http://156.239.254.7:5555/smt.php?id=nation_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Tnn24" tvg-name="泰国|Tnn24" tvg-logo="http://epg.112114.xyz/logo/泰国|TNN24.png"?proxy=true group-title="Smart☠️源",泰国|Tnn24
+http://156.239.254.7:5555/smt.php?id=tnn24_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|Nbt" tvg-name="泰国|Nbt" tvg-logo="http://epg.112114.xyz/logo/泰国|NBT.png"?proxy=true group-title="Smart☠️源",泰国|Nbt
+http://156.239.254.7:5555/smt.php?id=nbt_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|New" tvg-name="泰国|New" tvg-logo="http://epg.112114.xyz/logo/泰国|NEW.png"?proxy=true group-title="Smart☠️源",泰国|New
+http://156.239.254.7:5555/smt.php?id=new_pat&proxy=true
+#EXTINF:-1 tvg-id="泰国|TPTV" tvg-name="泰国|TPTV" tvg-logo="http://epg.112114.xyz/logo/泰国|TPTV.png"?proxy=true group-title="Smart☠️源",泰国|TPTV
+http://156.239.254.7:5555/smt.php?id=tptv_pat&proxy=true
+#EXTINF:-1 tvg-id="英国|BBC 1" tvg-name="英国|BBC 1" tvg-logo="http://epg.112114.xyz/logo/英国|BBC1.png"?proxy=true group-title="Smart☠️源",英国|BBC 1
+http://156.239.254.7:5555/smt.php?id=bbc1_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|BBC 2" tvg-name="英国|BBC 2" tvg-logo="http://epg.112114.xyz/logo/英国|BBC2.png"?proxy=true group-title="Smart☠️源",英国|BBC 2
+http://156.239.254.7:5555/smt.php?id=bbc2_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|CBBC" tvg-name="英国|CBBC" tvg-logo="http://epg.112114.xyz/logo/英国|CBBC.png"?proxy=true group-title="Smart☠️源",英国|CBBC
+http://156.239.254.7:5555/smt.php?id=cbbc_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|More4" tvg-name="英国|More4" tvg-logo="http://epg.112114.xyz/logo/英国|MORE4.png"?proxy=true group-title="Smart☠️源",英国|More4
+http://156.239.254.7:5555/smt.php?id=more4_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|Freesports" tvg-name="英国|Freesports" tvg-logo="http://epg.112114.xyz/logo/英国|FREESPORTS.png"?proxy=true group-title="Smart☠️源",英国|Freesports
+http://156.239.254.7:5555/smt.php?id=freesports_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|Pick TV" tvg-name="英国|Pick TV" tvg-logo="http://epg.112114.xyz/logo/英国|PICKTV.png"?proxy=true group-title="Smart☠️源",英国|Pick TV
+http://156.239.254.7:5555/smt.php?id=picktv_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|itv 1" tvg-name="英国|itv 1" tvg-logo="http://epg.112114.xyz/logo/英国|ITV1.png"?proxy=true group-title="Smart☠️源",英国|itv 1
+http://156.239.254.7:5555/smt.php?id=itv1_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|itv 2" tvg-name="英国|itv 2" tvg-logo="http://epg.112114.xyz/logo/英国|ITV2.png"?proxy=true group-title="Smart☠️源",英国|itv 2
+http://156.239.254.7:5555/smt.php?id=itv2_antik&proxy=true
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="http://epg.112114.xyz/logo/EURONEWS.png"?proxy=true group-title="Smart☠️源",英国|Euronews
+http://156.239.254.7:5555/smt.php?id=euronews_antik&proxy=true
+#EXTINF:-1 tvg-id="英国|Channel 4" tvg-name="英国|Channel 4" tvg-logo="http://epg.112114.xyz/logo/英国|CHANNEL4.png"?proxy=true group-title="Smart☠️源",英国|Channel 4
+http://156.239.254.7:5555/smt.php?id=channel4_antik&proxy=true
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.112114.xyz/logo/BBCWORLDNEWS.png"?proxy=true group-title="Smart☠️源",英国|BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcworldnews_antik&proxy=true
+#EXTINF:-1 tvg-id="越南|ANTV" tvg-name="越南|ANTV" tvg-logo="http://epg.112114.xyz/logo/越南|ANTV.png"?proxy=true group-title="Smart☠️源",越南|ANTV
+http://156.239.254.7:5555/smt.php?id=viet_antv&proxy=true
+#EXTINF:-1 tvg-id="越南|VTV 1" tvg-name="越南|VTV 1" tvg-logo="http://epg.112114.xyz/logo/越南|VTV1.png"?proxy=true group-title="Smart☠️源",越南|VTV 1
+http://156.239.254.7:5555/smt.php?id=viet_vtv1&proxy=true
+#EXTINF:-1 tvg-id="越南|VTV 7" tvg-name="越南|VTV 7" tvg-logo="http://epg.112114.xyz/logo/越南|VTV7.png"?proxy=true group-title="Smart☠️源",越南|VTV 7
+http://156.239.254.7:5555/smt.php?id=viet_vtv7&proxy=true
+#EXTINF:-1 tvg-id="越南|HTV 7" tvg-name="越南|HTV 7" tvg-logo="http://epg.112114.xyz/logo/越南|HTV7.png"?proxy=true group-title="Smart☠️源",越南|HTV 7
+http://156.239.254.7:5555/smt.php?id=viet_htv7&proxy=true
+#EXTINF:-1 tvg-id="越南|HTV 9" tvg-name="越南|HTV 9" tvg-logo="http://epg.112114.xyz/logo/越南|HTV9.png"?proxy=true group-title="Smart☠️源",越南|HTV 9
+http://156.239.254.7:5555/smt.php?id=viet_htv9&proxy=true
+#EXTINF:-1 tvg-id="越南|BPTV 2" tvg-name="越南|BPTV 2" tvg-logo="http://epg.112114.xyz/logo/越南|BPTV2.png"?proxy=true group-title="Smart☠️源",越南|BPTV 2
+http://156.239.254.7:5555/smt.php?id=viet_bptv2&proxy=true
+#EXTINF:-1 tvg-id="越南|BRT HD" tvg-name="越南|BRT HD" tvg-logo="http://epg.112114.xyz/logo/越南|BRT.png"?proxy=true group-title="Smart☠️源",越南|BRT HD
+http://156.239.254.7:5555/smt.php?id=viet_brt&proxy=true
+#EXTINF:-1 tvg-id="越南|Ca Mau TV" tvg-name="越南|Ca Mau TV" tvg-logo="http://epg.112114.xyz/logo/越南|CAMAUTV.png"?proxy=true group-title="Smart☠️源",越南|Ca Mau TV
+http://156.239.254.7:5555/smt.php?id=viet_camautv&proxy=true
+#EXTINF:-1 tvg-id="越南|Danang TV1 HD" tvg-name="越南|Danang TV1 HD" tvg-logo="http://epg.112114.xyz/logo/越南|DANANGTV1.png"?proxy=true group-title="Smart☠️源",越南|Danang TV1 HD
+http://156.239.254.7:5555/smt.php?id=viet_danangtv1&proxy=true
+#EXTINF:-1 tvg-id="越南|Danang TV2 HD" tvg-name="越南|Danang TV2 HD" tvg-logo="http://epg.112114.xyz/logo/越南|DANANGTV2.png"?proxy=true group-title="Smart☠️源",越南|Danang TV2 HD
+http://156.239.254.7:5555/smt.php?id=viet_danangtv2&proxy=true
+#EXTINF:-1 tvg-id="越南|HBTV HD" tvg-name="越南|HBTV HD" tvg-logo="http://epg.112114.xyz/logo/越南|HBTV.png"?proxy=true group-title="Smart☠️源",越南|HBTV HD
+http://156.239.254.7:5555/smt.php?id=viet_hbtv&proxy=true
+#EXTINF:-1 tvg-id="越南|PTTH 1" tvg-name="越南|PTTH 1" tvg-logo="http://epg.112114.xyz/logo/越南|PTTH1.png"?proxy=true group-title="Smart☠️源",越南|PTTH 1
+http://156.239.254.7:5555/smt.php?id=viet_ptth1&proxy=true
+#EXTINF:-1 tvg-id="韩国|Arirang HD" tvg-name="韩国|Arirang HD" tvg-logo="http://epg.112114.xyz/logo/韩国|ARIRANG.png"?proxy=true group-title="Smart☠️源",韩国|Arirang HD
+http://156.239.254.7:5555/smt.php?id=arirang_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|Yonhap News" tvg-name="韩国|Yonhap News" tvg-logo="http://epg.112114.xyz/logo/韩国|YONHAPNEWS.png"?proxy=true group-title="Smart☠️源",韩国|Yonhap News
+http://156.239.254.7:5555/smt.php?id=yonhapnews_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|CBS" tvg-name="韩国|CBS" tvg-logo="http://epg.112114.xyz/logo/韩国|CBS.png"?proxy=true group-title="Smart☠️源",韩国|CBS
+http://156.239.254.7:5555/smt.php?id=cbs_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|EBS 1" tvg-name="韩国|EBS 1" tvg-logo="http://epg.112114.xyz/logo/韩国|EBS1.png"?proxy=true group-title="Smart☠️源",韩国|EBS 1
+http://156.239.254.7:5555/smt.php?id=ebs1_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|EBS2" tvg-name="韩国|EBS2" tvg-logo="http://epg.112114.xyz/logo/韩国|EBS2.png"?proxy=true group-title="Smart☠️源",韩国|EBS2
+http://156.239.254.7:5555/smt.php?id=ebs2_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|EBS Plus2" tvg-name="韩国|EBS Plus2" tvg-logo="http://epg.112114.xyz/logo/韩国|EBSPLUS2.png"?proxy=true group-title="Smart☠️源",韩国|EBS Plus2
+http://156.239.254.7:5555/smt.php?id=ebsplus2_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|SBS Plus" tvg-name="韩国|SBS Plus" tvg-logo="http://epg.112114.xyz/logo/韩国|SBSPLUS.png"?proxy=true group-title="Smart☠️源",韩国|SBS Plus
+http://156.239.254.7:5555/smt.php?id=sbsplus_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|YTN" tvg-name="韩国|YTN" tvg-logo="http://epg.112114.xyz/logo/韩国|YTN.png"?proxy=true group-title="Smart☠️源",韩国|YTN
+http://156.239.254.7:5555/smt.php?id=ytn_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|KBS World 24" tvg-name="韩国|KBS World 24" tvg-logo="http://epg.112114.xyz/logo/韩国|KBSWORLD24.png"?proxy=true group-title="Smart☠️源",韩国|KBS World 24
+http://156.239.254.7:5555/smt.php?id=kbsworld24_korea&proxy=true
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://epg.112114.xyz/logo/CI.png"?proxy=true group-title="Smart☠️源",韩国|YTN Science
+http://156.239.254.7:5555/smt.php?id=ytnscience_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|YTN Korean" tvg-name="韩国|YTN Korean" tvg-logo="http://epg.112114.xyz/logo/韩国|YTNKOREAN.png"?proxy=true group-title="Smart☠️源",韩国|YTN Korean
+http://156.239.254.7:5555/smt.php?id=ytnkorean_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|YTN DMB" tvg-name="韩国|YTN DMB" tvg-logo="http://epg.112114.xyz/logo/韩国|YTNDMB.png"?proxy=true group-title="Smart☠️源",韩国|YTN DMB
+http://156.239.254.7:5555/smt.php?id=ytndmb_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|Apps TV" tvg-name="韩国|Apps TV" tvg-logo="http://epg.112114.xyz/logo/韩国|APPSTV.png"?proxy=true group-title="Smart☠️源",韩国|Apps TV
+http://156.239.254.7:5555/smt.php?id=appongoogle_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|All the Kpop" tvg-name="韩国|All the Kpop" tvg-logo="http://epg.112114.xyz/logo/韩国|ALLTHEKPOP.png"?proxy=true group-title="Smart☠️源",韩国|All the Kpop
+http://156.239.254.7:5555/smt.php?id=allthekpop_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|J the Kpop" tvg-name="韩国|J the Kpop" tvg-logo="http://epg.112114.xyz/logo/韩国|JTHEKPOP.png"?proxy=true group-title="Smart☠️源",韩国|J the Kpop
+http://156.239.254.7:5555/smt.php?id=jthekpop_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|EBS Kids" tvg-name="韩国|EBS Kids" tvg-logo="http://epg.112114.xyz/logo/韩国|EBSKIDS.png"?proxy=true group-title="Smart☠️源",韩国|EBS Kids
+http://156.239.254.7:5555/smt.php?id=ebskids_korea&proxy=true
+#EXTINF:-1 tvg-id="韩国|CGNTV" tvg-name="韩国|CGNTV" tvg-logo="http://epg.112114.xyz/logo/韩国|CGNTV.png"?proxy=true group-title="Smart☠️源",韩国|CGNTV
+http://156.239.254.7:5555/smt.php?id=cgntv_korea&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",日本|NHK-総合-2
+http://156.239.254.7:5555/smt.php?id=nhkg_japan&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",日本|NHK-E
+http://156.239.254.7:5555/smt.php?id=nhke_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|テレビ朝日 Asahi TV" tvg-name="日本|テレビ朝日 Asahi TV" tvg-logo="http://epg.112114.xyz/logo/日本|テレビ朝日ASAHITV.png"?proxy=true group-title="Smart☠️源",日本|テレビ朝日 Asahi TV
+http://156.239.254.7:5555/smt.php?id=asahitv_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|JET 綜合" tvg-name="日本|JET 綜合" tvg-logo="http://epg.112114.xyz/logo/日本|JET綜合.png"?proxy=true group-title="Smart☠️源",日本|JET 綜合
+http://156.239.254.7:5555/smt.php?id=jettv_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|テレビ東京 Tokyo TV" tvg-name="日本|テレビ東京 Tokyo TV" tvg-logo="http://epg.112114.xyz/logo/日本|テレビ東京TOKYOTV.png"?proxy=true group-title="Smart☠️源",日本|テレビ東京 Tokyo TV
+http://156.239.254.7:5555/smt.php?id=tokyotv_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|TOKYOMX" tvg-name="日本|TOKYOMX" tvg-logo="http://epg.112114.xyz/logo/日本|TOKYOMX.png"?proxy=true group-title="Smart☠️源",日本|TOKYOMX
+http://156.239.254.7:5555/smt.php?id=tokyomx_japan&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",日本|NHKBS1
+http://156.239.254.7:5555/smt.php?id=nhkbs1_japan&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",日本|NHKBSプレミア Premium
+http://156.239.254.7:5555/smt.php?id=nhkpremium_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|BSジャパン 181" tvg-name="日本|BSジャパン 181" tvg-logo="http://epg.112114.xyz/logo/日本|BSジャパン.png"?proxy=true group-title="Smart☠️源",日本|BSジャパン 181
+http://156.239.254.7:5555/smt.php?id=bs181_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|BSフジ BS Fuji" tvg-name="日本|BSフジ BS Fuji" tvg-logo="http://epg.112114.xyz/logo/日本|BSフジBSFUJI.png"?proxy=true group-title="Smart☠️源",日本|BSフジ BS Fuji
+http://156.239.254.7:5555/smt.php?id=bsfuji_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|CNA Japan" tvg-name="日本|CNA Japan" tvg-logo="http://epg.112114.xyz/logo/日本|CNAJAPAN.png"?proxy=true group-title="Smart☠️源",日本|CNA Japan
+http://156.239.254.7:5555/smt.php?id=cna_japan&proxy=true
+#EXTINF:-1 tvg-id="日本|BS-TBS" tvg-name="日本|BS-TBS" tvg-logo="http://epg.112114.xyz/logo/日本|BSTBS.png"?proxy=true group-title="Smart☠️源",日本|BS-TBS
+http://156.239.254.7:5555/smt.php?id=bstbs_japan&proxy=true
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://epg.112114.xyz/logo/NHK.png"?proxy=true group-title="Smart☠️源",日本|NHK Oaska
+http://156.239.254.7:5555/smt.php?id=nhkosaka_japan&proxy=true
