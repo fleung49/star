@@ -174,7 +174,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线新闻,http://tzh911.qzz.io/play-smt.php?id=inews_twn
+无线新闻,http://156.239.254.7:5555/smt.php?id=inews_twn
 无线新闻,http://hdhd.tk/hendrix1/hendrix1/28236
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
@@ -183,27 +183,25 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://tzh911.qzz.io/play-smt.php?id=jade_twn
+翡翠台,http://156.239.254.7:5555/smt.php?id=jade_twn
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 翡翠台,http://14.21.90.68:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153398
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-华丽翡翠台,http://tzh911.qzz.io/play-smt.php?id=Tvbjade
+华丽翡翠台,http://156.239.254.7:5555/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-明珠台,http://tzh911.qzz.io/play-smt.php?id=pearl_twn
+明珠台,http://156.239.254.7:5555/smt.php?id=pearl_twn
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://bxtv.3a.ink/api.php?id=mz
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
-TVB Plus,http://tzh911.qzz.io/play-smt.php?id=j2_twn
+TVB Plus,http://156.239.254.7:5555/smt.php?id=j2_twn
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB娱乐新闻台,http://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
+TVB娱乐新闻台,http://156.239.254.7:5555/smt.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
 TVB1,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
 TVB1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153396
@@ -217,19 +215,19 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-千禧经典台,http://tzh911.qzz.io/play-smt.php?id=Tvbclassic
+千禧经典台,http://156.239.254.7:5555/smt.php?id=Tvbclassic
 无线赛马18台,http://bxtv.3a.ink/api.php?id=18
 凤凰中文,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/gwS5kbEwNmWObygXxkddls4gDYr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰中文,http://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
+凤凰中文,http://156.239.254.7:5555/smt.php?id=phoenixtv_hd
 凤凰中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰资讯,http://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
+凤凰资讯,http://156.239.254.7:5555/smt.php?id=phoenixinfo_hd
 凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 凤凰香港,https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
-凤凰香港,http://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
+凤凰香港,http://156.239.254.7:5555/smt.php?id=hkphoenix_twn
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰美洲台,https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
@@ -241,11 +239,11 @@ HOY78,http://bziyunshao.synology.me:8891/bysid/78
 RTHK-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK-31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
-RTHK-31,http://tzh911.qzz.io/play-smt.php?id=rhk31_twn
+RTHK-31,http://156.239.254.7:5555/smt.php?id=rhk31_twn
 RTHK-32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK-32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
-RTHK-32,http://tzh911.qzz.io/play-smt.php?id=rhk32_twn
+RTHK-32,http://156.239.254.7:5555/smt.php?id=rhk32_twn
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
@@ -262,9 +260,9 @@ PopC电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/smt.php?id=viu1_twn
-VIUTV,http://tzh911.qzz.io/play-smt.php?id=viu1_twn
+VIUTV,http://156.239.254.7:5555/smt.php?id=viu1_twn
 VIUTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
-VIUTV6,http://tzh911.qzz.io/play-smt.php?id=viusix_twn
+VIUTV6,http://156.239.254.7:5555/smt.php?id=viusix_twn
 VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 C+頻道,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
 C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
@@ -287,25 +285,25 @@ C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道,http://tzh911.qzz.io/play-smt.php?id=Celestial
+天映频道,http://156.239.254.7:5555/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映经典,http://tzh911.qzz.io/play-smt.php?id=Celestial2
+天映经典,http://156.239.254.7:5555/smt.php?id=Celestial2
 SKYLINK TV 1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156399
 SKYLINK TV 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156400
 ICITI,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156401
 WOW TV,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26821.ts
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AOD,http://tzh911.qzz.io/play-smt.php?id=Aodhd
+Astro AOD,http://156.239.254.7:5555/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro AEC,http://tzh911.qzz.io/play-smt.php?id=AEC
+Astro AEC,http://156.239.254.7:5555/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro QJ,http://tzh911.qzz.io/play-smt.php?id=Quanjia
+Astro QJ,http://156.239.254.7:5555/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-爱奇艺,http://tzh911.qzz.io/play-smt.php?id=Qiyi
+爱奇艺,http://156.239.254.7:5555/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
-八度空间,http://tzh911.qzz.io/play-smt.php?id=TV8
+八度空间,http://156.239.254.7:5555/smt.php?id=TV8
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
@@ -327,9 +325,9 @@ TVBS精彩台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp
 北美新闻台,https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
 中国电影频道,https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 Fairchild 2,http://vocotv.pro:80/robins/robins/3888
-Fairchild Television,http://vocotv.pro:80/robins/robins/3887
-Fairchild Television Mandarin,http://vocotv.pro:80/robins/robins/3886
-Fairchild Television West,http://vocotv.pro:80/robins/robins/3885
+Fairchild Television,http://vocotv.pro:80/Ander1/Ander1/3887
+Fairchild Television Mandarin,http://vocotv.pro:80/Ander1/Ander1/3886
+Fairchild Television West,http://vocotv.pro:80/Ander1/Ander1/3885
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
@@ -511,65 +509,6 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
 嘉佳卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTMyOC5tM3U4
 优漫卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
-
-广东8.134tsfile,#genre#
-CCTV1,http://8.134.184.162:8314/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://8.134.184.162:8314/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://8.134.184.162:8314/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://8.134.184.162:8314/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://8.134.184.162:8314/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://8.134.184.162:8314/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://8.134.184.162:8314/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://8.134.184.162:8314/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://8.134.184.162:8314/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://8.134.184.162:8314/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://8.134.184.162:8314/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://8.134.184.162:8314/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://8.134.184.162:8314/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://8.134.184.162:8314/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://8.134.184.162:8314/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://8.134.184.162:8314/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://8.134.184.162:8314/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://8.134.184.162:8314/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东新闻,http://8.134.184.162:8314/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东民生,http://8.134.184.162:8314/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东体育,http://8.134.184.162:8314/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东湾区,http://8.134.184.162:8314/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东影视,http://8.134.184.162:8314/tsfile/live/1008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东经济,http://8.134.184.162:8314/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东少儿,http://8.134.184.162:8314/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东嘉佳,http://8.134.184.162:8314/tsfile/live/1010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东戏曲,http://8.134.184.162:8314/tsfile/live/1012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广东大湾区卫视,http://8.134.184.162:8314/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://8.134.184.162:8314/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-江苏卫视,http://8.134.184.162:8314/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://8.134.184.162:8314/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://8.134.184.162:8314/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://8.134.184.162:8314/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://8.134.184.162:8314/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://8.134.184.162:8314/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://8.134.184.162:8314/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://8.134.184.162:8314/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://8.134.184.162:8314/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://8.134.184.162:8314/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://8.134.184.162:8314/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://8.134.184.162:8314/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://8.134.184.162:8314/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://8.134.184.162:8314/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://8.134.184.162:8314/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://8.134.184.162:8314/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://8.134.184.162:8314/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://8.134.184.162:8314/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://8.134.184.162:8314/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://8.134.184.162:8314/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://8.134.184.162:8314/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://8.134.184.162:8314/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://8.134.184.162:8314/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://8.134.184.162:8314/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://8.134.184.162:8314/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://8.134.184.162:8314/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://8.134.184.162:8314/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://8.134.184.162:8314/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东有线(央视),#genre#
 CCTV1,http://qgtf.jydjd.top:2903/udp/224.1.100.90:11111
@@ -1892,24 +1831,6 @@ Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playliv
 云南卫视,http://116.77.33.98:44330/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 
-gaoyitv央视频道,#genre#
-CCTV 1,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 2,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 3,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 4,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 5,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 5+,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 6,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 7,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 8,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 9,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 10,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 11,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 12,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 13,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 14,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
 浙江央视卫视124,#genre#
 CCTV1-综合 1,http://124.90.45.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://124.90.45.52:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2136,266 +2057,266 @@ TRACE SPORT STARS,http://210.61.15.55:50007/li-4gtv-4gtv077/index.m3u8?proxy=tru
 TV5monde,http://210.61.15.55:50007/4gtv-live122/index.m3u8?proxy=true
 
 央卫频特,#genre#
-CCTV-1,http://tzh911.qzz.io/play-smt.php?id=cctv1
-CCTV-2,http://tzh911.qzz.io/play-smt.php?id=cctv2
-CCTV-3,http://tzh911.qzz.io/play-smt.php?id=cctv3
-CCTV-4,http://tzh911.qzz.io/play-smt.php?id=cctv4
-CCTV-4,http://tzh911.qzz.io/play-smt.php?id=Cctv4
-CCTV-5,http://tzh911.qzz.io/play-smt.php?id=cctv5
-CCTV-5+,http://tzh911.qzz.io/play-smt.php?id=cctv5plus
-CCTV-6,http://tzh911.qzz.io/play-smt.php?id=cctv6
-CCTV-7,http://tzh911.qzz.io/play-smt.php?id=cctv7
-CCTV-8,http://tzh911.qzz.io/play-smt.php?id=cctv8hd
-CCTV-9,http://tzh911.qzz.io/play-smt.php?id=cctv9hd
-CCTV-10,http://tzh911.qzz.io/play-smt.php?id=cctv10hd
-CCTV-11,http://tzh911.qzz.io/play-smt.php?id=cctv11
-CCTV-12,http://tzh911.qzz.io/play-smt.php?id=cctv12
-CCTV-13,http://tzh911.qzz.io/play-smt.php?id=cctv13
-CCTV-14,http://tzh911.qzz.io/play-smt.php?id=cctv14
-CCTV-15,http://tzh911.qzz.io/play-smt.php?id=cctv15
-CCTV-16,http://tzh911.qzz.io/play-smt.php?id=cctv16
-CCTV-17,http://tzh911.qzz.io/play-smt.php?id=cctv17
-CGTN,http://tzh911.qzz.io/play-smt.php?id=CGTN
-北京卫视,http://tzh911.qzz.io/play-smt.php?id=beijing
-深圳卫视,http://tzh911.qzz.io/play-smt.php?id=shenzhen
-广西卫视,http://tzh911.qzz.io/play-smt.php?id=guangxi
-湖北卫视,http://tzh911.qzz.io/play-smt.php?id=hubei
-东南卫视,http://tzh911.qzz.io/play-smt.php?id=fujian
-广东珠江,http://tzh911.qzz.io/play-smt.php?id=zhujiang
+CCTV-1,http://156.239.254.7:5555/smt.php?id=cctv1
+CCTV-2,http://156.239.254.7:5555/smt.php?id=cctv2
+CCTV-3,http://156.239.254.7:5555/smt.php?id=cctv3
+CCTV-4,http://156.239.254.7:5555/smt.php?id=cctv4
+CCTV-4,http://156.239.254.7:5555/smt.php?id=Cctv4
+CCTV-5,http://156.239.254.7:5555/smt.php?id=cctv5
+CCTV-5+,http://156.239.254.7:5555/smt.php?id=cctv5plus
+CCTV-6,http://156.239.254.7:5555/smt.php?id=cctv6
+CCTV-7,http://156.239.254.7:5555/smt.php?id=cctv7
+CCTV-8,http://156.239.254.7:5555/smt.php?id=cctv8hd
+CCTV-9,http://156.239.254.7:5555/smt.php?id=cctv9hd
+CCTV-10,http://156.239.254.7:5555/smt.php?id=cctv10hd
+CCTV-11,http://156.239.254.7:5555/smt.php?id=cctv11
+CCTV-12,http://156.239.254.7:5555/smt.php?id=cctv12
+CCTV-13,http://156.239.254.7:5555/smt.php?id=cctv13
+CCTV-14,http://156.239.254.7:5555/smt.php?id=cctv14
+CCTV-15,http://156.239.254.7:5555/smt.php?id=cctv15
+CCTV-16,http://156.239.254.7:5555/smt.php?id=cctv16
+CCTV-17,http://156.239.254.7:5555/smt.php?id=cctv17
+CGTN,http://156.239.254.7:5555/smt.php?id=CGTN
+北京卫视,http://156.239.254.7:5555/smt.php?id=beijing
+深圳卫视,http://156.239.254.7:5555/smt.php?id=shenzhen
+广西卫视,http://156.239.254.7:5555/smt.php?id=guangxi
+湖北卫视,http://156.239.254.7:5555/smt.php?id=hubei
+东南卫视,http://156.239.254.7:5555/smt.php?id=fujian
+广东珠江,http://156.239.254.7:5555/smt.php?id=zhujiang
 
 香港频特,#genre#
-凤凰中文,http://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
-凤凰资讯,http://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
-凤凰香港,http://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
-无线新闻,http://tzh911.qzz.io/play-smt.php?id=inews_twn
-翡翠台,http://tzh911.qzz.io/play-smt.php?id=jade_twn
-翡翠台,http://tzh911.qzz.io/play-smt.php?id=Jade_xue
-翡翠台,http://tzh911.qzz.io/play-smt.php?id=Tvbjade
-明珠台,http://tzh911.qzz.io/play-smt.php?id=pearl_twn
-TVB Plus,http://tzh911.qzz.io/play-smt.php?id=j2_twn
-无线华丽粤,http://tzh911.qzz.io/play-smt.php?id=Wlt
-无线华丽国,http://tzh911.qzz.io/play-smt.php?id=Tvbjade
-无线娱乐新闻,http://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
-千禧经典,http://tzh911.qzz.io/play-smt.php?id=Tvbclassic
-TVB 星河 Xing He,http://tzh911.qzz.io/play-smt.php?id=Xinhe
-HOY 78,http://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
-VIUTV,http://tzh911.qzz.io/play-smt.php?id=viu1_twn
-VIUTV 6,http://tzh911.qzz.io/play-smt.php?id=viusix_twn
-RTHK-31,http://tzh911.qzz.io/play-smt.php?id=rhk31_twn
-RTHK-32,http://tzh911.qzz.io/play-smt.php?id=rhk32_twn
-天映频道粤,http://tzh911.qzz.io/play-smt.php?id=ctv18_twn
-天映频道国,http://tzh911.qzz.io/play-smt.php?id=Celestial
-天映频道,http://tzh911.qzz.io/play-smt.php?id=Celestialindo
-天映经典,http://tzh911.qzz.io/play-smt.php?id=Celestial2
-美亚电影,http://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
-新加CHANNEL U,http://tzh911.qzz.io/play-smt.php?id=ChannelU
-新加CHANNEL 5,http://tzh911.qzz.io/play-smt.php?id=Channel5HD
-新加CHANNEL 8,http://tzh911.qzz.io/play-smt.php?id=Channel8HD
-八度空间,http://tzh911.qzz.io/play-smt.php?id=TV8
-Astro iQiyi 爱奇艺,http://tzh911.qzz.io/play-smt.php?id=Qiyi
-Astro QJ,http://tzh911.qzz.io/play-smt.php?id=Quanjia
-Astro AOD,http://tzh911.qzz.io/play-smt.php?id=Aodhd
-Astro AEC,http://tzh911.qzz.io/play-smt.php?id=AEC
-Astro 欢喜,http://tzh911.qzz.io/play-smt.php?id=Huahee
+凤凰中文,http://156.239.254.7:5555/smt.php?id=phoenixtv_hd
+凤凰资讯,http://156.239.254.7:5555/smt.php?id=phoenixinfo_hd
+凤凰香港,http://156.239.254.7:5555/smt.php?id=hkphoenix_twn
+无线新闻,http://156.239.254.7:5555/smt.php?id=inews_twn
+翡翠台,http://156.239.254.7:5555/smt.php?id=jade_twn
+翡翠台,http://156.239.254.7:5555/smt.php?id=Jade_xue
+翡翠台,http://156.239.254.7:5555/smt.php?id=Tvbjade
+明珠台,http://156.239.254.7:5555/smt.php?id=pearl_twn
+TVB Plus,http://156.239.254.7:5555/smt.php?id=j2_twn
+无线华丽粤,http://156.239.254.7:5555/smt.php?id=Wlt
+无线华丽国,http://156.239.254.7:5555/smt.php?id=Tvbjade
+无线娱乐新闻,http://156.239.254.7:5555/smt.php?id=Tvbentertainment
+千禧经典,http://156.239.254.7:5555/smt.php?id=Tvbclassic
+TVB 星河 Xing He,http://156.239.254.7:5555/smt.php?id=Xinhe
+HOY 78,http://156.239.254.7:5555/smt.php?id=hoycaijing_twn
+VIUTV,http://156.239.254.7:5555/smt.php?id=viu1_twn
+VIUTV 6,http://156.239.254.7:5555/smt.php?id=viusix_twn
+RTHK-31,http://156.239.254.7:5555/smt.php?id=rhk31_twn
+RTHK-32,http://156.239.254.7:5555/smt.php?id=rhk32_twn
+天映频道粤,http://156.239.254.7:5555/smt.php?id=ctv18_twn
+天映频道国,http://156.239.254.7:5555/smt.php?id=Celestial
+天映频道,http://156.239.254.7:5555/smt.php?id=Celestialindo
+天映经典,http://156.239.254.7:5555/smt.php?id=Celestial2
+美亚电影,http://156.239.254.7:5555/smt.php?id=meiyamovie_twn
+新加CHANNEL U,http://156.239.254.7:5555/smt.php?id=ChannelU
+新加CHANNEL 5,http://156.239.254.7:5555/smt.php?id=Channel5HD
+新加CHANNEL 8,http://156.239.254.7:5555/smt.php?id=Channel8HD
+八度空间,http://156.239.254.7:5555/smt.php?id=TV8
+Astro iQiyi 爱奇艺,http://156.239.254.7:5555/smt.php?id=Qiyi
+Astro QJ,http://156.239.254.7:5555/smt.php?id=Quanjia
+Astro AOD,http://156.239.254.7:5555/smt.php?id=Aodhd
+Astro AEC,http://156.239.254.7:5555/smt.php?id=AEC
+Astro 欢喜,http://156.239.254.7:5555/smt.php?id=Huahee
 
 台湾频特,#genre#
-寰宇新闻,http://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-寰宇财经,http://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
-中天新闻,http://tzh911.qzz.io/play-smt.php?id=ctinews
-中天亚洲,http://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
-中天娱乐,http://tzh911.qzz.io/play-smt.php?id=ctient
-中天综合,http://tzh911.qzz.io/play-smt.php?id=ctizhonghe
-TVBS,http://tzh911.qzz.io/play-smt.php?id=tvbs
-TVBS Asia,http://tzh911.qzz.io/play-smt.php?id=Tvbasia
-TVBS新闻,http://tzh911.qzz.io/play-smt.php?id=tvbs_n
-TVBS欢乐,http://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
-东森新闻,http://tzh911.qzz.io/play-smt.php?id=ettvnews
-东森财经,http://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-东森综合,http://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
-东森戏剧,http://tzh911.qzz.io/play-smt.php?id=ettvdrama
-东森洋片,http://tzh911.qzz.io/play-smt.php?id=ettvwestern
-东森电影,http://tzh911.qzz.io/play-smt.php?id=ettvmovie
-东森幼幼,http://tzh911.qzz.io/play-smt.php?id=yoyo_twn
-东森超视,http://tzh911.qzz.io/play-smt.php?id=ettvsuper
-中视新闻,http://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-中视,http://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
-中视经典,http://tzh911.qzz.io/play-smt.php?id=zhongshi_twn
-民视,http://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
-民视新闻,http://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-民视第一,http://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-民视台湾,http://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
-华视,http://tzh911.qzz.io/play-smt.php?id=ctshd_twn
-台视综合,http://tzh911.qzz.io/play-smt.php?id=ttvzhonghe
-台视,http://tzh911.qzz.io/play-smt.php?id=ttv_taiwan
-台视新闻,http://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-公视台语,http://tzh911.qzz.io/play-smt.php?id=ctv2_twn
-三立闽南,http://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-三立戏剧,http://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-三立综合,http://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
-三立都会,http://tzh911.qzz.io/play-smt.php?id=sanlidouhui
-非凡新闻,http://tzh911.qzz.io/play-smt.php?id=feifannews_twn
-年代新闻,http://tzh911.qzz.io/play-smt.php?id=niandainews_twn
-八大第一,http://tzh911.qzz.io/play-smt.php?id=badafirst
-八大综合,http://tzh911.qzz.io/play-smt.php?id=badazhonghe
-八大戏剧,http://tzh911.qzz.io/play-smt.php?id=badadrama
-八大娱乐,http://tzh911.qzz.io/play-smt.php?id=badaentertain
-华艺综合,http://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
-大爱1台,http://tzh911.qzz.io/play-smt.php?id=daai_twn
-大爱2台,http://tzh911.qzz.io/play-smt.php?id=daai2_twn
-好消息2,http://tzh911.qzz.io/play-smt.php?id=good2_twn
-阿里郎综合,http://tzh911.qzz.io/play-smt.php?id=arirang_twn
-AXN电影,http://tzh911.qzz.io/play-smt.php?id=axn_twn
-Cinemax,http://tzh911.qzz.io/play-smt.php?id=cinemax_twn
-HBo高清,http://tzh911.qzz.io/play-smt.php?id=hbohd_twn
-HBo家庭,http://tzh911.qzz.io/play-smt.php?id=fyi_twn
-好莱电影,http://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-龙祥电影,http://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
-龙华经典,http://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-龙华戏剧,http://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
-龙华电影,http://tzh911.qzz.io/play-smt.php?id=xingwei_movie
-龙华偶像,http://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
-龙华洋片,http://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
-纬来电影,http://tzh911.qzz.io/play-smt.php?id=videolandmovie
-纬来日本,http://tzh911.qzz.io/play-smt.php?id=videolandjapan
-纬来体育,http://tzh911.qzz.io/play-smt.php?id=videolandsport
-纬来综合,http://tzh911.qzz.io/play-smt.php?id=videolandzonghe
-纬来育乐,http://tzh911.qzz.io/play-smt.php?id=videolandyule
-纬来精彩,http://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
-靖天国际,http://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
-靖天卡通,http://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-ELta影剧,http://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
-ELta综合,http://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
-ELTA体育1,http://tzh911.qzz.io/play-smt.php?id=eltasport_twn
-ELTA体育2,http://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-ELTA体育3,http://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-DAZN 1,http://tzh911.qzz.io/play-smt.php?id=golfchannel_twn
-博斯无限,http://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
-博斯网球,http://tzh911.qzz.io/play-smt.php?id=bositennis_twn
-博斯运动1,http://tzh911.qzz.io/play-smt.php?id=bosisport1_twn
-博斯运动2,http://tzh911.qzz.io/play-smt.php?id=bosisport2_twn
-博斯高球1,http://tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
-博斯高球2,http://tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
-探索亚洲,http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-国家地理,http://tzh911.qzz.io/play-smt.php?id=natgeohd_twn
-野生动物,http://tzh911.qzz.io/play-smt.php?id=natgeowild_twn
-动物星球,http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
-美食星球,http://tzh911.qzz.io/play-smt.php?id=foodplanet_twn
-亚洲美食,http://tzh911.qzz.io/play-smt.php?id=afc_twn
-亚洲旅游,http://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
-亚洲TLC,http://tzh911.qzz.io/play-smt.php?id=tlc_twn
-EYETV 旅游,http://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
-EYETV 戏剧,http://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
-MTV,http://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
-Discovery,http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
+寰宇新闻,http://156.239.254.7:5555/smt.php?id=huanyuxinwen_twn
+寰宇财经,http://156.239.254.7:5555/smt.php?id=huanyutaiwan_twn
+中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
+中天亚洲,http://156.239.254.7:5555/smt.php?id=ctiasia_twn
+中天娱乐,http://156.239.254.7:5555/smt.php?id=ctient
+中天综合,http://156.239.254.7:5555/smt.php?id=ctizhonghe
+TVBS,http://156.239.254.7:5555/smt.php?id=tvbs
+TVBS Asia,http://156.239.254.7:5555/smt.php?id=Tvbasia
+TVBS新闻,http://156.239.254.7:5555/smt.php?id=tvbs_n
+TVBS欢乐,http://156.239.254.7:5555/smt.php?id=tvbshuanle_twn
+东森新闻,http://156.239.254.7:5555/smt.php?id=ettvnews
+东森财经,http://156.239.254.7:5555/smt.php?id=ettvcaijing_twn
+东森综合,http://156.239.254.7:5555/smt.php?id=ettvzhonghe
+东森戏剧,http://156.239.254.7:5555/smt.php?id=ettvdrama
+东森洋片,http://156.239.254.7:5555/smt.php?id=ettvwestern
+东森电影,http://156.239.254.7:5555/smt.php?id=ettvmovie
+东森幼幼,http://156.239.254.7:5555/smt.php?id=yoyo_twn
+东森超视,http://156.239.254.7:5555/smt.php?id=ettvsuper
+中视新闻,http://156.239.254.7:5555/smt.php?id=zhongshinews_twn
+中视,http://156.239.254.7:5555/smt.php?id=zhongshihd_twn
+中视经典,http://156.239.254.7:5555/smt.php?id=zhongshi_twn
+民视,http://156.239.254.7:5555/smt.php?id=ftvhd_taiwan
+民视新闻,http://156.239.254.7:5555/smt.php?id=ftvnew_taiwan
+民视第一,http://156.239.254.7:5555/smt.php?id=lunghuajingdian_twn
+民视台湾,http://156.239.254.7:5555/smt.php?id=ftvtaiwan_twn
+华视,http://156.239.254.7:5555/smt.php?id=ctshd_twn
+台视综合,http://156.239.254.7:5555/smt.php?id=ttvzhonghe
+台视,http://156.239.254.7:5555/smt.php?id=ttv_taiwan
+台视新闻,http://156.239.254.7:5555/smt.php?id=ttvnews_twn
+公视台语,http://156.239.254.7:5555/smt.php?id=ctv2_twn
+三立闽南,http://156.239.254.7:5555/smt.php?id=sanlitaiwan
+三立戏剧,http://156.239.254.7:5555/smt.php?id=sanlixiju_twn
+三立综合,http://156.239.254.7:5555/smt.php?id=sanlizhonghe
+三立都会,http://156.239.254.7:5555/smt.php?id=sanlidouhui
+非凡新闻,http://156.239.254.7:5555/smt.php?id=feifannews_twn
+年代新闻,http://156.239.254.7:5555/smt.php?id=niandainews_twn
+八大第一,http://156.239.254.7:5555/smt.php?id=badafirst
+八大综合,http://156.239.254.7:5555/smt.php?id=badazhonghe
+八大戏剧,http://156.239.254.7:5555/smt.php?id=badadrama
+八大娱乐,http://156.239.254.7:5555/smt.php?id=badaentertain
+华艺综合,http://156.239.254.7:5555/smt.php?id=weishichinese_twn
+大爱1台,http://156.239.254.7:5555/smt.php?id=daai_twn
+大爱2台,http://156.239.254.7:5555/smt.php?id=daai2_twn
+好消息2,http://156.239.254.7:5555/smt.php?id=good2_twn
+阿里郎综合,http://156.239.254.7:5555/smt.php?id=arirang_twn
+AXN电影,http://156.239.254.7:5555/smt.php?id=axn_twn
+Cinemax,http://156.239.254.7:5555/smt.php?id=cinemax_twn
+HBo高清,http://156.239.254.7:5555/smt.php?id=hbohd_twn
+HBo家庭,http://156.239.254.7:5555/smt.php?id=fyi_twn
+好莱电影,http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
+龙祥电影,http://156.239.254.7:5555/smt.php?id=lungxiangtime_twn
+龙华经典,http://156.239.254.7:5555/smt.php?id=lunghuajingdian_twn
+龙华戏剧,http://156.239.254.7:5555/smt.php?id=lunghuaxiju_twn
+龙华电影,http://156.239.254.7:5555/smt.php?id=xingwei_movie
+龙华偶像,http://156.239.254.7:5555/smt.php?id=lunghuaidol_twn
+龙华洋片,http://156.239.254.7:5555/smt.php?id=lunghuawestern_twn
+纬来电影,http://156.239.254.7:5555/smt.php?id=videolandmovie
+纬来日本,http://156.239.254.7:5555/smt.php?id=videolandjapan
+纬来体育,http://156.239.254.7:5555/smt.php?id=videolandsport
+纬来综合,http://156.239.254.7:5555/smt.php?id=videolandzonghe
+纬来育乐,http://156.239.254.7:5555/smt.php?id=videolandyule
+纬来精彩,http://156.239.254.7:5555/smt.php?id=videolandspecial_twn
+靖天国际,http://156.239.254.7:5555/smt.php?id=jingtianintl_twn
+靖天卡通,http://156.239.254.7:5555/smt.php?id=jingtiancartoon_twn
+ELta影剧,http://156.239.254.7:5555/smt.php?id=eltayingju_twn
+ELta综合,http://156.239.254.7:5555/smt.php?id=eltazonghe_twn
+ELTA体育1,http://156.239.254.7:5555/smt.php?id=eltasport_twn
+ELTA体育2,http://156.239.254.7:5555/smt.php?id=eltasport2_twn
+ELTA体育3,http://156.239.254.7:5555/smt.php?id=eltasport3_twn
+DAZN 1,http://156.239.254.7:5555/smt.php?id=golfchannel_twn
+博斯无限,http://156.239.254.7:5555/smt.php?id=bosiunlimited_twn
+博斯网球,http://156.239.254.7:5555/smt.php?id=bositennis_twn
+博斯运动1,http://156.239.254.7:5555/smt.php?id=bosisport1_twn
+博斯运动2,http://156.239.254.7:5555/smt.php?id=bosisport2_twn
+博斯高球1,http://156.239.254.7:5555/smt.php?id=bosigolf1_twn
+博斯高球2,http://156.239.254.7:5555/smt.php?id=bosigolf2_twn
+探索亚洲,http://156.239.254.7:5555/smt.php?id=discoverytwn_twn
+国家地理,http://156.239.254.7:5555/smt.php?id=natgeohd_twn
+野生动物,http://156.239.254.7:5555/smt.php?id=natgeowild_twn
+动物星球,http://156.239.254.7:5555/smt.php?id=animalplanet_twn
+美食星球,http://156.239.254.7:5555/smt.php?id=foodplanet_twn
+亚洲美食,http://156.239.254.7:5555/smt.php?id=afc_twn
+亚洲旅游,http://156.239.254.7:5555/smt.php?id=asiatravel_twn
+亚洲TLC,http://156.239.254.7:5555/smt.php?id=tlc_twn
+EYETV 旅游,http://156.239.254.7:5555/smt.php?id=eyetvtravel_twn
+EYETV 戏剧,http://156.239.254.7:5555/smt.php?id=eyetvxiju_twn
+MTV,http://156.239.254.7:5555/smt.php?id=mtvhd_twn
+Discovery,http://156.239.254.7:5555/smt.php?id=discoverytwn_twn
 
 体育频特,#genre#
-爱尔达体育1台,http://tzh911.qzz.io/play-smt.php?id=eltasport_twn
-爱尔达体育2台,http://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-爱尔达体育3台,http://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-爱尔达体育4台,http://tzh911.qzz.io/play-smt.php?id=eltasport4_twn
-Astro Arena,http://tzh911.qzz.io/play-smt.php?id=Arena
-Astro Arena 2,http://tzh911.qzz.io/play-smt.php?id=Arena2
-Astro Arena Bola 1,http://tzh911.qzz.io/play-smt.php?id=Bolaarena1
-Astro Arena Bola 2,http://tzh911.qzz.io/play-smt.php?id=Bolaarena2
-Astro Bein sports 1,http://tzh911.qzz.io/play-smt.php?id=Astrobein1
-Astro Bein sports 2,http://tzh911.qzz.io/play-smt.php?id=Astrobein2
-Astro Bein sports 3,http://tzh911.qzz.io/play-smt.php?id=Astrobein3
-Astro Badminton 1,http://tzh911.qzz.io/play-smt.php?id=go_badminton1
-Astro Badminton 2,http://tzh911.qzz.io/play-smt.php?id=go_badminton2
-Astro Cricket,http://tzh911.qzz.io/play-smt.php?id=Acricket
-Astro EPL 1 backup,http://tzh911.qzz.io/play-smt.php?id=go_assp1x
-Astro Football,http://tzh911.qzz.io/play-smt.php?id=go_assp4
-Astro Golf,http://tzh911.qzz.io/play-smt.php?id=Agolf
-Astro Grandstand,http://tzh911.qzz.io/play-smt.php?id=go_assp3
-Astro Premier League 1,http://tzh911.qzz.io/play-smt.php?id=go_assp1
-Astro Premier League 2,http://tzh911.qzz.io/play-smt.php?id=go_assp2
-Astro Sports Plus,http://tzh911.qzz.io/play-smt.php?id=go_sportsplus
-Astro W-Sports,http://tzh911.qzz.io/play-smt.php?id=go_assp5
-Fight Sports,http://tzh911.qzz.io/play-smt.php?id=Fs
-NBA TV,http://tzh911.qzz.io/play-smt.php?id=Nba
-RTM Sports HD,http://tzh911.qzz.io/play-smt.php?id=Rtmsport
-Rugby Pass TV,http://tzh911.qzz.io/play-smt.php?id=Rugbypasstv
-Sky sports Cricket,http://tzh911.qzz.io/play-smt.php?id=tiankongcricket
-Sky sports EPL,http://tzh911.qzz.io/play-smt.php?id=tiankongepl
-Sky sports F1,http://tzh911.qzz.io/play-smt.php?id=tiankongf1
-Sky sports Main Event,http://tzh911.qzz.io/play-smt.php?id=tiankongmain
-Sky sports Mix,http://tzh911.qzz.io/play-smt.php?id=tiankongmix
-Sky sports News,http://tzh911.qzz.io/play-smt.php?id=tiankongnews
-Sony Ten 1,http://tzh911.qzz.io/play-smt.php?id=ten1_raj
-Sony Ten 2,http://tzh911.qzz.io/play-smt.php?id=ten2_raj
-Sony Ten 3,http://tzh911.qzz.io/play-smt.php?id=ten3_raj
-SPOTV 1,http://tzh911.qzz.io/play-smt.php?id=go_spotv
-SPOTV 2,http://tzh911.qzz.io/play-smt.php?id=go_spotv2
-Supersports 1,http://tzh911.qzz.io/play-smt.php?id=Assp1
-Supersports 2,http://tzh911.qzz.io/play-smt.php?id=Assp2
-Supersports 3,http://tzh911.qzz.io/play-smt.php?id=Assp3
-Supersports 4,http://tzh911.qzz.io/play-smt.php?id=Assp4
-Tnt Sports 1,http://tzh911.qzz.io/play-smt.php?id=6fac0aaead
-TNT Sports 2,http://tzh911.qzz.io/play-smt.php?id=d9a76a79cc
-TNT Sports 3,http://tzh911.qzz.io/play-smt.php?id=5fea4d73db
-TNT Sports 4,http://tzh911.qzz.io/play-smt.php?id=tntsport4
-WWE,http://tzh911.qzz.io/play-smt.php?id=Wwe
+爱尔达体育1台,http://156.239.254.7:5555/smt.php?id=eltasport_twn
+爱尔达体育2台,http://156.239.254.7:5555/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://156.239.254.7:5555/smt.php?id=eltasport3_twn
+爱尔达体育4台,http://156.239.254.7:5555/smt.php?id=eltasport4_twn
+Astro Arena,http://156.239.254.7:5555/smt.php?id=Arena
+Astro Arena 2,http://156.239.254.7:5555/smt.php?id=Arena2
+Astro Arena Bola 1,http://156.239.254.7:5555/smt.php?id=Bolaarena1
+Astro Arena Bola 2,http://156.239.254.7:5555/smt.php?id=Bolaarena2
+Astro Bein sports 1,http://156.239.254.7:5555/smt.php?id=Astrobein1
+Astro Bein sports 2,http://156.239.254.7:5555/smt.php?id=Astrobein2
+Astro Bein sports 3,http://156.239.254.7:5555/smt.php?id=Astrobein3
+Astro Badminton 1,http://156.239.254.7:5555/smt.php?id=go_badminton1
+Astro Badminton 2,http://156.239.254.7:5555/smt.php?id=go_badminton2
+Astro Cricket,http://156.239.254.7:5555/smt.php?id=Acricket
+Astro EPL 1 backup,http://156.239.254.7:5555/smt.php?id=go_assp1x
+Astro Football,http://156.239.254.7:5555/smt.php?id=go_assp4
+Astro Golf,http://156.239.254.7:5555/smt.php?id=Agolf
+Astro Grandstand,http://156.239.254.7:5555/smt.php?id=go_assp3
+Astro Premier League 1,http://156.239.254.7:5555/smt.php?id=go_assp1
+Astro Premier League 2,http://156.239.254.7:5555/smt.php?id=go_assp2
+Astro Sports Plus,http://156.239.254.7:5555/smt.php?id=go_sportsplus
+Astro W-Sports,http://156.239.254.7:5555/smt.php?id=go_assp5
+Fight Sports,http://156.239.254.7:5555/smt.php?id=Fs
+NBA TV,http://156.239.254.7:5555/smt.php?id=Nba
+RTM Sports HD,http://156.239.254.7:5555/smt.php?id=Rtmsport
+Rugby Pass TV,http://156.239.254.7:5555/smt.php?id=Rugbypasstv
+Sky sports Cricket,http://156.239.254.7:5555/smt.php?id=tiankongcricket
+Sky sports EPL,http://156.239.254.7:5555/smt.php?id=tiankongepl
+Sky sports F1,http://156.239.254.7:5555/smt.php?id=tiankongf1
+Sky sports Main Event,http://156.239.254.7:5555/smt.php?id=tiankongmain
+Sky sports Mix,http://156.239.254.7:5555/smt.php?id=tiankongmix
+Sky sports News,http://156.239.254.7:5555/smt.php?id=tiankongnews
+Sony Ten 1,http://156.239.254.7:5555/smt.php?id=ten1_raj
+Sony Ten 2,http://156.239.254.7:5555/smt.php?id=ten2_raj
+Sony Ten 3,http://156.239.254.7:5555/smt.php?id=ten3_raj
+SPOTV 1,http://156.239.254.7:5555/smt.php?id=go_spotv
+SPOTV 2,http://156.239.254.7:5555/smt.php?id=go_spotv2
+Supersports 1,http://156.239.254.7:5555/smt.php?id=Assp1
+Supersports 2,http://156.239.254.7:5555/smt.php?id=Assp2
+Supersports 3,http://156.239.254.7:5555/smt.php?id=Assp3
+Supersports 4,http://156.239.254.7:5555/smt.php?id=Assp4
+Tnt Sports 1,http://156.239.254.7:5555/smt.php?id=6fac0aaead
+TNT Sports 2,http://156.239.254.7:5555/smt.php?id=d9a76a79cc
+TNT Sports 3,http://156.239.254.7:5555/smt.php?id=5fea4d73db
+TNT Sports 4,http://156.239.254.7:5555/smt.php?id=tntsport4
+WWE,http://156.239.254.7:5555/smt.php?id=Wwe
 
 电影频玛,#genre#
-Animax,http://tzh911.qzz.io/play-smt.php?id=Animax
-Astrol Kplus,http://tzh911.qzz.io/play-smt.php?id=Kplus
-Axn HD,http://tzh911.qzz.io/play-smt.php?id=Axn
-Celestial Classic,http://tzh911.qzz.io/play-smt.php?id=Celestial2
-Celestial Movies HD,http://tzh911.qzz.io/play-smt.php?id=Celestialindo
-Cinemax,http://tzh911.qzz.io/play-smt.php?id=Cinemax
-Dreamworks,http://tzh911.qzz.io/play-smt.php?id=Dreamworks
-HBO HD,http://tzh911.qzz.io/play-smt.php?id=Hbo
-HBO Family,http://tzh911.qzz.io/play-smt.php?id=Hbofamily
-HBO Hits,http://tzh911.qzz.io/play-smt.php?id=Hbohitshd
-HBO Signature,http://tzh911.qzz.io/play-smt.php?id=Hbosignature
-Hits,http://tzh911.qzz.io/play-smt.php?id=Hits
-Hits Movie,http://tzh911.qzz.io/play-smt.php?id=Hitsmovie
-Movies Now HD,http://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
-One,http://tzh911.qzz.io/play-smt.php?id=One
-Paramount Network,http://tzh911.qzz.io/play-smt.php?id=Paramountnetwork
-Rock Actions,http://tzh911.qzz.io/play-smt.php?id=Rockaction
-Rock Entertainment,http://tzh911.qzz.io/play-smt.php?id=Rockentertain
-SCM,http://tzh911.qzz.io/play-smt.php?id=Weishimovie
-Star Movies HD,http://tzh911.qzz.io/play-smt.php?id=starmovies_raj
-Thrill,http://tzh911.qzz.io/play-smt.php?id=Thrill
-tvN Movie,http://tzh911.qzz.io/play-smt.php?id=Tvnmovie
-Warner TV,http://tzh911.qzz.io/play-smt.php?id=WarnerTV
+Animax,http://156.239.254.7:5555/smt.php?id=Animax
+Astrol Kplus,http://156.239.254.7:5555/smt.php?id=Kplus
+Axn HD,http://156.239.254.7:5555/smt.php?id=Axn
+Celestial Classic,http://156.239.254.7:5555/smt.php?id=Celestial2
+Celestial Movies HD,http://156.239.254.7:5555/smt.php?id=Celestialindo
+Cinemax,http://156.239.254.7:5555/smt.php?id=Cinemax
+Dreamworks,http://156.239.254.7:5555/smt.php?id=Dreamworks
+HBO HD,http://156.239.254.7:5555/smt.php?id=Hbo
+HBO Family,http://156.239.254.7:5555/smt.php?id=Hbofamily
+HBO Hits,http://156.239.254.7:5555/smt.php?id=Hbohitshd
+HBO Signature,http://156.239.254.7:5555/smt.php?id=Hbosignature
+Hits,http://156.239.254.7:5555/smt.php?id=Hits
+Hits Movie,http://156.239.254.7:5555/smt.php?id=Hitsmovie
+Movies Now HD,http://156.239.254.7:5555/smt.php?id=moviesnow_raj
+One,http://156.239.254.7:5555/smt.php?id=One
+Paramount Network,http://156.239.254.7:5555/smt.php?id=Paramountnetwork
+Rock Actions,http://156.239.254.7:5555/smt.php?id=Rockaction
+Rock Entertainment,http://156.239.254.7:5555/smt.php?id=Rockentertain
+SCM,http://156.239.254.7:5555/smt.php?id=Weishimovie
+Star Movies HD,http://156.239.254.7:5555/smt.php?id=starmovies_raj
+Thrill,http://156.239.254.7:5555/smt.php?id=Thrill
+tvN Movie,http://156.239.254.7:5555/smt.php?id=Tvnmovie
+Warner TV,http://156.239.254.7:5555/smt.php?id=WarnerTV
 
 纪录频特,#genre#
-Animal_Planet,http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
-Animal Planet (Eng),http://tzh911.qzz.io/play-smt.php?id=AnimalPlanet
-BBC Earth HD,http://tzh911.qzz.io/play-smt.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn
-CI,http://tzh911.qzz.io/play-smt.php?id=ci_twn
-Discovery Asia,http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-Discovery HD,http://tzh911.qzz.io/play-smt.php?id=discoveryhd_twn
-Fashion TV,http://tzh911.qzz.io/play-smt.php?id=fashiontv_twn
-Foodnetwork Hd,http://tzh911.qzz.io/play-smt.php?id=Foodnetwork
-HGTV,http://tzh911.qzz.io/play-smt.php?id=HGTV
-History,http://tzh911.qzz.io/play-smt.php?id=History
-NatGeo HD,http://tzh911.qzz.io/play-smt.php?id=Natgeo
-Natgeo_HD,http://tzh911.qzz.io/play-smt.php?id=natgeohd_twn
-NatGeo Wild HD,http://tzh911.qzz.io/play-smt.php?id=Natgeowild
-NatGeo_Wild HD,http://tzh911.qzz.io/play-smt.php?id=natgeowild_twn
-TLC,http://tzh911.qzz.io/play-smt.php?id=Tlc
+Animal_Planet,http://156.239.254.7:5555/smt.php?id=animalplanet_twn
+Animal Planet (Eng),http://156.239.254.7:5555/smt.php?id=AnimalPlanet
+BBC Earth HD,http://156.239.254.7:5555/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://156.239.254.7:5555/smt.php?id=bbclifestyle_twn
+CI,http://156.239.254.7:5555/smt.php?id=ci_twn
+Discovery Asia,http://156.239.254.7:5555/smt.php?id=discoverytwn_twn
+Discovery HD,http://156.239.254.7:5555/smt.php?id=discoveryhd_twn
+Fashion TV,http://156.239.254.7:5555/smt.php?id=fashiontv_twn
+Foodnetwork Hd,http://156.239.254.7:5555/smt.php?id=Foodnetwork
+HGTV,http://156.239.254.7:5555/smt.php?id=HGTV
+History,http://156.239.254.7:5555/smt.php?id=History
+NatGeo HD,http://156.239.254.7:5555/smt.php?id=Natgeo
+Natgeo_HD,http://156.239.254.7:5555/smt.php?id=natgeohd_twn
+NatGeo Wild HD,http://156.239.254.7:5555/smt.php?id=Natgeowild
+NatGeo_Wild HD,http://156.239.254.7:5555/smt.php?id=natgeowild_twn
+TLC,http://156.239.254.7:5555/smt.php?id=Tlc
 
 新闻频特,#genre#
-ABC News,http://tzh911.qzz.io/play-smt.php?id=abcnews_glo
-Al-Jazeera,http://tzh911.qzz.io/play-smt.php?id=aljazeera_twn
-BBC World News,http://tzh911.qzz.io/play-smt.php?id=bbcnews_twn
-BBC World News,http://tzh911.qzz.io/play-smt.php?id=Bbcnews
-Bloomberg News,http://tzh911.qzz.io/play-smt.php?id=bloomberg_twn
-CBS HD,http://tzh911.qzz.io/play-smt.php?id=cbshd_glo
-CBSN HD,http://tzh911.qzz.io/play-smt.php?id=cbsn_glo
-CNA,http://tzh911.qzz.io/play-smt.php?id=cna
-CNBC,http://tzh911.qzz.io/play-smt.php?id=cnbc_twn
-CNN International,http://tzh911.qzz.io/play-smt.php?id=Cnn
-CNN backup,http://tzh911.qzz.io/play-smt.php?id=cnn_twn
-DW (Deutsch),http://tzh911.qzz.io/play-smt.php?id=dw_twn
-Fox News,http://tzh911.qzz.io/play-smt.php?id=foxnews_twn
-France 24,http://tzh911.qzz.io/play-smt.php?id=france24_twn
-NHK World,http://tzh911.qzz.io/play-smt.php?id=nhkworld_japan
-Skynews,http://tzh911.qzz.io/play-smt.php?id=skynews_twn
+ABC News,http://156.239.254.7:5555/smt.php?id=abcnews_glo
+Al-Jazeera,http://156.239.254.7:5555/smt.php?id=aljazeera_twn
+BBC World News,http://156.239.254.7:5555/smt.php?id=bbcnews_twn
+BBC World News,http://156.239.254.7:5555/smt.php?id=Bbcnews
+Bloomberg News,http://156.239.254.7:5555/smt.php?id=bloomberg_twn
+CBS HD,http://156.239.254.7:5555/smt.php?id=cbshd_glo
+CBSN HD,http://156.239.254.7:5555/smt.php?id=cbsn_glo
+CNA,http://156.239.254.7:5555/smt.php?id=cna
+CNBC,http://156.239.254.7:5555/smt.php?id=cnbc_twn
+CNN International,http://156.239.254.7:5555/smt.php?id=Cnn
+CNN backup,http://156.239.254.7:5555/smt.php?id=cnn_twn
+DW (Deutsch),http://156.239.254.7:5555/smt.php?id=dw_twn
+Fox News,http://156.239.254.7:5555/smt.php?id=foxnews_twn
+France 24,http://156.239.254.7:5555/smt.php?id=france24_twn
+NHK World,http://156.239.254.7:5555/smt.php?id=nhkworld_japan
+Skynews,http://156.239.254.7:5555/smt.php?id=skynews_twn
 
 SPORTS,#genre#
 Now HK Premier Sports 1,http://vocotv.pro:80/robins/robins/715574
