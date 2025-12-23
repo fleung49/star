@@ -326,9 +326,9 @@ TVBS精彩台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp
 北美新闻台,https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
 中国电影频道,https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 Fairchild 2,http://vocotv.pro:80/robins/robins/3888
-Fairchild Television,http://vocotv.pro:80/Ander1/Ander1/3887
-Fairchild Television Mandarin,http://vocotv.pro:80/Ander1/Ander1/3886
-Fairchild Television West,http://vocotv.pro:80/Ander1/Ander1/3885
+Fairchild Television,http://vocotv.pro:80/robins/robins/3887
+Fairchild Television Mandarin,http://vocotv.pro:80/robins/robins/3886
+Fairchild Television West,http://vocotv.pro:80/robins/robins/3885
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
@@ -1548,7 +1548,7 @@ Now华剧,http://hls-pull-wicketpw.speedws.com:80/live/T54mtfnV46CgYjlYrvgcEKyUD
 Now剧集viu,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls5gDyvqoOh0v.flv
 Now紫金,http://hls-pull-wicketpw.speedws.com/live/k6bfbXwls4gDvwuzXM1D4wI4h1r2TYzMljRckRMJ0nU5YV9170.flv
 NOW爆谷,http://hls-pull-wicketpw.speedws.com:80/live/9kFYlsTAu8ScEZ4p2mWrkrHXa1Mu5yhBJ4DdZuc4Emzls4gDfF.flv
-Now爆谷,http://23.237.228.133live2/baogutai.m3u8
+Now爆谷,http://23.237.228.133/live2/baogutai.m3u8
 Now英超,http://hls-pull-wicketpw.speedws.com/live/YHju8lawaGbOf6Vv2TXTkVvWZ6VqtSS5PTDHDAI8uPpQ4ZntYF.flv
 Now Sports 1,http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 HOY 76,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvls4gD0LemY.flv
@@ -1662,15 +1662,25 @@ ASTRO 欢喜台,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 ASTRO FOOTBALL,http://hls-pull-wicketpw.speedws.com:80/live/hCe0d3jeGmSyzU5chYryZRIaejWAkiQeStFovYqtEKbYLq3F5H.flv
 ALJAZEERA半岛国际新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
 ARIRANG阿里郎频道,https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
+BBC NEWS,http://livepull2.longone.com.cn/live/4d0b99b635c283019edc35bae368e6e2.flv
 Bloomberg TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
 CLASSICA,https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
 CNBC Asia,https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
+CNN,http://livepull2.longone.com.cn/live/129ce13eef021aa3c497c14c3a8018bc.flv
 DA VINCI,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
 DreamWorks,https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
 DW德国之声,https://4gtv.946985.filegear-sg.me/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
-ELTA娱乐,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
-ELTA综合,http://hls-pull-wicketpw.speedws.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJS5PTDqFQ7poRQYW7.flv
 ELTA生活旅游,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
+ELTA娱乐,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
+ELTA娱乐,http://livepull2.longone.com.cn/live/2f749ca1c7176bd5b8dc96e3f8f0e693.flv
+ELTA综合,http://hls-pull-wicketpw.speedws.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJS5PTDqFQ7poRQYW7.flv
+ELTA综合,http://livepull2.longone.com.cn/live/24fde71b337e02b71d9d435216821353.flv
+ELTA影剧,http://livepull2.longone.com.cn/live/c9bf0b165cb2d46afb78e024608718b9.flv
+ELTA日韩,http://livepull2.longone.com.cn/live/f45722a8bca3998ed341d471b8dd20e5.flv
+ELTA体育1,http://livepull2.longone.com.cn/live/fa3efcc8232ede58705576569d542301.flv
+ELTA体育2,http://livepull2.longone.com.cn/live/47df55b7cdad3e1ba221ccdfebffeb1e.flv
+ELTA体育3,http://livepull2.longone.com.cn/live/4582e6d11c597fde0a5b01659cc35378.flv
+ELTA体育4,http://livepull2.longone.com.cn/live/42c93aae1f27a47c1c0b39091bc5cc30.flv
 FESTIVAL 4K,https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
 FRANCE24,https://4gtv.946985.filegear-sg.me/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
 GINX Esports TV,https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
