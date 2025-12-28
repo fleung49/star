@@ -1512,8 +1512,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
 PULL FLV,#genre#
-无线新闻,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+无线新闻,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
@@ -1611,10 +1611,9 @@ CCTV-16,http://hls-pull-wicketpw.speedws.com/live/F7VgQ37BtpBlwlovihJGN2fIB6PujH
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新聞台灣台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-19.m3u8
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中视新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
