@@ -333,7 +333,7 @@ FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&e
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
 
-/mytv-extra CHINA,#genre#
+mytv-extra CHINA,#genre#
 CN| 无线新闻,http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/102580.m3u8
 MY| 明珠台,http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/34490.m3u8
 MY| TVB娱乐新闻台,http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/742586.m3u8
