@@ -392,85 +392,49 @@ PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=admins&p=fa956b8
 tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 
 CDN香港,#genre#
-无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-无线新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+翡翠台,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台,http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+翡翠台4K,http://v2h.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+明珠台,http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+TVB PLUS,http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 华丽翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-华丽翡翠台,http://cdn9.veryfast.filegear-sg.me/live/jade/stream.m3u8
-华丽翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-明珠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
-TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-TVB PLUS,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-TVB娱乐新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-TVB星河,http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-凤凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-凤凰中文,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-凤凰资讯,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-凤凰香港,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
-HOY 77,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-HOY 77,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-HOY 78,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
-HOY剧集台,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
-ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-ViuTV,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-ViuTV6,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+翡翠剧集台,http://v2h.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB1,http://v2h.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+TVBJ1,http://v2h.veryfast.filegear-sg.me/live/j1/stream.m3u8
+凤凰资讯,http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+凤凰中文,http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰香港,http://v2h.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+HOY 77,http://v2h.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-RTHK31,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
-RTHK32,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
 RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-澳门体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-澳门综艺,http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
-澳门莲花,http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
-CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+澳视澳门,http://v2h.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳视卫星,http://v2h.veryfast.filegear-sg.me/live/as/stream.m3u8
+重温经典,http://v2h.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-海峡卫视,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
-重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-天映频道,http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
-天映频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-天映经典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
-天映经典,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-八度空间,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
-CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+深圳卫视4K,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
 第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+CH5,http://v2h.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CH8,http://v2h.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CHU,http://v2h.veryfast.filegear-sg.me/live/chu/stream.m3u8
+龙华电影,http://v2h.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+龙华经典,http://v2h.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+龙华卡通,http://v2h.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+龙华偶像,http://v2h.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+龙华日韩,http://v2h.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+龙华戏剧,http://v2h.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+龙华洋片,http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 api香港,#genre#
 无线新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
@@ -1561,24 +1525,21 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 PULL FLV,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
-无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
+翡翠台,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 翡翠台,http://hls-pull-wicketpw.speedws.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJPrDAjp12oP6KkG1PhQWJK.flv
 无线华丽翡翠,http://hls-pull-wicketpw.speedws.com/live/QbsxHsZLNj2ktYPrDAjZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
-无线华丽翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-无线华丽翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=Wlt
 明珠台,http://hls-pull-wicketpw.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PPrDAjH9BhEE7d6usSBcnv4Ar.flv
-明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 明珠台,http://bxtv.3a.ink/api.php?id=mz
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB PLUS,http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB 18,http://bxtv.3a.ink/api.php?id=18
-无线娱乐新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+无线娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 无线娱乐新闻台,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvPrDAj0LemY.flv
-无线千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线明剧,http://hls-pull-wicketpw.speedws.com/live/U5Lu0QKcXlS8JlsFq99Y9fgbgls4gDqtabagzClzSngLlR1hL2.flv
 无线华剧,http://hls-pull-wicketpw.speedws.com/live/13Jgp5L7rVHUf2RaDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
 无线生活,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoifUHl2AFMTOK5qG1aVgIFlFV4ZW.flv
@@ -1616,9 +1577,8 @@ HOY 76,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZ
 HOY 77,http://hls-pull-wicketpw.speedws.com/live/OCitoW8kzeqjIz3PrDAjfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
 HOY 77,http://cdn.163189.xyz/163189/hoy
 HOY 78,http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzPrDAj05KeGhG.flv
-VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 VIUTV,http://cdn.163189.xyz/163189/viu
-ViuTv6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 ViuTv6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 RTHK-31,http://hls-pull-wicketpw.speedws.com/live/LfN6YUZUCujLNYAAbTwZNcgmoY0FTLE4wnkPrDAj3nVtHcTXws.flv
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
@@ -1627,15 +1587,11 @@ RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 极限电影台,http://hls-pull-wicketpw.speedws.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfols4gDgNC19xXfFvAn4GP.flv
 美亚电影台,http://hls-pull-wicketpw.speedws.com/live/IcmEedVfQlHHUXtdsqvDLaKLpE639j7xCDHMM7ls4kPNDJ9OQm.flv
-美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
-天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv  
 澳视澳门,http://hls-pull-wicketpw.speedws.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQls4gDtD8Z686YrsM.flv
 爱奇艺,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0C4kPNDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
-爱奇艺,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
+八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 HUB娱家,http://hls-pull-wicketpw.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnls4gDTnY2MtgFyn0ArB7z.flv
 HUB都会,http://hls-pull-wicketpw.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnls4gDTnY2MtgFyn0ArB7z.flv
@@ -1647,6 +1603,7 @@ CCTV-2,http://hls-pull-wicketpw.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHY
 CCTV-3,http://hls-pull-wicketpw.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv
 CCTV-4,http://hls-pull-wicketpw.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
 CCTV-13,http://hls-pull-wicketpw.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv
+CCTV-13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 CCTV-14,http://hls-pull-wicketpw.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
 CCTV-16,http://hls-pull-wicketpw.speedws.com/live/F7VgQ37BtpBlwlovihJGN2fIB6PujHimsNsNRHYN3onY8dr4AtE.flv
 江苏卫视,http://hls-pull-wicketpw.speedws.com/live/trlXf058oDBEjovR1h5sNsNRHYzksVTZ55YkdEsiVFiGFzpkRsB.flv
@@ -1656,21 +1613,17 @@ CCTV-16,http://hls-pull-wicketpw.speedws.com/live/F7VgQ37BtpBlwlovihJGN2fIB6PujH
 青海卫视,http://hls-pull-wicketpw.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
 星空卫视,http://pull-skycorp.speedws.com/live/O6bfbXwHUf2RvwuzXM1D4wI4h1r2TYzMljRckRMJ0nU5YV9170.flv
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新聞台灣台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-19.m3u8
-中视新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
-TVBS,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
+TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b90hSUJ8ZFuoJGqcWMv.flv
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS精采台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
-TVBS精采台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
-TVBS综艺台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
-TVBS台剧,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
 东森新闻,http://hls-pull-wicketpw.speedws.com/live/IfhEdN30gjBbSDBtzjSSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
 东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
 八大綜合台,http://hls-pull-wicketpw.speedws.com/live/MHwQxVN5AxNqJmPfalrE7K5hthjpuObDRgh08LA1kizbFDBtzj.flv
@@ -1680,100 +1633,20 @@ TVBS台剧,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%
 民视,http://hls-pull-wicketpw.speedws.com/live/ERadomiHhS5PTDVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 民视影剧,http://hls-pull-wicketpw.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8S5PTDOTgHyml5y7Sy7uhf.flv
 民视综艺,http://hls-pull-wicketpw.speedws.com/live/BS5PTDwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
-华视,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 华艺中文台,http://hls-pull-wicketpw.speedws.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNS5PTDHJRuFYfN3ccgIZrS.flv
-原住民族电视,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-客家电视,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
-猪哥亮歌厅秀,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
-金光布袋戏,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
-霹雳布袋戏,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9C%B9%E9%9D%82%E5%B8%83%E8%A2%8B%E6%88%B2
-好消息,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
-好消息2,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
-大爱二,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-亚洲旅游,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-韩国娱乐台 KMTV,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
-幸福空间居家,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
 博斯运动1,http://hls-pull-wicketpw.speedws.com/live/hWhycHOSzY74KUs5OPMMk2IS5PTDt0bSJUhq7NdxN7hAy0aIYH.flv
-智林体育,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
-时尚运动X,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
 纬来电影,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
 靖天电影,http://hls-pull-wicketpw.speedws.com/live/GXPI9pS5PTDUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
-靖天综合,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
-靖天日本,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-靖天国际KLT,https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
-靖天资讯,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-靖天欢乐Nice TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
-靖天育乐,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
-靖天戏剧,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0
-靖天映画,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
-靖天卡通,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
-靖洋卡通Nice Bingo,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
-靖洋戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0
 靖洋戲劇,http://hls-pull-wicketpw.speedws.com/live/kzhROyIqAycjNS5PTDFQLOuapdHlFHHyrTenKIiwObxuYQCNevM.flv
-采昌影剧,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
 龙华电影,http://hls-pull-wicketpw.speedws.com/live/IpPvbrMRv3mmh9SqiPKggS5PTD0kDpl7ak7v0IYr5UdKor379J.flv
-影迷数位电影,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
-amc电影,https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-CinemaWorld,https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
-My Cinema Europe HD 我的欧洲电影,https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
-电影原声台CMusic,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic
-CI 罪案侦查频道,https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
-视纳华仁纪实频道,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
-影迷数位纪实,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
-ASTRO AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-ASTRO AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
-ASTRO QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-ASTRO iQIYI,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-ASTRO 欢喜台,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 ASTRO FOOTBALL,http://hls-pull-wicketpw.speedws.com:80/live/hCe0d3jeGmSyzU5chYryZRIaejWAkiQeStFovYqtEKbYLq3F5H.flv
-ALJAZEERA半岛国际新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
-ARIRANG阿里郎频道,https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
-BBC NEWS,http://livepull2.longone.com.cn/live/4d0b99b635c283019edc35bae368e6e2.flv
-Bloomberg TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
-CLASSICA,https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
-CNBC Asia,https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
-CNN,http://livepull2.longone.com.cn/live/129ce13eef021aa3c497c14c3a8018bc.flv
-DA VINCI,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-DreamWorks,https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
-DW德国之声,https://4gtv.946985.filegear-sg.me/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
-ELTA生活旅游,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
-ELTA娱乐,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
-ELTA娱乐,http://livepull2.longone.com.cn/live/2f749ca1c7176bd5b8dc96e3f8f0e693.flv
 ELTA综合,http://hls-pull-wicketpw.speedws.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJS5PTDqFQ7poRQYW7.flv
-ELTA综合,http://livepull2.longone.com.cn/live/24fde71b337e02b71d9d435216821353.flv
-ELTA影剧,http://livepull2.longone.com.cn/live/c9bf0b165cb2d46afb78e024608718b9.flv
-ELTA日韩,http://livepull2.longone.com.cn/live/f45722a8bca3998ed341d471b8dd20e5.flv
-ELTA体育1,http://livepull2.longone.com.cn/live/fa3efcc8232ede58705576569d542301.flv
-ELTA体育2,http://livepull2.longone.com.cn/live/47df55b7cdad3e1ba221ccdfebffeb1e.flv
-ELTA体育3,http://livepull2.longone.com.cn/live/4582e6d11c597fde0a5b01659cc35378.flv
-ELTA体育4,http://livepull2.longone.com.cn/live/42c93aae1f27a47c1c0b39091bc5cc30.flv
-FESTIVAL 4K,https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
-FRANCE24,https://4gtv.946985.filegear-sg.me/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
-GINX Esports TV,https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
-History,https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-HITS,https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
-INULTRA,https://4gtv.946985.filegear-sg.me/playlist?channel=INULTRA
-Lifetime,https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
-Love Nature,https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
-LUXE TV Channel,https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
-MagellanTV,https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
-M+车迷TV,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
-Mezzo Live ,https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
-MTV Live,https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
-NHK WORLD,https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
-Pet Club TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Pet%20Club%20TV
 ROCK ENTERTAINMENT,http://hls-pull-wicketpw.speedws.com/live/G1WNdbnkClg4c5eHhuq6kyUFJVhdgKKzF7vODS5PTDHTgBLBtO.flv
-ROCK ENTERTAINMENT,https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
-ROCK Action,https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
-rollor,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
 SKY SPORTS Football,http://hls-pull-wicketpw.speedws.com/live/hCe0d3jeGmSyzU5ls4gDZRIaejWAkiQeStFovYqtEKbYLq3F5H.flv
 SPOTV-1,http://hls-pull-wicketpw.speedws.com:80/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBrychYrye.flv
 SPOTV-2,http://hls-pull-wicketpw.speedws.com:80/live/0QiQJxpYsTrGCAUjnrGAgrcQwiVCocHAls4gDHFQ6bP4n5MQQS.flv
 TAIWAN+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 TNT SPORTS 1,http://hls-pull-wicketpw.speedws.com/live/AHdDjHqbls4gDNoYNTVlBXQP42MFeYpdXg7uB0YC0nH7JGyNn6.flv
-TRACE Urban,https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
-TRACE Sport Stars,https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
-TV5MONDE STYLE HD 生活时尚,https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
 WWE,http://hls-pull-wicketpw.speedws.com/live/3JDxwxlOhKS5PTDPR4f4zilIgDmgYFGRH3GLzP7TVbf8uHQfhC.flv
 
 风云4666888,#genre#
