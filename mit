@@ -897,10 +897,19 @@ HZTV-2,http://www.1328099.xyz:9688/udp/239.77.1.233:5146
 云浮文旅,http://www.1328099.xyz:9688/udp/239.77.0.254:5146
 茂名综合,http://www.1328099.xyz:9688/udp/239.77.0.206:5146
 茂名文化生活,http://www.1328099.xyz:9688/udp/239.77.0.207:5146
+
+📺海南频道,#genre#
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南新闻频道,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-海南自贸频道,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海南文旅频道,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+海南自贸,http://153.0.171.163:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南新闻,http://153.0.171.163:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+海南公共,http://153.0.171.163:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+海南文旅,http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 
 福建,#genre#
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
@@ -1604,7 +1613,7 @@ JET-综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 HISTORY,http://iptv.4666888.xyz/iptv2A.php?id=56
 
-广东卫视卫视116,#genre#
+广东央视卫视116,#genre#
 CCTV1-综合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3-综艺,http://116.77.33.98:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1708,6 +1717,54 @@ CCTV15-音乐,http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playli
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州TV1,http://124.90.45.52:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://124.90.45.52:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+央视卫视23.237,#genre#
+CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
+CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV4,http://23.237.228.134/live5/CCTV4.m3u8
+CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
+CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
+CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
+CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV13,http://23.237.228.134/live3/CCTV13.m3u8
+CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+CGTN,http://23.237.228.134/live3/CGTN.m3u8
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+东南卫视,http://23.237.228.134/live6/dongnan.m3u8
+海南卫视,http://23.237.228.134/live6/hainan.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+安徽卫视,http://23.237.228.134/live8/anhui.m3u8
+北京卫视,http://23.237.228.134/live3/beijing.m3u8
+天津卫视,http://23.237.228.134/live8/tianjing.m3u8
+东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+山东卫视,http://23.237.228.134/live8/shandong.m3u8
+四川卫视,http://23.237.228.134/live6/sichuan.m3u8
+重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+云南卫视,http://23.237.228.134/live8/yunnan.m3u8
+河南卫视,http://23.237.228.134/live6/henan.m3u8
+黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
+河北卫视,http://23.237.228.134/live8/hebei.m3u8
+青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
+内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 
 bxtv,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
@@ -1885,266 +1942,266 @@ TRACE SPORT STARS,http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8?proxy=tr
 TV5monde,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
 央卫频特,#genre#
-CCTV-1,http://live.catvod.com/live.php?id=cctv1
-CCTV-2,http://live.catvod.com/live.php?id=cctv2
-CCTV-3,http://live.catvod.com/live.php?id=cctv3
-CCTV-4,http://live.catvod.com/live.php?id=cctv4
-CCTV-4,http://live.catvod.com/live.php?id=Cctv4
-CCTV-5,http://live.catvod.com/live.php?id=cctv5
-CCTV-5+,http://live.catvod.com/live.php?id=cctv5plus
-CCTV-6,http://live.catvod.com/live.php?id=cctv6
-CCTV-7,http://live.catvod.com/live.php?id=cctv7
-CCTV-8,http://live.catvod.com/live.php?id=cctv8hd
-CCTV-9,http://live.catvod.com/live.php?id=cctv9hd
-CCTV-10,http://live.catvod.com/live.php?id=cctv10hd
-CCTV-11,http://live.catvod.com/live.php?id=cctv11
-CCTV-12,http://live.catvod.com/live.php?id=cctv12
-CCTV-13,http://live.catvod.com/live.php?id=cctv13
-CCTV-14,http://live.catvod.com/live.php?id=cctv14
-CCTV-15,http://live.catvod.com/live.php?id=cctv15
-CCTV-16,http://live.catvod.com/live.php?id=cctv16
-CCTV-17,http://live.catvod.com/live.php?id=cctv17
-CGTN,http://live.catvod.com/live.php?id=CGTN
-北京卫视,http://live.catvod.com/live.php?id=beijing
-深圳卫视,http://live.catvod.com/live.php?id=shenzhen
-广西卫视,http://live.catvod.com/live.php?id=guangxi
-湖北卫视,http://live.catvod.com/live.php?id=hubei
-东南卫视,http://live.catvod.com/live.php?id=fujian
-广东珠江,http://live.catvod.com/live.php?id=zhujiang
+CCTV-1,http://huanqiuzhibo.cn/smart.php?id=cctv1
+CCTV-2,http://huanqiuzhibo.cn/smart.php?id=cctv2
+CCTV-3,http://huanqiuzhibo.cn/smart.php?id=cctv3
+CCTV-4,http://huanqiuzhibo.cn/smart.php?id=cctv4
+CCTV-4,http://huanqiuzhibo.cn/smart.php?id=Cctv4
+CCTV-5,http://huanqiuzhibo.cn/smart.php?id=cctv5
+CCTV-5+,http://huanqiuzhibo.cn/smart.php?id=cctv5plus
+CCTV-6,http://huanqiuzhibo.cn/smart.php?id=cctv6
+CCTV-7,http://huanqiuzhibo.cn/smart.php?id=cctv7
+CCTV-8,http://huanqiuzhibo.cn/smart.php?id=cctv8hd
+CCTV-9,http://huanqiuzhibo.cn/smart.php?id=cctv9hd
+CCTV-10,http://huanqiuzhibo.cn/smart.php?id=cctv10hd
+CCTV-11,http://huanqiuzhibo.cn/smart.php?id=cctv11
+CCTV-12,http://huanqiuzhibo.cn/smart.php?id=cctv12
+CCTV-13,http://huanqiuzhibo.cn/smart.php?id=cctv13
+CCTV-14,http://huanqiuzhibo.cn/smart.php?id=cctv14
+CCTV-15,http://huanqiuzhibo.cn/smart.php?id=cctv15
+CCTV-16,http://huanqiuzhibo.cn/smart.php?id=cctv16
+CCTV-17,http://huanqiuzhibo.cn/smart.php?id=cctv17
+CGTN,http://huanqiuzhibo.cn/smart.php?id=CGTN
+北京卫视,http://huanqiuzhibo.cn/smart.php?id=beijing
+深圳卫视,http://huanqiuzhibo.cn/smart.php?id=shenzhen
+广西卫视,http://huanqiuzhibo.cn/smart.php?id=guangxi
+湖北卫视,http://huanqiuzhibo.cn/smart.php?id=hubei
+东南卫视,http://huanqiuzhibo.cn/smart.php?id=fujian
+广东珠江,http://huanqiuzhibo.cn/smart.php?id=zhujiang
 
 香港频特,#genre#
-凤凰中文,http://live.catvod.com/live.php?id=phoenixtv_hd
-凤凰资讯,http://live.catvod.com/live.php?id=phoenixinfo_hd
-凤凰香港,http://live.catvod.com/live.php?id=hkphoenix_twn
-无线新闻,http://live.catvod.com/live.php?id=inews_twn
-翡翠台,http://live.catvod.com/live.php?id=jade_twn
-翡翠台,http://live.catvod.com/live.php?id=Jade_xue
-翡翠台,http://live.catvod.com/live.php?id=Tvbjade
-明珠台,http://live.catvod.com/live.php?id=pearl_twn
-TVB Plus,http://live.catvod.com/live.php?id=j2_twn
-无线华丽粤,http://live.catvod.com/live.php?id=Wlt
-无线华丽国,http://live.catvod.com/live.php?id=Tvbjade
-无线娱乐新闻,http://live.catvod.com/live.php?id=Tvbentertainment
-千禧经典,http://live.catvod.com/live.php?id=Tvbclassic
-TVB 星河 Xing He,http://live.catvod.com/live.php?id=Xinhe
-HOY 78,http://live.catvod.com/live.php?id=hoycaijing_twn
-VIUTV,http://live.catvod.com/live.php?id=viu1_twn
-VIUTV 6,http://live.catvod.com/live.php?id=viusix_twn
-RTHK-31,http://live.catvod.com/live.php?id=rhk31_twn
-RTHK-32,http://live.catvod.com/live.php?id=rhk32_twn
-天映频道粤,http://live.catvod.com/live.php?id=ctv18_twn
-天映频道国,http://live.catvod.com/live.php?id=Celestial
-天映频道,http://live.catvod.com/live.php?id=Celestialindo
-天映经典,http://live.catvod.com/live.php?id=Celestial2
-美亚电影,http://live.catvod.com/live.php?id=meiyamovie_twn
-新加CHANNEL U,http://live.catvod.com/live.php?id=ChannelU
-新加CHANNEL 5,http://live.catvod.com/live.php?id=Channel5HD
-新加CHANNEL 8,http://live.catvod.com/live.php?id=Channel8HD
-八度空间,http://live.catvod.com/live.php?id=TV8
-Astro iQiyi 爱奇艺,http://live.catvod.com/live.php?id=Qiyi
-Astro QJ,http://live.catvod.com/live.php?id=Quanjia
-Astro AOD,http://live.catvod.com/live.php?id=Aodhd
-Astro AEC,http://live.catvod.com/live.php?id=AEC
-Astro 欢喜,http://live.catvod.com/live.php?id=Huahee
+凤凰中文,http://huanqiuzhibo.cn/smart.php?id=phoenixtv_hd
+凤凰资讯,http://huanqiuzhibo.cn/smart.php?id=phoenixinfo_hd
+凤凰香港,http://huanqiuzhibo.cn/smart.php?id=hkphoenix_twn
+无线新闻,http://huanqiuzhibo.cn/smart.php?id=inews_twn
+翡翠台,http://huanqiuzhibo.cn/smart.php?id=jade_twn
+翡翠台,http://huanqiuzhibo.cn/smart.php?id=Jade_xue
+翡翠台,http://huanqiuzhibo.cn/smart.php?id=Tvbjade
+明珠台,http://huanqiuzhibo.cn/smart.php?id=pearl_twn
+TVB Plus,http://huanqiuzhibo.cn/smart.php?id=j2_twn
+无线华丽粤,http://huanqiuzhibo.cn/smart.php?id=Wlt
+无线华丽国,http://huanqiuzhibo.cn/smart.php?id=Tvbjade
+无线娱乐新闻,http://huanqiuzhibo.cn/smart.php?id=Tvbentertainment
+千禧经典,http://huanqiuzhibo.cn/smart.php?id=Tvbclassic
+TVB 星河 Xing He,http://huanqiuzhibo.cn/smart.php?id=Xinhe
+HOY 78,http://huanqiuzhibo.cn/smart.php?id=hoycaijing_twn
+VIUTV,http://huanqiuzhibo.cn/smart.php?id=viu1_twn
+VIUTV 6,http://huanqiuzhibo.cn/smart.php?id=viusix_twn
+RTHK-31,http://huanqiuzhibo.cn/smart.php?id=rhk31_twn
+RTHK-32,http://huanqiuzhibo.cn/smart.php?id=rhk32_twn
+天映频道粤,http://huanqiuzhibo.cn/smart.php?id=ctv18_twn
+天映频道国,http://huanqiuzhibo.cn/smart.php?id=Celestial
+天映频道,http://huanqiuzhibo.cn/smart.php?id=Celestialindo
+天映经典,http://huanqiuzhibo.cn/smart.php?id=Celestial2
+美亚电影,http://huanqiuzhibo.cn/smart.php?id=meiyamovie_twn
+新加CHANNEL U,http://huanqiuzhibo.cn/smart.php?id=ChannelU
+新加CHANNEL 5,http://huanqiuzhibo.cn/smart.php?id=Channel5HD
+新加CHANNEL 8,http://huanqiuzhibo.cn/smart.php?id=Channel8HD
+八度空间,http://huanqiuzhibo.cn/smart.php?id=TV8
+Astro iQiyi 爱奇艺,http://huanqiuzhibo.cn/smart.php?id=Qiyi
+Astro QJ,http://huanqiuzhibo.cn/smart.php?id=Quanjia
+Astro AOD,http://huanqiuzhibo.cn/smart.php?id=Aodhd
+Astro AEC,http://huanqiuzhibo.cn/smart.php?id=AEC
+Astro 欢喜,http://huanqiuzhibo.cn/smart.php?id=Huahee
 
 台湾频特,#genre#
-寰宇新闻,http://live.catvod.com/live.php?id=huanyuxinwen_twn
-寰宇财经,http://live.catvod.com/live.php?id=huanyutaiwan_twn
-中天新闻,http://live.catvod.com/live.php?id=ctinews
-中天亚洲,http://live.catvod.com/live.php?id=ctiasia_twn
-中天娱乐,http://live.catvod.com/live.php?id=ctient
-中天综合,http://live.catvod.com/live.php?id=ctizhonghe
-TVBS,http://live.catvod.com/live.php?id=tvbs
-TVBS Asia,http://live.catvod.com/live.php?id=Tvbasia
-TVBS新闻,http://live.catvod.com/live.php?id=tvbs_n
-TVBS欢乐,http://live.catvod.com/live.php?id=tvbshuanle_twn
-东森新闻,http://live.catvod.com/live.php?id=ettvnews
-东森财经,http://live.catvod.com/live.php?id=ettvcaijing_twn
-东森综合,http://live.catvod.com/live.php?id=ettvzhonghe
-东森戏剧,http://live.catvod.com/live.php?id=ettvdrama
-东森洋片,http://live.catvod.com/live.php?id=ettvwestern
-东森电影,http://live.catvod.com/live.php?id=ettvmovie
-东森幼幼,http://live.catvod.com/live.php?id=yoyo_twn
-东森超视,http://live.catvod.com/live.php?id=ettvsuper
-中视新闻,http://live.catvod.com/live.php?id=zhongshinews_twn
-中视,http://live.catvod.com/live.php?id=zhongshihd_twn
-中视经典,http://live.catvod.com/live.php?id=zhongshi_twn
-民视,http://live.catvod.com/live.php?id=ftvhd_taiwan
-民视新闻,http://live.catvod.com/live.php?id=ftvnew_taiwan
-民视第一,http://live.catvod.com/live.php?id=lunghuajingdian_twn
-民视台湾,http://live.catvod.com/live.php?id=ftvtaiwan_twn
-华视,http://live.catvod.com/live.php?id=ctshd_twn
-台视综合,http://live.catvod.com/live.php?id=ttvzhonghe
-台视,http://live.catvod.com/live.php?id=ttv_taiwan
-台视新闻,http://live.catvod.com/live.php?id=ttvnews_twn
-公视台语,http://live.catvod.com/live.php?id=ctv2_twn
-三立闽南,http://live.catvod.com/live.php?id=sanlitaiwan
-三立戏剧,http://live.catvod.com/live.php?id=sanlixiju_twn
-三立综合,http://live.catvod.com/live.php?id=sanlizhonghe
-三立都会,http://live.catvod.com/live.php?id=sanlidouhui
-非凡新闻,http://live.catvod.com/live.php?id=feifannews_twn
-年代新闻,http://live.catvod.com/live.php?id=niandainews_twn
-八大第一,http://live.catvod.com/live.php?id=badafirst
-八大综合,http://live.catvod.com/live.php?id=badazhonghe
-八大戏剧,http://live.catvod.com/live.php?id=badadrama
-八大娱乐,http://live.catvod.com/live.php?id=badaentertain
-华艺综合,http://live.catvod.com/live.php?id=weishichinese_twn
-大爱1台,http://live.catvod.com/live.php?id=daai_twn
-大爱2台,http://live.catvod.com/live.php?id=daai2_twn
-好消息2,http://live.catvod.com/live.php?id=good2_twn
-阿里郎综合,http://live.catvod.com/live.php?id=arirang_twn
-AXN电影,http://live.catvod.com/live.php?id=axn_twn
-Cinemax,http://live.catvod.com/live.php?id=cinemax_twn
-HBo高清,http://live.catvod.com/live.php?id=hbohd_twn
-HBo家庭,http://live.catvod.com/live.php?id=fyi_twn
-好莱电影,http://live.catvod.com/live.php?id=hollywoodmovies_twn
-龙祥电影,http://live.catvod.com/live.php?id=lungxiangtime_twn
-龙华经典,http://live.catvod.com/live.php?id=lunghuajingdian_twn
-龙华戏剧,http://live.catvod.com/live.php?id=lunghuaxiju_twn
-龙华电影,http://live.catvod.com/live.php?id=xingwei_movie
-龙华偶像,http://live.catvod.com/live.php?id=lunghuaidol_twn
-龙华洋片,http://live.catvod.com/live.php?id=lunghuawestern_twn
-纬来电影,http://live.catvod.com/live.php?id=videolandmovie
-纬来日本,http://live.catvod.com/live.php?id=videolandjapan
-纬来体育,http://live.catvod.com/live.php?id=videolandsport
-纬来综合,http://live.catvod.com/live.php?id=videolandzonghe
-纬来育乐,http://live.catvod.com/live.php?id=videolandyule
-纬来精彩,http://live.catvod.com/live.php?id=videolandspecial_twn
-靖天国际,http://live.catvod.com/live.php?id=jingtianintl_twn
-靖天卡通,http://live.catvod.com/live.php?id=jingtiancartoon_twn
-ELta影剧,http://live.catvod.com/live.php?id=eltayingju_twn
-ELta综合,http://live.catvod.com/live.php?id=eltazonghe_twn
-ELTA体育1,http://live.catvod.com/live.php?id=eltasport_twn
-ELTA体育2,http://live.catvod.com/live.php?id=eltasport2_twn
-ELTA体育3,http://live.catvod.com/live.php?id=eltasport3_twn
-DAZN 1,http://live.catvod.com/live.php?id=golfchannel_twn
-博斯无限,http://live.catvod.com/live.php?id=bosiunlimited_twn
-博斯网球,http://live.catvod.com/live.php?id=bositennis_twn
-博斯运动1,http://live.catvod.com/live.php?id=bosisport1_twn
-博斯运动2,http://live.catvod.com/live.php?id=bosisport2_twn
-博斯高球1,http://live.catvod.com/live.php?id=bosigolf1_twn
-博斯高球2,http://live.catvod.com/live.php?id=bosigolf2_twn
-探索亚洲,http://live.catvod.com/live.php?id=discoverytwn_twn
-国家地理,http://live.catvod.com/live.php?id=natgeohd_twn
-野生动物,http://live.catvod.com/live.php?id=natgeowild_twn
-动物星球,http://live.catvod.com/live.php?id=animalplanet_twn
-美食星球,http://live.catvod.com/live.php?id=foodplanet_twn
-亚洲美食,http://live.catvod.com/live.php?id=afc_twn
-亚洲旅游,http://live.catvod.com/live.php?id=asiatravel_twn
-亚洲TLC,http://live.catvod.com/live.php?id=tlc_twn
-EYETV 旅游,http://live.catvod.com/live.php?id=eyetvtravel_twn
-EYETV 戏剧,http://live.catvod.com/live.php?id=eyetvxiju_twn
-MTV,http://live.catvod.com/live.php?id=mtvhd_twn
-Discovery,http://live.catvod.com/live.php?id=discoverytwn_twn
+寰宇新闻,http://huanqiuzhibo.cn/smart.php?id=huanyuxinwen_twn
+寰宇财经,http://huanqiuzhibo.cn/smart.php?id=huanyutaiwan_twn
+中天新闻,http://huanqiuzhibo.cn/smart.php?id=ctinews
+中天亚洲,http://huanqiuzhibo.cn/smart.php?id=ctiasia_twn
+中天娱乐,http://huanqiuzhibo.cn/smart.php?id=ctient
+中天综合,http://huanqiuzhibo.cn/smart.php?id=ctizhonghe
+TVBS,http://huanqiuzhibo.cn/smart.php?id=tvbs
+TVBS Asia,http://huanqiuzhibo.cn/smart.php?id=Tvbasia
+TVBS新闻,http://huanqiuzhibo.cn/smart.php?id=tvbs_n
+TVBS欢乐,http://huanqiuzhibo.cn/smart.php?id=tvbshuanle_twn
+东森新闻,http://huanqiuzhibo.cn/smart.php?id=ettvnews
+东森财经,http://huanqiuzhibo.cn/smart.php?id=ettvcaijing_twn
+东森综合,http://huanqiuzhibo.cn/smart.php?id=ettvzhonghe
+东森戏剧,http://huanqiuzhibo.cn/smart.php?id=ettvdrama
+东森洋片,http://huanqiuzhibo.cn/smart.php?id=ettvwestern
+东森电影,http://huanqiuzhibo.cn/smart.php?id=ettvmovie
+东森幼幼,http://huanqiuzhibo.cn/smart.php?id=yoyo_twn
+东森超视,http://huanqiuzhibo.cn/smart.php?id=ettvsuper
+中视新闻,http://huanqiuzhibo.cn/smart.php?id=zhongshinews_twn
+中视,http://huanqiuzhibo.cn/smart.php?id=zhongshihd_twn
+中视经典,http://huanqiuzhibo.cn/smart.php?id=zhongshi_twn
+民视,http://huanqiuzhibo.cn/smart.php?id=ftvhd_taiwan
+民视新闻,http://huanqiuzhibo.cn/smart.php?id=ftvnew_taiwan
+民视第一,http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
+民视台湾,http://huanqiuzhibo.cn/smart.php?id=ftvtaiwan_twn
+华视,http://huanqiuzhibo.cn/smart.php?id=ctshd_twn
+台视综合,http://huanqiuzhibo.cn/smart.php?id=ttvzhonghe
+台视,http://huanqiuzhibo.cn/smart.php?id=ttv_taiwan
+台视新闻,http://huanqiuzhibo.cn/smart.php?id=ttvnews_twn
+公视台语,http://huanqiuzhibo.cn/smart.php?id=ctv2_twn
+三立闽南,http://huanqiuzhibo.cn/smart.php?id=sanlitaiwan
+三立戏剧,http://huanqiuzhibo.cn/smart.php?id=sanlixiju_twn
+三立综合,http://huanqiuzhibo.cn/smart.php?id=sanlizhonghe
+三立都会,http://huanqiuzhibo.cn/smart.php?id=sanlidouhui
+非凡新闻,http://huanqiuzhibo.cn/smart.php?id=feifannews_twn
+年代新闻,http://huanqiuzhibo.cn/smart.php?id=niandainews_twn
+八大第一,http://huanqiuzhibo.cn/smart.php?id=badafirst
+八大综合,http://huanqiuzhibo.cn/smart.php?id=badazhonghe
+八大戏剧,http://huanqiuzhibo.cn/smart.php?id=badadrama
+八大娱乐,http://huanqiuzhibo.cn/smart.php?id=badaentertain
+华艺综合,http://huanqiuzhibo.cn/smart.php?id=weishichinese_twn
+大爱1台,http://huanqiuzhibo.cn/smart.php?id=daai_twn
+大爱2台,http://huanqiuzhibo.cn/smart.php?id=daai2_twn
+好消息2,http://huanqiuzhibo.cn/smart.php?id=good2_twn
+阿里郎综合,http://huanqiuzhibo.cn/smart.php?id=arirang_twn
+AXN电影,http://huanqiuzhibo.cn/smart.php?id=axn_twn
+Cinemax,http://huanqiuzhibo.cn/smart.php?id=cinemax_twn
+HBo高清,http://huanqiuzhibo.cn/smart.php?id=hbohd_twn
+HBo家庭,http://huanqiuzhibo.cn/smart.php?id=fyi_twn
+好莱电影,http://huanqiuzhibo.cn/smart.php?id=hollywoodmovies_twn
+龙祥电影,http://huanqiuzhibo.cn/smart.php?id=lungxiangtime_twn
+龙华经典,http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
+龙华戏剧,http://huanqiuzhibo.cn/smart.php?id=lunghuaxiju_twn
+龙华电影,http://huanqiuzhibo.cn/smart.php?id=xingwei_movie
+龙华偶像,http://huanqiuzhibo.cn/smart.php?id=lunghuaidol_twn
+龙华洋片,http://huanqiuzhibo.cn/smart.php?id=lunghuawestern_twn
+纬来电影,http://huanqiuzhibo.cn/smart.php?id=videolandmovie
+纬来日本,http://huanqiuzhibo.cn/smart.php?id=videolandjapan
+纬来体育,http://huanqiuzhibo.cn/smart.php?id=videolandsport
+纬来综合,http://huanqiuzhibo.cn/smart.php?id=videolandzonghe
+纬来育乐,http://huanqiuzhibo.cn/smart.php?id=videolandyule
+纬来精彩,http://huanqiuzhibo.cn/smart.php?id=videolandspecial_twn
+靖天国际,http://huanqiuzhibo.cn/smart.php?id=jingtianintl_twn
+靖天卡通,http://huanqiuzhibo.cn/smart.php?id=jingtiancartoon_twn
+ELta影剧,http://huanqiuzhibo.cn/smart.php?id=eltayingju_twn
+ELta综合,http://huanqiuzhibo.cn/smart.php?id=eltazonghe_twn
+ELTA体育1,http://huanqiuzhibo.cn/smart.php?id=eltasport_twn
+ELTA体育2,http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
+ELTA体育3,http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
+DAZN 1,http://huanqiuzhibo.cn/smart.php?id=golfchannel_twn
+博斯无限,http://huanqiuzhibo.cn/smart.php?id=bosiunlimited_twn
+博斯网球,http://huanqiuzhibo.cn/smart.php?id=bositennis_twn
+博斯运动1,http://huanqiuzhibo.cn/smart.php?id=bosisport1_twn
+博斯运动2,http://huanqiuzhibo.cn/smart.php?id=bosisport2_twn
+博斯高球1,http://huanqiuzhibo.cn/smart.php?id=bosigolf1_twn
+博斯高球2,http://huanqiuzhibo.cn/smart.php?id=bosigolf2_twn
+探索亚洲,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
+国家地理,http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
+野生动物,http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
+动物星球,http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
+美食星球,http://huanqiuzhibo.cn/smart.php?id=foodplanet_twn
+亚洲美食,http://huanqiuzhibo.cn/smart.php?id=afc_twn
+亚洲旅游,http://huanqiuzhibo.cn/smart.php?id=asiatravel_twn
+亚洲TLC,http://huanqiuzhibo.cn/smart.php?id=tlc_twn
+EYETV 旅游,http://huanqiuzhibo.cn/smart.php?id=eyetvtravel_twn
+EYETV 戏剧,http://huanqiuzhibo.cn/smart.php?id=eyetvxiju_twn
+MTV,http://huanqiuzhibo.cn/smart.php?id=mtvhd_twn
+Discovery,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
 
 体育频特,#genre#
-爱尔达体育1台,http://live.catvod.com/live.php?id=eltasport_twn
-爱尔达体育2台,http://live.catvod.com/live.php?id=eltasport2_twn
-爱尔达体育3台,http://live.catvod.com/live.php?id=eltasport3_twn
-爱尔达体育4台,http://live.catvod.com/live.php?id=eltasport4_twn
-Astro Arena,http://live.catvod.com/live.php?id=Arena
-Astro Arena 2,http://live.catvod.com/live.php?id=Arena2
-Astro Arena Bola 1,http://live.catvod.com/live.php?id=Bolaarena1
-Astro Arena Bola 2,http://live.catvod.com/live.php?id=Bolaarena2
-Astro Bein sports 1,http://live.catvod.com/live.php?id=Astrobein1
-Astro Bein sports 2,http://live.catvod.com/live.php?id=Astrobein2
-Astro Bein sports 3,http://live.catvod.com/live.php?id=Astrobein3
-Astro Badminton 1,http://live.catvod.com/live.php?id=go_badminton1
-Astro Badminton 2,http://live.catvod.com/live.php?id=go_badminton2
-Astro Cricket,http://live.catvod.com/live.php?id=Acricket
-Astro EPL 1 backup,http://live.catvod.com/live.php?id=go_assp1x
-Astro Football,http://live.catvod.com/live.php?id=go_assp4
-Astro Golf,http://live.catvod.com/live.php?id=Agolf
-Astro Grandstand,http://live.catvod.com/live.php?id=go_assp3
-Astro Premier League 1,http://live.catvod.com/live.php?id=go_assp1
-Astro Premier League 2,http://live.catvod.com/live.php?id=go_assp2
-Astro Sports Plus,http://live.catvod.com/live.php?id=go_sportsplus
-Astro W-Sports,http://live.catvod.com/live.php?id=go_assp5
-Fight Sports,http://live.catvod.com/live.php?id=Fs
-NBA TV,http://live.catvod.com/live.php?id=Nba
-RTM Sports HD,http://live.catvod.com/live.php?id=Rtmsport
-Rugby Pass TV,http://live.catvod.com/live.php?id=Rugbypasstv
-Sky sports Cricket,http://live.catvod.com/live.php?id=tiankongcricket
-Sky sports EPL,http://live.catvod.com/live.php?id=tiankongepl
-Sky sports F1,http://live.catvod.com/live.php?id=tiankongf1
-Sky sports Main Event,http://live.catvod.com/live.php?id=tiankongmain
-Sky sports Mix,http://live.catvod.com/live.php?id=tiankongmix
-Sky sports News,http://live.catvod.com/live.php?id=tiankongnews
-Sony Ten 1,http://live.catvod.com/live.php?id=ten1_raj
-Sony Ten 2,http://live.catvod.com/live.php?id=ten2_raj
-Sony Ten 3,http://live.catvod.com/live.php?id=ten3_raj
-SPOTV 1,http://live.catvod.com/live.php?id=go_spotv
-SPOTV 2,http://live.catvod.com/live.php?id=go_spotv2
-Supersports 1,http://live.catvod.com/live.php?id=Assp1
-Supersports 2,http://live.catvod.com/live.php?id=Assp2
-Supersports 3,http://live.catvod.com/live.php?id=Assp3
-Supersports 4,http://live.catvod.com/live.php?id=Assp4
-Tnt Sports 1,http://live.catvod.com/live.php?id=6fac0aaead
-TNT Sports 2,http://live.catvod.com/live.php?id=d9a76a79cc
-TNT Sports 3,http://live.catvod.com/live.php?id=5fea4d73db
-TNT Sports 4,http://live.catvod.com/live.php?id=tntsport4
-WWE,http://live.catvod.com/live.php?id=Wwe
+爱尔达体育1台,http://huanqiuzhibo.cn/smart.php?id=eltasport_twn
+爱尔达体育2台,http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
+爱尔达体育3台,http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
+爱尔达体育4台,http://huanqiuzhibo.cn/smart.php?id=eltasport4_twn
+Astro Arena,http://huanqiuzhibo.cn/smart.php?id=Arena
+Astro Arena 2,http://huanqiuzhibo.cn/smart.php?id=Arena2
+Astro Arena Bola 1,http://huanqiuzhibo.cn/smart.php?id=Bolaarena1
+Astro Arena Bola 2,http://huanqiuzhibo.cn/smart.php?id=Bolaarena2
+Astro Bein sports 1,http://huanqiuzhibo.cn/smart.php?id=Astrobein1
+Astro Bein sports 2,http://huanqiuzhibo.cn/smart.php?id=Astrobein2
+Astro Bein sports 3,http://huanqiuzhibo.cn/smart.php?id=Astrobein3
+Astro Badminton 1,http://huanqiuzhibo.cn/smart.php?id=go_badminton1
+Astro Badminton 2,http://huanqiuzhibo.cn/smart.php?id=go_badminton2
+Astro Cricket,http://huanqiuzhibo.cn/smart.php?id=Acricket
+Astro EPL 1 backup,http://huanqiuzhibo.cn/smart.php?id=go_assp1x
+Astro Football,http://huanqiuzhibo.cn/smart.php?id=go_assp4
+Astro Golf,http://huanqiuzhibo.cn/smart.php?id=Agolf
+Astro Grandstand,http://huanqiuzhibo.cn/smart.php?id=go_assp3
+Astro Premier League 1,http://huanqiuzhibo.cn/smart.php?id=go_assp1
+Astro Premier League 2,http://huanqiuzhibo.cn/smart.php?id=go_assp2
+Astro Sports Plus,http://huanqiuzhibo.cn/smart.php?id=go_sportsplus
+Astro W-Sports,http://huanqiuzhibo.cn/smart.php?id=go_assp5
+Fight Sports,http://huanqiuzhibo.cn/smart.php?id=Fs
+NBA TV,http://huanqiuzhibo.cn/smart.php?id=Nba
+RTM Sports HD,http://huanqiuzhibo.cn/smart.php?id=Rtmsport
+Rugby Pass TV,http://huanqiuzhibo.cn/smart.php?id=Rugbypasstv
+Sky sports Cricket,http://huanqiuzhibo.cn/smart.php?id=tiankongcricket
+Sky sports EPL,http://huanqiuzhibo.cn/smart.php?id=tiankongepl
+Sky sports F1,http://huanqiuzhibo.cn/smart.php?id=tiankongf1
+Sky sports Main Event,http://huanqiuzhibo.cn/smart.php?id=tiankongmain
+Sky sports Mix,http://huanqiuzhibo.cn/smart.php?id=tiankongmix
+Sky sports News,http://huanqiuzhibo.cn/smart.php?id=tiankongnews
+Sony Ten 1,http://huanqiuzhibo.cn/smart.php?id=ten1_raj
+Sony Ten 2,http://huanqiuzhibo.cn/smart.php?id=ten2_raj
+Sony Ten 3,http://huanqiuzhibo.cn/smart.php?id=ten3_raj
+SPOTV 1,http://huanqiuzhibo.cn/smart.php?id=go_spotv
+SPOTV 2,http://huanqiuzhibo.cn/smart.php?id=go_spotv2
+Supersports 1,http://huanqiuzhibo.cn/smart.php?id=Assp1
+Supersports 2,http://huanqiuzhibo.cn/smart.php?id=Assp2
+Supersports 3,http://huanqiuzhibo.cn/smart.php?id=Assp3
+Supersports 4,http://huanqiuzhibo.cn/smart.php?id=Assp4
+Tnt Sports 1,http://huanqiuzhibo.cn/smart.php?id=6fac0aaead
+TNT Sports 2,http://huanqiuzhibo.cn/smart.php?id=d9a76a79cc
+TNT Sports 3,http://huanqiuzhibo.cn/smart.php?id=5fea4d73db
+TNT Sports 4,http://huanqiuzhibo.cn/smart.php?id=tntsport4
+WWE,http://huanqiuzhibo.cn/smart.php?id=Wwe
 
 电影频玛,#genre#
-Animax,http://live.catvod.com/live.php?id=Animax
-Astrol Kplus,http://live.catvod.com/live.php?id=Kplus
-Axn HD,http://live.catvod.com/live.php?id=Axn
-Celestial Classic,http://live.catvod.com/live.php?id=Celestial2
-Celestial Movies HD,http://live.catvod.com/live.php?id=Celestialindo
-Cinemax,http://live.catvod.com/live.php?id=Cinemax
-Dreamworks,http://live.catvod.com/live.php?id=Dreamworks
-HBO HD,http://live.catvod.com/live.php?id=Hbo
-HBO Family,http://live.catvod.com/live.php?id=Hbofamily
-HBO Hits,http://live.catvod.com/live.php?id=Hbohitshd
-HBO Signature,http://live.catvod.com/live.php?id=Hbosignature
-Hits,http://live.catvod.com/live.php?id=Hits
-Hits Movie,http://live.catvod.com/live.php?id=Hitsmovie
-Movies Now HD,http://live.catvod.com/live.php?id=moviesnow_raj
-One,http://live.catvod.com/live.php?id=One
-Paramount Network,http://live.catvod.com/live.php?id=Paramountnetwork
-Rock Actions,http://live.catvod.com/live.php?id=Rockaction
-Rock Entertainment,http://live.catvod.com/live.php?id=Rockentertain
-SCM,http://live.catvod.com/live.php?id=Weishimovie
-Star Movies HD,http://live.catvod.com/live.php?id=starmovies_raj
-Thrill,http://live.catvod.com/live.php?id=Thrill
-tvN Movie,http://live.catvod.com/live.php?id=Tvnmovie
-Warner TV,http://live.catvod.com/live.php?id=WarnerTV
+Animax,http://huanqiuzhibo.cn/smart.php?id=Animax
+Astrol Kplus,http://huanqiuzhibo.cn/smart.php?id=Kplus
+Axn HD,http://huanqiuzhibo.cn/smart.php?id=Axn
+Celestial Classic,http://huanqiuzhibo.cn/smart.php?id=Celestial2
+Celestial Movies HD,http://huanqiuzhibo.cn/smart.php?id=Celestialindo
+Cinemax,http://huanqiuzhibo.cn/smart.php?id=Cinemax
+Dreamworks,http://huanqiuzhibo.cn/smart.php?id=Dreamworks
+HBO HD,http://huanqiuzhibo.cn/smart.php?id=Hbo
+HBO Family,http://huanqiuzhibo.cn/smart.php?id=Hbofamily
+HBO Hits,http://huanqiuzhibo.cn/smart.php?id=Hbohitshd
+HBO Signature,http://huanqiuzhibo.cn/smart.php?id=Hbosignature
+Hits,http://huanqiuzhibo.cn/smart.php?id=Hits
+Hits Movie,http://huanqiuzhibo.cn/smart.php?id=Hitsmovie
+Movies Now HD,http://huanqiuzhibo.cn/smart.php?id=moviesnow_raj
+One,http://huanqiuzhibo.cn/smart.php?id=One
+Paramount Network,http://huanqiuzhibo.cn/smart.php?id=Paramountnetwork
+Rock Actions,http://huanqiuzhibo.cn/smart.php?id=Rockaction
+Rock Entertainment,http://huanqiuzhibo.cn/smart.php?id=Rockentertain
+SCM,http://huanqiuzhibo.cn/smart.php?id=Weishimovie
+Star Movies HD,http://huanqiuzhibo.cn/smart.php?id=starmovies_raj
+Thrill,http://huanqiuzhibo.cn/smart.php?id=Thrill
+tvN Movie,http://huanqiuzhibo.cn/smart.php?id=Tvnmovie
+Warner TV,http://huanqiuzhibo.cn/smart.php?id=WarnerTV
 
 纪录频特,#genre#
-Animal_Planet,http://live.catvod.com/live.php?id=animalplanet_twn
-Animal Planet (Eng),http://live.catvod.com/live.php?id=AnimalPlanet
-BBC Earth HD,http://live.catvod.com/live.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://live.catvod.com/live.php?id=bbclifestyle_twn
-CI,http://live.catvod.com/live.php?id=ci_twn
-Discovery Asia,http://live.catvod.com/live.php?id=discoverytwn_twn
-Discovery HD,http://live.catvod.com/live.php?id=discoveryhd_twn
-Fashion TV,http://live.catvod.com/live.php?id=fashiontv_twn
-Foodnetwork Hd,http://live.catvod.com/live.php?id=Foodnetwork
-HGTV,http://live.catvod.com/live.php?id=HGTV
-History,http://live.catvod.com/live.php?id=History
-NatGeo HD,http://live.catvod.com/live.php?id=Natgeo
-Natgeo_HD,http://live.catvod.com/live.php?id=natgeohd_twn
-NatGeo Wild HD,http://live.catvod.com/live.php?id=Natgeowild
-NatGeo_Wild HD,http://live.catvod.com/live.php?id=natgeowild_twn
-TLC,http://live.catvod.com/live.php?id=Tlc
+Animal_Planet,http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
+Animal Planet (Eng),http://huanqiuzhibo.cn/smart.php?id=AnimalPlanet
+BBC Earth HD,http://huanqiuzhibo.cn/smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://huanqiuzhibo.cn/smart.php?id=bbclifestyle_twn
+CI,http://huanqiuzhibo.cn/smart.php?id=ci_twn
+Discovery Asia,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
+Discovery HD,http://huanqiuzhibo.cn/smart.php?id=discoveryhd_twn
+Fashion TV,http://huanqiuzhibo.cn/smart.php?id=fashiontv_twn
+Foodnetwork Hd,http://huanqiuzhibo.cn/smart.php?id=Foodnetwork
+HGTV,http://huanqiuzhibo.cn/smart.php?id=HGTV
+History,http://huanqiuzhibo.cn/smart.php?id=History
+NatGeo HD,http://huanqiuzhibo.cn/smart.php?id=Natgeo
+Natgeo_HD,http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
+NatGeo Wild HD,http://huanqiuzhibo.cn/smart.php?id=Natgeowild
+NatGeo_Wild HD,http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
+TLC,http://huanqiuzhibo.cn/smart.php?id=Tlc
 
 新闻频特,#genre#
-ABC News,http://live.catvod.com/live.php?id=abcnews_glo
-Al-Jazeera,http://live.catvod.com/live.php?id=aljazeera_twn
-BBC World News,http://live.catvod.com/live.php?id=bbcnews_twn
-BBC World News,http://live.catvod.com/live.php?id=Bbcnews
-Bloomberg News,http://live.catvod.com/live.php?id=bloomberg_twn
-CBS HD,http://live.catvod.com/live.php?id=cbshd_glo
-CBSN HD,http://live.catvod.com/live.php?id=cbsn_glo
-CNA,http://live.catvod.com/live.php?id=cna
-CNBC,http://live.catvod.com/live.php?id=cnbc_twn
-CNN International,http://live.catvod.com/live.php?id=Cnn
-CNN backup,http://live.catvod.com/live.php?id=cnn_twn
-DW (Deutsch),http://live.catvod.com/live.php?id=dw_twn
-Fox News,http://live.catvod.com/live.php?id=foxnews_twn
-France 24,http://live.catvod.com/live.php?id=france24_twn
-NHK World,http://live.catvod.com/live.php?id=nhkworld_japan
-Skynews,http://live.catvod.com/live.php?id=skynews_twn
+ABC News,http://huanqiuzhibo.cn/smart.php?id=abcnews_glo
+Al-Jazeera,http://huanqiuzhibo.cn/smart.php?id=aljazeera_twn
+BBC World News,http://huanqiuzhibo.cn/smart.php?id=bbcnews_twn
+BBC World News,http://huanqiuzhibo.cn/smart.php?id=Bbcnews
+Bloomberg News,http://huanqiuzhibo.cn/smart.php?id=bloomberg_twn
+CBS HD,http://huanqiuzhibo.cn/smart.php?id=cbshd_glo
+CBSN HD,http://huanqiuzhibo.cn/smart.php?id=cbsn_glo
+CNA,http://huanqiuzhibo.cn/smart.php?id=cna
+CNBC,http://huanqiuzhibo.cn/smart.php?id=cnbc_twn
+CNN International,http://huanqiuzhibo.cn/smart.php?id=Cnn
+CNN backup,http://huanqiuzhibo.cn/smart.php?id=cnn_twn
+DW (Deutsch),http://huanqiuzhibo.cn/smart.php?id=dw_twn
+Fox News,http://huanqiuzhibo.cn/smart.php?id=foxnews_twn
+France 24,http://huanqiuzhibo.cn/smart.php?id=france24_twn
+NHK World,http://huanqiuzhibo.cn/smart.php?id=nhkworld_japan
+Skynews,http://huanqiuzhibo.cn/smart.php?id=skynews_twn
 
 SPORTS,#genre#
 Now HK Premier Sports 1,http://vocotv.pro:80/robins/robins/715574
