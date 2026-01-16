@@ -1,67 +1,3 @@
-142p2p,#genre#
-CCTV-1HD,p2p://142.54.189.229:2666/64df4e39000298bd058fb75f6f793316.ts
-CCTV-2HD,p2p://142.54.189.229:2666/64df4e67000820a105906c772cd32f49.ts
-CCTV-3HD,p2p://142.54.189.229:2666/64df4e89000a4ed70590f1d37a573286.ts
-CCTV-4HD,p2p://142.54.189.229:2666/646fc99e000dc00f02682ab546856d2d.ts
-CCTV-5HD,p2p://142.54.189.229:2666/64df4ebf00068c480591c3d91baf3c83.ts
-CCTV-5+HD,p2p://142.54.189.229:2666/64df503c00022ac6059792f804d651bd.ts
-CCTV-6HD,p2p://142.54.189.229:2666/64df4ede000dbb8905923ec6442531c0.ts
-CCTV-7HD,p2p://142.54.189.229:2666/64df4f0300019c2d0592cc3161373a6c.ts
-CCTV-8HD,p2p://142.54.189.229:2666/64df4f1f0005371005933a7b56a10c94.ts
-CCTV-9HD,p2p://142.54.189.229:2666/64df4f3f000488480593b74c4f2b43d2.ts
-CCTV-10HD,p2p://142.54.189.229:2666/64df4f5e000d9fd9059432b626b91c45.ts
-CCTV-11,p2p://142.54.189.229:2666/64df4f7c000e9bd30594a8256b494244.ts
-CCTV-12HD,p2p://142.54.189.229:2666/64df4f9a0008ada905951bde12cd5d4e.ts
-CCTV-13,p2p://142.54.189.229:2666/64df4fbe000b56780595a92a1ea85f2c.ts
-CCTV-14HD,p2p://142.54.189.229:2666/64df4fec000d0dbb05965d475ae335b9.ts
-CCTV-15HD,p2p://142.54.189.229:2666/64df50100006a70e0596e8410f7e18c3.ts
-广东卫视HD,p2p://142.54.189.229:2666/64df51140004d9ca059adf74103833c9.ts
-深圳卫视HD,p2p://142.54.189.229:2666/64df5139000ad969059b7182586e1f65.ts
-江苏卫视HD,p2p://142.54.189.229:2666/64df50ba0001a61e05997f0951450b82.ts
-浙江卫视HD,p2p://142.54.189.229:2666/64df5090000d4a190598ddf7166a453b.ts
-湖南卫视HD,p2p://142.54.189.229:2666/64df50670003ee5905983b6d504e0ab8.ts
-北京卫视HD,p2p://142.54.189.229:2666/64df50e700054825059a2fbb5c2266d3.ts
-安徽卫视HD,p2p://142.54.189.229:2666/64df515e0008bdb3059c017e298b6768.ts
-东方卫视,p2p://142.54.189.229:2666/64703b7100076f870424c94717f213ac.ts
-CHC家庭影院,p2p://142.54.189.229:2666/64df524500090962059f87e539814f92.ts
-CHC动作电影,p2p://142.54.189.229:2666/64df522000028fae059ef5b741fa1d46.ts
-CHC高清电影,p2p://142.54.189.229:2666/64df526f0007690e05a02b8862980d8c.ts
-凤凰资讯,p2p://142.54.189.229:2666/64df4dbc000cf286058dd1b77e200c8c.ts
-TVBS新闻,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
-东森新闻,p2p://142.54.189.229:2666/64df0db3000d67790493aeaf65c56300.ts
-东森洋片,p2p://142.54.189.229:2666/64df13790003d2fa04aa39ae2da01a11.ts
-东森电影,p2p://142.54.189.229:2666/64df13a000050e5604aad25477514fbe.ts
-东森戏剧,p2p://142.54.189.229:2666/64df12c40004572504a776c51f557ae3.ts
-三立新闻,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
-三立都会,p2p://142.54.189.229:2666/64df11b100009de604a343a26d5e011f.ts
-三立台湾,p2p://142.54.189.229:2666/64df120c000d1ba704a4aa47660f072a.ts
-年代新闻,p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
-台视,p2p://142.54.189.229:2666/64df1280000382f804a66cf66f723cd5.ts
-非凡商业,p2p://142.54.189.229:2666/64df45be00022c98056e96c83cf40f33.ts
-八大戏剧,p2p://142.54.189.229:2666/64df42c10009db1b0562ec745e7901e2.ts
-东风,p2p://142.54.189.229:2666/64df454c000c128a056cdc0835e81587.ts
-华艺中文台,p2p://142.54.189.229:2666/64df12f700010de304a83d325efd0c7f.ts
-亚洲旅游,p2p://142.54.189.229:2666/64df458d0000b197056dd70234661fa7.ts
-好莱坞电影,p2p://142.54.189.229:2666/64df134600097ad804a973ed5c03697a.ts
-都市剧场,p2p://142.54.189.229:2666/64e0cecc0002f9900b6df5b72ec12ee7.ts
-精彩影视,p2p://142.54.189.229:2666/64e0ce310005eaad0b6b98fa39b36cb2.ts
-纬来电影,p2p://142.54.189.229:2666/64df13210009342a04a8e3556bf668f8.ts
-纬来综合,p2p://142.54.189.229:2666/64df43e300075980056758a83a2b540c.ts
-纬来日本,p2p://142.54.189.229:2666/64df443f00095d370568c085157977f8.ts
-纬来戏剧,p2p://142.54.189.229:2666/64df437200095ddd05659fbd043c428f.ts
-纬来体育,p2p://142.54.189.229:2666/64df434b000e4fa8056508ad7eb544f1.ts
-纬来育乐,p2p://142.54.189.229:2666/64df43ac00074b2b056681d0209227db.ts
-AXN,p2p://142.54.189.229:2666/64df122d0005c00804a5294b00f52204.ts
-BBC,p2p://142.54.189.229:2666/64df446d0008ef2005697425049e4588.ts
-CNN,p2p://142.54.189.229:2666/64df44980009ee7c056a1c5c030731c7.ts
-CINEMAX,p2p://142.54.189.229:2666/64df5bda0009868805c4f60d115c76bc.ts
-HBO,p2p://142.54.189.229:2666/64df12580002b58d04a5d077677d6597.ts
-HBO Hits,p2p://142.54.189.229:2666/64df45eb000de73e056f498e2cb767d8.ts
-HBO Family,p2p://142.54.189.229:2666/64df46550004bc4d0570e54c39ee24dd.ts
-HBO Signature,p2p://142.54.189.229:2666/64df46220007117705701eb010a05e11.ts
-MOMO親子,p2p://142.54.189.229:2666/64df44f10007b01e056b776826a703aa.ts
-NICK JR,p2p://142.54.189.229:2666/64df5c370009277b05c661456c657811.ts
-
 特闽频晴,#genre#
 Now新闻频晴,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 无线新闻频晴,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
@@ -519,207 +455,25 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 嘉佳卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTMyOC5tM3U4
 优漫卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
 
-广东有线(央视),#genre#
-CCTV1,http://qgtf.jydjd.top:2903/udp/224.1.100.90:11111
-CCTV1,http://qgtf.jydjd.top:2903/udp/224.1.100.89:11111
-CCTV2,http://qgtf.jydjd.top:2903/udp/224.1.100.93:11111
-CCTV2,http://qgtf.jydjd.top:2903/udp/224.1.100.94:11111
-CCTV2,http://qgtf.jydjd.top:2903/udp/224.1.100.192:11111
-CCTV3,http://qgtf.jydjd.top:2903/udp/224.1.100.64:11111
-CCTV3,http://qgtf.jydjd.top:2903/udp/224.1.100.63:11111
-CCTV4,http://qgtf.jydjd.top:2903/udp/224.1.100.103:11111
-CCTV4,http://qgtf.jydjd.top:2903/udp/224.1.100.104:11111
-CCTV5,http://qgtf.jydjd.top:2903/udp/224.1.100.81:11111
-CCTV5,http://qgtf.jydjd.top:2903/udp/224.1.100.82:11111
-CCTV5,http://qgtf.jydjd.top:2903/udp/224.1.100.193:11111
-CCTV5+,http://qgtf.jydjd.top:2903/udp/224.1.100.25:11111
-CCTV5+,http://qgtf.jydjd.top:2903/udp/224.1.100.26:11111
-CCTV6,http://qgtf.jydjd.top:2903/udp/224.1.100.84:11111
-CCTV6,http://qgtf.jydjd.top:2903/udp/224.1.100.83:11111
-CCTV6,http://qgtf.jydjd.top:2903/udp/224.1.100.194:11111
-CCTV7,http://qgtf.jydjd.top:2903/udp/224.1.100.27:11111
-CCTV7,http://qgtf.jydjd.top:2903/udp/224.1.100.28:11111
-CCTV8,http://qgtf.jydjd.top:2903/udp/224.1.100.86:11111
-CCTV8,http://qgtf.jydjd.top:2903/udp/224.1.100.85:11111
-CCTV9,http://qgtf.jydjd.top:2903/udp/224.1.100.29:11111
-CCTV9,http://qgtf.jydjd.top:2903/udp/224.1.100.30:11111
-CCTV10,http://qgtf.jydjd.top:2903/udp/224.1.100.75:11111
-CCTV10,http://qgtf.jydjd.top:2903/udp/224.1.100.76:11111
-CCTV11,http://qgtf.jydjd.top:2903/udp/224.1.100.44:11111
-CCTV11,http://qgtf.jydjd.top:2903/udp/224.1.100.43:11111
-CCTV12,http://qgtf.jydjd.top:2903/udp/224.1.100.77:11111
-CCTV12,http://qgtf.jydjd.top:2903/udp/224.1.100.78:11111
-CCTV13,http://qgtf.jydjd.top:2903/udp/224.1.100.69:11111
-CCTV13,http://qgtf.jydjd.top:2903/udp/224.1.100.70:11111
-CCTV14,http://qgtf.jydjd.top:2903/udp/224.1.100.79:11111
-CCTV14,http://qgtf.jydjd.top:2903/udp/224.1.100.80:11111
-CCTV15,http://qgtf.jydjd.top:2903/udp/224.1.100.42:11111
-CCTV15,http://qgtf.jydjd.top:2903/udp/224.1.100.41:11111
-CCTV17,http://qgtf.jydjd.top:2903/udp/224.1.100.135:11111
-CHC动作电影,http://qgtf.jydjd.top:2903/udp/224.1.100.131:11111
-CHC动作电影,http://qgtf.jydjd.top:2903/udp/224.1.100.132:11111
-CHC家庭影院,http://qgtf.jydjd.top:2903/udp/224.1.100.149:11111
-CGTN,http://qgtf.jydjd.top:2903/udp/224.1.100.137:11111
-CGTN俄语,http://qgtf.jydjd.top:2903/udp/224.1.100.140:11111
-CGTN西语,http://qgtf.jydjd.top:2903/udp/224.1.100.142:11111
-CGTN阿语,http://qgtf.jydjd.top:2903/udp/224.1.100.145:11111
-CGTN法语,http://qgtf.jydjd.top:2903/udp/224.1.100.147:11111
-CETV1,http://qgtf.jydjd.top:2903/udp/224.1.100.107:11111
-CETV1,http://qgtf.jydjd.top:2903/udp/224.1.100.108:11111
-CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
-
-广东有线(卫视),#genre#
-大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.153:11111
-大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.7:11111
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.95:11111
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.96:11111
-海南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.15:11111
-海南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.16:11111
-河北卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.19:11111
-河北卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.20:11111
-云南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.21:11111
-云南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.22:11111
-深圳卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.39:11111
-深圳卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.40:11111
-江苏卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.45:11111
-江苏卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.46:11111
-东方卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.47:11111
-东方卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.48:11111
-山东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.50:11111
-山东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.49:11111
-浙江卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.51:11111
-浙江卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.52:11111
-江西卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.53:11111
-江西卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.54:11111
-东南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.55:11111
-东南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.56:11111
-贵州卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.57:11111
-贵州卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.58:11111
-吉林卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.59:11111
-吉林卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.60:11111
-天津卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.61:11111
-天津卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.62:11111
-安徽卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.66:11111
-安徽卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.65:11111
-湖北卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.67:11111
-湖北卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.68:11111
-四川卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.71:11111
-四川卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.72:11111
-河南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.73:11111
-河南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.74:11111
-辽宁卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.91:11111
-辽宁卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.92:11111
-湖南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.97:11111
-湖南卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.98:11111
-北京卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.99:11111
-北京卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.100:11111
-重庆卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.101:11111
-重庆卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.102:11111
-广西卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.110:11111
-广西卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.111:11111
-黑龙江卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.139:11111
-宁夏卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.8:11111
-甘肃卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.10:11111
-新疆卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.14:11111
-西藏卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.125:11111
-青海卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.127:11111
-兵团卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.128:11111
-三沙卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.148:11111
-山西卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.150:11111
-
-广东有线(地方),#genre#
-大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.7:11111
-大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.153:11111
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.95:11111
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.96:11111
-广东珠江,http://qgtf.jydjd.top:2903/udp/224.1.100.23:11111
-广东珠江,http://qgtf.jydjd.top:2903/udp/224.1.100.24:11111
-广东新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.155:11111
-广东新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.5:11111
-广东体育,http://qgtf.jydjd.top:2903/udp/224.1.100.33:11111
-广东体育,http://qgtf.jydjd.top:2903/udp/224.1.100.34:11111
-广东经济科教,http://qgtf.jydjd.top:2903/udp/224.1.100.6:11111
-广东经济科教,http://qgtf.jydjd.top:2903/udp/224.1.100.158:11111
-广东少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.9:11111
-广东少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.156:11111
-广东影视,http://qgtf.jydjd.top:2903/udp/224.1.100.11:11111
-广东岭南戏曲,http://qgtf.jydjd.top:2903/udp/224.1.100.120:11111
-广东岭南戏曲,http://qgtf.jydjd.top:2903/udp/224.1.100.157:11111
-广东民生,http://qgtf.jydjd.top:2903/udp/224.1.100.152:11111
-广东民生,http://qgtf.jydjd.top:2903/udp/224.1.100.4:11111
-广东影视,http://qgtf.jydjd.top:2903/udp/224.1.100.154:11111
-纪实科教,http://qgtf.jydjd.top:2903/udp/224.1.100.31:11111
-纪实科教,http://qgtf.jydjd.top:2903/udp/224.1.100.32:11111
-广州新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.37:11111
-广州新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.38:11111
-广州综合,http://qgtf.jydjd.top:2903/udp/224.1.100.35:11111
-广州综合,http://qgtf.jydjd.top:2903/udp/224.1.100.36:11111
-广州法治,http://qgtf.jydjd.top:2903/udp/224.1.100.17:11111
-广州法治,http://qgtf.jydjd.top:2903/udp/224.1.100.18:11111
-广州影视,http://qgtf.jydjd.top:2903/udp/224.1.100.87:11111
-广州影视,http://qgtf.jydjd.top:2903/udp/224.1.100.88:11111
-广州竞赛,http://qgtf.jydjd.top:2903/udp/224.1.100.105:11111
-广州竞赛,http://qgtf.jydjd.top:2903/udp/224.1.100.106:11111
-佛山公共,http://qgtf.jydjd.top:2903/udp/224.1.100.134:11111
-
-广东有线(特色),#genre#
-翡翠台,http://qgtf.jydjd.top:2903/udp/224.1.121.1:11111
-翡翠台,http://qgtf.jydjd.top:2903/udp/224.1.100.1:11111
-明珠台,http://qgtf.jydjd.top:2903/udp/224.1.123.2:11111
-明珠台,http://qgtf.jydjd.top:2903/udp/224.1.100.2:11111
-凤凰中文,http://qgtf.jydjd.top:2903/udp/224.1.100.3:11111
-澳亚卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.12:11111
-星空卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.13:11111
-纪实科教,http://qgtf.jydjd.top:2903/udp/224.1.100.115:11111
-纪实科教,http://qgtf.jydjd.top:2903/udp/224.1.100.116:11111
-茶频道,http://qgtf.jydjd.top:2903/udp/224.1.100.117:11111
-茶频道,http://qgtf.jydjd.top:2903/udp/224.1.100.118:11111
-嘉佳卡通,http://qgtf.jydjd.top:2903/udp/224.1.100.144:11111
-卡酷少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.146:11111
-卡酷少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.112:11111
-优漫卡通,http://qgtf.jydjd.top:2903/udp/224.1.100.119:11111
-金鹰卡通,http://qgtf.jydjd.top:2903/udp/224.1.100.113:11111
-金鹰卡通,http://qgtf.jydjd.top:2903/udp/224.1.100.114:11111
-劲爆体育,http://qgtf.jydjd.top:2903/udp/224.1.100.129:11111
-劲爆体育,http://qgtf.jydjd.top:2903/udp/224.1.100.130:11111
-魅力足球,http://qgtf.jydjd.top:2903/udp/224.1.100.133:11111
-新视觉,http://qgtf.jydjd.top:2903/udp/224.1.100.136:11111
-中华美食,http://qgtf.jydjd.top:2903/udp/224.1.100.138:11111
-东方财经,http://qgtf.jydjd.top:2903/udp/224.1.100.141:11111
-乐游,http://qgtf.jydjd.top:2903/udp/224.1.100.143:11111
-重温经典,http://qgtf.jydjd.top:2903/udp/224.1.100.126:11111
-聚鲨环球精选,http://qgtf.jydjd.top:2903/udp/224.1.100.151:11111
-中国天气,http://qgtf.jydjd.top:2903/udp/224.1.100.159:11111
-
 广东频道,#genre#
 广东大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
 广东大湾区卫视,http://xhyx.gz.cn:1698/hls/64/index.m3u8
 广东大湾区卫视,http://218.15.20.81:3388/hls/13/index.m3u8
 广东大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
 广东大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广东大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.7:11111
-广东大湾区卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.153:11111
 广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
 广东卫视,http://xhyx.gz.cn:1698/hls/92/index.m3u8
 广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
 广东卫视,http://www.hkyc.site:1991/udp/239.253.64.200:5140
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.95:11111
-广东卫视,http://qgtf.jydjd.top:2903/udp/224.1.100.96:11111
 广东卫视,http://14.21.90.68:9901/tsfile/live/1010_1.m3u8?key=txiptv
 广东新闻,http://xhyx.gz.cn:1698/hls/63/index.m3u8
 广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
-广东新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.155:11111
-广东新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.5:11111
 广东新闻,http://www.1328099.xyz:9688/rtp/239.77.0.4:5146
 广东民生,http://xhyx.gz.cn:1698/hls/62/index.m3u8
 广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
-广东民生,http://qgtf.jydjd.top:2903/udp/224.1.100.152:11111
-广东民生,http://qgtf.jydjd.top:2903/udp/224.1.100.4:11111
 广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
 广东影视,http://xhyx.gz.cn:1698/hls/65/index.m3u8
 广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
-广东影视,http://qgtf.jydjd.top:2903/udp/224.1.100.154:11111
-广东影视,http://qgtf.jydjd.top:2903/udp/224.1.100.11:11111
 广东影视,http://www.1328099.xyz:9688/rtp/239.77.0.11:5146
 广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
 广东珠江,http://xhyx.gz.cn:1698/hls/26/index.m3u8
@@ -728,8 +482,6 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 广东珠江,http://cdn.163189.xyz/163189/gdzj
 广东珠江,https://cdn2.101.qzz.io/163189/gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江,http://qgtf.jydjd.top:2903/udp/224.1.100.23:11111
-广东珠江,http://qgtf.jydjd.top:2903/udp/224.1.100.24:11111
 广东珠江,http://www.1328099.xyz:9688/rtp/239.77.0.1:5146
 广东体育,http://183.7.151.166:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.57.248.86:8183/tsfile/live/1000_1.m3u8
@@ -739,13 +491,9 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 广东体育,http://cdn.163189.xyz/163189/gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,http://qgtf.jydjd.top:2903/udp/224.1.100.33:11111
-广东体育,http://qgtf.jydjd.top:2903/udp/224.1.100.34:11111
 广东体育,http://www.1328099.xyz:9688/rtp/239.77.0.6:5146
 广东少儿,http://xhyx.gz.cn:1698/hls/66/index.m3u8
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
-广东少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.9:11111
-广东少儿,http://qgtf.jydjd.top:2903/udp/224.1.100.156:1111
 广东少儿,http://www.1328099.xyz:9688/rtp/239.77.0.12:5146
 广东现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
 广东经济科教,http://xhyx.gz.cn:1698/hls/28/index.m3u8
@@ -753,16 +501,12 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 广东经济科教,http://qgtf.jydjd.top:2903/udp/224.1.100.6:11111
 广东经济科教,http://qgtf.jydjd.top:2903/udp/224.1.100.158:11111
 广东经济科教,http://www.1328099.xyz:9688/rtp/239.77.0.85:5146
-广东岭南戏曲,http://qgtf.jydjd.top:2903/udp/224.1.100.120:11111
-广东岭南戏曲,http://qgtf.jydjd.top:2903/udp/224.1.100.157:11111
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,http://xhyx.gz.cn:1698/hls/6/index.m3u8
 广州新闻,http://tvtj1.jxwltx.com:8003/live2958.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen 
 广州新闻,http://8.138.7.223/tv/gzxw.m3u8
-广州新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.37:11111
-广州新闻,http://qgtf.jydjd.top:2903/udp/224.1.100.38:11111
 广州新闻,http://www.1328099.xyz:9688/rtp/239.253.43.72:5146
 广州新闻,http://vpn.jk960.cn:8686/rtp/239.253.43.72:5146
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
@@ -770,28 +514,20 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe 
 广州综合,http://8.138.7.223/tv/gzzh.m3u8
-广州综合,http://qgtf.jydjd.top:2903/udp/224.1.100.35:11111
-广州综合,http://qgtf.jydjd.top:2903/udp/224.1.100.36:11111
 广州综合,http://www.1328099.xyz:9688/rtp/239.253.43.71:5146
 广州法治,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 广州法治,https://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,http://i.iill.top:12838/gztv/fazhi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi 
 广州法治,http://8.138.7.223/tv/gzfz.m3u8
-广州法治,http://qgtf.jydjd.top:2903/udp/224.1.100.17:11111
-广州法治,http://qgtf.jydjd.top:2903/udp/224.1.100.18:11111
 广州法治,http://www.1328099.xyz:9688/rtp/239.253.43.74:5146
 广州影视,http://tencentplaybusiness.gztv.com/live/yingshi.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,http://xhyx.gz.cn:1698/hls/93/index.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi 
 广州影视,http://8.138.7.223/tv/gzys.m3u8
-广州影视,http://qgtf.jydjd.top:2903/udp/224.1.100.87:11111
-广州影视,http://qgtf.jydjd.top:2903/udp/224.1.100.88:11111
 广州竞赛,https://tencentplaybusiness.gztv.com/live/jingsai.m3u8
 广州竞赛,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
-广州竞赛,http://qgtf.jydjd.top:2903/udp/224.1.100.105:11111
-广州竞赛,http://qgtf.jydjd.top:2903/udp/224.1.100.106:11111
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://i.iill.top:12838/gztv/shenghuo
@@ -982,225 +718,6 @@ HZTV-2,http://www.1328099.xyz:9688/udp/239.77.1.233:5146
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
-catvod 央视频道,#genre#
-CCTV1,https://iptv.catvod.com/live.php?id=CCTV-1
-CCTV2,https://iptv.catvod.com/live.php?id=CCTV-2
-CCTV3,https://iptv.catvod.com/live.php?id=CCTV-3
-CCTV4,https://iptv.catvod.com/live.php?id=CCTV-4
-CCTV5,https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV+5,https://iptv.catvod.com/live.php?id=CCTV-5plus
-CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6
-CCTV7,https://iptv.catvod.com/live.php?id=CCTV-7
-CCTV8,https://iptv.catvod.com/live.php?id=CCTV-8
-CCTV9,https://iptv.catvod.com/live.php?id=CCTV-9
-CCTV10,https://iptv.catvod.com/live.php?id=CCTV-10
-CCTV11,https://iptv.catvod.com/live.php?id=CCTV-11
-CCTV12,https://iptv.catvod.com/live.php?id=CCTV-12
-CCTV13,https://iptv.catvod.com/live.php?id=CCTV-13
-CCTV14,https://iptv.catvod.com/live.php?id=CCTV-14
-CCTV15,https://iptv.catvod.com/live.php?id=CCTV-15
-CCTV16,https://iptv.catvod.com/live.php?id=CCTV-16
-CCTV16-4k,https://iptv.catvod.com/live.php?id=CCTV-16-4k
-CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17
-CCTV 4K,https://iptv.catvod.com/live.php?id=CCTV-4K
-
-catvod 卫视频道,#genre#
-广东卫视台,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-深圳卫视台,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
-海南卫视台,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-东南卫视台,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-北京卫视台,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
-东方卫视台,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
-天津卫视台,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
-重庆卫视台,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-黑龙江卫视台,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-吉林卫视台,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-辽宁卫视台,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
-内蒙古卫视台,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
-甘肃卫视台,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-青海卫视台,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
-陕西卫视台,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山西卫视台,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山东卫视台,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-安徽卫视台,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
-河南卫视台,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖北卫视台,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖南卫视台,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-江西卫视台,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-江苏卫视台,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-浙江卫视台,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-广西卫视台,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-云南卫视台,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-贵州卫视台,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
-四川卫视台,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
-新疆卫视台,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-兵团卫视台,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
-西藏卫视台,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-CHC影迷电影台,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
-CHC动作电影台,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-CHC家庭影院台,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
-重温经典台,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8%E5%8F%B0
-
-catvod 咪咕央视,#genre#
-CCTV-1 综合,https://iptv.catvod.com/live.php?id=CCTV-1%20%E7%BB%BC%E5%90%88
-CCTV-2 财经,https://iptv.catvod.com/live.php?id=CCTV-2%20%E8%B4%A2%E7%BB%8F
-CCTV-3 综艺,https://iptv.catvod.com/live.php?id=CCTV-3%20%E7%BB%BC%E8%89%BA
-CCTV-4 中文国际,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
-CCTV-4 中文国际 欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
-CCTV-4 中文国际 美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
-CCTV-5 体育,https://iptv.catvod.com/live.php?id=CCTV-5%20%E4%BD%93%E8%82%B2
-CCTV-5+ 体育赛事,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
-CCTV-6 电影,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1
-CCTV-7 国防军事,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
-CCTV-8 电视剧,https://iptv.catvod.com/live.php?id=CCTV-8%20%E7%94%B5%E8%A7%86%E5%89%A7
-CCTV-9 纪录,https://iptv.catvod.com/live.php?id=CCTV-9%20%E7%BA%AA%E5%BD%95
-CCTV-10 科教,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
-CCTV-11 戏曲,https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
-CCTV-12 社会与法,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
-CCTV-13 新闻,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB
-CCTV-14 少儿,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF
-CCTV-15 音乐,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
-CCTV-17 农业农村,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
-
-catvod 咪咕卫视,#genre#
-大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-农林卫视,https://iptv.catvod.com/live.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
-兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
-五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
-重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
-
-咪咕720p央视,#genre#
-CCTV1,http://103.109.20.169:10196/migu720p.php?id=608807420
-CCTV2,http://103.109.20.169:10196/migu720p.php?id=631780532
-CCTV3,http://103.109.20.169:10196/migu720p.php?id=624878271
-CCTV4,http://103.109.20.169:10196/migu720p.php?id=631780421
-CCTV4欧洲,http://103.109.20.169:10196/migu720p.php?id=608807419
-CCTV4美洲,http://103.109.20.169:10196/migu720p.php?id=608807416
-CCTV5,http://103.109.20.169:10196/migu720p.php?id=641886683
-CCTV5+,http://103.109.20.169:10196/migu720p.php?id=641886773
-CCTV6,http://103.109.20.169:10196/migu720p.php?id=624878396
-CCTV7,http://103.109.20.169:10196/migu720p.php?id=673168121
-CCTV8,http://103.109.20.169:10196/migu720p.php?id=624878356
-CCTV9,http://103.109.20.169:10196/migu720p.php?id=673168140
-CCTV10,http://103.109.20.169:10196/migu720p.php?id=624878405
-CCTV11,http://103.109.20.169:10196/migu720p.php?id=667987558
-CCTV12,http://103.109.20.169:10196/migu720p.php?id=673168185
-CCTV13,http://103.109.20.169:10196/migu720p.php?id=608807423
-CCTV14,http://103.109.20.169:10196/migu720p.php?id=624878440
-CCTV15,http://103.109.20.169:10196/migu720p.php?id=673168223
-CCTV17,http://103.109.20.169:10196/migu720p.php?id=673168256
-CGTN,http://103.109.20.169:10196/migu720p.php?id=609017205
-CGTN外语纪录,http://103.109.20.169:10196/migu720p.php?id=609006487
-CGTN阿拉伯语,http://103.109.20.169:10196/migu720p.php?id=609154345
-CGTN西班牙语,http://103.109.20.169:10196/migu720p.php?id=609006450
-CGTN法语,http://103.109.20.169:10196/migu720p.php?id=609006476
-CGTN俄语,http://103.109.20.169:10196/migu720p.php?id=609006446
-CETV1,http://103.109.20.169:10196/migu720p.php?id=923287154
-CETV2,http://103.109.20.169:10196/migu720p.php?id=923287211
-CETV4,http://103.109.20.169:10196/migu720p.php?id=923287339
-老故事,http://103.109.20.169:10196/migu720p.php?id=884121956
-中学生,http://103.109.20.169:10196/migu720p.php?id=708869532
-
-咪咕720p卫视,#genre#
-东方卫视,http://103.109.20.169:10196/migu720p.php?id=651632648
-江苏卫视,http://103.109.20.169:10196/migu720p.php?id=623899368
-广东卫视,http://103.109.20.169:10196/migu720p.php?id=608831231
-江西卫视,http://103.109.20.169:10196/migu720p.php?id=783847495
-河南卫视,http://103.109.20.169:10196/migu720p.php?id=790187291
-陕西卫视,http://103.109.20.169:10196/migu720p.php?id=738910838
-大湾区卫视,http://103.109.20.169:10196/migu720p.php?id=608917627
-湖北卫视,http://103.109.20.169:10196/migu720p.php?id=947472496
-吉林卫视,http://103.109.20.169:10196/migu720p.php?id=947472500
-青海卫视,http://103.109.20.169:10196/migu720p.php?id=947472506
-东南卫视,http://103.109.20.169:10196/migu720p.php?id=849116810
-海南卫视,http://103.109.20.169:10196/migu720p.php?id=947472502
-海峡卫视,http://103.109.20.169:10196/migu720p.php?id=849119120
-中国农林卫视,http://103.109.20.169:10196/migu720p.php?id=956904896
-兵团卫视,http://103.109.20.169:10196/migu720p.php?id=956923145
-辽宁卫视,http://103.109.20.169:10196/migu720p.php?id=630291707
-
-咪咕720p其他,#genre#
-上海新闻综合,http://103.109.20.169:10196/migu720p.php?id=651632657
-上视东方影视,http://103.109.20.169:10196/migu720p.php?id=617290047
-南京新闻综合,http://103.109.20.169:10196/migu720p.php?id=838109047
-南京教科,http://103.109.20.169:10196/migu720p.php?id=838153729
-南京十八,http://103.109.20.169:10196/migu720p.php?id=838151753
-江苏公共新闻,http://103.109.20.169:10196/migu720p.php?id=626064693
-盐城新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731825
-淮安新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731826
-泰州新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731818
-连云港新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731715
-宿迁新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731832
-徐州新闻综合,http://103.109.20.169:10196/migu720p.php?id=639731747
-优漫卡通,http://103.109.20.169:10196/migu720p.php?id=626064703
-江阴新闻综合,http://103.109.20.169:10196/migu720p.php?id=955227979
-南通新闻综合,http://103.109.20.169:10196/migu720p.php?id=955227985
-宜兴新闻综合,http://103.109.20.169:10196/migu720p.php?id=955227996
-溧水新闻综合,http://103.109.20.169:10196/migu720p.php?id=639737327
-江苏城市,http://103.109.20.169:10196/migu720p.php?id=626064714
-江苏国际,http://103.109.20.169:10196/migu720p.php?id=626064674
-江苏教育电视台,http://103.109.20.169:10196/migu720p.php?id=628008321
-江苏影视,http://103.109.20.169:10196/migu720p.php?id=626064697
-江苏综艺,http://103.109.20.169:10196/migu720p.php?id=626065193
-陕西银龄频道,http://103.109.20.169:10196/migu720p.php?id=956909362
-陕西都市青春频道,http://103.109.20.169:10196/migu720p.php?id=956909358
-陕西体育休闲频道,http://103.109.20.169:10196/migu720p.php?id=956909356
-陕西秦腔频道,http://103.109.20.169:10196/migu720p.php?id=956909303
-陕西新闻资讯频道,http://103.109.20.169:10196/migu720p.php?id=956909289
-山东教育,http://103.109.20.169:10196/migu720p.php?id=609154353
-财富天下,http://103.109.20.169:10196/migu720p.php?id=956923159
-抗战经典影片,http://103.109.20.169:10196/migu720p.php?id=617432318
-新片放映厅,http://103.109.20.169:10196/migu720p.php?id=619495952
-CHC影迷电影,http://103.109.20.169:10196/migu720p.php?id=952383261
-和美乡途轮播台,http://103.109.20.169:10196/migu720p.php?id=713591450
-高清大片,http://103.109.20.169:10196/migu720p.php?id=629943678
-南方影视,http://103.109.20.169:10196/migu720p.php?id=614961829
-血色山河·抗日战争影像志,http://103.109.20.169:10196/migu720p.php?id=713600957
-最强综艺趴,http://103.109.20.169:10196/migu720p.php?id=629942228
-嘉佳卡通,http://103.109.20.169:10196/migu720p.php?id=614952364
-经典动画大集合,http://103.109.20.169:10196/migu720p.php?id=629942219
-新动力量创一流,http://103.109.20.169:10196/migu720p.php?id=713589837
-环球旅游,http://103.109.20.169:10196/migu720p.php?id=958475356
-钱塘江,http://103.109.20.169:10196/migu720p.php?id=647370520
-五环传奇,http://103.109.20.169:10196/migu720p.php?id=707671890
-赛事最经典,http://103.109.20.169:10196/migu720p.php?id=646596895
-掼蛋精英赛,http://103.109.20.169:10196/migu720p.php?id=631354620
-体坛名栏汇,http://103.109.20.169:10196/migu720p.php?id=629943305
-四海钓鱼,http://103.109.20.169:10196/migu720p.php?id=637444975
-咪咕24小时体育,http://103.109.20.169:10196/migu720p.php?id=654102378
-24小时城市联赛轮播台,http://103.109.20.169:10196/migu720p.php?id=915512915
-武术世界,http://103.109.20.169:10196/migu720p.php?id=958475359
-经典香港电影,http://103.109.20.169:10196/migu720p.php?id=625703337
-熊猫频道1高清,http://103.109.20.169:10196/migu720p.php?id=609158151
-熊猫频道1,http://103.109.20.169:10196/migu720p.php?id=608933610
-熊猫频道2,http://103.109.20.169:10196/migu720p.php?id=608933640
-熊猫频道3,http://103.109.20.169:10196/migu720p.php?id=608934619
-熊猫频道4,http://103.109.20.169:10196/migu720p.php?id=608934721
-熊猫频道5,http://103.109.20.169:10196/migu720p.php?id=608935104
-熊猫频道6,http://103.109.20.169:10196/migu720p.php?id=608935797
-熊猫频道7,http://103.109.20.169:10196/migu720p.php?id=609169286
-熊猫频道8,http://103.109.20.169:10196/migu720p.php?id=609169287
-熊猫频道9,http://103.109.20.169:10196/migu720p.php?id=609169226
-熊猫频道10,http://103.109.20.169:10196/migu720p.php?id=609169285
-
 咪视通,#genre#
 晴彩少年,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
 晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
@@ -1364,38 +881,6 @@ CETV1,http://keke.kandiantv.cn/migu720p.php?id=923287154
 CETV2,http://keke.kandiantv.cn/migu720p.php?id=923287211
 CETV4,http://keke.kandiantv.cn/migu720p.php?id=923287339
 山东教育,http://keke.kandiantv.cn/migu720p.php?id=609154353
-
-央视卫视iptv,#genre#
-CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+,http://iptv.huuc.edu.cn/hls/cctv5p.m3u8
-CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV-15,http://gmxw.7766.org:808/hls/102/index.m3u8
-CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8
-CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
 PULL FLV,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
@@ -2466,6 +1951,39 @@ TVBS ASIA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283901
 三立国际,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283889
 YOYO TV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283902
 YOYO TV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482635
+
+✪mypanel CONCERTS,#genre#
+Adele Live at The Royal Albert Hall 2011,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328116.mkv
+Bob Dylan:The 30th Anniversary Concert Celebration,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328141.mkv
+Bruce Springsteen with the Sessions Band:Live in Dublin,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328148.mkv
+Bryan Adams - MTV Unplugged,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328150.mp4&
+Celibe Dion Live at Tokyo Dome Concert,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328162.mkv
+Coldplay au stade de France,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328065.mkv
+Creedence Clearwater Revival:The Royal Albert Hall Concert 1970,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328080.mkv
+Daryl Hall & John Oates:Live in Dublin,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328086.mkv
+Elton John:Live at iTunes Festival 2013,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328111.mkv
+Elton John:One Night Only,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328112.mkv
+Elton John:The Million Dollar Piano 2011,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328113.mkv
+Elvis - 68' Comeback Special,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328015.mp4
+Elvis - Aloha from Hawaii,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328014.mkv
+Eric Clapton:Planes Train & Eric 2014,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328019.mkv
+Genesis:The MAMA Tour,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328034.avi
+George Michael Live In London,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328035.mkv
+Jimi Hendrix Pllays Berkeley,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327981.mkv
+KISS:Rocks Vegas,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328004.mkv
+Kylie Minogue:Live at iTunes Festival London 2013,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328006.mkv
+Michael Jackson:Live at Wimbley July 16 1988,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327461.mkv
+Paul Simon Live Feom Philadephia 1980,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327496.avi
+Phil Collins:Going Back-Live at The Roseland Ballroom NYC,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327403.mkv
+Queen:Live at Wimbley Stadium,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327414.mp4
+Queen:The Legendary 1975 Concert,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327416.mkv
+Queen:We Will Rock You 1982,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327415.mkv
+Sade:Bring Me Home-Live 2011,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327434.mkv
+Santana-Greatest Hits:Live at Montreux 2011,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327435.mkv
+The Police:Live in Concert Tokyo 2008,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327382.mkv
+The Rolling Stones:Havana Moon 2016,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327383.mkv
+The Rolling Stones:Ladies & Gentlemen 1972,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327384.mkv
+The Rolling Stones:Live from Amsterdam 1995,http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327385.mkv
 
 webview,#genre#
 凤凰中文,video://https://m.345iptv.com/?act=play&token=68fa9923b35c84c701e7e86a1f3cd1a8&tid=gt&id=1
