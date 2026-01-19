@@ -489,8 +489,9 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广东体育,http://183.57.248.86:8183/tsfile/live/1000_1.m3u8
 广东体育,http://xhyx.gz.cn:1698/hls/4/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+广东体育,https://cdn2.101.qzz.io/163189/gdty
 广东体育,http://cdn.163189.xyz/163189/gdty
+广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://www.1328099.xyz:9688/udp/239.77.0.112:5146
@@ -523,7 +524,6 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广州综合,http://www.1328099.xyz:9688/rtp/239.253.43.71:5146
 广州法治,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 广州法治,https://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
-广州法治,http://i.iill.top:12838/gztv/fazhi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi 
 广州法治,http://8.138.7.223/tv/gzfz.m3u8
 广州法治,http://www.1328099.xyz:9688/rtp/239.253.43.74:5146
@@ -531,12 +531,10 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,http://xhyx.gz.cn:1698/hls/93/index.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi 
-广州影视,http://8.138.7.223/tv/gzys.m3u8
 广州竞赛,https://tencentplaybusiness.gztv.com/live/jingsai.m3u8
 广州竞赛,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-广州南国都市,http://i.iill.top:12838/gztv/shenghuo
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 深圳卫视,http://119.123.177.78:8086/hls/79/index.m3u8
 深圳卫视,http://218.15.20.81:3388/hls/25/index.m3u8
@@ -568,16 +566,13 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 东莞生活资讯,http://www.1328099.xyz:9688/udp/239.253.43.105:5146
 番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 汕头经济生活,http://www.1328099.xyz:9688/udp/239.253.43.46:5146
-汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 汕头综合,http://xhyx.gz.cn:1698/hls/59/index.m3u8
 汕头综合,http://www.1328099.xyz:9688/udp/239.253.43.45:5146
-汕头综合,http://124.222.114.206/sxtv.php?id=st1
 汕尾新闻综合,http://www.1328099.xyz:9688/udp/239.77.0.25:5146
 汕尾经济生活,http://xhyx.gz.cn:1698/hls/60/index.m3u8
 汕尾文化生活,http://xhyx.gz.cn:1698/hls/61/index.m3u8
 汕尾文化生活,http://www.1328099.xyz:9688/udp/239.77.0.187:5146
 佛山城市生活,http://xhyx.gz.cn:1698/hls/23/index.m3u8
-佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
 佛山公共,http://www.1328099.xyz:9688/udp/239.253.43.53:5146
 佛山南海,http://www.1328099.xyz:9688/udp/239.253.43.54:5146
 佛山顺德,http://www.1328099.xyz:9688/udp/239.253.43.55:5146
@@ -609,18 +604,12 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 阳江-2,https://live.yjtvw.com:8081/live/yjtv2.m3u8
 HZTV-1,http://www.1328099.xyz:9688/udp/239.77.1.232:5146
 HZTV-2,http://www.1328099.xyz:9688/udp/239.77.1.233:5146
-肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 肇庆综合,http://www.1328099.xyz:9688/udp/239.253.43.1:5146
 肇庆生活服务,http://www.1328099.xyz:9688/udp/239.253.43.2:5146
-肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
-清远新闻综合,http://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 清远新闻综合,http://www.1328099.xyz:9688/udp/239.253.43.33:5146
-清远文旅生活,http://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
 清远文旅生活,http://www.1328099.xyz:9688/udp/239.253.43.34:5146
 惠来综合,http://xhyx.gz.cn:1698/hls/7/index.m3u8
 云浮综合,http://www.1328099.xyz:9688/udp/239.77.0.253:5146
-云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 云浮文旅,http://www.1328099.xyz:9688/udp/239.77.0.254:5146
 茂名综合,http://www.1328099.xyz:9688/udp/239.77.0.206:5146
 茂名文化生活,http://www.1328099.xyz:9688/udp/239.77.0.207:5146
@@ -1364,409 +1353,558 @@ TRACE URBAN,http://118.233.28.52:50007/li-4gtv-4gtv082/index.m3u8?proxy=true#htt
 TRACE SPORT STARS,http://118.233.28.52:50007/li-4gtv-4gtv077/index.m3u8?proxy=true#http://118.233.28.52:50007/4gtv-4gtv077/index.m3u8?proxy=true
 TV5monde,http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
 
-央卫频特,#genre#
-CCTV-1,http://96.44.160.246:9999/smt.php?id=cctv1
-CCTV-2,http://96.44.160.246:9999/smt.php?id=cctv2
-CCTV-3,http://96.44.160.246:9999/smt.php?id=cctv3
-CCTV-4,http://96.44.160.246:9999/smt.php?id=cctv4
-CCTV-4,http://96.44.160.246:9999/smt.php?id=Cctv4
-CCTV-5,http://96.44.160.246:9999/smt.php?id=cctv5
-CCTV-5+,http://96.44.160.246:9999/smt.php?id=cctv5plus
-CCTV-6,http://96.44.160.246:9999/smt.php?id=cctv6
-CCTV-7,http://96.44.160.246:9999/smt.php?id=cctv7
-CCTV-8,http://96.44.160.246:9999/smt.php?id=cctv8hd
-CCTV-9,http://96.44.160.246:9999/smt.php?id=cctv9hd
-CCTV-10,http://96.44.160.246:9999/smt.php?id=cctv10hd
-CCTV-11,http://96.44.160.246:9999/smt.php?id=cctv11
-CCTV-12,http://96.44.160.246:9999/smt.php?id=cctv12
-CCTV-13,http://96.44.160.246:9999/smt.php?id=cctv13
-CCTV-14,http://96.44.160.246:9999/smt.php?id=cctv14
-CCTV-15,http://96.44.160.246:9999/smt.php?id=cctv15
-CCTV-16,http://96.44.160.246:9999/smt.php?id=cctv16
-CCTV-17,http://96.44.160.246:9999/smt.php?id=cctv17
-CGTN,http://96.44.160.246:9999/smt.php?id=CGTN
-北京卫视,http://96.44.160.246:9999/smt.php?id=beijing
-深圳卫视,http://96.44.160.246:9999/smt.php?id=shenzhen
-广西卫视,http://96.44.160.246:9999/smt.php?id=guangxi
-湖北卫视,http://96.44.160.246:9999/smt.php?id=hubei
-东南卫视,http://96.44.160.246:9999/smt.php?id=fujian
-广东珠江,http://96.44.160.246:9999/smt.php?id=zhujiang
+赛事Now,#genre#
+Now体育壹台,https://16.tvtm.one/ch2753/mono.m3u8?token=snopyboy.v2_WvEWzQY77aIv2a8HabE8VeNMZc6msOqiYC3pQlZhuRwGINLQ4IgnD4m51_4ywH7Rcwq-8GrtjgF9
+Now体育贰台,https://16.tvtm.one/ch2755/mono.m3u8?token=snopyboy.v2_i_ECR_vTCut12bMu7ujSN4KGuNaEevNVcND4SToYS1qjsHf0Ie2yEMKXqC-b5-nGQV08cTfYY6Ld
+Now体育叁台,https://16.tvtm.one/ch1738/mono.m3u8?token=snopyboy.v2_Kw74I7T7jax9QkGq7waDEDYY2NB_T9b92A2REVTRiRVZzj1_wxw9sbc0eJ2OtWRHHW3Yg3qNEnf4
+Now体育肆台,https://16.tvtm.one/ch1905/mono.m3u8?token=snopyboy.v2_cefssl-aLrGaOdHx0eU6uOPf1C9RHMkD9PuQJBRcBQi2PydVIBCKtFoKznxKsJZzeYIM6o3U5nJe
+Now体育伍台,https://16.tvtm.one/ch1908/mono.m3u8?token=snopyboy.v2_cSVvef_X1E5F8O6HJsZ4TMMX6Usx9syex5k_Gw1jFmMGiDHQYlit-pDH5zoBYUdLPfedFAL6_35w
+Now体育陆台,https://16.tvtm.one/ch1907/mono.m3u8?token=snopyboy.v2_1kj5hU3UI_PUI2X2ZrzYh0lKvxt2sb6bZcgpSkIj0aQvd4BLFljmep8vHl5aT5be_v09mtwvu4rU
+Now体育柒台,https://16.tvtm.one/ch1908/mono.m3u8?token=snopyboy.v2_cSVvef_X1E5F8O6HJsZ4TMMX6Usx9syex5k_Gw1jFmMGiDHQYlit-pDH5zoBYUdLPfedFAL6_35w
+Now英超壹台,http://rihou.cc:555/tv/Now英超壹台
+Now英超贰台,http://16.tvtm.one/ch1910/mono.m3u8?token=snopyboy.v2_a_q9gHU0d4L7soGbNf6cWLHOxHjhXoAT7Qrq5LJYr1Rv95dsMZrAQ-vcObUrEUvHoF-9m501vx4A
+Now英超叁台,http://16.tvtm.one/ch2783/mono.m3u8?token=snopyboy.v2_KI-hkLBcSabT8UmXYhADe-ZQhKJ6AChqzzH09Zushh2XSjn0BfreRqWCOuFOQexHD77trIIeB7wC
+Now英超肆台,http://16.tvtm.one/ch721/mono.m3u8?token=snopyboy.v2_UZnGN3etfhBC7EkQzuGOeE69vdwjcO7BARqBJ36cyd6Myrmn89u1DF7gmQ0fXJ5uLGCtVS8SThE
+Now英超伍台,http://16.tvtm.one/ch2784/mono.m3u8?token=snopyboy.v2_K7NopZ48pqurRIlTJ716ZIkFirZ6toC5TMFfKnUX-UGfwVlLGa1NI94_u2dW61n3_8LspwfHs-Jr
+Now英超陆台,http://16.tvtm.one/ch2785/mono.m3u8?token=snopyboy.v2_4ewdzmYGUqxsV_LPQrwOm5nlw0AltwjCa-6w2mSRb-P1CfA7ckSEljB6WcBPsm_kNQ4GPp8NjLIY
+Now641_NBA,http://rihou.cc:555/tv/Now641NBA
+Bein体育壹台,http://16.tvtm.one/ch3334/mono.m3u8?token=snopyboy.v2_eJtkLZXTFB4jJSWLzhudCypWan2cfd2haJ5lbrEXHMZpEK8x69DtIcjbD68fDX6IbIen9NnBF6kq
+Bein体育贰台,http://16.tvtm.one/ch3335/mono.m3u8?token=snopyboy.v2_mbtu98Xf_j3Dkm4PZ8SoLAppSowogVIKvMbikNLRJEUAzOTZew3_AiwpD4TdE1f7kG98DEYNhT7t
+Bein体育叁台,http://16.tvtm.one/ch3336/mono.m3u8?token=snopyboy.v2_TSrYrStQNA-4TuSP80XlCRbI6orWgaAt302IRVsuGin-3BQ-zi4YlWH75348LCXnyuT4tTKkc9IN
+wwe体育格斗,http://16.tvtm.one/ch1334/mono.m3u8?token=snopyboy.v2_suKVqTDulJdniFzEYPYwdHPOYjHeqJCL87u1ZpGQM2m-M6eq8azwasuW-ShWXgRYOMxVO-x1FeqU
 
-香港频特,#genre#
-凤凰中文,http://96.44.160.246:9999/smt.php?id=phoenixtv_hd
-凤凰资讯,http://96.44.160.246:9999/smt.php?id=phoenixinfo_hd
-凤凰香港,http://96.44.160.246:9999/smt.php?id=hkphoenix_twn
-无线新闻,http://96.44.160.246:9999/smt.php?id=inews_twn
-翡翠台,http://96.44.160.246:9999/smt.php?id=jade_twn
-翡翠台,http://96.44.160.246:9999/smt.php?id=Jade_xue
-翡翠台,http://96.44.160.246:9999/smt.php?id=Tvbjade
-明珠台,http://96.44.160.246:9999/smt.php?id=pearl_twn
-TVB Plus,http://96.44.160.246:9999/smt.php?id=j2_twn
-无线华丽粤,http://96.44.160.246:9999/smt.php?id=Wlt
-无线华丽国,http://96.44.160.246:9999/smt.php?id=Tvbjade
-无线娱乐新闻,http://96.44.160.246:9999/smt.php?id=Tvbentertainment
-千禧经典,http://96.44.160.246:9999/smt.php?id=Tvbclassic
-TVB 星河 Xing He,http://96.44.160.246:9999/smt.php?id=Xinhe
-HOY 78,http://96.44.160.246:9999/smt.php?id=hoycaijing_twn
-VIUTV,http://96.44.160.246:9999/smt.php?id=viu1_twn
-VIUTV 6,http://96.44.160.246:9999/smt.php?id=viusix_twn
-RTHK-31,http://96.44.160.246:9999/smt.php?id=rhk31_twn
-RTHK-32,http://96.44.160.246:9999/smt.php?id=rhk32_twn
-天映频道粤,http://96.44.160.246:9999/smt.php?id=ctv18_twn
-天映频道国,http://96.44.160.246:9999/smt.php?id=Celestial
-天映频道,http://96.44.160.246:9999/smt.php?id=Celestialindo
-天映经典,http://96.44.160.246:9999/smt.php?id=Celestial2
-美亚电影,http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
-新加CHANNEL U,http://96.44.160.246:9999/smt.php?id=ChannelU
-新加CHANNEL 5,http://96.44.160.246:9999/smt.php?id=Channel5HD
-新加CHANNEL 8,http://96.44.160.246:9999/smt.php?id=Channel8HD
-八度空间,http://96.44.160.246:9999/smt.php?id=TV8
-Astro iQiyi 爱奇艺,http://96.44.160.246:9999/smt.php?id=Qiyi
-Astro QJ,http://96.44.160.246:9999/smt.php?id=Quanjia
-Astro AOD,http://96.44.160.246:9999/smt.php?id=Aodhd
-Astro AEC,http://96.44.160.246:9999/smt.php?id=AEC
-Astro 欢喜,http://96.44.160.246:9999/smt.php?id=Huahee
+香港频道,#genre#
+无线新闻,https://live.catvod.com/iptv.php?id=tvbxw01
+无线新闻,https://live.catvod.com/live.php?id=inews_twn
+无线新闻台,https://live.catvod.com/iptv.php?id=wxxw01
+翡翠台,https://live.catvod.com/iptv.php?id=fct002
+翡翠台,https://live.catvod.com/iptv.php?id=fct003
+翡翠台,https://live.catvod.com/iptv.php?id=fct004
+翡翠台,https://live.catvod.com/live.php?id=jade_twn
+翡翠台,https://live.catvod.com/live.php?id=Jade_xue
+翡翠台4K,https://live.catvod.com/iptv.php?id=fct4k01
+翡翠台4K（多音轨字幕）,https://live.catvod.com/iptv.php?id=fct4k02
+翡翠台（多音轨字幕）,https://live.catvod.com/iptv.php?id=fct005
+翡翠台（字幕）,https://live.catvod.com/iptv.php?id=fctsub
+明珠台,https://live.catvod.com/live.php?id=pearl_twn
+明珠台,https://live.catvod.com/iptv.php?id=mzt001
+明珠台（多音轨字幕）,https://live.catvod.com/iptv.php?id=mzt002
+明珠台（字幕）,https://live.catvod.com/iptv.php?id=mztsub
+TVB1,https://live.catvod.com/iptv.php?id=tvb1
+TVB J1,https://live.catvod.com/iptv.php?id=j1na001
+TVB Plus,https://live.catvod.com/iptv.php?id=tvbplus2
+TVB PLUS,https://live.catvod.com/live.php?id=j2_twn
+TVB Plus（多音轨字幕）,https://live.catvod.com/iptv.php?id=tvbplus3
+TVB娱乐新闻台,https://live.catvod.com/iptv.php?id=tvbylxw
+TVB娱乐新闻台（ASTRO）,https://live.catvod.com/live.php?id=Tvbentertainment
+华丽翡翠台,https://live.catvod.com/iptv.php?id=huali02
+华丽翡翠台（多音轨字幕）,https://live.catvod.com/iptv.php?id=huali03
+华丽翡翠台（新加坡）,https://live.catvod.com/iptv.php?id=huali04
+亚洲武侠,https://live.catvod.com/iptv.php?id=yzwx01
+翡翠剧集台,https://live.catvod.com/iptv.php?id=tvbd01
+TVB星河,https://live.catvod.com/iptv.php?id=xinghe01
+TVB星河（国语）,https://live.catvod.com/iptv.php?id=xinghe02
+TVB星河（多音轨字幕）,https://live.catvod.com/iptv.php?id=tvbxh01
+千禧经典台,https://live.catvod.com/iptv.php?id=tvbc01
+千禧经典台（ASTRO）,https://live.catvod.com/live.php?id=Tvbclassic
+Now新闻台,https://live.catvod.com/iptv.php?id=nownews
+VIU TV,https://live.catvod.com/live.php?id=viu1_twn
+VIU TV,https://live.catvod.com/iptv.php?id=viutv02
+Viutv6,https://live.catvod.com/live.php?id=viusix_twn
+HOY 77,https://live.catvod.com/iptv.php?id=hoytv02
+HOY 78,https://live.catvod.com/live.php?id=hoycaijing_twn
+HOY剧集台,https://live.catvod.com/iptv.php?id=hoyjj01
+凤凰中文,https://live.catvod.com/iptv.php?id=phzw01
+凤凰中文,https://live.catvod.com/live.php?id=phoenixtv_hd
+凤凰资讯,https://live.catvod.com/live.php?id=phoenixinfo_hd
+凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01
+凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01
+凤凰香港,https://live.catvod.com/live.php?id=hkphoenix_twn
+RTHK31,https://live.catvod.com/iptv.php?id=rthk31
+RTHK31,https://live.catvod.com/live.php?id=rhk31_twn
+RTHK32,https://live.catvod.com/live.php?id=rhk32_twn
+RTHK32,https://live.catvod.com/iptv.php?id=rthk32
+RTHK33 CCTV1港澳版,https://live.catvod.com/iptv.php?id=rthk33
+澳视澳门,https://live.catvod.com/iptv.php?id=asam01
+澳视卫星,https://live.catvod.com/iptv.php?id=asws01
+澳门体育,https://live.catvod.com/iptv.php?id=amty01
+澳门综艺,https://live.catvod.com/iptv.php?id=amzy01
+澳门莲花,https://live.catvod.com/iptv.php?id=amlh01
+八度空间,https://live.catvod.com/iptv.php?id=8tv001
+CH5,https://live.catvod.com/iptv.php?id=ch5001
+CH8,https://live.catvod.com/iptv.php?id=ch8001
+CHU,https://live.catvod.com/iptv.php?id=chu001
+Astro AOD（多音轨字幕）,https://live.catvod.com/iptv.php?id=asoda01
+Astro AEC（多音轨字幕）,https://live.catvod.com/iptv.php?id=asaec01
+Astro QJ（多音轨字幕）,https://live.catvod.com/iptv.php?id=asaqj01
+爱奇艺,https://live.catvod.com/iptv.php?id=iqiyi01
+爱奇艺,https://live.catvod.com/live.php?id=Qiyi
+天映频道（多音轨字幕）,https://live.catvod.com/iptv.php?id=typd02
+天映频道,https://live.catvod.com/iptv.php?id=typd03
+天映经典,https://live.catvod.com/iptv.php?id=ccm01
+天映经典（多音轨字幕）,https://live.catvod.com/iptv.php?id=ccm02
 
-台湾频特,#genre#
-寰宇新闻,http://96.44.160.246:9999/smt.php?id=huanyuxinwen_twn
-寰宇财经,http://96.44.160.246:9999/smt.php?id=huanyutaiwan_twn
-中天新闻,http://96.44.160.246:9999/smt.php?id=ctinews
-中天亚洲,http://96.44.160.246:9999/smt.php?id=ctiasia_twn
-中天娱乐,http://96.44.160.246:9999/smt.php?id=ctient
-中天综合,http://96.44.160.246:9999/smt.php?id=ctizhonghe
-TVBS,http://96.44.160.246:9999/smt.php?id=tvbs
-TVBS Asia,http://96.44.160.246:9999/smt.php?id=Tvbasia
-TVBS新闻,http://96.44.160.246:9999/smt.php?id=tvbs_n
-TVBS欢乐,http://96.44.160.246:9999/smt.php?id=tvbshuanle_twn
-东森新闻,http://96.44.160.246:9999/smt.php?id=ettvnews
-东森财经,http://96.44.160.246:9999/smt.php?id=ettvcaijing_twn
-东森综合,http://96.44.160.246:9999/smt.php?id=ettvzhonghe
-东森戏剧,http://96.44.160.246:9999/smt.php?id=ettvdrama
-东森洋片,http://96.44.160.246:9999/smt.php?id=ettvwestern
-东森电影,http://96.44.160.246:9999/smt.php?id=ettvmovie
-东森幼幼,http://96.44.160.246:9999/smt.php?id=yoyo_twn
-东森超视,http://96.44.160.246:9999/smt.php?id=ettvsuper
-中视新闻,http://96.44.160.246:9999/smt.php?id=zhongshinews_twn
-中视,http://96.44.160.246:9999/smt.php?id=zhongshihd_twn
-中视经典,http://96.44.160.246:9999/smt.php?id=zhongshi_twn
-民视,http://96.44.160.246:9999/smt.php?id=ftvhd_taiwan
-民视新闻,http://96.44.160.246:9999/smt.php?id=ftvnew_taiwan
-民视第一,http://96.44.160.246:9999/smt.php?id=lunghuajingdian_twn
-民视台湾,http://96.44.160.246:9999/smt.php?id=ftvtaiwan_twn
-华视,http://96.44.160.246:9999/smt.php?id=ctshd_twn
-台视综合,http://96.44.160.246:9999/smt.php?id=ttvzhonghe
-台视,http://96.44.160.246:9999/smt.php?id=ttv_taiwan
-台视新闻,http://96.44.160.246:9999/smt.php?id=ttvnews_twn
-公视台语,http://96.44.160.246:9999/smt.php?id=ctv2_twn
-三立闽南,http://96.44.160.246:9999/smt.php?id=sanlitaiwan
-三立戏剧,http://96.44.160.246:9999/smt.php?id=sanlixiju_twn
-三立综合,http://96.44.160.246:9999/smt.php?id=sanlizhonghe
-三立都会,http://96.44.160.246:9999/smt.php?id=sanlidouhui
-非凡新闻,http://96.44.160.246:9999/smt.php?id=feifannews_twn
-年代新闻,http://96.44.160.246:9999/smt.php?id=niandainews_twn
-八大第一,http://96.44.160.246:9999/smt.php?id=badafirst
-八大综合,http://96.44.160.246:9999/smt.php?id=badazhonghe
-八大戏剧,http://96.44.160.246:9999/smt.php?id=badadrama
-八大娱乐,http://96.44.160.246:9999/smt.php?id=badaentertain
-华艺综合,http://96.44.160.246:9999/smt.php?id=weishichinese_twn
-大爱1台,http://96.44.160.246:9999/smt.php?id=daai_twn
-大爱2台,http://96.44.160.246:9999/smt.php?id=daai2_twn
-好消息2,http://96.44.160.246:9999/smt.php?id=good2_twn
-阿里郎综合,http://96.44.160.246:9999/smt.php?id=arirang_twn
-AXN电影,http://96.44.160.246:9999/smt.php?id=axn_twn
-Cinemax,http://96.44.160.246:9999/smt.php?id=cinemax_twn
-HBo高清,http://96.44.160.246:9999/smt.php?id=hbohd_twn
-HBo家庭,http://96.44.160.246:9999/smt.php?id=fyi_twn
-好莱电影,http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
-龙祥电影,http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn
-龙华经典,http://96.44.160.246:9999/smt.php?id=lunghuajingdian_twn
-龙华戏剧,http://96.44.160.246:9999/smt.php?id=lunghuaxiju_twn
-龙华电影,http://96.44.160.246:9999/smt.php?id=xingwei_movie
-龙华偶像,http://96.44.160.246:9999/smt.php?id=lunghuaidol_twn
-龙华洋片,http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn
-纬来电影,http://96.44.160.246:9999/smt.php?id=videolandmovie
-纬来日本,http://96.44.160.246:9999/smt.php?id=videolandjapan
-纬来体育,http://96.44.160.246:9999/smt.php?id=videolandsport
-纬来综合,http://96.44.160.246:9999/smt.php?id=videolandzonghe
-纬来育乐,http://96.44.160.246:9999/smt.php?id=videolandyule
-纬来精彩,http://96.44.160.246:9999/smt.php?id=videolandspecial_twn
-靖天国际,http://96.44.160.246:9999/smt.php?id=jingtianintl_twn
-靖天卡通,http://96.44.160.246:9999/smt.php?id=jingtiancartoon_twn
-ELta影剧,http://96.44.160.246:9999/smt.php?id=eltayingju_twn
-ELta综合,http://96.44.160.246:9999/smt.php?id=eltazonghe_twn
-ELTA体育1,http://96.44.160.246:9999/smt.php?id=eltasport_twn
-ELTA体育2,http://96.44.160.246:9999/smt.php?id=eltasport2_twn
-ELTA体育3,http://96.44.160.246:9999/smt.php?id=eltasport3_twn
-DAZN 1,http://96.44.160.246:9999/smt.php?id=golfchannel_twn
-博斯无限,http://96.44.160.246:9999/smt.php?id=bosiunlimited_twn
-博斯网球,http://96.44.160.246:9999/smt.php?id=bositennis_twn
-博斯运动1,http://96.44.160.246:9999/smt.php?id=bosisport1_twn
-博斯运动2,http://96.44.160.246:9999/smt.php?id=bosisport2_twn
-博斯高球1,http://96.44.160.246:9999/smt.php?id=bosigolf1_twn
-博斯高球2,http://96.44.160.246:9999/smt.php?id=bosigolf2_twn
-探索亚洲,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
-国家地理,http://96.44.160.246:9999/smt.php?id=natgeohd_twn
-野生动物,http://96.44.160.246:9999/smt.php?id=natgeowild_twn
-动物星球,http://96.44.160.246:9999/smt.php?id=animalplanet_twn
-美食星球,http://96.44.160.246:9999/smt.php?id=foodplanet_twn
-亚洲美食,http://96.44.160.246:9999/smt.php?id=afc_twn
-亚洲旅游,http://96.44.160.246:9999/smt.php?id=asiatravel_twn
-亚洲TLC,http://96.44.160.246:9999/smt.php?id=tlc_twn
-EYETV 旅游,http://96.44.160.246:9999/smt.php?id=eyetvtravel_twn
-EYETV 戏剧,http://96.44.160.246:9999/smt.php?id=eyetvxiju_twn
-MTV,http://96.44.160.246:9999/smt.php?id=mtvhd_twn
-Discovery,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
+央视频道,#genre#
+CCTV1,https://live.catvod.com/live.php?id=cctv1
+CCTV2,https://live.catvod.com/live.php?id=cctv2
+CCTV3,https://live.catvod.com/live.php?id=cctv3
+CCTV4,https://live.catvod.com/live.php?id=Cctv4
+CCTV4,https://live.catvod.com/live.php?id=cctv4
+CCTV5,https://live.catvod.com/live.php?id=cctv5
+CCTV5+,https://live.catvod.com/live.php?id=cctv5plus
+CCTV6,https://live.catvod.com/live.php?id=cctv6
+CCTV7,https://live.catvod.com/live.php?id=cctv7
+CCTV8,https://live.catvod.com/live.php?id=cctv8hd
+CCTV9,https://live.catvod.com/live.php?id=cctv9hd
+CCTV10,https://live.catvod.com/live.php?id=cctv10hd
+CCTV11,https://live.catvod.com/live.php?id=cctv11
+CCTV-12,https://live.catvod.com/live.php?id=cctv12
+CCTV-13,https://live.catvod.com/live.php?id=cctv13
+CCTV-14,https://live.catvod.com/live.php?id=cctv14
+CCTV-15,https://live.catvod.com/live.php?id=cctv15
+CCTV-16,https://live.catvod.com/live.php?id=cctv16
+CCTV-17,https://live.catvod.com/live.php?id=cctv17
+CGTN,https://live.catvod.com/live.php?id=CGTN
 
-体育频特,#genre#
-爱尔达体育1台,http://96.44.160.246:9999/smt.php?id=eltasport_twn
-爱尔达体育2台,http://96.44.160.246:9999/smt.php?id=eltasport2_twn
-爱尔达体育3台,http://96.44.160.246:9999/smt.php?id=eltasport3_twn
-爱尔达体育4台,http://96.44.160.246:9999/smt.php?id=eltasport4_twn
-Astro Arena,http://96.44.160.246:9999/smt.php?id=Arena
-Astro Arena 2,http://96.44.160.246:9999/smt.php?id=Arena2
-Astro Arena Bola 1,http://96.44.160.246:9999/smt.php?id=Bolaarena1
-Astro Arena Bola 2,http://96.44.160.246:9999/smt.php?id=Bolaarena2
-Astro Bein sports 1,http://96.44.160.246:9999/smt.php?id=Astrobein1
-Astro Bein sports 2,http://96.44.160.246:9999/smt.php?id=Astrobein2
-Astro Bein sports 3,http://96.44.160.246:9999/smt.php?id=Astrobein3
-Astro Badminton 1,http://96.44.160.246:9999/smt.php?id=go_badminton1
-Astro Badminton 2,http://96.44.160.246:9999/smt.php?id=go_badminton2
-Astro Cricket,http://96.44.160.246:9999/smt.php?id=Acricket
-Astro EPL 1 backup,http://96.44.160.246:9999/smt.php?id=go_assp1x
-Astro Football,http://96.44.160.246:9999/smt.php?id=go_assp4
-Astro Golf,http://96.44.160.246:9999/smt.php?id=Agolf
-Astro Grandstand,http://96.44.160.246:9999/smt.php?id=go_assp3
-Astro Premier League 1,http://96.44.160.246:9999/smt.php?id=go_assp1
-Astro Premier League 2,http://96.44.160.246:9999/smt.php?id=go_assp2
-Astro Sports Plus,http://96.44.160.246:9999/smt.php?id=go_sportsplus
-Astro W-Sports,http://96.44.160.246:9999/smt.php?id=go_assp5
-Fight Sports,http://96.44.160.246:9999/smt.php?id=Fs
-NBA TV,http://96.44.160.246:9999/smt.php?id=Nba
-RTM Sports HD,http://96.44.160.246:9999/smt.php?id=Rtmsport
-Rugby Pass TV,http://96.44.160.246:9999/smt.php?id=Rugbypasstv
-Sky sports Cricket,http://96.44.160.246:9999/smt.php?id=tiankongcricket
-Sky sports EPL,http://96.44.160.246:9999/smt.php?id=tiankongepl
-Sky sports F1,http://96.44.160.246:9999/smt.php?id=tiankongf1
-Sky sports Main Event,http://96.44.160.246:9999/smt.php?id=tiankongmain
-Sky sports Mix,http://96.44.160.246:9999/smt.php?id=tiankongmix
-Sky sports News,http://96.44.160.246:9999/smt.php?id=tiankongnews
-Sony Ten 1,http://96.44.160.246:9999/smt.php?id=ten1_raj
-Sony Ten 2,http://96.44.160.246:9999/smt.php?id=ten2_raj
-Sony Ten 3,http://96.44.160.246:9999/smt.php?id=ten3_raj
-SPOTV 1,http://96.44.160.246:9999/smt.php?id=go_spotv
-SPOTV 2,http://96.44.160.246:9999/smt.php?id=go_spotv2
-Supersports 1,http://96.44.160.246:9999/smt.php?id=Assp1
-Supersports 2,http://96.44.160.246:9999/smt.php?id=Assp2
-Supersports 3,http://96.44.160.246:9999/smt.php?id=Assp3
-Supersports 4,http://96.44.160.246:9999/smt.php?id=Assp4
-Tnt Sports 1,http://96.44.160.246:9999/smt.php?id=6fac0aaead
-TNT Sports 2,http://96.44.160.246:9999/smt.php?id=d9a76a79cc
-TNT Sports 3,http://96.44.160.246:9999/smt.php?id=5fea4d73db
-TNT Sports 4,http://96.44.160.246:9999/smt.php?id=tntsport4
-WWE,http://96.44.160.246:9999/smt.php?id=Wwe
+卫视频道,#genre#
+广东卫视,https://live.catvod.com/live.php?id=guangdongweishi_twn
+大湾区卫视,https://live.catvod.com/live.php?id=nanfang_twn
+广东珠江,https://live.catvod.com/live.php?id=zhujiang
+广东珠江,https://live.catvod.com/iptv.php?id=gdzj01
+广东体育,https://live.catvod.com/iptv.php?id=gdty01
+深圳卫视,https://live.catvod.com/live.php?id=shenzhen
+深圳卫视4K,https://live.catvod.com/iptv.php?id=szws4k
+深圳财经生活,https://live.catvod.com/iptv.php?id=szcjsh
+广西卫视,https://live.catvod.com/live.php?id=guangxi
+东南卫视,https://live.catvod.com/live.php?id=fujian
+海峡卫视,https://live.catvod.com/iptv.php?id=hxws01
+湖南卫视,https://live.catvod.com/live.php?id=hunan_twn
+浙江卫视,https://live.catvod.com/live.php?id=zhejiang_twn
+江苏卫视,https://live.catvod.com/live.php?id=jiangsu_twn
+东方卫视,https://live.catvod.com/live.php?id=dongfangweishi_twn
+北京卫视,https://live.catvod.com/live.php?id=beijing
+湖北卫视,https://live.catvod.com/live.php?id=hubei
+四川卫视,https://live.catvod.com/live.php?id=sichuan_twn
+第一财经,https://live.catvod.com/iptv.php?id=dycj01
+五星体育,https://live.catvod.com/iptv.php?id=wxty01
 
-电影频玛,#genre#
-Animax,http://96.44.160.246:9999/smt.php?id=Animax
-Astrol Kplus,http://96.44.160.246:9999/smt.php?id=Kplus
-Axn HD,http://96.44.160.246:9999/smt.php?id=Axn
-Celestial Classic,http://96.44.160.246:9999/smt.php?id=Celestial2
-Celestial Movies HD,http://96.44.160.246:9999/smt.php?id=Celestialindo
-Cinemax,http://96.44.160.246:9999/smt.php?id=Cinemax
-Dreamworks,http://96.44.160.246:9999/smt.php?id=Dreamworks
-HBO HD,http://96.44.160.246:9999/smt.php?id=Hbo
-HBO Family,http://96.44.160.246:9999/smt.php?id=Hbofamily
-HBO Hits,http://96.44.160.246:9999/smt.php?id=Hbohitshd
-HBO Signature,http://96.44.160.246:9999/smt.php?id=Hbosignature
-Hits,http://96.44.160.246:9999/smt.php?id=Hits
-Hits Movie,http://96.44.160.246:9999/smt.php?id=Hitsmovie
-Movies Now HD,http://96.44.160.246:9999/smt.php?id=moviesnow_raj
-One,http://96.44.160.246:9999/smt.php?id=One
-Paramount Network,http://96.44.160.246:9999/smt.php?id=Paramountnetwork
-Rock Actions,http://96.44.160.246:9999/smt.php?id=Rockaction
-Rock Entertainment,http://96.44.160.246:9999/smt.php?id=Rockentertain
-SCM,http://96.44.160.246:9999/smt.php?id=Weishimovie
-Star Movies HD,http://96.44.160.246:9999/smt.php?id=starmovies_raj
-Thrill,http://96.44.160.246:9999/smt.php?id=Thrill
-tvN Movie,http://96.44.160.246:9999/smt.php?id=Tvnmovie
-Warner TV,http://96.44.160.246:9999/smt.php?id=WarnerTV
+台湾频道,#genre#
+壹新聞,https://live.catvod.com/live.php?id=yinews
+寰宇新闻台,https://live.catvod.com/live.php?id=huanyuxinwen_twn
+寰宇财经台,https://live.catvod.com/live.php?id=huanyutaiwan_twn
+中天新闻,https://live.catvod.com/live.php?id=ctinews
+中天亚洲,https://live.catvod.com/live.php?id=ctiasia_twn
+中天娱乐,https://live.catvod.com/live.php?id=ctient
+中天综合,https://live.catvod.com/live.php?id=ctizhonghe
+中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn
+中视经典,https://live.catvod.com/live.php?id=zhongshi_twn
+TVBS,https://live.catvod.com/live.php?id=tvbs
+TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n
+TVBS欢乐台,https://live.catvod.com/live.php?id=tvbshuanle_twn
+TVBS ASIA,https://live.catvod.com/live.php?id=Tvbasia
+东森新闻台,https://live.catvod.com/live.php?id=ettvnews
+东森财经新闻台,https://live.catvod.com/live.php?id=ettvcaijing_twn
+东森戏剧台,https://live.catvod.com/live.php?id=ettvdrama
+东森洋片台,https://live.catvod.com/live.php?id=ettvwestern
+东森电影台,https://live.catvod.com/live.php?id=ettvmovie
+东森综合台,https://live.catvod.com/live.php?id=ettvzhonghe
+东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
+东森超视,https://live.catvod.com/live.php?id=ettvsuper
+三立台湾台,https://live.catvod.com/live.php?id=sanlitaiwan
+三立戏剧台,https://live.catvod.com/live.php?id=sanlixiju_twn
+三立综合台,https://live.catvod.com/live.php?id=sanlizhonghe
+三立都会台,https://live.catvod.com/live.php?id=sanlidouhui_twn
+非凡新闻,https://live.catvod.com/live.php?id=feifannews_twn
+年代MUCH,https://live.catvod.com/live.php?id=niandaitv_twn
+年代新闻,https://live.catvod.com/live.php?id=niandainews_twn
+八大娱乐台,https://live.catvod.com/live.php?id=badaentertain
+八大戏剧台,https://live.catvod.com/live.php?id=badadrama
+八大第一台,https://live.catvod.com/live.php?id=badafirst
+八大综合台,https://live.catvod.com/live.php?id=badazhonghe
+公视台语台,https://live.catvod.com/live.php?id=ctv2_twn
+台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn
+台视综合,https://live.catvod.com/live.php?id=ttvzhonghe
+民视台湾台,https://live.catvod.com/live.php?id=ftvtaiwan_twn
+民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan
+大愛2台,https://live.catvod.com/live.php?id=daai2_twn
+大愛電視,https://live.catvod.com/live.php?id=daai_twn
+霹靂台灣台,https://live.catvod.com/live.php?id=pilitw_twn
+华艺中文台,https://live.catvod.com/live.php?id=weishichinese_tw
+信大HD,https://live.catvod.com/live.php?id=xinda_twn
+好消息2,https://live.catvod.com/live.php?id=good2_twn
+好萊塢電影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn
+天映频道,https://live.catvod.com/live.php?id=ctv18_twn
+亚洲旅游台,https://live.catvod.com/live.php?id=asiatravel_twn
+亚洲美食,https://live.catvod.com/live.php?id=afc_twn
+卫视电影台,https://live.catvod.com/live.php?id=weishimovie_twn
+爱尔达影剧台,https://live.catvod.com/live.php?id=eltayingju_twn
+爱尔达综合台,https://live.catvod.com/live.php?id=eltazonghe_twn
+纬来体育,https://live.catvod.com/live.php?id=videolandsport
+纬来戏剧,https://live.catvod.com/live.php?id=videolandtv
+纬来日本,https://live.catvod.com/live.php?id=videolandjapan
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie
+纬来精彩,https://live.catvod.com/live.php?id=videolandspecial_twn
+纬来综合,https://live.catvod.com/live.php?id=videolandzonghe
+纬来育乐,https://live.catvod.com/live.php?id=videolandyule
+美亚电影,https://live.catvod.com/live.php?id=meiyamovie_twn
+美食星球,https://live.catvod.com/live.php?id=foodplanet_twn
+靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn
+靖天国际,https://live.catvod.com/live.php?id=jingtianintl_twn
+龙华偶像,https://live.catvod.com/live.php?id=lunghuaidol_twn#https://live.catvod.com/iptv.php?id=lhox01
+龙华卡通,https://live.catvod.com/iptv.php?id=lhkt01
+龙华戏剧,https://live.catvod.com/iptv.php?id=lhxj01#https://live.catvod.com/live.php?id=lunghuaxiju_twn
+龙华日韩,https://live.catvod.com/iptv.php?id=lhrh01
+龙华洋片,https://live.catvod.com/live.php?id=lunghuawestern_twn#https://live.catvod.com/iptv.php?id=lhyp01
+龙华电影,https://live.catvod.com/live.php?id=xingwei_movie#https://live.catvod.com/iptv.php?id=lhdy01
+龙华经典,https://live.catvod.com/iptv.php?id=lhjd01
+龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn
+博斯无限台,https://live.catvod.com/live.php?id=bosiunlimited_twn
+博斯网球台,https://live.catvod.com/live.php?id=bositennis_twn
+博斯运动一台,https://live.catvod.com/live.php?id=bosisport1_twn
+博斯运动二台,https://live.catvod.com/live.php?id=bosisport2_twn
+博斯高球一台,https://live.catvod.com/live.php?id=bosigolf1_twn
+博斯高球二台,https://live.catvod.com/live.php?id=bosigolf2_twn
+ARIRANG,https://live.catvod.com/live.php?id=arirang_twn
+AXN台湾,https://live.catvod.com/live.php?id=axn_twn
+CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
+EYETV戏剧台,https://live.catvod.com/live.php?id=eyetvxiju_twn
+EYETV旅游台,https://live.catvod.com/live.php?id=eyetvtravel_twn
+HBO,https://live.catvod.com/live.php?id=hbohd_twn
+HBO HITS,https://live.catvod.com/live.php?id=hbohit_twn
+JET綜合,https://live.catvod.com/live.php?id=jet
+MTV Live,https://live.catvod.com/live.php?id=mtvhd_twn
+TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 
-纪录频特,#genre#
-Animal_Planet,http://96.44.160.246:9999/smt.php?id=animalplanet_twn
-Animal Planet (Eng),http://96.44.160.246:9999/smt.php?id=AnimalPlanet
-BBC Earth HD,http://96.44.160.246:9999/smt.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn
-CI,http://96.44.160.246:9999/smt.php?id=ci_twn
-Discovery Asia,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
-Discovery HD,http://96.44.160.246:9999/smt.php?id=discoveryhd_twn
-Fashion TV,http://96.44.160.246:9999/smt.php?id=fashiontv_twn
-Foodnetwork Hd,http://96.44.160.246:9999/smt.php?id=Foodnetwork
-HGTV,http://96.44.160.246:9999/smt.php?id=HGTV
-History,http://96.44.160.246:9999/smt.php?id=History
-NatGeo HD,http://96.44.160.246:9999/smt.php?id=Natgeo
-Natgeo_HD,http://96.44.160.246:9999/smt.php?id=natgeohd_twn
-NatGeo Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
-NatGeo_Wild HD,http://96.44.160.246:9999/smt.php?id=natgeowild_twn
-TLC,http://96.44.160.246:9999/smt.php?id=Tlc
+体育频道,#genre#
+Astro ARENA,https://live.catvod.com/live.php?id=Arena
+Astro ARENA 2,https://live.catvod.com/live.php?id=Arena2
+Astro Badminton 1,https://live.catvod.com/live.php?id=go_badminton1
+Astro Badminton 2,https://live.catvod.com/live.php?id=go_badminton2
+Astro Bein sports 1,https://live.catvod.com/live.php?id=Astrobein1
+Astro Bein sports 2,https://live.catvod.com/live.php?id=Astrobein2
+Astro Bein sports 3,https://live.catvod.com/live.php?id=Astrobein3
+Astro Cricket,https://live.catvod.com/live.php?id=Acricket
+Astro EPL 1 backup,https://live.catvod.com/live.php?id=go_assp1x
+Astro Football,https://live.catvod.com/live.php?id=go_assp4
+Astro Golf,https://live.catvod.com/live.php?id=Agolf
+Astro Grandstand,https://live.catvod.com/live.php?id=go_assp3
+Astro Premier League 1,https://live.catvod.com/live.php?id=go_assp1
+Astro Premier League 2,https://live.catvod.com/live.php?id=go_assp2
+Astro Sports Plus,https://live.catvod.com/live.php?id=go_sportsplus
+Astro W-Sports,https://live.catvod.com/live.php?id=go_assp5
+Bola Arena 1,https://live.catvod.com/live.php?id=Bolaarena1
+Bola Arena 2,https://live.catvod.com/live.php?id=Bolaarena2
+DAZN 1,https://live.catvod.com/live.php?id=dazn1_twn
+DAZN 2,https://live.catvod.com/live.php?id=dazn2_twn
+FIGHTSPORTS,https://live.catvod.com/live.php?id=Fs
+NBA TV,https://live.catvod.com/live.php?id=Nba
+RTM_SPORTS HD,https://live.catvod.com/live.php?id=Rtmsport
+RUGBY PASS TV,https://live.catvod.com/live.php?id=Rugbypasstv
+SKYSPORTS Cricket,https://live.catvod.com/live.php?id=tiankongcricket
+SKYSPORTS EPL,https://live.catvod.com/live.php?id=tiankongepl
+SKYSPORTS F1,https://live.catvod.com/live.php?id=tiankongf1
+SKYSPORTS Main Event,https://live.catvod.com/live.php?id=tiankongmain
+SKYSPORTS Mix,https://live.catvod.com/live.php?id=tiankongmix
+SKYSPORTS News,https://live.catvod.com/live.php?id=tiankongnews
+SONYTEN 1,https://live.catvod.com/live.php?id=ten1_raj
+SONYTEN 2,https://live.catvod.com/live.php?id=ten2_raj
+SONYTEN 3,https://live.catvod.com/live.php?id=ten3_raj
+SPOTV,https://live.catvod.com/live.php?id=go_spotv
+SPOTV2,https://live.catvod.com/live.php?id=go_spotv2
+Supersports 1,https://live.catvod.com/live.php?id=Assp1
+Supersports 2,https://live.catvod.com/live.php?id=Assp2
+Supersports 3,https://live.catvod.com/live.php?id=Assp3
+Supersports 4,https://live.catvod.com/live.php?id=Assp4
+TNT SPORTS 1,https://live.catvod.com/live.php?id=6fac0aaead
+TNT SPORTS 2,https://live.catvod.com/live.php?id=d9a76a79cc
+TNT SPORTS 3,https://live.catvod.com/live.php?id=5fea4d73db
+TNT SPORTS 4,https://live.catvod.com/live.php?id=tntsport4
+WWE,https://live.catvod.com/live.php?id=Wwe
+小公視,https://live.catvod.com/live.php?id=pts3_twn
+爱尔达体育1台,https://live.catvod.com/live.php?id=eltasport_twn
+爱尔达体育2台,https://live.catvod.com/live.php?id=eltasport2_twn
+爱尔达体育3台,https://live.catvod.com/live.php?id=eltasport3_twn
+爱尔达体育4台,https://live.catvod.com/live.php?id=eltasports4_twn
 
-新闻频特,#genre#
-ABC News,http://96.44.160.246:9999/smt.php?id=abcnews_glo
-Al-Jazeera,http://96.44.160.246:9999/smt.php?id=aljazeera_twn
-BBC World News,http://96.44.160.246:9999/smt.php?id=bbcnews_twn
-BBC World News,http://96.44.160.246:9999/smt.php?id=Bbcnews
-Bloomberg News,http://96.44.160.246:9999/smt.php?id=bloomberg_twn
-CBS HD,http://96.44.160.246:9999/smt.php?id=cbshd_glo
-CBSN HD,http://96.44.160.246:9999/smt.php?id=cbsn_glo
-CNA,http://96.44.160.246:9999/smt.php?id=cna
-CNBC,http://96.44.160.246:9999/smt.php?id=cnbc_twn
-CNN International,http://96.44.160.246:9999/smt.php?id=Cnn
-CNN backup,http://96.44.160.246:9999/smt.php?id=cnn_twn
-DW (Deutsch),http://96.44.160.246:9999/smt.php?id=dw_twn
-Fox News,http://96.44.160.246:9999/smt.php?id=foxnews_twn
-France 24,http://96.44.160.246:9999/smt.php?id=france24_twn
-NHK World,http://96.44.160.246:9999/smt.php?id=nhkworld_japan
-Skynews,http://96.44.160.246:9999/smt.php?id=skynews_twn
+电影频道,#genre#
+AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
+ANIMAX,https://live.catvod.com/live.php?id=Animax
+AstrolKplus,https://live.catvod.com/live.php?id=Kplus
+AXN,https://live.catvod.com/live.php?id=Axn
+CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
+CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn#https://live.catvod.com/live.php?id=Cinemax
+dreamworks,https://live.catvod.com/live.php?id=Dreamworks
+HBOFAMILY,https://live.catvod.com/live.php?id=Hbofamily
+HBOHD,https://live.catvod.com/live.php?id=Hbo#https://live.catvod.com/live.php?id=hbohd_twn
+HBOHITS,https://live.catvod.com/live.php?id=Hbohitshd#https://live.catvod.com/live.php?id=hbohit_twn
+HBOSIGNATURE,https://live.catvod.com/live.php?id=Hbosignature
+HITS,https://live.catvod.com/live.php?id=Hits
+HITSMOVIES,https://live.catvod.com/live.php?id=Hitsmovie
+ONE,https://live.catvod.com/live.php?id=One
+ParamountNetwork,https://live.catvod.com/live.php?id=Paramountnetwork
+ROCK_ENTERTAINMENT,https://live.catvod.com/live.php?id=Rockentertain
+ROCKACTION,https://live.catvod.com/live.php?id=Rockaction
+SCM,https://live.catvod.com/live.php?id=Weishimovie
+StarMoviesHD,https://live.catvod.com/live.php?id=starmovies_raj
+THRILL,https://live.catvod.com/live.php?id=Thrill
+TVNMOVIES,https://live.catvod.com/live.php?id=moviesnow_raj#https://live.catvod.com/live.php?id=Tvnmovie
+WarnerTV,https://live.catvod.com/live.php?id=WarnerTV
+天映经典,https://live.catvod.com/live.php?id=Celestial2
+天映频道,https://live.catvod.com/live.php?id=Celestial#https://live.catvod.com/live.php?id=Celestialindo
 
-儿童频特,#genre#
-Baby TV Eng,http://96.44.160.246:9999/smt.php?id=Babytv
-CBeebies,http://96.44.160.246:9999/smt.php?id=Cbeebies
-Kids TV,http://96.44.160.246:9999/smt.php?id=KidsTV
-Momo TV,http://96.44.160.246:9999/smt.php?id=momo1_twn
-Baby TV,http://96.44.160.246:9999/smt.php?id=babytv_twn
-MiaoMi,http://96.44.160.246:9999/smt.php?id=MiaoMi
-Cartoon Network,http://96.44.160.246:9999/smt.php?id=Cn
-Nickelodeon,http://96.44.160.246:9999/smt.php?id=Nickelodeon
-Nick Jr,http://96.44.160.246:9999/smt.php?id=Nickjr
+记录频道,#genre#
+ANIMAL PLANET,https://live.catvod.com/live.php?id=AnimalPlanet#https://live.catvod.com/live.php?id=animalplanet_twn
+Asia Travel,https://live.catvod.com/live.php?id=asiatravel_twn
+BBC Earth,https://live.catvod.com/live.php?id=bbcearth_twn
+BBC Lifestyle,https://live.catvod.com/live.php?id=bbclifestyle_twn
+Discovery,https://live.catvod.com/live.php?id=discoverytwn_twn
+Fashion TV,https://live.catvod.com/live.php?id=fashiontv_twn
+Food Network,https://live.catvod.com/live.php?id=Foodnetwork
+HGTV,https://live.catvod.com/live.php?id=HGTV
+HISTORY,https://live.catvod.com/live.php?id=History
+MTV Live,https://live.catvod.com/live.php?id=mtvhd_twn
+Natgeo,https://live.catvod.com/live.php?id=Natgeo#https://live.catvod.com/live.php?id=natgeohd_twn
+Natgeo Wild,https://live.catvod.com/live.php?id=Natgeowild#https://live.catvod.com/live.php?id=natgeowild_twn
+TLC,https://live.catvod.com/live.php?id=Tlc
 
-新加频特,#genre#
-Channel 5,http://96.44.160.246:9999/smt.php?id=Channel5HD
-Channel 8,http://96.44.160.246:9999/smt.php?id=Channel8HD
-Suria,http://96.44.160.246:9999/smt.php?id=Suria
-Channel U,http://96.44.160.246:9999/smt.php?id=ChannelU
-Vasantham,http://96.44.160.246:9999/smt.php?id=Vasantham
-CNA backup,http://96.44.160.246:9999/smt.php?id=cna_twn
-MeWatch Ch 5,http://96.44.160.246:9999/smt.php?id=Mewatch_ch5
-MeWatch Ch 8,http://96.44.160.246:9999/smt.php?id=Mewatch_ch8
-MeWatch Ch U,http://96.44.160.246:9999/smt.php?id=Mewatch_chU
-MeWatch Suria,http://96.44.160.246:9999/smt.php?id=Mewatch_Suria
-MeWatch Vasantham,http://96.44.160.246:9999/smt.php?id=Mewatch_Vasantham
-MeWatch CNA,http://96.44.160.246:9999/smt.php?id=Mewatch_cna
+新闻频道,#genre#
+ABC NEWS,https://live.catvod.com/live.php?id=abcnews_glo
+Aljazeera,https://live.catvod.com/live.php?id=aljazeera_twn
+BBC WORLD NEWS,https://live.catvod.com/live.php?id=bbcnews_twn#https://live.catvod.com/live.php?id=Bbcnews
+Bloomberg TV,https://live.catvod.com/live.php?id=bloomberg_twn
+CBS,https://live.catvod.com/live.php?id=cbshd_glo
+CBSN,https://live.catvod.com/live.php?id=cbsn_glo
+CGTN,https://live.catvod.com/live.php?id=CGTN
+CNA,https://live.catvod.com/live.php?id=cna
+CNBC,https://live.catvod.com/live.php?id=cnbc_twn
+CNN,https://live.catvod.com/live.php?id=cnn_twn
+CNN INTERNATIONAL,https://live.catvod.com/live.php?id=Cnn
+DW(DEUTSCH),https://live.catvod.com/live.php?id=dw_twn
+Euronews,https://live.catvod.com/live.php?id=euronews_antik
+FOX NEWS,https://live.catvod.com/live.php?id=foxnews_twn
+France 24,https://live.catvod.com/live.php?id=france24_twn
+NHK World,https://live.catvod.com/live.php?id=nhkworld_japan
+Sky News,https://live.catvod.com/live.php?id=skynews_twn
 
-马来频特,#genre#
-TV1,http://96.44.160.246:9999/smt.php?id=TV1
-TV1 backup,http://96.44.160.246:9999/smt.php?id=TV1_backup
-TV2,http://96.44.160.246:9999/smt.php?id=TV2
-TV3,http://96.44.160.246:9999/smt.php?id=TV3
-TV3 SD,http://96.44.160.246:9999/smt.php?id=TV3_mega
-NTV7,http://96.44.160.246:9999/smt.php?id=NTV7
-TV8,http://96.44.160.246:9999/smt.php?id=TV8
-TV9,http://96.44.160.246:9999/smt.php?id=TV9
-Ria,http://96.44.160.246:9999/smt.php?id=Ria-0
-Ria-3,http://96.44.160.246:9999/smt.php?id=Ria_backup
-Al-Hijrah,http://96.44.160.246:9999/smt.php?id=Alhijrah
-Al-Hijrah backup,http://96.44.160.246:9999/smt.php?id=Alhijrah_backup
-Awani,http://96.44.160.246:9999/smt.php?id=Awani
-Bernama,http://96.44.160.246:9999/smt.php?id=Bernama
-Prima,http://96.44.160.246:9999/smt.php?id=Prima-0
-Prima backup,http://96.44.160.246:9999/smt.php?id=AAprima1
-Prima backup 2,http://96.44.160.246:9999/smt.php?id=AAprima
-Ceria,http://96.44.160.246:9999/smt.php?id=Ceria
-Astro MTV,http://96.44.160.246:9999/smt.php?id=AstroMTV
-Mecca Live HD,http://96.44.160.246:9999/smt.php?id=quran_mido
-Madinah HD,http://96.44.160.246:9999/smt.php?id=sunnah_mido
-Oasis,http://96.44.160.246:9999/smt.php?id=Oasis
-Siar,http://96.44.160.246:9999/smt.php?id=Siar
-Citra,http://96.44.160.246:9999/smt.php?id=AAcitra
-Citra backup,http://96.44.160.246:9999/smt.php?id=AAcitra1
-Sensasi,http://96.44.160.246:9999/smt.php?id=Sensasi
-Aura,http://96.44.160.246:9999/smt.php?id=Aura
-Rania,http://96.44.160.246:9999/smt.php?id=Rania
-KBS World,http://96.44.160.246:9999/smt.php?id=KBS
-Boo,http://96.44.160.246:9999/smt.php?id=Boo
-Awesome TV,http://96.44.160.246:9999/smt.php?id=Dsangat
-Astro Sonypix,http://96.44.160.246:9999/smt.php?id=Asonypix
-Sony HD,http://96.44.160.246:9999/smt.php?id=SetOne
-TvN,http://96.44.160.246:9999/smt.php?id=TVN
-AEC,http://96.44.160.246:9999/smt.php?id=AEC
-华丽台 HD （Wah Lai Toi）,http://96.44.160.246:9999/smt.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,http://96.44.160.246:9999/smt.php?id=Huahee
-Astro QJ,http://96.44.160.246:9999/smt.php?id=Quanjia
-TVB Jade,http://96.44.160.246:9999/smt.php?id=Tvbjade
-TVB Asia,http://96.44.160.246:9999/smt.php?id=Tvbasia
-TVB Entertainment,http://96.44.160.246:9999/smt.php?id=Tvbentertainment
-TVB Classic,http://96.44.160.246:9999/smt.php?id=Tvbclassic
-AOD,http://96.44.160.246:9999/smt.php?id=Aodhd
-TVB 星河台 Xing He,http://96.44.160.246:9999/smt.php?id=Xinhe
-爱奇艺 iQiyi,http://96.44.160.246:9999/smt.php?id=Qiyi
-Goshop,http://96.44.160.246:9999/smt.php?id=Goshop
-Celestial Movies HD,http://96.44.160.246:9999/smt.php?id=Celestial
-Astro LOL,http://96.44.160.246:9999/smt.php?id=Astro_lol
-Astro Rusi,http://96.44.160.246:9999/smt.php?id=Rusi
-WION,http://96.44.160.246:9999/smt.php?id=Wion
-RTM Asean,http://96.44.160.246:9999/smt.php?id=Rtmasean
+儿童频道,#genre#
+ANIMAX,https://live.catvod.com/live.php?id=Animax
+BABY TV,https://live.catvod.com/live.php?id=babytv_twn
+BABY TV,https://live.catvod.com/live.php?id=Babytv
+CARTOON NETWORK,https://live.catvod.com/live.php?id=Cn
+CBEEBIES,https://live.catvod.com/live.php?id=Cbeebies
+Miaomi,https://live.catvod.com/live.php?id=MiaoMi
+MOMO,https://live.catvod.com/live.php?id=momo1_twn
+MYKIDSTV,https://live.catvod.com/live.php?id=KidsTV
+NICK JR,https://live.catvod.com/live.php?id=Nickjr
+Nickelodeon,https://live.catvod.com/live.php?id=Nickelodeon
 
-SPORTS,#genre#
-Now HK Premier Sports 1,http://vocotv.pro:80/robins/robins/715574
-Now HK Premier Sports 2,http://vocotv.pro:80/robins/robins/715573
-Now HK Premier Sports 3,http://vocotv.pro:80/robins/robins/715572
-Now HK Premier Sports 4,http://vocotv.pro:80/robins/robins/715571
-Now HK Premier Sports 5,http://vocotv.pro:80/robins/robins/715570
-Now HK Premier Sports 6,http://vocotv.pro:80/robins/robins/715569
-Now HK Premier Sports 7,http://vocotv.pro:80/robins/robins/715568
-Now HK Premier Sports 8,http://vocotv.pro:80/robins/robins/715567
-Now HK Now Sports 1,http://vocotv.pro:80/robins/robins/715566
-Now HK Now Sports 2,http://vocotv.pro:80/robins/robins/715565
-Now HK Now Sports 3,http://vocotv.pro:80/robins/robins/715564
-Now HK Now Sports 4,http://vocotv.pro:80/robins/robins/715563
-Now HK Now Sports 5,http://vocotv.pro:80/robins/robins/715562
-Now HK Now Sports 6,http://vocotv.pro:80/robins/robins/715561
-Now HK Now Sports 7,http://vocotv.pro:80/robins/robins/715560
-Now Sports PRIME,http://vocotv.pro:80/robins/robins/715559
-Now HK Now Sports 4K 616,http://vocotv.pro:80/robins/robins/715558
-Now HK Now Sports 4K 617,http://vocotv.pro:80/robins/robins/715557
-Hub Premier 1 FHD,http://vocotv.pro:80/robins/robins/288375
-Hub Premier 2 FHD,http://vocotv.pro:80/robins/robins/288374
-Hub Premier 3 FHD,http://vocotv.pro:80/robins/robins/288373
-Hub Premier 4 FHD,http://vocotv.pro:80/robins/robins/288372
-Hub Premier 5 FHD,http://vocotv.pro:80/robins/robins/288371
-Hub Premier 6 FHD,http://vocotv.pro:80/robins/robins/288370
-Hub Premier 7 FHD,http://vocotv.pro:80/robins/robins/288369
-Hub Premier 8 FHD,http://vocotv.pro:80/robins/robins/288368
-Hub Premier 9 FHD,http://vocotv.pro:80/robins/robins/288367
-Hub Premier 10 FHD,http://vocotv.pro:80/robins/robins/288366
-Hub Premier 11 FHD,http://vocotv.pro:80/robins/robins/288365
-Hub Premier 2 UHD,http://vocotv.pro:80/robins/robins/288364
-Hub Sports 1 FHD,http://vocotv.pro:80/robins/robins/288363
-Hub Sports 2 FHD,http://vocotv.pro:80/robins/robins/288362
-Hub Sports 3 FHD,http://vocotv.pro:80/robins/robins/288361
-Hub Sports 4 FHD,http://vocotv.pro:80/robins/robins/288360
-Hub Sports 5 FHD,http://vocotv.pro:80/robins/robins/288359
-beIN Sports 1 FHD,http://vocotv.pro:80/robins/robins/288357
-beIN Sports 2 FHD,http://vocotv.pro:80/robins/robins/288356
-beIN Sports 3 FHD,http://vocotv.pro:80/robins/robins/288355
-beIN Sports 4 FHD,http://vocotv.pro:80/robins/robins/288354
-beIN Sports 5 FHD,http://vocotv.pro:80/robins/robins/288353
-SPOTV,http://vocotv.pro:80/robins/robins/288352
-SPOTV 2,http://vocotv.pro:80/robins/robins/288351
-Premier Sports 1 FHD UK,http://vocotv.pro:80/robins/robins/709352
-Premier Sports 2 FHD UK,http://vocotv.pro:80/robins/robins/709350
-Racing UK FHD UK,http://vocotv.pro:80/robins/robins/709346
-Sky Sports Action FHD UK,http://vocotv.pro:80/robins/robins/709403
-Sky Sports Arena FHD UK,http://vocotv.pro:80/robins/robins/709401
-Sky Sports Cricket FHD UK,http://vocotv.pro:80/robins/robins/709399
-Sky Sports Darts FHD UK,http://vocotv.pro:80/robins/robins/709397
-Sky Sports F1 FHD UK,http://vocotv.pro:80/robins/robins/709396
-Sky Sports Football FHD UK,http://vocotv.pro:80/robins/robins/709394
-Sky Sports Golf FHD UK,http://vocotv.pro:80/robins/robins/709391
-Sky Sports Main Event FHD UK,http://vocotv.pro:80/robins/robins/709389
-Sky Sports Mix FHD UK,http://vocotv.pro:80/robins/robins/709387
-Sky Sports News FHD UK,http://vocotv.pro:80/robins/robins/709385
-Sky Sports NFL HD UK,http://vocotv.pro:80/robins/robins/709383
-Sky Sports Plus (HEVC) UK,http://vocotv.pro:80/robins/robins/709392
-Sky Sports Premier League FHD UK,http://vocotv.pro:80/robins/robins/709382
-Sky Sports Racing FHD UK,http://vocotv.pro:80/robins/robins/709380
-USA FanDuel TV Racing,http://vocotv.pro:80/robins/robins/815
-USA TVG Network,http://vocotv.pro:80/robins/robins/836
-USA TVG 2 Network,http://vocotv.pro:80/robins/robins/835
+其它频道,#genre#
+TVB classic,https://live.catvod.com/live.php?id=Tvbclassic
+TVB ENTERTAINMENT NEWS,https://live.catvod.com/live.php?id=Tvbentertainment
+TVB JADE,https://live.catvod.com/live.php?id=Tvbjade
+TVBS ASIA,https://live.catvod.com/live.php?id=Tvbasia
+华丽台,https://live.catvod.com/live.php?id=Wlt
+星河台,https://live.catvod.com/live.php?id=Xinhe
+欢喜台,https://live.catvod.com/live.php?id=Huahee
+爱奇艺,https://live.catvod.com/live.php?id=Qiyi
+天映经典,https://live.catvod.com/live.php?id=Celestial2
+CELESTIAL MOVIES,https://live.catvod.com/live.php?id=Celestial
+Adithya,https://live.catvod.com/live.php?id=Adithya
+AEC,https://live.catvod.com/live.php?id=AEC
+ALHIJRAH,https://live.catvod.com/live.php?id=Alhijrah_backup#https://live.catvod.com/live.php?id=Alhijrah
+Aljazeera,https://live.catvod.com/live.php?id=aljazeera_twn
+AlQuran AlKareem,https://live.catvod.com/live.php?id=AlQuran
+Amarin,https://live.catvod.com/live.php?id=amarin_pat
+ANIMAPLANET,https://live.catvod.com/live.php?id=AnimalPlanet
+Animax,https://live.catvod.com/live.php?id=Animax
+AnTV,https://live.catvod.com/live.php?id=Antv
+AOD,https://live.catvod.com/live.php?id=Aodhd
+Asianet,https://live.catvod.com/live.php?id=asianet_raj
+Asianet News,https://live.catvod.com/live.php?id=asianetnews_raj
+Asia Travel,https://live.catvod.com/live.php?id=asiatravel_twn
+ASTRO ARENA,https://live.catvod.com/live.php?id=Arena
+ASTRO ARENA 2,https://live.catvod.com/live.php?id=Arena2
+Astro KTV,https://live.catvod.com/live.php?id=Astroktv
+Astro LOL,https://live.catvod.com/live.php?id=Astro_lol
+Astro Rusi,https://live.catvod.com/live.php?id=Rusi
+Astro Sonypix,https://live.catvod.com/live.php?id=Asonypix
+Astro Sunlife,https://live.catvod.com/live.php?id=Sunlife
+Astro Vaanavil,https://live.catvod.com/live.php?id=Vaanavil
+Astrol Kplus,https://live.catvod.com/live.php?id=Kplus
+ASTRO全佳,https://live.catvod.com/live.php?id=Quanjia
+AURA,https://live.catvod.com/live.php?id=Aura
+AWANI,https://live.catvod.com/live.php?id=Awani
+AWESOMETV,https://live.catvod.com/live.php?id=Dsangat
+AXN,https://live.catvod.com/live.php?id=Axn
+BBC 1,https://live.catvod.com/live.php?id=bbc1_antik
+BBC 2,https://live.catvod.com/live.php?id=bbc2_antik
+BBC Earth HD,https://live.catvod.com/live.php?id=bbcearth_twn
+BBC Earth Lifestyle,https://live.catvod.com/live.php?id=bbclifestyle_twn
+BBC World News,https://live.catvod.com/live.php?id=bbcworldnews_antik
+BBC WORLD NEWS,https://live.catvod.com/live.php?id=bbcnews_twn
+Berita Satu,https://live.catvod.com/live.php?id=BeritaSatu_eko
+BERNAMA,https://live.catvod.com/live.php?id=Bernama
+BLOOMBERG,https://live.catvod.com/live.php?id=bloomberg_twn
+Bola Arena 1,https://live.catvod.com/live.php?id=Bolaarena1
+Bola Arena 2,https://live.catvod.com/live.php?id=Bolaarena2
+Bollyone,https://live.catvod.com/live.php?id=Bollyone
+BOO,https://live.catvod.com/live.php?id=Boo
+CARTOON NETWORK,https://live.catvod.com/live.php?id=Cn
+CBBC,https://live.catvod.com/live.php?id=cbbc_antik
+CBeebies,https://live.catvod.com/live.php?id=Cbeebies
+Celestial Movies ID,https://live.catvod.com/live.php?id=Celestialindo
+CERIA,https://live.catvod.com/live.php?id=Ceria
+CGTN,https://live.catvod.com/live.php?id=CGTN
+Ch 8,https://live.catvod.com/live.php?id=ch8_pat
+Channel 3 Thailand,https://live.catvod.com/live.php?id=ch3_pat
+Channel 4,https://live.catvod.com/live.php?id=channel4_antik
+Channel 5 Thailand,https://live.catvod.com/live.php?id=ch5_pat
+Channel 7 Thailand,https://live.catvod.com/live.php?id=ch7_pat
+CHANNEL5,https://live.catvod.com/live.php?id=Channel5HD
+CHANNEL8,https://live.catvod.com/live.php?id=Channel8HD
+CHANNELU,https://live.catvod.com/live.php?id=ChannelU
+Cinemax,https://live.catvod.com/live.php?id=Cinemax
+CITRA,https://live.catvod.com/live.php?id=AAcitra#https://live.catvod.com/live.php?id=AAcitra1
+CNA,https://live.catvod.com/live.php?id=cna_twn#https://live.catvod.com/live.php?id=cna
+CNBC,https://live.catvod.com/live.php?id=cnbc_twn
+CNN,https://live.catvod.com/live.php?id=cnn_twn
+Color HD,https://live.catvod.com/live.php?id=Colorhd
+Colors Tamil,https://live.catvod.com/live.php?id=Colorstam
+Daai TV,https://live.catvod.com/live.php?id=DaaiTV
+Discovery Kids Tamil,https://live.catvod.com/live.php?id=discoverykidtamil_raj
+Discovery Tamil,https://live.catvod.com/live.php?id=discoverytamil_raj
+Discovery World Tamil,https://live.catvod.com/live.php?id=discoveryworldtam_raj
+dreamworks,https://live.catvod.com/live.php?id=Dreamworks
+DW (Deutsch),https://live.catvod.com/live.php?id=dw_twn
+Entertain,https://live.catvod.com/live.php?id=Entertain
+Euronews,https://live.catvod.com/live.php?id=euronews_antik
+EWTN,https://live.catvod.com/live.php?id=Ewtn
+Fight Sports,https://live.catvod.com/live.php?id=Fs
+Food Network,https://live.catvod.com/live.php?id=Foodnetwork
+France 24,https://live.catvod.com/live.php?id=france24_twn
+Freesports,https://live.catvod.com/live.php?id=freesports_antik
+Gmm Channel,https://live.catvod.com/live.php?id=gmmchannel_pat
+Gmm One,https://live.catvod.com/live.php?id=gmmone_pat
+GOSHOP,https://live.catvod.com/live.php?id=Goshop
+GTV,https://live.catvod.com/live.php?id=Gtv
+HBO,https://live.catvod.com/live.php?id=Hbo
+HBOHITS,https://live.catvod.com/live.php?id=Hbohitshd
+HBO SIGNATURE,https://live.catvod.com/live.php?id=Hbosignature
+HGTV,https://live.catvod.com/live.php?id=HGTV
+History,https://live.catvod.com/live.php?id=History
+History Tamil,https://live.catvod.com/live.php?id=historytam_raj
+Hits,https://live.catvod.com/live.php?id=Hits
+Hits Movie,https://live.catvod.com/live.php?id=Hitsmovie
+Indosiar HD,https://live.catvod.com/live.php?id=Indosiar
+iNews TV,https://live.catvod.com/live.php?id=Inewstv
+itv 1,https://live.catvod.com/live.php?id=itv1_antik
+itv 2,https://live.catvod.com/live.php?id=itv2_antik
+Jak TV,https://live.catvod.com/live.php?id=JakTV
+JTV,https://live.catvod.com/live.php?id=JTV_eko
+KBSWORLD,https://live.catvod.com/live.php?id=KBS
+Kids TV,https://live.catvod.com/live.php?id=KidsTV
+Kompass TV,https://live.catvod.com/live.php?id=Kompass
+Lifestyle&amp;Fashion,https://live.catvod.com/live.php?id=Lifestyle
+Madinah HD,https://live.catvod.com/live.php?id=sunnah_mido
+Makkal TV,https://live.catvod.com/live.php?id=Makkaltv
+MCOT HD Thailand-1,https://live.catvod.com/live.php?id=mcot_pat
+Mecca Live HD,https://live.catvod.com/live.php?id=quran_mido
+Metro TV,https://live.catvod.com/live.php?id=metrotv_eko
+MeWatch Ch 5,https://live.catvod.com/live.php?id=Mewatch_ch5
+MeWatch Ch 8,https://live.catvod.com/live.php?id=Mewatch_ch8
+MeWatch Ch U,https://live.catvod.com/live.php?id=Mewatch_chU
+MeWatch CNA,https://live.catvod.com/live.php?id=Mewatch_cna
+MeWatch Suria,https://live.catvod.com/live.php?id=Mewatch_Suria
+MeWatch Vasantham,https://live.catvod.com/live.php?id=Mewatch_Vasantham
+MNC TV,https://live.catvod.com/live.php?id=Mnctv
+Mono,https://live.catvod.com/live.php?id=mono_pat
+More4,https://live.catvod.com/live.php?id=more4_antik
+MTV Live,https://live.catvod.com/live.php?id=mtvhd_twn
+Music TV,https://live.catvod.com/live.php?id=MusicTV
+Muslim TV,https://live.catvod.com/live.php?id=MuslimTV
+NatGeo HD,https://live.catvod.com/live.php?id=Natgeo
+NatGeo Tamil,https://live.catvod.com/live.php?id=natgeotamil_raj
+Natgeo Wild Tamil,https://live.catvod.com/live.php?id=natgeowildtamil_raj
+natgeowild,https://live.catvod.com/live.php?id=Natgeowild
+Nation,https://live.catvod.com/live.php?id=nation_pat
+Nbt,https://live.catvod.com/live.php?id=nbt_pat
+Net TV,https://live.catvod.com/live.php?id=NetTV
+New,https://live.catvod.com/live.php?id=new_pat
+News 18 Tamil,https://live.catvod.com/live.php?id=news18tamil_raj
+NHK,https://live.catvod.com/live.php?id=NHK
+NHK World,https://live.catvod.com/live.php?id=nhkworld_japan
+Nickelodeon,https://live.catvod.com/live.php?id=Nickelodeon
+NICKJR,https://live.catvod.com/live.php?id=Nickjr
+NTV7,https://live.catvod.com/live.php?id=NTV7
+OASIS,https://live.catvod.com/live.php?id=Oasis
+ONE,https://live.catvod.com/live.php?id=One
+Paramount Network,https://live.catvod.com/live.php?id=Paramountnetwork
+Pick TV,https://live.catvod.com/live.php?id=picktv_antik
+Picture HD,https://live.catvod.com/live.php?id=Npicture
+PPTV Thailand1,https://live.catvod.com/live.php?id=pptv_pat
+PRIMA,https://live.catvod.com/live.php?id=AAprima#https://live.catvod.com/live.php?id=AAprima1#https://live.catvod.com/live.php?id=Prima
+RANIA,https://live.catvod.com/live.php?id=Rania
+RCTI,https://live.catvod.com/live.php?id=Rcti
+RIA,https://live.catvod.com/live.php?id=Ria#https://live.catvod.com/live.php?id=Ria_backup
+ROCK ENTERTAINMENT,https://live.catvod.com/live.php?id=Rockentertain
+ROCK ACTION,https://live.catvod.com/live.php?id=Rockaction
+RTM Asean,https://live.catvod.com/live.php?id=Rtmasean
+RTM Sports HD,https://live.catvod.com/live.php?id=Rtmsport
+RTV,https://live.catvod.com/live.php?id=Rtv
+SCM,https://live.catvod.com/live.php?id=Weishimovie
+SCTV,https://live.catvod.com/live.php?id=SCTV
+Sensasi,https://live.catvod.com/live.php?id=Sensasi
+SINARFM,https://live.catvod.com/live.php?id=Siar
+Skynews,https://live.catvod.com/live.php?id=skynews_twn
+Skysports Cricket,https://live.catvod.com/live.php?id=tiankongcricket
+Skysports EPL,https://live.catvod.com/live.php?id=tiankongepl
+Skysports F1,https://live.catvod.com/live.php?id=tiankongf1
+Skysports Main Event,https://live.catvod.com/live.php?id=tiankongmain
+Skysports News,https://live.catvod.com/live.php?id=tiankongnews
+SONY,https://live.catvod.com/live.php?id=SetOne
+Sony Yay Tamil,https://live.catvod.com/live.php?id=sonyyaytam_raj
+Star Movies HD,https://live.catvod.com/live.php?id=starmovies_raj
+Star Vijay,https://live.catvod.com/live.php?id=Starvijay
+Starmaa HD,https://live.catvod.com/live.php?id=starmaa_raj
+Starmaa Movies HD,https://live.catvod.com/live.php?id=starmaamovies_raj
+Starplus HD,https://live.catvod.com/live.php?id=Starplushd
+Sun Music,https://live.catvod.com/live.php?id=Sunmusic
+Sun TV HD,https://live.catvod.com/live.php?id=Suntv
+Sun TV India,https://live.catvod.com/live.php?id=suntv_raj
+SURIA,https://live.catvod.com/live.php?id=Suria
+Tawaf TV,https://live.catvod.com/live.php?id=TawafTV
+Thai Thai,https://live.catvod.com/live.php?id=thaithai_pat
+Thairath,https://live.catvod.com/live.php?id=thairath_pat
+Thrill,https://live.catvod.com/live.php?id=Thrill
+TLC,https://live.catvod.com/live.php?id=Tlc
+Tnn 24,https://live.catvod.com/live.php?id=tnn24_pat
+tpbs,https://live.catvod.com/live.php?id=tpbs_pat
+TPTV,https://live.catvod.com/live.php?id=tptv_pat
+Trans 7,https://live.catvod.com/live.php?id=Trans7_eko
+Transtv,https://live.catvod.com/live.php?id=Transtv
+TV1,https://live.catvod.com/live.php?id=TV1_backup#https://live.catvod.com/live.php?id=TV1
+TV2,https://live.catvod.com/live.php?id=TV2
+TV3,https://live.catvod.com/live.php?id=TV3#https://live.catvod.com/live.php?id=TV3_mega
+TV8,https://live.catvod.com/live.php?id=TV8
+TV9,https://live.catvod.com/live.php?id=TV9
+TVMU,https://live.catvod.com/live.php?id=TVMU_eko
+tvN,https://live.catvod.com/live.php?id=TVN
+TVN MOVIES,https://live.catvod.com/live.php?id=Tvnmovie
+Tvone,https://live.catvod.com/live.php?id=Tvone
+TVRI National,https://live.catvod.com/live.php?id=TVRI
+VASANTHAM,https://live.catvod.com/live.php?id=Vasantham
+Vellithirai,https://live.catvod.com/live.php?id=Vellithirai
+Vijay Super,https://live.catvod.com/live.php?id=vijaysuper_raj
+Vision Prime,https://live.catvod.com/live.php?id=VisionPrime
+Warner TV,https://live.catvod.com/live.php?id=WarnerTV
+WION,https://live.catvod.com/live.php?id=Wion
+Workpoint,https://live.catvod.com/live.php?id=workpoint_pat
+Zee Action,https://live.catvod.com/live.php?id=Zeeaction
+Zee Business,https://live.catvod.com/live.php?id=Zeebusiness
+Zee Cinema HD,https://live.catvod.com/live.php?id=Zeecinemahd
+Zee News,https://live.catvod.com/live.php?id=Zeenews
+Zee Tamil,https://live.catvod.com/live.php?id=Zeetamil
+Zee TV HD,https://live.catvod.com/live.php?id=Zeetvhd
 
 protv SPORTS+,#genre#
 HK| NOW HK NOW SPORTS 4K 616,http://protv.fun/4cafe94867/48a12d348c/1032489
