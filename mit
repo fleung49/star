@@ -2542,7 +2542,7 @@ KNBC,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&s
 KTLA,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=469336
 KTTV,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=549875
 ACCU WEATHER,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=469342
-ALJAZERA,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=281652
+ALJAZEERA,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=281652
 BBC WORLD NEWS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=551984
 CBS NEWS 24/7,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=551996
 CGTN,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=311633
@@ -2604,35 +2604,28 @@ TNT SPORTS 4,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81
 TNT SPORTS 5,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=577997
 
 LOS ANGELES,#genre# 
-CBS News Los Angeles,http://vocotv.pro:80/robins/robins/1051
 CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 CBSN,https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-KABC,http://vocotv.pro:80/robins/robins/1239
 KABC,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10733.ts
 KABC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/215925
 KABC,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76897.ts
 KABC,http://lunar.pm:8080/live/Mrdon/4782314540/64455.ts
 KABC 24X7,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-KCBS,http://vocotv.pro:80/robins/robins/1404
 KCBS,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10749.ts
 KCBS,http://lunar.pm:8080/live/Mrdon/4782314540/64580.ts
 KCBS,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76745.ts
-KCAL,http://vocotv.pro:80/robins/robins/1514
 KCAL,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/17981.ts
 KCAL,http://lunar.pm:8080/live/Mrdon/4782314540/64570.ts
 KCAL,http://front-main.eagle-4k.me/rmt8r91bac/tsleey7v5g/76860
 KCAL,http://line.smootvone.vip/play/live.php?extension=ts&mac=A0:BB:3E:00:03:3d&stream=986800
-KTLA,http://vocotv.pro:80/robins/robins/2031
 KTLA,http://lunar.pm:8080/live/Mrdon/4782314540/64699.ts
 KTLA,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/189579
 KTLA,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/189579
 KTLA,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/279327.ts
-KTTV,http://vocotv.pro:80/robins/robins/1682
 KTTV,http://lunar.pm:8080/live/Mrdon/4782314540/64677.ts
 KTTV,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/149584
 KTTV,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76434.ts
 FOX 11 LOS ANGELES, https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
-KNBC,http://vocotv.pro:80/robins/robins/1836
 KNBC,http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10792.ts
 KNBC,http://lunar.pm:8080/live/Mrdon/4782314540/64797.ts
 KNBC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/189595
@@ -2641,70 +2634,63 @@ KNBC,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76617.ts
 SPECTRUM NEWS 1 LOS ANGELES,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/306915.ts
 
 ##### LOS ANGELES CHANNELS #####,#genre#
-CBSN LOS ANGELES,https://restream-live.realiptv.to:443/33741215/82527298/112185
+CBSN LOS ANGELES,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70375
 CBSN LOS ANGELES,http://hdhd.tk/live/hendrix1/hendrix1/397935.ts
 CBSN LOS ANGELES,http://ky-tv.cc/live/brendan1/brendan1/399827.ts
-CBSN LOS ANGELES,http://atv-pro.net/live/XD932178178/56789876567/684941.ts
 CBSN LOS ANGELES,http://protv.fun/4cafe94867/48a12d348c/976293
 CBS NEWS 24/7,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/524.ts
 CBS NEWS 24/7,http://ky-tv.cc/live/brendan1/brendan1/517979.ts
 CBS NEWS 24/7,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=551996
-CBS NEWS 24/7,http://atv-pro.net/live/XD932178178/56789876567/684959.ts
+CBS NEWS 24/7,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179119
 KABC,http://xxip9.top:8080/live/5cY8Jd/933887/120857.ts
 KABC,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/131182.ts
 KABC,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/76897.ts
-KABC,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/140904.ts
-KABC,https://restream-live.realiptv.to:443/33741215/82527298/2684
+KABC,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/91183
 KABC,http://hdhd.tk/live/hendrix1/hendrix1/22009.ts
 KABC,http://sansatplus.net:88/live/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/665604.ts
 KABC,http://ky-tv.cc/live/brendan1/brendan1/517452.ts
 KABC,http://ky-tv.cc/live/brendan1/brendan1/648313.ts
 KABC,http://bgdc.live:25461/rodneyb5777/5777/215925
 KABC,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=548980
-KABC,http://atv-pro.net/live/XD932178178/56789876567/684999.ts
 KABC,http://protv.fun/4cafe94867/48a12d348c/172930
 KCAL,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/95348.ts
 KCAL,http://xxip9.top:8080/live/5cY8Jd/933887/120654.ts
 KCAL,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/131009.ts
 KCAL,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/76861.ts
 KCAL,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/76860.ts
-KCAL,https://restream-live.realiptv.to:443/33741215/82527298/87548
+KCAL,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/91186
 KCAL,http://hdhd.tk/live/hendrix1/hendrix1/29169.ts
 KCAL,http://sansatplus.net:88/live/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/665762.ts
 KCAL,http://ky-tv.cc/live/brendan1/brendan1/517581.ts
 KCAL,http://ky-tv.cc/live/brendan1/brendan1/648417.ts
 KCAL,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=760122
 KCAL,http://zerotwo.access.ly:2096/johnshandrick/5432169708/814636
-KCAL,http://atv-pro.net/live/XD932178178/56789876567/684979.ts
 KCAL,http://protv.fun/4cafe94867/48a12d348c/397115
 KCBS,http://xxip9.top:8080/live/5cY8Jd/933887/121234.ts
 KCBS,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/131010.ts
-KCBS,https://restream-live.realiptv.to:443/33741215/82527298/2637
-KCBS,https://restream-live.realiptv.to:443/33741215/82527298/2622
+KCBS,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/91173
 KCBS,http://hdhd.tk/live/hendrix1/hendrix1/21954.ts
 KCBS,http://sansatplus.net:88/live/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/665453.ts
 KCBS,http://ky-tv.cc/live/brendan1/brendan1/517519.ts
 KCBS,http://ky-tv.cc/live/brendan1/brendan1/648418.ts
 KCBS,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=549636
 KCBS,http://zerotwo.access.ly:2096/johnshandrick/5432169708/814637
-KCBS,http://atv-pro.net/live/XD932178178/56789876567/684982.ts
 KCBS,http://protv.fun/4cafe94867/48a12d348c/173138
 KTTV,http://xxip9.top:8080/live/5cY8Jd/933887/120655.ts
 KTTV,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/76434.ts
 KTTV,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/131078.ts
-KTTV,https://restream-live.realiptv.to:443/33741215/82527298/2550
+KTTV,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/91184
 KTTV,http://hdhd.tk/live/hendrix1/hendrix1/21885.ts
 KTTV,http://ky-tv.cc/live/brendan1/brendan1/517267.ts
 KTTV,http://ky-tv.cc/live/brendan1/brendan1/648521.ts
 KTTV,http://bgdc.live:25461/rodneyb5777/5777/215728
 KTTV,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=549875
 KTTV,http://zerotwo.access.ly:2096/johnshandrick/5432169708/814750
-KTTV,http://atv-pro.net/live/XD932178178/56789876567/684932.ts
 KTTV,http://protv.fun/4cafe94867/48a12d348c/173612
 KNBC,http://xxip9.top:8080/live/5cY8Jd/933887/120656.ts
 KNBC,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/76617.ts
 KNBC,http://2.magmas5.com:8000/live/Bronder67-test/ZAHW9SU1IC-test/131182.ts
-KNBC,https://restream-live.realiptv.to:443/33741215/82527298/2453
+KNBC,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/294995
 KNBC,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/79887.ts
 KNBC,http://hdhd.tk/live/hendrix1/hendrix1/21830.ts
 KNBC,http://sansatplus.net:88/live/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/665453.ts
@@ -2714,13 +2700,11 @@ KNBC,http://bgdc.live:25461/rodneyb5777/5777/189595
 KNBC,http://bgdc.live:25461/rodneyb5777/5777/215501
 KNBC,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=549875
 KNBC,http://zerotwo.access.ly:2096/johnshandrick/5432169708/759483
-KNBC,http://atv-pro.net/live/XD932178178/56789876567/684886.ts
 KNBC,http://protv.fun/4cafe94867/48a12d348c/45533
 KTLA,http://xxip9.top:8080/live/5cY8Jd/933887/120889.ts
 KTLA,http://1ere-serrvices.com/live/b7r6yqnunx/ac7lrzc1aq/279327.ts
 KTLA,http://fuegotv.site/live/ndsz4od7te/loik7sbi0q/279327.ts
-KTLA,https://restream-live.realiptv.to:443/33741215/82527298/87547
-KTLA,https://restream-live.realiptv.to:443/33741215/82527298/90546
+KTLA,http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/393211
 KTLA,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/95660.ts
 KTLA,http://hdhd.tk/live/hendrix1/hendrix1/29148.ts
 KTLA,http://sansatplus.net:88/live/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/158593.ts
@@ -2728,7 +2712,6 @@ KTLA,http://ky-tv.cc/live/brendan1/brendan1/517814.ts
 KTLA,http://bgdc.live:25461/rodneyb5777/5777/189579
 KTLA,http://185.243.7.105:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=469336
 KTLA,http://zerotwo.access.ly:2096/johnshandrick/5432169708/814877
-KTLA,http://atv-pro.net/live/XD932178178/56789876567/685081.ts
 KTLA,http://protv.fun/4cafe94867/48a12d348c/990397
 SPECTRUM NEWS SO CAL,http://hdhd.tk/live/hendrix1/hendrix1/339023.ts
 SPECTRUM NEWS SO CAL,http://ky-tv.cc/live/brendan1/brendan1/2882221.ts
@@ -2736,7 +2719,6 @@ SPECTRUM NEWS SO CAL,http://ky-tv.cc/live/brendan1/brendan1/2882221.ts
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,http://lunar.pm:8080/live/Mrdon/4782314540/21471.ts
 ABC NEWS LIVE,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/76910.ts
-ABC NEWS LIVE,http://lunar.pm:8080/Mrdon/4782314540/21471
 ABC NEWS LIVE,https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 ACCU WEATHER,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/30528
 AL JAZEERA ENG,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/187015
