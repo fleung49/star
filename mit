@@ -826,7 +826,7 @@ CGTN,http://121.37.185.74:18180/TV00000000000000000017@HHZT
 
 PULL FLV,#genre#
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻,http://23.237.228.134/jsy/b93fWkJJQwMAAg40810f26423b58a47e/hls.m3u8
+无线新闻,https://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
@@ -844,15 +844,15 @@ TVB 18,http://bxtv.3a.ink/api.php?id=18
 千禧经典台,http://hls-pull-wicketpw.speedws.com/live/dExItASxmgRV3yeH33cbhn443lvbm4nz1qEI9Rfs1Slf1STsjz.flv
 无线娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 无线娱乐新闻台,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvPrDAj0LemY.flv
-无线明剧,http://23.237.228.134/jsy/3ee5WkJJQwMAAAE0511170d1f3723097/hls.m3u8
+无线明剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHmzzz.flv
 无线华剧,http://23.237.228.134/jsy/8b9aWkJJQwMAAA80dc5516084c53f2f7/hls.m3u8
-无线生活,http://23.237.228.134/jsy/00dcWkJJQwMAAAY06f6bbc85ddf8fc0a/hls.m3u8
-无线奖门,http://23.237.228.134/jsy/22a1WkJJQwMAAwY01fb4b48ca52ed815/hls.m3u8 
-无线金曲,http://23.237.228.134/jsy/ac52WkJJQwMAAwM0a46f8d413e3eb093/hls.m3u8
-无线星河,http://23.237.228.134/jsy/12fbWkJJQwMAAAc02cd9114d312325d6/hls.m3u8
-无线功夫,http://23.237.228.134/jsy/2cccWkJJQwMABA80f1a2fb8087cc695b/hls.m3u8
-黄金华剧,http://23.237.228.134/jsy/daecWkJJQwMBAAM007ca1bcb3b47bcff/hls.m3u8
-TVB DRAMA,http://hls-pull-wicketpw.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnPrDAjTnY2MtgFyn0ArB7z.flv
+无线生活,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbzy.flv
+无线奖门,http://23.237.228.134/jsyok/4116AAkACQgGUgc0629f6c44700316f3/hls.m3u8
+无线金曲,http://23.237.228.134/jsyok/c5b4AAkACQgGUgI0d69177af12591e20/hls.m3u8
+无线星河,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbxy.flv
+无线功夫,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbgf.flv
+黄金华剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbhj.flv
+TVB DRAMA,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHcfzz.flv
 TVB1,http://hls-pull-wicketpw.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBPrDAjePqp.flv
 TVBJ1,http://hls-pull-wicketpw.speedws.com/live/xU3SHbh8PrDAjCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
 MYTV SUPER 1,http://23.237.228.134/jsy/518cWkJJQwMBAwA0ed8c2b76f5f9bf5a/hls.m3u8
@@ -863,18 +863,20 @@ MYTV SUPER 3,http://bxtv.3a.ink/api.php?id=qxjd
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 Now新闻,http://cdn.163189.xyz/163189/now
-Now星影,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdRUHNEdsH4098.flv
-Now华剧,http://23.237.228.134/jsy/d796WkJJQwMAAQA071e24e1f5eaa9073/hls.m3u8
-Now剧集viu,http://23.237.228.134/jsy/03a7WkJJQwMAAQE0516b0641953495e8/hls.m3u8
-Now紫金,http://23.237.228.134/jsy/53d0WkJJQwMABgc075f813c1f420ddbb/hls.m3u8
-NOW爆谷,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdRUHNEdsH4099.flv
+Now财经,http://hls.168.us.kg/u/333/master.m3u8
+Now直播,http://hls.168.us.kg/u/331/master.m3u8
+Now星影,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowxy.flv
+Now华剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowhj.flv
+Now剧集viu,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowjj.flv
+Now紫金,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowgj.flv
+NOW爆谷,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowxy.flv
 Now英超,http://23.237.228.134/jsy/1056WkJJQwMABwQ0389bbc7758d6738f/hls.m3u8
+Now体育Prime 630,https://hls.168.us.kg/u/630/master.m3u8
 Now Sports 1,http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-HOY 76,http://hls-pull-wicketpw.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvls4gD0LemY.flv
-HOY 77,http://hls-pull-wicketpw.speedws.com/live/OCitoW8kzeqjIz3PrDAjfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
+HOY 76,https://hls.168.us.kg/u/76/master.m3u8
+HOY 77,https://hls.168.us.kg/u/77/master.m3u8
 HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 78,http://23.237.228.134/jsy/2a36WkJJQwMACgc0eb1e635bfc1fdf65/hls.m3u8
-HOY 78,http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzGc1u905KeGhG.flv
+HOY 78,https://hls.168.us.kg/u/78/master.m3u8
 VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 VIUTV,http://cdn.163189.xyz/163189/viu
 ViuTv6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
@@ -884,16 +886,16 @@ RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 极限电影台,http://hls-pull-wicketpw.speedws.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfols4gDgNC19xXfFvAn4GP.flv
-美亚电影台,http://hls-pull-wicketpw.speedws.com/live/IcmEedVfQlHHUXtdsqvDLaKLpE639j7xCDHMM7ls4kPNDJ9OQm.flv
+美亚电影台,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHhkmy.flv
 美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
-pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv  
+pₒₚc电影,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHPopC.flv 
 澳视澳门,http://hls-pull-wicketpw.speedws.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQls4gDtD8Z686YrsM.flv
 爱奇艺,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0C4kPNDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
 八度空间,http://hls-pull-wicketpw.speedws.com/live/SEVQ0bRXMnAMbTbILeAhqwtJcTupwd0zWAf8afKXj0F625wjNc.flv
 八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-HUB娱家,http://23.237.228.134/jsy/c30fWkJJQwMFAwU001a879deae4bbba8/hls.m3u8
-HUB都会,http://23.237.228.134/jsy/6b59WkJJQwMFAwI08e1e1797f2fda5a0/hls.m3u8
+HUB娱家,http://23.237.228.134/jsyok/adf0CVFVCQkCAFI02a7f7b4e9219a66f/hls.m3u8
+HUB都会,http://23.237.228.134/jsyok/d4edCVFVCQkCAFU09e7f7a529f1f8025/hls.m3u8
 广东体育,https://cdn.163189.xyz/163189/gdty
 广东体育,http://119.123.79.39:8086/hls/42/index.m3u8
 广东湾区,http://119.123.79.39:8086/hls/29/index.m3u8
@@ -924,15 +926,16 @@ CCTV-16,http://hls-pull-wicketpw.speedws.com/live/F7VgQ37BtpBlwlovihJGN2fIB6PujH
 寰宇新闻,http://23.237.228.134/jsy/f582WkJJQwMCBgI0f5150e6d96e90c8a/hls.m3u8
 壹新闻,http://23.237.228.134/jsy/a293WkJJQwMCAQI0826bbf8e4e9bd5c3/hls.m3u8
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHztxw.flv
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻2,http://23.237.228.134/jsy/a095WkJJQwMDAgY088876d99db6db43b/hls.m3u8
 中视新闻,http://23.237.228.134/jsy/0343WkJJQwMCAgU0579b029bfd048970/hls.m3u8
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
-TVBS,http://23.237.228.134/jsy/c2e9WkJJQwMDAAU059edda6cfc23abab/hls.m3u8
+TVBS,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbs.flv
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS精采台,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
 东森新闻,http://23.237.228.134/jsy/6711WkJJQwMCBw4041ffa21a5e899f77/hls.m3u8
