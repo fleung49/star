@@ -228,6 +228,8 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
+CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
+CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
@@ -2168,6 +2170,8 @@ CCTV13抖播,video://https://live.douyin.com/55740058708
 CCTV13央视频抖直播,video://https://live.douyin.com/50828500437
 CCTV13小央视频直播,video://https://live.douyin.com/547977714661
 CCTV13央视网抖直播,video://https://live.douyin.com/870887192950
+CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
+CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 CCTV13,video://https://tv.cctv.com/live/cctv13/index.shtml
 CCTV14,video://https://tv.cctv.com/live/cctv14/index.shtml
 CCTV15,video://https://tv.cctv.com/live/cctv15/index.shtml
