@@ -2871,6 +2871,8 @@ CBSN lax,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m
 CBSN lax,https://stream1.freetv.fun/a87bf43af0ea400cd00c2a8a73733f16f1486bc9da85086806b7e323a1096cb5.m3u8
 KABC,http://104.238.205.28:9090/279622_.m3u8
 KABC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279622.m3u8
+KCAL,http://104.238.222.251:9090/165268_.m3u8
+KCAL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/165268.m3u8
 KCAL,http://dragon1977.com:80/047306b75f/b5a06cc482d6/760122
 KCAL,http://bstv.online:8080/adolfo/adolfo/1151756
 KCBS,http://104.194.8.54:9090/279593_.m3u8
@@ -2891,6 +2893,7 @@ SPECTRUM NEWS SO CAL,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/30
 ABC NES LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC NES LIVE,https://livetv-fa.tubi.video/abc-news/index.m3u8
 ALJAZEERA,http://46.105.71.222:8080/aljazeera/index.m3u8
+BBC WORLD NEWS,http://104.194.8.54:9090/279641_.m3u8
 BBC WORLD NEWS,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 BBC WORLD NEWS,http://46.105.71.222:8080/bbcnews/index.m3u8
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -2923,7 +2926,9 @@ ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 ESPN 2,https://fl1.moveonjoy.com/ESPN_2/index.m3u8
 ESPN U,https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 EURONEWS,http://46.105.71.222:8080/euronews/index.m3u8
+FOX BUSINESS,http://45.90.106.85:9090/165298_.m3u8
 FOX BUSINESS,https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+FOX NEWS,http://104.194.8.54:9090/279721_.m3u8
 FOX NEWS,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 FOX NEWS,http://46.105.71.222:8080/foxnews/index.m3u8
 FOX NEWS,http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
