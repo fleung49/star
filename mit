@@ -126,6 +126,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 翡翠台,http://14.21.90.68:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153398
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
@@ -134,6 +135,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 明珠台,http://hls-pull-tvpublica.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PJcRgrH9BhEE7d6usSBcnv4Ar.flv
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
@@ -168,6 +170,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
+HOY剧集台,https://cdn.163189.xyz/163189/hoyjj
 RTHK-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK-31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
@@ -1169,38 +1172,138 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 
-bxtv,#genre#
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻2,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-PopC,http://bxtv.3a.ink/api.php?id=popc
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-中天新聞,http://bxtv.3a.ink/api.php?id=ztxw
-cctv1,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv1
-cctv2,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv2
-cctv3,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv3
-cctv4,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv4
-cctv5,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv5
-cctv5+,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv5p
-cctv6,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv6
-cctv7,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv7
-cctv8,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv8
-cctv9,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv9
-cctv10,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv10
-cctv11,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv11
-cctv12,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv12
-cctv13,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv13
-cctv14,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv14
-cctv15,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv15
-cctv17,http://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv17
+咪咕央视43,#genre#
+CCTV-1,http://43.251.226.89:8080/play/1.m3u8
+CCTV-2,http://43.251.226.89:8080/play/2.m3u8
+CCTV-3,http://43.251.226.89:8080/play/3.m3u8
+CCTV-4,http://43.251.226.89:8080/play/4.m3u8
+CCTV-4欧洲,http://43.251.226.89:8080/play/18.m3u8
+CCTV-4美洲,http://43.251.226.89:8080/play/19.m3u8
+CCTV-5,http://43.251.226.89:8080/play/5.m3u8
+CCTV-5＋,http://43.251.226.89:8080/play/6.m3u8
+CCTV-6,http://43.251.226.89:8080/play/7.m3u8
+CCTV-7,http://43.251.226.89:8080/play/8.m3u8
+CCTV-8,http://43.251.226.89:8080/play/9.m3u8
+CCTV-9,http://43.251.226.89:8080/play/10.m3u8
+CCTV-10,http://43.251.226.89:8080/play/11.m3u8
+CCTV-11,http://43.251.226.89:8080/play/12.m3u8
+CCTV-12,http://43.251.226.89:8080/play/13.m3u8
+CCTV-13,http://43.251.226.89:8080/play/14.m3u8
+CCTV-14,http://43.251.226.89:8080/play/15.m3u8
+CCTV-15,http://43.251.226.89:8080/play/16.m3u8
+CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-17,http://43.251.226.89:8080/play/17.m3u8
+CGTN,http://43.251.226.89:8080/play/25.m3u8
+CGTN DOCUMENTARY,http://43.251.226.89:8080/play/20.m3u8
+
+央视高清gslb,#genre#
+CCTV 1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV 2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV 3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV 4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV 5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV 5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV 6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV 7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV 8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV 9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV 10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+CCTV 11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+CCTV 12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV 13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+CCTV 14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+CCTV 15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV 16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV 17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CGTN,http://23.237.228.134/live3/CGTN.m3u8
+CGTN DOCUMENTARY,http://z.b.bkpcp.top/m.php?id=cgtnjl
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
+CCTB高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+大湾区卫视,http://43.251.226.89:8080/play/42.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+北京卫视,http://43.251.226.89:8080/play/36.m3u8
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://43.251.226.89:8080/play/35.m3u8
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+东南卫视,http://43.251.226.89:8080/play/46.m3u8
+东方卫视,http://43.251.226.89:8080/play/33.m3u8
+浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+江苏卫视,http://43.251.226.89:8080/play/34.m3u8
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://43.251.226.89:8080/play/43.m3u8
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+江西卫视,http://43.251.226.89:8080/play/39.m3u8
+江西卫视,http://43.251.226.89:8080/play/44.m3u8
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+河南卫视,http://43.251.226.89:8080/play/40.m3u8
+河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+河北卫视,http://43.251.226.89:8080/play/38.m3u8
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+辽宁卫视,http://43.251.226.89:8080/play/37.m3u8
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://43.251.226.89:8080/play/52.m3u8
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+吉林卫视,http://43.251.226.89:8080/play/44.m3u8
+西藏卫视,http://38.75.136.137:98/gslb/dsdqpub/xzwshd.m3u8?auth=testpub
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
+海南卫视,http://43.251.226.89:8080/play/47.m3u8
+宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+宁夏卫视,http://43.251.226.89:8080/play/51.m3u8
+内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+陕西卫视,http://43.251.226.89:8080/play/41.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+海峡卫视,http://43.251.226.89:8080/play/48.m3u8
+青海卫视,http://43.251.226.89:8080/play/45.m3u8
+三沙卫视,http://43.251.226.89:8080/play/53.m3u8
+兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+兵团卫视,http://43.251.226.89:8080/play/50.m3u8
+农林卫视,http://43.251.226.89:8080/play/49.m3u8
+上海新闻综合,http://43.251.226.89:8080/play/54.m3u8
+江苏体育休闲,http://43.251.226.89:8080/play/60.m3u8
+江苏城市,http://43.251.226.89:8080/play/61.m3u8
+江苏国际,http://43.251.226.89:8080/play/62.m3u8
+江苏影视,http://43.251.226.89:8080/play/64.m3u8
+江苏综艺,http://43.251.226.89:8080/play/65.m3u8
+江苏新闻,http://43.251.226.89:8080/play/66.m3u8
+盐城新闻综合,http://43.251.226.89:8080/play/67.m3u8
+淮安新闻综合,http://43.251.226.89:8080/play/68.m3u8
+泰州新闻综合,http://43.251.226.89:8080/play/69.m3u8
+连云港新闻综合,http://43.251.226.89:8080/play/70.m3u8
+宿迁新闻综合,http://43.251.226.89:8080/play/71.m3u8
+徐州新闻综合,http://43.251.226.89:8080/play/72.m3u8
+优漫卡通频道,http://43.251.226.89:8080/play/73.m3u8
+江阴新闻综合,http://43.251.226.89:8080/play/74.m3u8
+南通新闻综合,http://43.251.226.89:8080/play/75.m3u8
+宜兴新闻综合,http://43.251.226.89:8080/play/76.m3u8
+溧水新闻综合,http://43.251.226.89:8080/play/77.m3u8
+陕西银龄频道,http://43.251.226.89:8080/play/78.m3u8
+陕西秦腔频道,http://43.251.226.89:8080/play/80.m3u8
+陕西新闻资讯频道,http://43.251.226.89:8080/play/81.m3u8
+财富天下,http://43.251.226.89:8080/play/82.m3u8
 
 闽南4Gtv-118,#genre#
 寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true#http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true#http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
