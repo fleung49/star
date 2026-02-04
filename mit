@@ -239,6 +239,7 @@ C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12
 SKYLINK TV 1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156399
 SKYLINK TV 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156400
 ICITI,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156401
+Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
@@ -246,6 +247,12 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
+HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
+HUB娱家,http://194.147.100.173:80/jsy/p.php/?id=mHvjHJqyJvCrBHOnSNAAVg
+HUB娱家,http://live-broadcast-sh-service.vcinema.cn:80/live/2922a3590bf5d43a558bef5ddb7c48f7.flv
+HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
+HUB都会,http://194.147.100.173:80/jsy/p.php/?id=j1xnlisO7oCV7fpVLhh2nA
+HUB都会,http://live-broadcast-sh-service.vcinema.cn:80/live/a876d36f1374f375df6e9f15c4a679c5.flv
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
@@ -982,7 +989,7 @@ PULL FLV,#genre#
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://hls-pull-tvpublica.speedws.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJJcRgrp12oP6KkG1PhQWJK.flv
 无线华丽翡翠,http://hls-pull-tvpublica.speedws.com/live/QbsxHsZLNj2ktYJcRgrZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
-https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 明珠台,http://hls-pull-tvpublica.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PJcRgrH9BhEE7d6usSBcnv4Ar.flv
 TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
@@ -996,8 +1003,10 @@ TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
 无线明剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHmzzz.flv
 无线华剧,http://23.237.228.134/jsy/8b9aWkJJQwMAAA80dc5516084c53f2f7/hls.m3u8
 无线生活,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbzy.flv
-无线奖门,http://23.237.228.134/jsyok/4116AAkACQgGUgc0629f6c44700316f3/hls.m3u8
-无线金曲,http://23.237.228.134/jsyok/c5b4AAkACQgGUgI0d69177af12591e20/hls.m3u8
+无线奖门,http://194.147.100.173:80/jsy/p.php/?id=mXWJm1j3jMKkpPh0qGhpfg
+无线奖门,http://pull-vivek.speedws.com:80/live/e4ebfa254f3858665fd57b86e8404993.flv
+无线金曲,http://194.147.100.173:80/jsy/p.php/?id=xkRjHIooECdnKh50AMomHg
+无线金曲,http://pull-vivek.speedws.com:80/live/ce50fe18981a11beba2f15bcb7492841.flv
 无线星河,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbxy.flv
 无线功夫,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbgf.flv
 黄金华剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbhj.flv
@@ -1020,9 +1029,9 @@ Now紫金,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowgj.flv
 Now体育Prime 630,https://hls.168.us.kg/u/630/master.m3u8
 Now Sports 1,http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 HOY 76,https://hls.168.us.kg/u/76/master.m3u8
-HOY 77,http://hls-pull-tvpublica.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzJcRgr05KeGhG.flv
+HOY 77,http://hls-pull-tvpublica.speedws.com/live/OCitoW8kzeqjIz3JcRgrfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
 HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 78,http://hls-pull-tvpublica.speedws.com/live/OCitoW8kzeqjIz3JcRgrfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
+HOY 78,http://hls-pull-tvpublica.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzJcRgr05KeGhG.flv
 VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 VIUTV,http://cdn.163189.xyz/163189/viu
 ViuTv6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
@@ -1073,11 +1082,11 @@ CCTV-16,http://hls-pull-tvpublica.speedws.com/live/R6JcRgrqenSOIcWLKrw7tdTr6YAlU
 青海卫视,http://hls-pull-tvpublica.speedws.com/live/Vl8mV4zn76zfaFsoLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
 星空卫视,http://pull-skycorp.speedws.com/live/O6bfbXwHUf2RvwuzXM1D4wI4h1r2TYzMljRckRMJ0nU5YV9170.flv
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-中天新聞,http://hls-pull-tvpublica.speedws.com/live/nZWx3bceUJ5IXsQsBQhC5PBnH2vyDoW8dpFHbI5j1w0Az7shIA.flv
-中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
+中天新闻,http://67.220.67.246:2347/livehttpplay?channel_id=20163
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
+中天新闻,http://hls-pull-tvpublica.speedws.com/live/nZWx3bceUJ5IXsQsBQhC5PBnH2vyDoW8dpFHbI5j1w0Az7shIA.flv
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
@@ -3679,8 +3688,15 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 邓紫棋香港站,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec2801037001992eb2cbfb_258.mp4
 我的好兄弟,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c171e907fbe0010370019933a69c19_258.mp4
 
-音乐抖播,#genre#
+抖播,#genre#
 怀旧粤语（全粤合集）,http://dxa.yiandrive.com:39319/douyin/672645600110
 翠翡车载U盘,http://dxa.yiandrive.com:39319/douyin/17383892316
 粤语经典,http://dxa.yiandrive.com:39319/douyin/766255078143
 BEYOND音乐电台,http://dxa.yiandrive.com:39319/douyin/889699212954
+深圳新闻网播,http://dxa.yiandrive.com:39319/douyin/983530344911
+CCTV13央视直播,http://dxa.yiandrive.com:39319/douyin/870887192950
+CCTV13央视网快看直播,http://dxa.yiandrive.com:39319/douyin/127453393722
+CCTV13小央视频直播,http://dxa.yiandrive.com:39319/douyin/547977714661
+CCTV13央视频抖直播,http://dxa.yiandrive.com:39319/douyin/50828500437
+新华社快看播,http://dxa.yiandrive.com:39319/douyin/832345075447
+央影网抖直播,http://dxa.yiandrive.com:39319/douyin/208823316033
