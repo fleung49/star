@@ -106,50 +106,37 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港澳台|备①,#genre#
-无线新闻,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-无线新闻,http://php.jdshipin.com:80/PLTV/iptv.php?id=wxxw
-无线新闻,http://74.91.26.218:82/live/inews.m3u8
-无线新闻,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
-无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
-无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
-无线新闻,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
-无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线新闻,http://hdhd.tk/hendrix1/hendrix1/28236
+无线新闻,http://67.220.67.246:2347/livehttpplay?channel_id=3002
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线新闻,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=153399
-无线新闻,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153399
+无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+翡翠台,http://67.220.67.246:2347/livehttpplay?channel_id=20127
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
-翡翠台,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
-翡翠台,http://php.jdshipin.com:80/PLTV/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 翡翠台,http://14.21.90.68:9901/tsfile/live/1007_1.m3u8?key=txiptv
-翡翠台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153398
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://free.cnlive.club/channel/n7549189d.m3u8
+翡翠台4K(多音轨字幕),http://o11.163189.xyz/stream/tvb/fct4k/
+华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:80/PLTV/iptv.php?id=huali
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
-明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://php.jdshipin.com:80/PLTV/iptv.php?id=mzt2
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-明珠台,http://hls-pull-tvpublica.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PJcRgrH9BhEE7d6usSBcnv4Ar.flv
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://free.cnlive.club/channel/n75ab7db0.m3u8
+TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
-TVB Plus,http://free.cnlive.club/channel/6429ae4c.m3u8
-TVB娱乐新闻台,http://php.jdshipin.com:80/PLTV/iptv.php?id=tvbylxw
-TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
+TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
 TVB1,http://hls-pull-tvpublica.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBJcRgrePqp.flv
 TVB1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153396
@@ -157,26 +144,29 @@ TVBJ1,http://hls-pull-tvpublica.speedws.com/live/xU3SHbh8JcRgrCEoP4aRvogZf7Onz4V
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-TVB星河,http://php.jdshipin.com:80/PLTV/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:80/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 千禧经典台,http://php.jdshipin.com:80/PLTV/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+凤凰中文,http://o11.163189.xyz/stream/live/fhzw/
 凤凰中文,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
+凤凰中文,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixtv_hd
+凤凰资讯,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
+凤凰资讯,http://o11.163189.xyz/stream/live/fhzx/
 凤凰资讯,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,https://smt.1678520.xyz/smt3.2.3.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
@@ -187,19 +177,15 @@ HOY78,http://bziyunshao.synology.me:8891/bysid/78
 HOY剧集台,https://cdn.163189.xyz/163189/hoyjj
 RTHK-31,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk31
 RTHK-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK-31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
 RTHK-32,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk32
 RTHK-32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK-32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk33
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
-NOW新闻台,https://yang-1989.eu.org/live/now-332
-NOW财经台,https://yang-1989.eu.org/live/now-333
+NOW财经台,http://208.87.242.79/livehttpplay?channel_id=13000
 Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 Now Sports,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 Now Sports Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
@@ -210,7 +196,6 @@ NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 PopC电影,http://hls-pull-tvpublica.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,http://php.jdshipin.com:80/PLTV/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -242,17 +227,24 @@ C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8
 重温经典,http://php.jdshipin.com:80/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+天映频道,http://o11.163189.xyz/stream/live/typd/
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 SKYLINK TV 1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156399
 SKYLINK TV 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156400
 ICITI,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156401
+Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://o11.163189.xyz/stream/live/aec/
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://o11.163189.xyz/stream/live/qj/
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://o11.163189.xyz/stream/live/hxt/
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
@@ -264,30 +256,30 @@ HUB都会,http://live-broadcast-sh-service.vcinema.cn:80/live/a876d36f1374f375df
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新聞,http://hls-pull-tvpublica.speedws.com/live/nZWx3bceUJ5IXsQsBQhC5PBnH2vyDoW8dpFHbI5j1w0Az7shIA.flv
 中天新聞,http://rihou.cc:555/tv/[Uk]中天新聞
 中天新聞,http://67.220.67.246:2347/livehttpplay?channel_id=20163
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
 中天新闻,http://118.233.28.52:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天新闻台,http://free.cnlive.club/channel/n3ee59a96.m3u8
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-TVBS,http://free.cnlive.club/channel/154f9d73.m3u8
-TVBS新闻,http://hls-pull-tvpublica.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lpr38ITf0CHqgjYOaOYV5JSmoP2.flv
-TVBS精彩台,http://hls-pull-tvpublica.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
-东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
+TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
+TVBS新闻台,http://208.87.242.79/livehttpplay?channel_id=20165
+东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
+东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-广东珠江,http://free.cnlive.club/channel/n6e47401d.m3u8
-广东体育,http://free.cnlive.club/channel/n2afd3461.m3u8
-广东影视,http://free.cnlive.club/channel/n2afb37ab.m3u8
+大湾区卫视,http://208.87.242.79/livehttpplay?channel_id=20083
+广东卫视,http://67.220.67.246:2347/livehttpplay?channel_id=20024
+广东珠江,http://67.220.67.246:2347/livehttpplay?channel_id=20144
+广东体育,http://67.220.67.246:2347/livehttpplay?channel_id=20130
+广东影视,http://67.220.67.246:2347/livehttpplay?channel_id=20145
+深圳卫视,http://67.220.67.246:2347/livehttpplay?channel_id=20025
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
@@ -1800,43 +1792,28 @@ TRACE SPORT STARS,http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8?proxy=tr
 TV5monde,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
 DBSX,#genre#
-无线新闻,http://119.237.111.230:2095/stream/channelid/1828814827?ticket=0dafc7000909c53b8513e03549ac79cab7dac54b
 无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-翡翠台,http://119.237.111.230:2095/stream/channelid/566288828?ticket=ae56d436b6751629a2ec777df1779a5b6b3d230c
 翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=Jade_xue
 华丽翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=Wlt
-华丽翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade
-明珠台,http://119.237.111.230:2095/stream/channelid/1213894766?ticket=03cd2b83b75f2b781c8806ca75606e516e56383a
 明珠台,https://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
-TVB Plus,http://119.237.111.230:2095/stream/channelid/840351826?ticket=ab0a02e056d08cf972326b6f249f3ff9976dcd93
 TVB PLUS,https://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
 TVB星河,https://smt.1678520.xyz/smt3.2.3.php?id=Xinhe
 无线娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 无线千禧经典台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-VIUTV,http://119.237.111.230:2095/stream/channelid/423210254?ticket=0ab04ca27b6abef2f74a3b95211bbf1204d8afc7
 ViuTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 VIUTV,http://cdn.163189.xyz/163189/viu
 VIUTV,https://yang-1989.eu.org/live/ViuTV
-VIUTV6,http://119.237.111.230:2095/stream/channelid/313510044?ticket=1a1be7989a5a05591a4dc7b3f4913f876f329bd1
 VIUTV6,https://smt.1678520.xyz/smt3.2.3.php?id=viusix_twn
 VIUTV6,https://yang-1989.eu.org/live/ViuTVsix
-HOY 76,http://119.237.111.230:2095/stream/channelid/1434742824?ticket=e4dfeeb69e9e39478eada611029404b6d7659763
 HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 77,http://119.237.111.230:2095/stream/channelid/1307960423?ticket=c0334ac6d0ce042f72fd0a3bd757aa6050204587
-HOY 78,http://119.237.111.230:2095/stream/channelid/350823040?ticket=9b3773210d9e01ca728b6cd86dd9d27169e6ac02
 HOY 78,https://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
-RTHK-31,http://119.237.111.230:2095/stream/channelid/1602635863?ticket=fa027550d413801aca85f9a39111abc4b4fe99ea
 RTHK 31,https://smt.1678520.xyz/smt3.2.3.php?id=rhk31_twn
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
-RTHK-32,http://119.237.111.230:2095/stream/channelid/1554897652?ticket=27114b77ef3844fae697bf3c5e587425eb86fc17
 RTHK 32,https://smt.1678520.xyz/smt3.2.3.php?id=rhk32_twn
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
-RTHK-33 (CCTV1),http://119.237.111.230:2095/stream/channelid/1154412102?ticket=3a0fa31056440bc87a2f63a034b263e78b543026
-RTHK-34,http://119.237.111.230:2095/stream/channelid/92030211?ticket=5b08c9fb62b9ac3b16bce69090333c715448b568
 凤凰中文,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
-凤凰香港,http://119.237.111.230:2095/stream/channelid/1218293550?ticket=9a84d6d8a2529f6519c465c4837d8ee94fb82de6
 凤凰香港,https://smt.1678520.xyz/smt3.2.3.php?id=hkphoenix_twn
 美亚电影台,https://smt.1678520.xyz/smt3.2.3.php?id=meiyamovie_twn
 天映频道,https://smt.1678520.xyz/smt3.2.3.php?id=Celestial
@@ -1847,558 +1824,6 @@ Astro AOD,https://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
 Astro iQiyi,https://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
 Astro QJ国,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 Astro欢喜,https://smt.1678520.xyz/smt3.2.3.php?id==Huahee
-
-GPT-香港,#genre#
-无线新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=inews_twn
-翡翠台,http://ma-yi.k.vu/mayi/697456c165396.php?id=jade_twn
-翡翠台,http://ma-yi.k.vu/mayi/697456c165396.php?id=Jade_xue
-华丽翡翠台,http://ma-yi.k.vu/mayi/697456c165396.php?id=Wlt
-华丽翡翠台,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbjade
-明珠台,http://ma-yi.k.vu/mayi/697456c165396.php?id=pearl_twn
-TVB PLUS,http://ma-yi.k.vu/mayi/697456c165396.php?id=j2_twn
-TVB星河,http://ma-yi.k.vu/mayi/697456c165396.php?id=Xinhe
-无线娱乐新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbentertainment
-无线千禧经典台,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbclassic
-ViuTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=viu1_twn
-ViuTV 6,http://ma-yi.k.vu/mayi/697456c165396.php?id=viusix_twn
-RTHK 31,http://ma-yi.k.vu/mayi/697456c165396.php?id=rhk31_twn
-RTHK 32,http://ma-yi.k.vu/mayi/697456c165396.php?id=rhk32_twn
-HOY TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=hoycaijing_twn
-凤凰中文,http://ma-yi.k.vu/mayi/697456c165396.php?id=phoenixtv_hd
-凤凰资讯,http://ma-yi.k.vu/mayi/697456c165396.php?id=phoenixinfo_hd
-凤凰香港,http://ma-yi.k.vu/mayi/697456c165396.php?id=hkphoenix_twn
-美亚电影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=meiyamovie_twn
-天映频道,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial
-天映频道,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctv18_twn
-八度空间,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV8
-Astro AEC,http://ma-yi.k.vu/mayi/697456c165396.php?id=AEC
-Astro AOD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Aodhd
-Astro iQiyi,http://ma-yi.k.vu/mayi/697456c165396.php?id=Qiyi
-Astro QJ国,http://ma-yi.k.vu/mayi/697456c165396.php?id=Quanjia
-Astro欢喜,http://ma-yi.k.vu/mayi/697456c165396.php?id==Huahee
-
-GPT-台湾,#genre#
-寰宇新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=huanyuxinwen_twn
-寰宇财经台,http://ma-yi.k.vu/mayi/697456c165396.php?id=huanyutaiwan_twn
-中天新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctinews
-中天亚洲,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctiasia_twn
-中天综合,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctizhonghe
-中天娱乐,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctient
-TVBS,http://ma-yi.k.vu/mayi/697456c165396.php?id=tvbs
-TVBS 新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=tvbs_n
-TVBS 欢乐台,http://ma-yi.k.vu/mayi/697456c165396.php?id=tvbshuanle_twn
-TVBS Asia,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbasia
-中视,http://ma-yi.k.vu/mayi/697456c165396.php?id=zhongshihd_twn
-中视新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=zhongshinews_twn
-中视经典,http://ma-yi.k.vu/mayi/697456c165396.php?id=zhongshi_twn
-东森新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvnews
-东森财经新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvcaijing_twn
-东森综合台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvzhonghe
-东森戏剧台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvdrama
-东森电影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvmovie
-东森洋片台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvwestern
-东森幼幼台,http://ma-yi.k.vu/mayi/697456c165396.php?id=yoyo_twn
-东森超视,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvsuper
-三立台湾台,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlitaiwan
-三立都会台,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlidouhui
-三立综合台,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlizhonghe
-三立戏剧台,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlixiju_twn
-台视,http://ma-yi.k.vu/mayi/697456c165396.php?id=ttv_taiwan
-台视新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=ttvnews_twn
-台视综合,http://ma-yi.k.vu/mayi/697456c165396.php?id=ttvzhonghe
-华视,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctshd_twn
-公视,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctv_taiwan
-公视台语台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctv2_twn
-小公视,http://ma-yi.k.vu/mayi/697456c165396.php?id=pts3_twn
-民视,http://ma-yi.k.vu/mayi/697456c165396.php?id=ftvhd_taiwan
-民视新闻台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ftvnew_taiwan
-民视台湾台,http://ma-yi.k.vu/mayi/697456c165396.php?id=ftvtaiwan_twn
-非凡新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=feifannews_twn
-年代新闻,http://ma-yi.k.vu/mayi/697456c165396.php?id=niandainews_twn
-大愛電視,http://ma-yi.k.vu/mayi/697456c165396.php?id=daai_twn
-大愛二台,http://ma-yi.k.vu/mayi/697456c165396.php?id=daai2_twn
-好消息 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=good2_twn
-華藝綜合,http://ma-yi.k.vu/mayi/697456c165396.php?id=weishichinese_twn
-八大第一台,http://ma-yi.k.vu/mayi/697456c165396.php?id=badafirst
-八大综合台,http://ma-yi.k.vu/mayi/697456c165396.php?id=badazhonghe
-八大戏剧台,http://ma-yi.k.vu/mayi/697456c165396.php?id=badadrama
-八大娱乐台,http://ma-yi.k.vu/mayi/697456c165396.php?id=badaentertain
-龙华戏剧,http://ma-yi.k.vu/mayi/697456c165396.php?id=lunghuaxiju_twn
-龙华偶像,http://ma-yi.k.vu/mayi/697456c165396.php?id=lunghuaidol_twn
-龙华电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=xingwei_movie
-龙华洋片,http://ma-yi.k.vu/mayi/697456c165396.php?id=lunghuawestern_twn
-龙华经典,http://ma-yi.k.vu/mayi/697456c165396.php?id=lunghuajingdian_twn
-靖天国际,http://ma-yi.k.vu/mayi/697456c165396.php?id=jingtianintl_twn
-靖天卡通,http://ma-yi.k.vu/mayi/697456c165396.php?id=jingtiancartoon_twn
-好萊塢電影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=hollywoodmovies_twn
-卫视电影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=weishimovie_twn
-龙祥时代,http://ma-yi.k.vu/mayi/697456c165396.php?id=lungxiangtime_twn
-美亚电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=meiyamovie_twn
-博斯运动一台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport1_twn
-博斯运动二台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport2_twn
-博斯高球一台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf1_twn
-博斯高球二台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf2_twn
-博斯网球台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bositennis_twn
-博斯无限台,http://ma-yi.k.vu/mayi/697456c165396.php?id=bosiunlimited_twn
-纬来体育,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandsport
-纬来精彩,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandspecial_twn
-纬来日本,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandjapan
-纬来电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandmovie
-纬来综合,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandzonghe
-纬来育乐,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandyule
-爱尔达综合台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltazonghe_twn
-爱尔达影剧台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltayingju_twn
-爱尔达体育1台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport_twn
-爱尔达体育2台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn
-爱尔达体育3台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
-爱尔达体育4台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasports4_twn
-EYE 旅游台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eyetvtravel_twn
-EYE 戏剧台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eyetvxiju_twn
-亚洲美食,http://ma-yi.k.vu/mayi/697456c165396.php?id=afc_twn
-美食星球,http://ma-yi.k.vu/mayi/697456c165396.php?id=foodplanet_twn
-TLC旅遊生活,http://ma-yi.k.vu/mayi/697456c165396.php?id=tlc_twn
-亚洲旅游台,http://ma-yi.k.vu/mayi/697456c165396.php?id=asiatravel_twn
-Arirang,http://ma-yi.k.vu/mayi/697456c165396.php?id=arirang_twn
-AXN Taiwan,http://ma-yi.k.vu/mayi/697456c165396.php?id=axn_twn
-CINEMAX,http://ma-yi.k.vu/mayi/697456c165396.php?id=cinemax_twn
-HBO_HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=hbohd_twn
-HBO_HITS,http://ma-yi.k.vu/mayi/697456c165396.php?id=hbohit_twn
-MTV Live,http://ma-yi.k.vu/mayi/697456c165396.php?id=mtvhd_twn
-
-GPT-央视,#genre#
-CCTV-1 综合,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv1
-CCTV-2 财经,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv2
-CCTV-3 综艺,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv3
-CCTV-4 中文国际,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cctv4
-CCTV-4 中文国际,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv4
-CCTV-5 体育,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv5
-CCTV-5+ 体育赛事,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv5plus
-CCTV-6 电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv6
-CCTV-7 国防军事,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv7
-CCTV-8 电视剧,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv8hd
-CCTV-9 记录,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv9hd
-CCTV-10 科教,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv10hd
-CCTV-11 戏曲,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv11
-CCTV-12 社会与法,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv12
-CCTV-13 新闻,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-CCTV-14 少儿,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv14
-CCTV-15 音乐,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv15
-CCTV-16 奥林匹克,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv16
-CCTV-17 农业农村,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv17
-CGTN,http://ma-yi.k.vu/mayi/697456c165396.php?id=CGTN
-广东卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=guangdongweishi_twn
-广东大湾区卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=nanfang_twn
-广东珠江台,http://ma-yi.k.vu/mayi/697456c165396.php?id=zhujiang
-深圳卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=shenzhen
-东南卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=fujian
-广西卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=guangxi
-湖南卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=hunan_twn
-浙江卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=zhejiang_twn
-江苏卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=jiangsu_twn
-东方卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=dongfangweishi_twn
-北京卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=beijing
-湖北卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=hubei
-四川卫视,http://ma-yi.k.vu/mayi/697456c165396.php?id=sichuan_twn
-
-GPT-新闻,#genre#
-ABC News,http://ma-yi.k.vu/mayi/697456c165396.php?id=abcnews_glo
-Al-Jazeera,http://ma-yi.k.vu/mayi/697456c165396.php?id=aljazeera_twn
-BBC World News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbcnews_twn#http://ma-yi.k.vu/mayi/697456c165396.php?id=Bbcnews
-Bloomberg News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bloomberg_twn
-CBS HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=cbshd_glo
-CBSN HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=cbsn_glo
-CGTN,http://ma-yi.k.vu/mayi/697456c165396.php?id=CGTN
-CNA,http://ma-yi.k.vu/mayi/697456c165396.php?id=cna
-CNBC,http://ma-yi.k.vu/mayi/697456c165396.php?id=cnbc_twn
-CNN backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=cnn_twn
-CNN International,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cnn
-DW (Deutsch),http://ma-yi.k.vu/mayi/697456c165396.php?id=dw_twn
-Fox News,http://ma-yi.k.vu/mayi/697456c165396.php?id=foxnews_twn
-France 24,http://ma-yi.k.vu/mayi/697456c165396.php?id=france24_twn
-NHK World,http://ma-yi.k.vu/mayi/697456c165396.php?id=nhkworld_japan
-Skynews,http://ma-yi.k.vu/mayi/697456c165396.php?id=skynews_twn
-
-GPT-英国,#genre#
-Al-Jazeera,http://ma-yi.k.vu/mayi/697456c165396.php?id=aljazeera_twn
-Animal Planet (Eng),http://ma-yi.k.vu/mayi/697456c165396.php?id=AnimalPlanet
-Axn HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Axn
-BBC 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbc1_antik
-BBC 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbc2_antik
-BBC Earth HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbclifestyle_twn
-BBC World News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbcworldnews_antik
-Bloomberg News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bloomberg_twn
-CBBC,http://ma-yi.k.vu/mayi/697456c165396.php?id=cbbc_antik
-CBeebies,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cbeebies
-CGTN,http://ma-yi.k.vu/mayi/697456c165396.php?id=CGTN
-Channel 4,http://ma-yi.k.vu/mayi/697456c165396.php?id=channel4_antik
-CNBC,http://ma-yi.k.vu/mayi/697456c165396.php?id=cnbc_twn
-DW (Deutsch),http://ma-yi.k.vu/mayi/697456c165396.php?id=dw_twn
-Euronews,http://ma-yi.k.vu/mayi/697456c165396.php?id=euronews_antik
-France 24,http://ma-yi.k.vu/mayi/697456c165396.php?id=france24_twn
-Freesports,http://ma-yi.k.vu/mayi/697456c165396.php?id=freesports_antik
-HBO HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbo
-HGTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=HGTV
-History,http://ma-yi.k.vu/mayi/697456c165396.php?id=History
-Hits Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hitsmovie
-itv 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=itv1_antik
-itv 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=itv2_antik
-Kids TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=KidsTV
-More4,http://ma-yi.k.vu/mayi/697456c165396.php?id=more4_antik
-MTV Live,http://ma-yi.k.vu/mayi/697456c165396.php?id=mtvhd_twn
-NatGeo HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Natgeo
-NatGeo Wild HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Natgeowild
-NHK World,http://ma-yi.k.vu/mayi/697456c165396.php?id=nhkworld_japan
-Nick Jr,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickjr
-Nickelodeon,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickelodeon
-Pick TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=picktv_antik
-Skynews,http://ma-yi.k.vu/mayi/697456c165396.php?id=skynews_twn
-Skysports Cricket,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongcricket
-Skysports EPL,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongepl
-Skysports F1,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongf1
-Skysports Main Event,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongmain
-Skysports News,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongnews
-Star Movies HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=starmovies_raj
-Thrill,http://ma-yi.k.vu/mayi/697456c165396.php?id=Thrill
-TLC,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tlc
-Warner TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=WarnerTV
-
-GPT-电影,#genre#
-Animax,http://ma-yi.k.vu/mayi/697456c165396.php?id=Animax
-Astrol Kplus,http://ma-yi.k.vu/mayi/697456c165396.php?id=Kplus
-Axn HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Axn
-AXN Taiwan,http://ma-yi.k.vu/mayi/697456c165396.php?id=axn_twn
-CCTV-6,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv6
-Cinemax,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cinemax#http://ma-yi.k.vu/mayi/697456c165396.php?id=cinemax_twn
-Dreamworks,http://ma-yi.k.vu/mayi/697456c165396.php?id=Dreamworks
-HBO Family,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbofamily
-HBO HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbo
-HBO Hits,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbohitshd
-HBO Signature,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbosignature
-HBO_HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=hbohd_twn
-HBO_HITS,http://ma-yi.k.vu/mayi/697456c165396.php?id=hbohit_twn
-Hits,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hits
-Hits Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hitsmovie
-Movies Now HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=moviesnow_raj
-One,http://ma-yi.k.vu/mayi/697456c165396.php?id=One
-Paramount Network,http://ma-yi.k.vu/mayi/697456c165396.php?id=Paramountnetwork
-Rock Actions,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockaction
-Rock Entertainment,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockentertain
-SCM,http://ma-yi.k.vu/mayi/697456c165396.php?id=Weishimovie
-Star Movies HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=starmovies_raj
-Thrill,http://ma-yi.k.vu/mayi/697456c165396.php?id=Thrill
-tvN Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie
-Warner TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=WarnerTV
-东森洋片,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvwestern
-东森电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=ettvmovie
-卫视电影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=weishimovie_twn
-天映经典,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial2
-天映频道,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial#http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestialindo
-好萊塢電影台,http://ma-yi.k.vu/mayi/697456c165396.php?id=hollywoodmovies_twn
-美亚电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=meiyamovie_twn
-龙华洋片,http://ma-yi.k.vu/mayi/697456c165396.php?id=lunghuawestern_twn
-龙华电影,http://ma-yi.k.vu/mayi/697456c165396.php?id=xingwei_movie
-龙祥时代,http://ma-yi.k.vu/mayi/697456c165396.php?id=lungxiangtime_twn
-
-GPT-马来西亚,#genre#
-华丽台 HD （Wah Lai Toi）,http://ma-yi.k.vu/mayi/697456c165396.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,http://ma-yi.k.vu/mayi/697456c165396.php?id=Huahee
-爱奇艺 iQiyi,http://ma-yi.k.vu/mayi/697456c165396.php?id=Qiyi
-TVBS Asia,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbasia
-TVB Classic,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbclassic
-TVB Entertainment,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbentertainment
-TVB Jade,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbjade
-TVB 星河台 Xing He,http://ma-yi.k.vu/mayi/697456c165396.php?id=Xinhe
-AEC,http://ma-yi.k.vu/mayi/697456c165396.php?id=AEC
-AFC 亚洲旅游台,http://ma-yi.k.vu/mayi/697456c165396.php?id=asiatravel_twn
-Al-Hijrah,http://ma-yi.k.vu/mayi/697456c165396.php?id=Alhijrah
-Al-Hijrah backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=Alhijrah_backup
-Al-Jazeera,http://ma-yi.k.vu/mayi/697456c165396.php?id=aljazeera_twn
-Animal Planet (Eng),http://ma-yi.k.vu/mayi/697456c165396.php?id=AnimalPlanet
-AOD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Aodhd
-Arena,http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
-Arena 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena2
-Astro LOL,http://ma-yi.k.vu/mayi/697456c165396.php?id=Astro_lol
-Astro MTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=AstroMTV
-Astro QJ,http://ma-yi.k.vu/mayi/697456c165396.php?id=Quanjia
-Astro Rusi,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rusi
-Astro Sonypix,http://ma-yi.k.vu/mayi/697456c165396.php?id=Asonypix
-Astrol Kplus,http://ma-yi.k.vu/mayi/697456c165396.php?id=Kplus
-Aura,http://ma-yi.k.vu/mayi/697456c165396.php?id=Aura
-Awani,http://ma-yi.k.vu/mayi/697456c165396.php?id=Awani
-Awesome TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Dsangat
-Axn HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Axn
-BBC World News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbcnews_twn
-Bernama,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bernama
-Bloomberg News,http://ma-yi.k.vu/mayi/697456c165396.php?id=bloomberg_twn
-BolaArena 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bolaarena1
-BolaArena 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bolaarena2
-Boo,http://ma-yi.k.vu/mayi/697456c165396.php?id=Boo
-Cartoon Network,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cn
-Celestial Classic,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial2
-Celestial Movies HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial
-Ceria,http://ma-yi.k.vu/mayi/697456c165396.php?id=Ceria
-Citra,http://ma-yi.k.vu/mayi/697456c165396.php?id=AAcitra
-Citra backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=AAcitra1
-CNA,http://ma-yi.k.vu/mayi/697456c165396.php?id=cna
-CNBC,http://ma-yi.k.vu/mayi/697456c165396.php?id=cnbc_twn
-CNN backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=cnn_twn
-Dreamworks,http://ma-yi.k.vu/mayi/697456c165396.php?id=Dreamworks
-Foodnetwork Hd,http://ma-yi.k.vu/mayi/697456c165396.php?id=Foodnetwork
-Goshop,http://ma-yi.k.vu/mayi/697456c165396.php?id=Goshop
-HBO HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbo
-HBO Hits,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbohitshd
-HBO Signature,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbosignature
-HGTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=HGTV
-KBS World,http://ma-yi.k.vu/mayi/697456c165396.php?id=KBS
-Madinah HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=sunnah_mido
-Mecca Live HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=quran_mido
-NatGeo Wild HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Natgeowild
-Nick Jr,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickjr
-Nickelodeon,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickelodeon
-NTV7,http://ma-yi.k.vu/mayi/697456c165396.php?id=NTV7
-Oasis,http://ma-yi.k.vu/mayi/697456c165396.php?id=Oasis
-One,http://ma-yi.k.vu/mayi/697456c165396.php?id=One
-Paramount Network,http://ma-yi.k.vu/mayi/697456c165396.php?id=Paramountnetwork
-Prima,http://ma-yi.k.vu/mayi/697456c165396.php?id=Prima-0
-Prima backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=AAprima1
-Prima backup 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=AAprima
-Rania,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rania
-Ria,http://ma-yi.k.vu/mayi/697456c165396.php?id=Ria-0
-Ria-3,http://ma-yi.k.vu/mayi/697456c165396.php?id=Ria_backup
-Rock Actions,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockaction
-Rock Entertainment,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockentertain
-RTM Asean,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rtmasean
-RTM Sports HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rtmsport
-Sensasi,http://ma-yi.k.vu/mayi/697456c165396.php?id=Sensasi
-Siar,http://ma-yi.k.vu/mayi/697456c165396.php?id=Siar
-Sony HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=SetOne
-TLC,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tlc
-TV1,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV1
-TV1 backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV1_backup
-TV2,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV2
-TV3,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV3
-TV3 SD,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV3_mega
-TV8,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV8
-TV9,http://ma-yi.k.vu/mayi/697456c165396.php?id=TV9
-TvN,http://ma-yi.k.vu/mayi/697456c165396.php?id=TVN
-tvN Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie
-WION,http://ma-yi.k.vu/mayi/697456c165396.php?id=Wion
-
-GPT-记录,#genre#
-Animal Planet (Eng),http://ma-yi.k.vu/mayi/697456c165396.php?id=AnimalPlanet
-Animal_Planet,http://ma-yi.k.vu/mayi/697456c165396.php?id=animalplanet_twn
-Asia Travel,http://ma-yi.k.vu/mayi/697456c165396.php?id=asiatravel_twn
-BBC Earth HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://ma-yi.k.vu/mayi/697456c165396.php?id=bbclifestyle_twn
-Discovery Asia,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoverytwn_twn
-Discovery HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoveryhd_twn
-Fashion TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=fashiontv_twn
-Foodnetwork Hd,http://ma-yi.k.vu/mayi/697456c165396.php?id=Foodnetwork
-HGTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=HGTV
-History,http://ma-yi.k.vu/mayi/697456c165396.php?id=History
-MTV Live,http://ma-yi.k.vu/mayi/697456c165396.php?id=mtvhd_twn
-NatGeo HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Natgeo
-NatGeo Wild HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Natgeowild
-Natgeo_HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=natgeohd_twn
-NatGeo_Wild HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=natgeowild_twn
-TLC,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tlc
-亚洲TLC,http://ma-yi.k.vu/mayi/697456c165396.php?id=tlc_twn
-亚洲美食,http://ma-yi.k.vu/mayi/697456c165396.php?id=afc_twn
-美食星球,http://ma-yi.k.vu/mayi/697456c165396.php?id=foodplanet_twn
-
-GPT-儿童,#genre#
-Animax,http://ma-yi.k.vu/mayi/697456c165396.php?id=Animax
-Baby TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=babytv_twn
-Baby TV Eng,http://ma-yi.k.vu/mayi/697456c165396.php?id=Babytv
-Cartoon Network,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cn
-CBeebies,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cbeebies
-Kids TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=KidsTV
-MiaoMi,http://ma-yi.k.vu/mayi/697456c165396.php?id=MiaoMi
-Momo TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=momo1_twn
-Nick Jr,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickjr
-Nickelodeon,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nickelodeon
-东森幼幼,http://ma-yi.k.vu/mayi/697456c165396.php?id=yoyo_twn
-靖天卡通,http://ma-yi.k.vu/mayi/697456c165396.php?id=jingtiancartoon_twn
-
-GPT-体育,#genre#
-Arena,http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
-Arena 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena2
-Astro Badminton 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_badminton1
-Astro Badminton 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_badminton2
-Astro Beinsports 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein1
-Astro Beinsports 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein2
-Astro Beinsports 3,http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein3
-Astro Cricket,http://ma-yi.k.vu/mayi/697456c165396.php?id=Acricket
-Astro EPL 1 backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp1x
-Astro Football,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp4
-Astro Golf,http://ma-yi.k.vu/mayi/697456c165396.php?id=Agolf
-Astro Grandstand,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp3
-Astro Premier League 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp1
-Astro Premier League 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
-Astro Sports Plus,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_sportsplus
-Astro W-Sports,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp5
-BolaArena 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bolaarena1
-BolaArena 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bolaarena2
-CCTV-5 体育频道,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv5
-CCTV-5+ 体育赛事 HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv5plus
-Fight Sports,http://ma-yi.k.vu/mayi/697456c165396.php?id=Fs
-NBA TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Nba
-RTM Sports HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rtmsport
-Rugby Pass TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rugbypasstv
-Skysports Cricket,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongcricket
-Skysports EPL,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongepl
-Skysports F1,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongf1
-Skysports Main Event,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongmain
-Skysports Mix,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongmix
-Skysports News,http://ma-yi.k.vu/mayi/697456c165396.php?id=tiankongnews
-Sony Ten 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=ten1_raj
-Sony Ten 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=ten2_raj
-Sony Ten 3,http://ma-yi.k.vu/mayi/697456c165396.php?id=ten3_raj
-SPO TV 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_spotv2
-SPOTV 1 HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=go_spotv
-Supersports 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=Assp1
-Supersports 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=Assp2
-Supersports 3,http://ma-yi.k.vu/mayi/697456c165396.php?id=Assp3
-Supersports 4,http://ma-yi.k.vu/mayi/697456c165396.php?id=Assp4
-Tnt Sports 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=6fac0aaead
-TNT Sports 2,http://ma-yi.k.vu/mayi/697456c165396.php?id=d9a76a79cc
-TNT Sports 3,http://ma-yi.k.vu/mayi/697456c165396.php?id=5fea4d73db
-TNT Sports 4,http://ma-yi.k.vu/mayi/697456c165396.php?id=tntsport4
-WWE,http://ma-yi.k.vu/mayi/697456c165396.php?id=Wwe
-爱尔达体育1台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport_twn
-爱尔达体育2台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn
-爱尔达体育3台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
-爱尔达体育4台,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasports4_twn
-
-GPT-新加坡,#genre#
-Channel 5,http://ma-yi.k.vu/mayi/697456c165396.php?id=Channel5HD
-Channel 8,http://ma-yi.k.vu/mayi/697456c165396.php?id=Channel8HD
-Channel U,http://ma-yi.k.vu/mayi/697456c165396.php?id=ChannelU
-CNA,http://ma-yi.k.vu/mayi/697456c165396.php?id=cna
-CNA backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=cna_twn
-MeWatch Ch 5,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_ch5
-MeWatch Ch 8,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_ch8
-MeWatch Ch U,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_chU
-MeWatch Suria,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_Suria
-MeWatch Vasantham,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_Vasantham
-MeWatch CNA,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mewatch_cna
-Suria,http://ma-yi.k.vu/mayi/697456c165396.php?id=Suria
-Vasantham,http://ma-yi.k.vu/mayi/697456c165396.php?id=Vasantham
-
-GPT-印尼,#genre#
-AlQuran AlKareem,http://ma-yi.k.vu/mayi/697456c165396.php?id=AlQuran
-Animax,http://ma-yi.k.vu/mayi/697456c165396.php?id=Animax
-AnTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Antv
-Berita Satu,http://ma-yi.k.vu/mayi/697456c165396.php?id=BeritaSatu_eko
-Celestial Movies HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestialindo
-Cinemax,http://ma-yi.k.vu/mayi/697456c165396.php?id=Cinemax
-Daai TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=DaaiTV
-Entertain,http://ma-yi.k.vu/mayi/697456c165396.php?id=Entertain
-EWTN,http://ma-yi.k.vu/mayi/697456c165396.php?id=Ewtn
-Fight Sports,http://ma-yi.k.vu/mayi/697456c165396.php?id=Fs
-GTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Gtv
-Hits,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hits
-Hits Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hitsmovie
-Indosiar HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Indosiar
-iNews TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Inewstv
-Jak TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=JakTV
-JTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=JTV_eko
-Kompass TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Kompass
-Lifestyle&Fashion,http://ma-yi.k.vu/mayi/697456c165396.php?id=Lifestyle
-Metro TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=metrotv_eko
-MNC TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Mnctv
-Music TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=MusicTV
-Muslim TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=MuslimTV
-Net TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=NetTV
-One,http://ma-yi.k.vu/mayi/697456c165396.php?id=One
-RCTI,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rcti
-Rock Actions,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockaction
-Rock Entertainment,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockentertain
-RTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Rtv
-SCM,http://ma-yi.k.vu/mayi/697456c165396.php?id=Weishimovie
-SCTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=SCTV
-Tawaf TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=TawafTV
-Thrill,http://ma-yi.k.vu/mayi/697456c165396.php?id=Thrill
-Trans 7,http://ma-yi.k.vu/mayi/697456c165396.php?id=Trans7_eko
-Transtv,http://ma-yi.k.vu/mayi/697456c165396.php?id=Transtv
-TVMU,http://ma-yi.k.vu/mayi/697456c165396.php?id=TVMU_eko
-tvN Movie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie
-Tvone,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvone
-TVRI National,http://ma-yi.k.vu/mayi/697456c165396.php?id=TVRI
-Vision Prime,http://ma-yi.k.vu/mayi/697456c165396.php?id=VisionPrime
-Warner TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=WarnerTV
-
-GPT-印度,#genre#
-Adithya,http://ma-yi.k.vu/mayi/697456c165396.php?id=Adithya
-Asianet,http://ma-yi.k.vu/mayi/697456c165396.php?id=asianet_raj
-Asianet News,http://ma-yi.k.vu/mayi/697456c165396.php?id=asianetnews_raj
-Astro KTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Astroktv
-Astro Sonypix,http://ma-yi.k.vu/mayi/697456c165396.php?id=Asonypix
-Astro Sunlife,http://ma-yi.k.vu/mayi/697456c165396.php?id=Sunlife
-Astro Vaanavil,http://ma-yi.k.vu/mayi/697456c165396.php?id=Vaanavil
-Bollyone,http://ma-yi.k.vu/mayi/697456c165396.php?id=Bollyone
-Color HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Colorhd
-Colors Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=Colorstam
-Discovery Kids Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoverykidtamil_raj
-Discovery Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoverytamil_raj
-Discovery World Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoveryworldtam_raj
-History Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=historytam_raj
-Makkal TV,http://ma-yi.k.vu/mayi/697456c165396.php?id=Makkaltv
-NatGeo Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=natgeotamil_raj
-Natgeo Wild Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=natgeowildtamil_raj
-News 18 Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=news18tamil_raj
-Picture HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Npicture
-Sony Yay Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=sonyyaytam_raj
-Star Vijay,http://ma-yi.k.vu/mayi/697456c165396.php?id=Starvijay
-Starmaa HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=starmaa_raj
-Starmaa Movies HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=starmaamovies_raj
-Starplus HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Starplushd
-Sun Music,http://ma-yi.k.vu/mayi/697456c165396.php?id=Sunmusic
-Sun TV HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Suntv
-Sun TV India,http://ma-yi.k.vu/mayi/697456c165396.php?id=suntv_raj
-Vellithirai,http://ma-yi.k.vu/mayi/697456c165396.php?id=Vellithirai
-Vijay Super,http://ma-yi.k.vu/mayi/697456c165396.php?id=vijaysuper_raj
-Zee Action,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeeaction
-Zee Business,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeebusiness
-Zee Cinema HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeecinemahd
-Zee News,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeenews
-Zee Tamil,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeetamil
-Zee TV HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=Zeetvhd
-
-GPT-泰国,#genre#
-Amarin,http://ma-yi.k.vu/mayi/697456c165396.php?id=amarin_pat
-Ch 8,http://ma-yi.k.vu/mayi/697456c165396.php?id=ch8_pat
-Channel 3 Thailand,http://ma-yi.k.vu/mayi/697456c165396.php?id=ch3_pat
-Channel 5 Thailand,http://ma-yi.k.vu/mayi/697456c165396.php?id=ch5_pat
-Channel 7 Thailand,http://ma-yi.k.vu/mayi/697456c165396.php?id=ch7_pat
-Gmm Channel,http://ma-yi.k.vu/mayi/697456c165396.php?id=gmmchannel_pat
-GmmOne,http://ma-yi.k.vu/mayi/697456c165396.php?id=gmmone_pat
-MCOT HD Thailand-1,http://ma-yi.k.vu/mayi/697456c165396.php?id=mcot_pat
-Mono,http://ma-yi.k.vu/mayi/697456c165396.php?id=mono_pat
-Nation,http://ma-yi.k.vu/mayi/697456c165396.php?id=nation_pat
-Nbt,http://ma-yi.k.vu/mayi/697456c165396.php?id=nbt_pat
-New,http://ma-yi.k.vu/mayi/697456c165396.php?id=new_pat
-PPTV Thailand1,http://ma-yi.k.vu/mayi/697456c165396.php?id=pptv_pat
-Thai Thai,http://ma-yi.k.vu/mayi/697456c165396.php?id=thaithai_pat
-Thairath,http://ma-yi.k.vu/mayi/697456c165396.php?id=thairath_pat
-Tnn24,http://ma-yi.k.vu/mayi/697456c165396.php?id=tnn24_pat
-tpbs,http://ma-yi.k.vu/mayi/697456c165396.php?id=tpbs_pat
-TPTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=tptv_pat
-Workpoint,http://ma-yi.k.vu/mayi/697456c165396.php?id=workpoint_pat
-
-GPT-越南,#genre#
-ANTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_antv
-BTV HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_btvhd
-CTV HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_ctvhd
-HTV 7,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_htv7
-HTV 9,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_htv9
-THVL HD,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_thvl
-TBKTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_tbktv
-VTV 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_vtv1
-VTV 3,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_vtv3
-VTV 4,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_vtv4
-VTV 6,http://ma-yi.k.vu/mayi/697456c165396.php?id=vtn_vtv6
 
 ASIA | Taiwan,#genre#
 寰宇新闻台,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34870
@@ -3598,6 +3023,131 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 童安格40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5251760219003853218_hlsb.m3u8
 魏佳艺40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5226427471582302532_hlsb.m3u8
 云菲菲40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5207287179922382380_hlsb.m3u8
+卓依婷,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+姜育恒,https://txmov2.a.kwimgs.com/bs3/video-hls/5228116320942620413_hlsb.m3u8
+童安格,https://txmov2.a.kwimgs.com/bs3/video-hls/5251760219003853218_hlsb.m3u8
+云朵,https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8
+韩宝仪,https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
+金海心,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783577818793385_hlsb.m3u8
+陈瑞,https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429788093934_hlsb.m3u8
+串烧,https://txmov2.a.kwimgs.com/bs3/video-hls/5198561450301066675_hlsb.m3u8
+经典,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+陈淑桦,https://txmov2.a.kwimgs.com/bs3/video-hls/5207850128833175307_hlsb.m3u8
+汪明荃,https://txmov2.a.kwimgs.com/bs3/video-hls/5202502102851767269_hlsb.m3u8
+腾格尔,https://txmov2.a.kwimgs.com/bs3/video-hls/5242471550986018227_hlsb.m3u8
+许蒿,https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
+刀郎《山河廖哉》,https://vdse.bdstatic.com//5f006559d60e485ba725c1026772717f.mp4
+滚石30周年1,https://vd4.bdstatic.com/mda-pcm3pzs1j2kvmfm9/sc/cae_h264/1679454636577317374/mda-pcm3pzs1j2kvmfm9.mp4
+滚石30周年2,https://vd2.bdstatic.com/mda-pcn3qntu84eiy4pc/sc/cae_h264/1679561914049416863/mda-pcn3qntu84eiy4pc.mp4
+滚石30周年3,https://vd2.bdstatic.com/mda-pcp3iqdppmthfzci/sc/cae_h264/1679642719825011459/mda-pcp3iqdppmthfzci.mp4
+滚石30周年4,https://vd3.bdstatic.com/mda-pcq4butqfxcsjzti/720p/h264/1679713620358576605/mda-pcq4butqfxcsjzti.mp4
+滚石30周年5,https://vd2.bdstatic.com/mda-pcrhk948v4pndg1s/sc/cae_h264/1679834952626832748/mda-pcrhk948v4pndg1s.mp4
+滚石30周年6,https://vd2.bdstatic.com/mda-pcs5igsua7b9ckm6/sc/cae_h264/1679890569447039341/mda-pcs5igsua7b9ckm6.mp4
+滚石30周年7,https://vd2.bdstatic.com/mda-pct3seu4xp05j12h/sc/cae_h264/1679972602825023270/mda-pct3seu4xp05j12h.mp4
+滚石30周年8,https://vd3.bdstatic.com/mda-pcu4evdtgnbx20e4/sc/cae_h264/1680071973199685855/mda-pcu4evdtgnbx20e4.mp4
+滚石30周年9,https://vd4.bdstatic.com/mda-pcv45r3sh41w18xp/sc/cae_h264/1680145973409946990/mda-pcv45r3sh41w18xp.mp4
+滚石30周年10,https://vd2.bdstatic.com/mda-pcwexybyavexzpnp/sc/cae_h264/1680331669243313968/mda-pcwexybyavexzpnp.mp4
+滚石30周年11,https://vd2.bdstatic.com/mda-pd1djkedcsd6zf4m/720p/h264/1680428126358674178/mda-pd1djkedcsd6zf4m.mp4
+滚石30周年12,https://vd4.bdstatic.com/mda-pd1fyefdw9cy4syj/sc/cae_h264/1680434683296583972/mda-pd1fyefdw9cy4syj.mp4
+滚石30周年13,https://vd4.bdstatic.com/mda-pd1pn0se84vp5e76/sc/cae_h264/1680454160874637654/mda-pd1pn0se84vp5e76.mp4
+梅朵40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5215449953961824145_hlsb.m3u8
+张茜42首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5251478751616846395_hlsb.m3u8
+甄妮40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5199405879311116082_hlsb.m3u8
+邓丽君经典歌曲50首珍藏版,https://txmov2.a.kwimgs.com/bs3/video- hls/5225583052113602018_hlsb.m3u8
+毛阿敏40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028179371386236_hlsb.m3u8
+李翊君20首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835729521538666_hlsb.m3u8
+张杰40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5252886123455427055_hlsb.m3u8
+陈慧娴30首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5218827651929954317_hlsb.m3u8
+王力宏16首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5205035380900810284_hlsb.m3u8
+汤潮40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429700768764_hlsb.m3u8
+冷漠40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5212916677664919326_hlsb.m3u8
+梦然40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5228679277594646633_hlsb.m3u8
+孟庭苇塘14首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664900039596920_hlsb.m3u8
+刘若英42首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923876251083359_hlsb.m3u8
+林依轮10首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5209257503535513363_hlsb.m3u8
+乔玲儿42首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5231494028805004923_hlsb.m3u8
+云菲菲40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5207287179922382380_hlsb.m3u8
+邓紫棋合集,https://vd3.bdstatic.com/mda-pg3m9a9ppvgzqg76/sc/cae_h264/1688504490901841014/mda-pg3m9a9ppvgzqg76.mp4
+徐怀钰合集,https://vd3.bdstatic.com/mda-paj26adxum0u1nzm/sc/cae_h264/1674181138806313046/mda-paj26adxum0u1nzm.mp4
+陈百强合集,https://vd3.bdstatic.com/mda-nkg6zym5hmcmhcth/sc/cae_h264/1668667805400554098/mda-nkg6zym5hmcmhcth.mp4
+周传雄合集,https://vd4.bdstatic.com/mda-paq1wctq73q8kv3k/sc/cae_h264/1674630332295698141/mda-paq1wctq73q8kv3k.mp4
+郑中基合集,https://vd3.bdstatic.com/mda-paq1vuutbxj3nid7/sc/cae_h264/1674635667756668676/mda-paq1vuutbxj3nid7.mp4
+庾澄庆合集,https://vd4.bdstatic.com/mda-pawe0vd3ni6nzh8m/hd/cae_h264/1675210890051408273/mda-pawe0vd3ni6nzh8m.mp4
+罗文合集,https://vd4.bdstatic.com/mda-pas47g35beq7c8am/576p/h264/1674788386403294509/mda-pas47g35beq7c8am.mp4
+罗文合集,https://vd2.bdstatic.com/mda-paj209nnw25qxdd3/720p/h264/1674177933358236689/mda-paj209nnw25qxdd3.mp4
+陈小春合集,https://vd4.bdstatic.com/mda-paj3eqx7guxsieph/hd/cae_h264/1674186798675696922/mda-paj3eqx7guxsieph.mp4
+罗大佑合集,https://vd3.bdstatic.com/mda-paj3bndqef0brg82/hd/cae_h264/1674182231284241416/mda-paj3bndqef0brg82.mp4
+邰正宵合集,https://vd2.bdstatic.com/mda-pai1fgvqnzfshm79/hd/cae_h264/1674091705705323755/mda-pai1fgvqnzfshm79.mp4
+张镐哲合集,https://vd3.bdstatic.com/mda-pai1autuhxiwv606/hd/cae_h264/1674091410698310238/mda-pai1autuhxiwv606.mp4
+孟庭苇合集,https://vd4.bdstatic.com/mda-pah0g785da3bd8cg/hd/cae_h264/1674003403215729852/mda-pah0g785da3bd8cg.mp4
+陈慧娴合集,https://vd2.bdstatic.com/mda-pag1mzva41p63jq5/hd/cae_h264/1673927648285556707/mda-pag1mzva41p63jq5.mp4
+李宗盛合集,https://vd3.bdstatic.com/mda-pag1f6ssp0tz7u6w/hd/cae_h264/1673925651687172516/mda-pag1f6ssp0tz7u6w.mp4
+郑钧合集,https://vd2.bdstatic.com/mda-pad3y0wrmxzapv2w/576p/h264/1673664549552774186/mda-pad3y0wrmxzapv2w.mp4
+郑伊健合集,https://vd4.bdstatic.com/mda-pac8fmnv1a366vmr/hd/cae_h264/1673591592922356655/mda-pac8fmnv1a366vmr.mp4
+蔡依林合集,https://vd4.bdstatic.com/mda-pac79inw7bdc065u/hd/cae_h264/1673588623519298769/mda-pac79inw7bdc065u.mp4
+张学友合集,https://vd2.bdstatic.com/mda-nm6fky2jmywpcdj9/cae_h264/1670413517411532119/mda-nm6fky2jmywpcdj9.mp4
+邝美云合集,https://vd2.bdstatic.com/mda-pbeexvuxcve5846s/sc/cae_h264/1676582560140953592/mda-pbeexvuxcve5846s.mp4
+李玟合集,https://vd3.bdstatic.com/mda-jksqgenwiqib178f/sc/mda-jksqgenwiqib178f.mp4
+汪苏泷合集,https://vd4.bdstatic.com/mda-pg1me33kyu0pp53k/sc/cae_h264/1688382703992389690/mda-pg1me33kyu0pp53k.mp4
+周杰伦合集,https://vd3.bdstatic.com/mda-paq1xkb7rcjtii9v/sc/cae_h264/1674613587466498828/mda-paq1xkb7rcjtii9v.mp4
+郑智化合集,https://vd2.bdstatic.com/mda-paq1ux0qf6sgmned/sc/cae_h264/1674636855608480381/mda-paq1ux0qf6sgmned.mp4
+赵传合集,https://vd3.bdstatic.com/mda-paq1tepxqeiegjj4/sc/cae_h264/1674635604690258650/mda-paq1tepxqeiegjj4.mp4
+郑秀文合集,https://vd4.bdstatic.com/mda-paq1uaga11j66k8k/sc/cae_h264/1674635527660020109/mda-paq1uaga11j66k8k.mp4
+张宇合集,https://vd4.bdstatic.com/mda-paq1swz9kfiww0nf/720p/h264/1674609379540322499/mda-paq1swz9kfiww0nf.mp4
+张信哲合集,https://vd4.bdstatic.com/mda-paq1rstx5psmnh4d/sc/cae_h264/1674629486930515540/mda-paq1rstx5psmnh4d.mp4
+张惠妹合集,https://vd3.bdstatic.com/mda-paq1r1xeq684ghvi/sc/cae_h264/1674629389712621917/mda-paq1r1xeq684ghvi.mp4
+杨千嬅合集,https://vd2.bdstatic.com/mda-paj28s7kxxta535a/sc/cae_h264/1674179921663865160/mda-paj28s7kxxta535a.mp4
+许冠杰合集,https://vd2.bdstatic.com/mda-paj27ykdqysv2mtw/sc/cae_h264/1674179770185504208/mda-paj27ykdqysv2mtw.mp4
+萧亚轩合集,https://vd3.bdstatic.com/mda-paj25d8nm4uc59es/sc/cae_h264/1674182542534082128/mda-paj25d8nm4uc59es.mp4
+王杰合集,https://vd3.bdstatic.com/mda-paj24w3pip97yamz/sc/cae_h264/1674185355776462627/mda-paj24w3pip97yamz.mp4
+谭咏麟合集,https://vd2.bdstatic.com/mda-paj231dq1mks423d/sc/cae_h264/1674179884142970651/mda-paj231dq1mks423d.mp4
+孙燕姿合集,https://vd3.bdstatic.com/mda-paj227g2z43rby0b/sc/cae_h264/1674182747611865385/mda-paj227g2z43rby0b.mp4
+梅艳芳合集,https://vd4.bdstatic.com/mda-paj21pmbsf1t5guw/720p/h264/1674178040534961503/mda-paj21pmbsf1t5guw.mp4
+刘若英合集,https://vd4.bdstatic.com/mda-paj1zjmiy8f0u7e9/sc/cae_h264/1674182802321283228/mda-paj1zjmiy8f0u7e9.mp4
+黄安合集,https://vd4.bdstatic.com/mda-paj1yviih627m7br/sc/cae_h264/1674182480562260368/mda-paj1yviih627m7br.mp4
+郭富城合集,https://vd3.bdstatic.com/mda-paj1y1ffn07b81zr/sc/cae_h264/1674180953809875143/mda-paj1y1ffn07b81zr.mp4
+齐秦合集,https://vd3.bdstatic.com/mda-nksbca2gxqm392y9/sc/cae_h264/1669538208173071679/mda-nksbca2gxqm392y9.mp4
+莫文蔚合集,https://vd3.bdstatic.com/mda-nksbbcfasp641205/sc/cae_h264/1669538238470976198/mda-nksbbcfasp641205.mp4
+林子祥合集,https://vd2.bdstatic.com/mda-nksbae509kuunmw5/sc/cae_h264/1669538414221805368/mda-nksbae509kuunmw5.mp4
+林志颖合集,https://vd4.bdstatic.com/mda-nksb70tv5vt9d5ta/sc/cae_h264/1669539791287641428/mda-nksb70tv5vt9d5ta.mp4
+梁咏琪合集,https://vd3.bdstatic.com/mda-nkm0vwwxem7nnicp/sc/cae_h264/1669097506610820128/mda-nkm0vwwxem7nnicp.mp4
+梁静茹合集,https://vd2.bdstatic.com/mda-nkm0tccmp4h9mbzx/sc/cae_h264/1669099609536177298/mda-nkm0tccmp4h9mbzx.mp4
+李克勤合集,https://vd3.bdstatic.com/mda-nkm0rfx2h01mecpb/sc/cae_h264/1669097663537218616/mda-nkm0rfx2h01mecpb.mp4
+黎明合集,https://vd3.bdstatic.com/mda-nkm0q4v1cnx3dg0q/sc/cae_h264/1669099217121656933/mda-nkm0q4v1cnx3dg0q.mp4
+黄莺莺合集,https://vd4.bdstatic.com/mda-nkm0h1vrypczxbtg/720p/h264/1669076515355370249/mda-nkm0h1vrypczxbtg.mp4
+邓丽君合集,https://vd4.bdstatic.com/mda-nkg71nvnuzanh072/sc/cae_h264/1668667802847572861/mda-nkg71nvnuzanh072.mp4
+草蜢合集,https://vd2.bdstatic.com/mda-nkg6xtz6ph8a421a/sc/cae_h264/1668671364539601937/mda-nkg6xtz6ph8a421a.mp4
+张雨生合集,https://vd4.bdstatic.com/mda-nis0atuv091ryxg0/sc/cae_h264/1664442884366030417/mda-nis0atuv091ryxg0.mp4
+迪克牛仔合集,https://vd2.bdstatic.com/mda-nibbumj3jzc16ej9/sc/cae_h264/1662975278800631180/mda-nibbumj3jzc16ej9.mp4
+黄品源合集,https://vd2.bdstatic.com/mda-ni506bsvmmdm4bdv/sc/cae_h264/1662424001611264977/mda-ni506bsvmmdm4bdv.mp4
+刘德华合集,https://vd2.bdstatic.com/mda-ni103pry5e4aqk39/sc/cae_h264/1662084584421447983/mda-ni103pry5e4aqk39.mp4
+周华健合集,https://vd4.bdstatic.com/mda-nhw80v1ith9wa8e8/sc/cae_h264/1662013758665982272/mda-nhw80v1ith9wa8e8.mp4
+伍佰合集,http://vd3.bdstatic.com/mda-pe07i71fkd531zj1/sc/bd265_cae_roi_v5/1682947766065803786/mda-pe07i71fkd531zj1.mp4
+林俊杰合集,https://txmov2.a.kwimgs.com/合集bs3/video-hls/5231212549905475206_hlsb.m3u8
+S.H.E,https://vd2.bdstatic.com/mda-nkg6vju7i34is8z3/sc/cae_h264/1668668139955974515/mda-nkg6vju7i34is8z3.mp4
+Beyond1,https://vd4.bdstatic.com/mda-pdmaxg5vf0bmrpxx/sc/cae_h264/1682179055724322707/mda-pdmaxg5vf0bmrpxx.mp4
+beyond2,https://vd3.bdstatic.com/mda-nm75269264v485fe/sc/cae_h264/1670475833350119754/mda-nm75269264v485fe.mp4
+beyond3,https://vd2.bdstatic.com/mda-nmbduj4y5qrhr14v/576p/h264/1670838831995101004/mda-nmbduj4y5qrhr14v.mp4
+王菲合集1,https://vd4.bdstatic.com/mda-pg3m9czi01sgmas7/sc/cae_h264/1688505868106382211/mda-pg3m9czi01sgmas7.mp4
+王菲合集2,https://vd3.bdstatic.com/mda-paj24ccexzab4113/sc/cae_h264/1674182919884158754/mda-paj24ccexzab4113.mp4
+刀郎合集1,https://vd3.bdstatic.com/mda-pat22g6vrma1n8b2/576p/h264/1674869354107877822/mda-pat22g6vrma1n8b2.mp4
+刀郎合集2,https://vd3.bdstatic.com/mda-pat2dzrxjp4fkzdb/576p/h264/1674870199072291490/mda-pat2dzrxjp4fkzdb.mp4
+张国荣合集1,https://vd3.bdstatic.com/mda-na9i15iap05efpff/sc/cae_h264_delogo/1641828605628346695/mda-na9i15iap05efpff.mp4
+张国荣合集2,https://vd2.bdstatic.com/mda-na8hrvu9tk4svhrf/sc/cae_h264_delogo/1642260080397657076/mda-na8hrvu9tk4svhrf.mp4
+童安格合集1,https://vd2.bdstatic.com/mda-paj23qqh5q1c86qg/sc/cae_h264/1674182613788241332/mda-paj23qqh5q1c86qg.mp4
+林志炫合集1,https://vd2.bdstatic.com/mda-ni40rrekfe43ip3f/sc/cae_h264/1662338985564650327/mda-ni40rrekfe43ip3f.mp4
+任贤齐合集1,https://vd2.bdstatic.com/mda-nksbd58xaz4z1t64/sc/cae_h264/1669538442443360196/mda-nksbd58xaz4z1t64.mp4
+陈淑桦合集1,https://vd2.bdstatic.com/mda-paib4m1zb47fz3j0/sc/cae_h264/1674117441894799856/mda-paib4m1zb47fz3j0.mp4
+动力火车合集,https://vd3.bdstatic.com/mda-paf2igxsejppa5pp/hd/cae_h264/1673837006365021404/mda-paf2igxsejppa5pp.mp4
+五月天合集,https://vd2.bdstatic.com/mda-pa95ycptd1myw460/hd/cae_h264/1673353422131457347/mda-pa95ycptd1myw460.mp4
+陈瑞经典音乐合集40首,https://txmov2.a.kwimgs.com/bs3/video-hls/5202220639951372084_hlsb.m3u8
+刘德华16首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5193213420289935762_hlsb.m3u8
+经典歌曲570首,https://txmov2.a.kwimgs.com/bs3/video-hls/5196309668987139918_hlsb.m3u8
+15首经典粤语歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5257671204403480069_hlsb.m3u8
+30首流行歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5188428306720249920_hlsb.m3u8
+30首经典老歌,https://txmov2.a.kwimgs.com/bs3/video-hls/5192650491225440005_hlsb.m3u8
+2023年经典DJ合集(二)40首,https://txmov2.a.kwimgs.com/bs3/video-hls/5239938286647301653_hlsb.m3u8
+华语经典老歌500首(二十一),https://txmov2.a.kwimgs.com/bs3/video-hls/5248664007689894068_hlsb.m3u8
 
 抖播,#genre#
 怀旧粤语（全粤合集）,http://dxa.yiandrive.com:39319/douyin/672645600110
