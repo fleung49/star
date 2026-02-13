@@ -284,6 +284,39 @@ FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&e
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
 
+FLV,#genre#
+无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
+明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
+翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
+TVB娱乐新闻台,http://pull-vivek.speedws.com/live/aaaylxw.flv
+MYTV SUPER 1,http://pull-vivek.speedws.com/live/aaamqxjd.flv
+MYTV SUPER 2 粵語片台,http://pull-vivek.speedws.com/live/aaahjfc.flv
+MYTV SUPER 3 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
+MYTV SUPER 4 華語劇台,http://pull-vivek.speedws.com/live/aaahyjt.flv
+MYTV SUPER 5 经典,http://208.87.242.79/livehttpplay?channel_id=13024
+MYTV SUPER 6 体育,http://208.87.242.79/livehttpplay?channel_id=13025
+MYTV SUPER 7 戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
+MYTV SUPER 8 黄金翡翠,http://pull-vivek.speedws.com/live/aaahjfc.flv
+MYTV SUPER 9 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
+MYTV SUPERFREE,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,hhttp://pull-vivek.speedws.com/live/aaafhxg.flv
+HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
+HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+VIUTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
+VIUTV 6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
+美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
+ANIMAX,http://pull-vivek.speedws.com/live/aaaAnimax.flv
+AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
+POP C,http://pull-vivek.speedws.com/live/aaapopc.flv
+ROCK ACTION,http://pull-vivek.speedws.com/live/aaarock2.flv
+ROCK ENTERTAINMENT,http://pull-vivek.speedws.com/live/aaarock1.flv
+
 livehttpplay 67+208,#genre#
 无线新闻台,http://67.220.67.246:2347/livehttpplay?channel_id=30024#http://67.220.67.246:2347/livehttpplay?channel_id=20123
 翡翠台,http://67.220.67.246:2347/livehttpplay?channel_id=20127#http://67.220.67.246:2347/livehttpplay?channel_id=30025#http://67.220.67.246:2347/livehttpplay?channel_id=20124
@@ -292,12 +325,12 @@ TVB Plus,http://67.220.67.246:2347/livehttpplay?channel_id=30023#http://67.220.6
 TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006#http://67.220.67.246:2347/livehttpplay?channel_id=13006
 TVB星河,http://208.87.242.79/livehttpplay?channel_id=20070
 MYTV SUPER 1,http://67.220.67.246:2347/livehttpplay?channel_id=13020#http://208.87.242.79/livehttpplay?channel_id=13020
-MYTV SUPER 2 粤片,http://67.220.67.246:2347/livehttpplay?channel_id=13021#http://208.87.242.79/livehttpplay?channel_id=13021
-MYTV SUPER 3 亚剧,http://67.220.67.246:2347/livehttpplay?channel_id=13022#http://208.87.242.79/livehttpplay?channel_id=13022
-MYTV SUPER 4,http://67.220.67.246:2347/livehttpplay?channel_id=13023#http://208.87.242.79/livehttpplay?channel_id=13023
+MYTV SUPER 2 粵語片台,http://67.220.67.246:2347/livehttpplay?channel_id=13021#http://208.87.242.79/livehttpplay?channel_id=13021
+MYTV SUPER 3 亚洲剧台,http://67.220.67.246:2347/livehttpplay?channel_id=13022#http://208.87.242.79/livehttpplay?channel_id=13022
+MYTV SUPER 4 華語劇台,http://67.220.67.246:2347/livehttpplay?channel_id=13023#http://208.87.242.79/livehttpplay?channel_id=13023
 MYTV SUPER 5 经典,http://67.220.67.246:2347/livehttpplay?channel_id=13024#http://208.87.242.79/livehttpplay?channel_id=13024
 MYTV SUPER 6 体育,http://67.220.67.246:2347/livehttpplay?channel_id=13025#http://208.87.242.79/livehttpplay?channel_id=13025
-MYTV SUPER 7 戏曲,http://67.220.67.246:2347/livehttpplay?channel_id=13026#http://208.87.242.79/livehttpplay?channel_id=13026
+MYTV SUPER 7 戏曲台,http://67.220.67.246:2347/livehttpplay?channel_id=13026#http://208.87.242.79/livehttpplay?channel_id=13026
 MYTV SUPER 8 黄金翡翠,http://67.220.67.246:2347/livehttpplay?channel_id=13027#http://208.87.242.79/livehttpplay?channel_id=13027
 HOY 77,http://67.220.67.246:2347/livehttpplay?channel_id=20152
 HOY 78,http://67.220.67.246:2347/livehttpplay?channel_id=20191
