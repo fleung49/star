@@ -167,6 +167,7 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 凤凰香港,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
+凤凰美洲,http://5gott.one/112233/332211/616040
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
@@ -194,7 +195,7 @@ NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-PopC电影,http://hls-pull-tvpublica.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
+PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,http://php.jdshipin.com:80/PLTV/iptv.php?id=viutv
@@ -248,15 +249,12 @@ Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
-HUB娱家,http://194.147.100.173:80/jsy/p.php/?id=mHvjHJqyJvCrBHOnSNAAVg
-HUB娱家,http://live-broadcast-sh-service.vcinema.cn:80/live/2922a3590bf5d43a558bef5ddb7c48f7.flv
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
-HUB都会,http://194.147.100.173:80/jsy/p.php/?id=j1xnlisO7oCV7fpVLhh2nA
-HUB都会,http://live-broadcast-sh-service.vcinema.cn:80/live/a876d36f1374f375df6e9f15c4a679c5.flv
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新聞,http://rihou.cc:555/tv/[Uk]中天新聞
+中天新聞,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
 中天新聞,http://67.220.67.246:2347/livehttpplay?channel_id=20163
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
@@ -264,6 +262,7 @@ CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 中天新闻,http://118.233.28.52:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
@@ -2284,135 +2283,461 @@ EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8
 MTv高清,http://free.cnlive.club/channel/731620b3.m3u8
 ARIRANG,http://free.cnlive.club/channel/5a358dea.m3u8
 
-赛雷马来西亚,#genre#
-华丽台 HD （Wah Lai Toi）,http://free.cnlive.club/channel/n177a7044.m3u8
-欢喜台 HD （Hua Hee Tai）,http://free.cnlive.club/channel/n129801d1.m3u8
-爱奇艺 iQiyi,http://free.cnlive.club/channel/n367ccbbb.m3u8
-TVB Asia,http://free.cnlive.club/channel/30a8c4da.m3u8
-TVB Classic,http://free.cnlive.club/channel/n1ab8717e.m3u8
-TVB Entertainment,http://free.cnlive.club/channel/nac85e88.m3u8
-TVB Jade,http://free.cnlive.club/channel/30ac9808.m3u8
-TVB 星河台 Xing He,http://free.cnlive.club/channel/6dd7925f.m3u8
-AEC,http://free.cnlive.club/channel/fa508cf.m3u8
-AFC 亚洲旅游,http://free.cnlive.club/channel/1d3786b3.m3u8
-Al-Hijrah,http://free.cnlive.club/channel/n3fbbd7fe.m3u8
-Al-Hijrah backup,http://free.cnlive.club/channel/73890fa0.m3u8
-Al-Jazeera,http://free.cnlive.club/channel/n5abdd660.m3u8
-Animal Planet (Eng),http://free.cnlive.club/channel/n1f7b561.m3u8
-AOD,http://free.cnlive.club/channel/fa50a06.m3u8
-Arena,http://free.cnlive.club/channel/n4564ece9.m3u8
-Arena 2,http://free.cnlive.club/channel/n7fdd5297.m3u8
-Astro LOL,http://free.cnlive.club/channel/n74db4c28.m3u8
-Astro MTV,http://free.cnlive.club/channel/n74db47c2.m3u8
-Astro QJ,http://free.cnlive.club/channel/n2d0f5476.m3u8
-Astro Rusi,http://free.cnlive.club/channel/n268aead6.m3u8
-Astro Sonypix,http://free.cnlive.club/channel/n158a73d9.m3u8
-Astrol Kplus,http://free.cnlive.club/channel/n52c5637e.m3u8
-Aura,http://free.cnlive.club/channel/n1b0334ad.m3u8
-Awani,http://free.cnlive.club/channel/n4562b60a.m3u8
-Awesome TV,http://free.cnlive.club/channel/4d7fdd4f.m3u8
-Axn,http://free.cnlive.club/channel/n66e1336b.m3u8
-BBC World News,http://free.cnlive.club/channel/2e8ad8ee.m3u8
-Bernama,http://free.cnlive.club/channel/n606edc5a.m3u8
-Bloomberg News,http://free.cnlive.club/channel/8103ba8.m3u8
-BolaArena 1,http://free.cnlive.club/channel/n6393f37a.m3u8
-BolaArena 2,http://free.cnlive.club/channel/n6393f379.m3u8
-Boo,http://free.cnlive.club/channel/fa511d2.m3u8
-Cartoon Network,http://free.cnlive.club/channel/607a1b6c.m3u8
-Celestial Classic,http://free.cnlive.club/channel/n7b0fbbc6.m3u8
-Celestial Movies,http://free.cnlive.club/channel/5150b0a1.m3u8
-Ceria,http://free.cnlive.club/channel/n454e7688.m3u8
-Citra,http://free.cnlive.club/channel/n454c9c73.m3u8
-Citra backup,http://free.cnlive.club/channel/n52b2e4b.m3u8
-CNA,http://free.cnlive.club/channel/fa51166.m3u8
-CNBC,http://free.cnlive.club/channel/n1b02e444.m3u8
-CNN backup,http://free.cnlive.club/channel/n1b9b2af1.m3u8
-Dreamworks,http://free.cnlive.club/channel/n760128b1.m3u8
-Foodnetwork Hd,http://free.cnlive.club/channel/n28c53ee4.m3u8
-Goshop,http://free.cnlive.club/channel/n5d1f9a32.m3u8
-HBO,http://free.cnlive.club/channel/n5df653c9.m3u8
-HBO Hits,http://free.cnlive.club/channel/465013db.m3u8
-HBO Signature,http://free.cnlive.club/channel/n4641f303.m3u8
-HGTV,http://free.cnlive.club/channel/n1b00b66f.m3u8
-KBS World,http://free.cnlive.club/channel/14eeb45e.m3u8
-Madinah,http://free.cnlive.club/channel/n782c73d0.m3u8
-Mecca Live,http://free.cnlive.club/channel/n1e7b0117.m3u8
-NatGeo Wild,http://free.cnlive.club/channel/n6598e6ce.m3u8
-Nick Jr,http://free.cnlive.club/channel/20599755.m3u8
-Nickelodeon,http://free.cnlive.club/channel/1c7b5a15.m3u8
-NTV7,http://free.cnlive.club/channel/n1afdcb49.m3u8
-Oasis,http://free.cnlive.club/channel/n44a72a25.m3u8
-One,http://free.cnlive.club/channel/fa54276.m3u8
-Paramount Network,http://free.cnlive.club/channel/2d02c137.m3u8
-Prima,http://free.cnlive.club/channel/n44917d75.m3u8
-Prima backup,http://free.cnlive.club/channel/366678f7.m3u8
-Prima backup 2,http://free.cnlive.club/channel/36ac1b49.m3u8
-Rania,http://free.cnlive.club/channel/n447cf679.m3u8
-Ria,http://free.cnlive.club/channel/fa54d1a.m3u8
-Ria-3,http://free.cnlive.club/channel/n44798bc0.m3u8
-Rock Actions,http://free.cnlive.club/channel/191ec512.m3u8
-Rock Entertainment,http://free.cnlive.club/channel/n66be2823.m3u8
-RTM Asean,http://free.cnlive.club/channel/32091bdb.m3u8
-RTM Sports,http://free.cnlive.club/channel/ne37fa48.m3u8
-Sensasi,http://free.cnlive.club/channel/22a4fb90.m3u8
-Siar,http://free.cnlive.club/channel/n1afb3509.m3u8
-Sony,http://free.cnlive.club/channel/33b732a5.m3u8
-TLC,http://free.cnlive.club/channel/fa550fb.m3u8
-TV1,http://free.cnlive.club/channel/fa5521f.m3u8
-TV1 backup,http://free.cnlive.club/channel/n519451d.m3u8
-TV2,http://free.cnlive.club/channel/fa55220.m3u8
-TV3,http://free.cnlive.club/channel/fa55221.m3u8
-TV3 SD,http://free.cnlive.club/channel/n486f0f50.m3u8
-TV8,http://free.cnlive.club/channel/fa55226.m3u8
-TV9,http://free.cnlive.club/channel/fa55227.m3u8
-TvN,http://free.cnlive.club/channel/fa5561c.m3u8
-tvN Movie,http://free.cnlive.club/channel/n1b6a6bd4.m3u8
-WION,http://free.cnlive.club/channel/n1af9ddff.m3u8
+央卫频特,#genre#
+CCTV-1,http://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+CCTV-2,http://smart.dxjc.pp.ua/smart.php?id=cctv2&token=tmxk
+CCTV-3,http://smart.dxjc.pp.ua/smart.php?id=cctv3&token=tmxk
+CCTV-4,http://smart.dxjc.pp.ua/smart.php?id=cctv4&token=tmxk
+CCTV-4,http://smart.dxjc.pp.ua/smart.php?id=Cctv4&token=tmxk
+CCTV-5,http://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+CCTV-5+,http://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+CCTV-6,http://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
+CCTV-7,http://smart.dxjc.pp.ua/smart.php?id=cctv7&token=tmxk
+CCTV-8,http://smart.dxjc.pp.ua/smart.php?id=cctv8hd&token=tmxk
+CCTV-9,http://smart.dxjc.pp.ua/smart.php?id=cctv9hd&token=tmxk
+CCTV-10,http://smart.dxjc.pp.ua/smart.php?id=cctv10hd&token=tmxk
+CCTV-11,http://smart.dxjc.pp.ua/smart.php?id=cctv11&token=tmxk
+CCTV-12,http://smart.dxjc.pp.ua/smart.php?id=cctv12&token=tmxk
+CCTV-13,http://smart.dxjc.pp.ua/smart.php?id=cctv13&token=tmxk
+CCTV-14,http://smart.dxjc.pp.ua/smart.php?id=cctv14&token=tmxk
+CCTV-15,http://smart.dxjc.pp.ua/smart.php?id=cctv15&token=tmxk
+CCTV-16,http://smart.dxjc.pp.ua/smart.php?id=cctv16&token=tmxk
+CCTV-17,http://smart.dxjc.pp.ua/smart.php?id=cctv17&token=tmxk
+CGTN,http://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+北京卫视,http://smart.dxjc.pp.ua/smart.php?id=beijing&token=tmxk
+深圳卫视,http://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
+广西卫视,http://smart.dxjc.pp.ua/smart.php?id=guangxi&token=tmxk
+湖北卫视,http://smart.dxjc.pp.ua/smart.php?id=hubei&token=tmxk
+东南卫视,http://smart.dxjc.pp.ua/smart.php?id=fujian&token=tmxk
+广东珠江,http://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
+&token=tmxk
+https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk&token=tmxk
 
-赛雷英国,#genre#
-Al-Jazeera,http://free.cnlive.club/channel/n312e1c58.m3u8
-Animal Planet (Eng),http://free.cnlive.club/channel/23d55997.m3u8
-Axn,http://free.cnlive.club/channel/n4a933563.m3u8
-BBC 1,http://free.cnlive.club/channel/n12f70f84.m3u8
-BBC 2,http://free.cnlive.club/channel/n12f70f83.m3u8
-BBC Earth,http://free.cnlive.club/channel/3709a607.m3u8
-BBC Earth Lifestyle,http://free.cnlive.club/channel/72553caa.m3u8
-BBC World News,http://free.cnlive.club/channel/361e4ef6.m3u8
-Bloomberg News,http://free.cnlive.club/channel/fa3b1b0.m3u8
-CBBC,http://free.cnlive.club/channel/7b42ceb8.m3u8
-CBeebies,http://free.cnlive.club/channel/n56ec6d34.m3u8
-CGTN,http://free.cnlive.club/channel/7b42e3b6.m3u8
-Channel 4,http://free.cnlive.club/channel/2135795f.m3u8
-CNBC,http://free.cnlive.club/channel/7b42fbc4.m3u8
-DW (Deutsch),http://free.cnlive.club/channel/2a24e4c4.m3u8
-Euronews,http://free.cnlive.club/channel/19750d38.m3u8
-France 24,http://free.cnlive.club/channel/n13cd9691.m3u8
-Freesports,http://free.cnlive.club/channel/7994d0e3.m3u8
-HBO,http://free.cnlive.club/channel/n41a855c1.m3u8
-HGTV,http://free.cnlive.club/channel/7b452999.m3u8
-History,http://free.cnlive.club/channel/514cb39c.m3u8
-Hits Movie,http://free.cnlive.club/channel/n6906b9d8.m3u8
-itv 1,http://free.cnlive.club/channel/n10ba00dc.m3u8
-itv 2,http://free.cnlive.club/channel/n10ba00db.m3u8
-Kids TV,http://free.cnlive.club/channel/n10d59be3.m3u8
-More4,http://free.cnlive.club/channel/n1246df79.m3u8
-MTV Live,http://free.cnlive.club/channel/52a078d5.m3u8
-NatGeo,http://free.cnlive.club/channel/530c09b4.m3u8
-NatGeo Wild,http://free.cnlive.club/channel/n5e0570c6.m3u8
-NHK World,http://free.cnlive.club/channel/71de198b.m3u8
-Nick Jr,http://free.cnlive.club/channel/n7234a5b3.m3u8
-Nickelodeon,http://free.cnlive.club/channel/24e2e10d.m3u8
-Pick TV,http://free.cnlive.club/channel/n8682e17.m3u8
-Skynews,http://free.cnlive.club/channel/n65136184.m3u8
-Skysports Cricket,http://free.cnlive.club/channel/n178afb67.m3u8
-Skysports EPL,http://free.cnlive.club/channel/n11368637.m3u8
-Skysports F1,http://free.cnlive.club/channel/n7c6d1d1d.m3u8
-Skysports Main Event,http://free.cnlive.club/channel/n40025455.m3u8
-Skysports News,http://free.cnlive.club/channel/n1595d4d5.m3u8
-Star Movies,http://free.cnlive.club/channel/1c63b283.m3u8
-Thrill,http://free.cnlive.club/channel/n2b05b19d.m3u8
-TLC,http://free.cnlive.club/channel/n6760b00d.m3u8
-Warner TV,http://free.cnlive.club/channel/6235d917.m3u8
+香港频特,#genre#
+凤凰中文,http://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+凤凰资讯,http://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+凤凰香港,http://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+无线新闻,http://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
+翡翠台,http://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+翡翠台,http://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+翡翠台,http://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+明珠台,http://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+TVB Plus,http://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+无线华丽粤,http://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+无线华丽国,http://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+无线娱乐新闻,http://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
+千禧经典,http://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+TVB 星河 Xing He,http://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+HOY 78,http://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+VIUTV,http://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
+VIUTV 6,http://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
+RTHK-31,http://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
+RTHK-32,http://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+天映频道粤,http://smart.dxjc.pp.ua/smart.php?id=ctv18_twn&token=tmxk
+天映频道国,http://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+天映频道,http://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+天映经典,http://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+美亚电影,http://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+新加CHANNEL U,http://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
+新加CHANNEL 5,http://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+新加CHANNEL 8,http://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+八度空间,http://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
+Astro iQiyi 爱奇艺,http://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
+Astro QJ,http://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+Astro AOD,http://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+Astro AEC,http://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+Astro 欢喜,http://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+
+台湾频特,#genre#
+寰宇新闻,http://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+寰宇财经,http://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+中天新闻,http://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+中天亚洲,http://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+中天娱乐,http://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天综合,http://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+TVBS,http://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+TVBS Asia,http://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
+TVBS新闻,http://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+TVBS欢乐,http://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+东森新闻,http://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+东森财经,http://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+东森综合,http://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+东森戏剧,http://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+东森洋片,http://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+东森电影,http://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森幼幼,http://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+东森超视,http://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
+中视新闻,http://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中视,http://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+中视经典,http://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
+民视,http://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+民视新闻,http://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+民视第一,http://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+民视台湾,http://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+华视,http://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+台视综合,http://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+台视,http://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+台视新闻,http://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+公视台语,http://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+三立闽南,http://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立戏剧,http://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+三立综合,http://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+三立都会,http://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+非凡新闻,http://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+年代新闻,http://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+八大第一,http://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+八大综合,http://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+八大戏剧,http://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+八大娱乐,http://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
+华艺综合,http://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+大爱1台,http://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+大爱2台,http://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+好消息2,http://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+阿里郎综合,http://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+AXN电影,http://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+Cinemax,http://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+HBo高清,http://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+HBo家庭,http://smart.dxjc.pp.ua/smart.php?id=fyi_twn&token=tmxk
+好莱电影,http://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+龙祥电影,http://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+龙华经典,http://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+龙华戏剧,http://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+龙华电影,http://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+龙华偶像,http://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+龙华洋片,http://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+纬来电影,http://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来日本,http://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+纬来体育,http://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+纬来综合,http://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+纬来育乐,http://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+纬来精彩,http://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+靖天国际,http://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
+靖天卡通,http://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+ELta影剧,http://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+ELta综合,http://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+ELTA体育1,http://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+ELTA体育2,http://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+ELTA体育3,http://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+DAZN 1,http://smart.dxjc.pp.ua/smart.php?id=golfchannel_twn&token=tmxk
+博斯无限,http://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+博斯网球,http://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+博斯运动1,http://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+博斯运动2,http://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+博斯高球1,http://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+博斯高球2,http://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+探索亚洲,http://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+国家地理,http://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
+野生动物,http://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
+动物星球,http://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
+美食星球,http://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+亚洲美食,http://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+亚洲旅游,http://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+亚洲TLC,http://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+EYETV 旅游,http://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+EYETV 戏剧,http://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+MTV,http://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+Discovery,http://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+
+体育频特,#genre#
+爱尔达体育1台,http://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+爱尔达体育2台,http://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+爱尔达体育3台,http://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+爱尔达体育4台,http://smart.dxjc.pp.ua/smart.php?id=eltasport4_twn&token=tmxk
+Astro Arena,http://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+Astro Arena 2,http://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+Astro Arena Bola 1,http://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+Astro Arena Bola 2,http://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+Astro Bein sports 1,http://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+Astro Bein sports 2,http://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+Astro Bein sports 3,http://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+Astro Badminton 1,http://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
+Astro Badminton 2,http://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
+Astro Cricket,http://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+Astro EPL 1 backup,http://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
+Astro Football,http://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+Astro Golf,http://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
+Astro Grandstand,http://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
+Astro Premier League 1,http://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
+Astro Premier League 2,http://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
+Astro Sports Plus,http://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+Astro W-Sports,http://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
+Fight Sports,http://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+NBA TV,http://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+RTM Sports HD,http://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+Rugby Pass TV,http://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
+Sky sports Cricket,http://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+Sky sports EPL,http://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+Sky sports F1,http://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+Sky sports Main Event,http://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+Sky sports Mix,http://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+Sky sports News,http://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+Sony Ten 1,http://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
+Sony Ten 2,http://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
+Sony Ten 3,http://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
+SPOTV 1,http://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
+SPOTV 2,http://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+Supersports 1,http://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+Supersports 2,http://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+Supersports 3,http://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+Supersports 4,http://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
+Tnt Sports 1,http://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+TNT Sports 2,http://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+TNT Sports 3,http://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+TNT Sports 4,http://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
+WWE,http://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
+
+电影频玛,#genre#
+Animax,http://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+Astrol Kplus,http://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+Axn HD,http://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+Celestial Classic,http://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+Celestial Movies HD,http://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+Cinemax,http://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+Dreamworks,http://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+HBO HD,http://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+HBO Family,http://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+HBO Hits,http://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+HBO Signature,http://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+Hits,http://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+Hits Movie,http://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+Movies Now HD,http://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
+One,http://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+Paramount Network,http://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+Rock Actions,http://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+Rock Entertainment,http://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+SCM,http://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+Star Movies HD,http://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+Thrill,http://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+tvN Movie,http://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+Warner TV,http://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+
+纪录频特,#genre#
+Animal_Planet,http://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
+Animal Planet (Eng),http://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+BBC Earth HD,http://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+BBC Earth Lifestyle,http://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+CI,http://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
+Discovery Asia,http://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+Discovery HD,http://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
+Fashion TV,http://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
+Foodnetwork Hd,http://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+HGTV,http://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+History,http://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+NatGeo HD,http://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+Natgeo_HD,http://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
+NatGeo Wild HD,http://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+NatGeo_Wild HD,http://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
+TLC,http://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+
+新闻频特,#genre#
+ABC News,http://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
+Al-Jazeera,http://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+BBC World News,http://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+BBC World News,http://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
+Bloomberg News,http://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+CBS HD,http://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
+CBSN HD,http://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
+CNA,http://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+CNBC,http://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+CNN International,http://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+CNN backup,http://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+DW (Deutsch),http://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+Fox News,http://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
+France 24,http://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+NHK World,http://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+Skynews,http://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+
+儿童频特,#genre#
+Baby TV Eng,http://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
+CBeebies,http://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+Kids TV,http://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+Momo TV,http://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
+Baby TV,http://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+MiaoMi,http://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
+Cartoon Network,http://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+Nickelodeon,http://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nick Jr,http://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+
+新加频特,#genre#
+Channel 5,http://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+Channel 8,http://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+Suria,http://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
+Channel U,http://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
+Vasantham,http://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
+CNA backup,http://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
+MeWatch Ch 5,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
+MeWatch Ch 8,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
+MeWatch Ch U,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
+MeWatch Suria,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
+MeWatch Vasantham,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
+MeWatch CNA,http://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
+
+马来频特,#genre#
+TV1,http://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
+TV1 backup,http://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
+TV2,http://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
+TV3,http://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
+TV3 SD,http://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
+NTV7,http://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+TV8,http://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
+TV9,http://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+Ria,http://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
+Ria-3,http://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
+Al-Hijrah,http://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
+Al-Hijrah backup,http://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
+Awani,http://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
+Bernama,http://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+Prima,http://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
+Prima backup,http://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
+Prima backup 2,http://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
+Ceria,http://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
+Astro MTV,http://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
+Mecca Live HD,http://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
+Madinah HD,http://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
+Oasis,http://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
+Siar,http://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
+Citra,http://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
+Citra backup,http://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
+Sensasi,http://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
+Aura,http://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+Rania,http://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
+KBS World,http://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+Boo,http://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
+Awesome TV,http://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
+Astro Sonypix,http://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+Sony HD,http://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
+TvN,http://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
+AEC,http://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+华丽台 HD （Wah Lai Toi）,http://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+欢喜台 HD （Hua Hee Tai）,http://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+Astro QJ,http://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+TVB Jade,http://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+TVB Asia,http://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
+TVB Entertainment,http://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
+TVB Classic,http://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+AOD,http://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+TVB 星河台 Xing He,http://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+爱奇艺 iQiyi,http://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
+Goshop,http://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
+Celestial Movies HD,http://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+Astro LOL,http://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
+Astro Rusi,http://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
+WION,http://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
+RTM Asean,http://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
+
+印尼频特,#genre#
+TVRI National,http://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
+RCTI,http://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+Kompass TV,http://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+Berita Satu,http://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+Indosiar HD,http://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
+AnTV,http://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
+MNC TV,http://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
+Trans 7,http://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
+Transtv,http://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
+JTV,http://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+Metro TV,http://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+SCTV,http://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
+Tvone,http://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+TVMU,http://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
+GTV,http://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
+RTV,http://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+Jak TV,http://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
+iNews TV,http://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
+Daai TV,http://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
+Net TV,http://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
+EWTN,http://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+AlQuran AlKareem,http://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
+Tawaf TV,http://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
+Vision Prime,http://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
+Muslim TV,http://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
+Music TV,http://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
+Lifestyle&amp;Fashion,http://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
+Entertain,http://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+
+印度频特,#genre#
+Sun TV HD,http://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
+Star Vijay,http://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+Colors Tamil,http://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
+Sun Music,http://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+Astro Sunlife,http://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
+Astro Vaanavil,http://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
+Zee Tamil,http://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
+Zee Business,http://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
+News 18 Tamil,http://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
+Adithya,http://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
+Makkal TV,http://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
+Zee Action,http://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
+Astro KTV,http://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
+Zee TV HD,http://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
+Zee Cinema HD,http://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
+Color HD,http://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
+Starplus HD,http://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
+Picture HD,http://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
+Zee News,http://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
+Asianet,http://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+Asianet News,http://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
+Discovery World Tamil,http://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
+History Tamil,http://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
+NatGeo Tamil,http://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
+Natgeo Wild Tamil,http://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
+Discovery Kids Tamil,http://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+Discovery Tamil,http://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
+Sony Yay Tamil,http://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
+Sun TV India,http://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
+Starmaa HD,http://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
+Starmaa Movies HD,http://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
+Bollyone,http://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
+Vijay Super,http://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
+Vellithirai,http://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
+
+泰国频特,#genre#
+Channel 3 Thailand,http://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
+Channel 5 Thailand,http://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
+Channel 7 Thailand,http://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
+MCOT HD Thailand-1,http://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
+PPTV Thailand1,http://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
+Thai Thai,http://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
+Amarin,http://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
+Ch 8,http://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
+GmmOne,http://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
+Mono,http://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
+Thairath,http://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
+tpbs,http://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
+Workpoint,http://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
+Gmm Channel,http://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
+Nation,http://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
+Tnn24,http://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
+Nbt,http://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
+New,http://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
+TPTV,http://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
+
+英国频特,#genre#&token=tmxk
+BBC 1,http://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
+BBC 2,http://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
+CBBC,http://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+More4,http://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+Freesports,http://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
+Pick TV,http://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
+itv 1,http://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
+itv 2,http://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
+Euronews,http://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+Channel 4,http://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+BBC World News,http://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
+
+越南频特,#genre#
+ANTV,http://smart.dxjc.pp.ua/smart.php?id=viet_antv&token=tmxk
+VTV 1,http://smart.dxjc.pp.ua/smart.php?id=viet_vtv1&token=tmxk
+VTV 7,http://smart.dxjc.pp.ua/smart.php?id=viet_vtv7&token=tmxk
+HTV 7,http://smart.dxjc.pp.ua/smart.php?id=viet_htv7&token=tmxk
+HTV 9,http://smart.dxjc.pp.ua/smart.php?id=viet_htv9&token=tmxk
+BPTV 2,http://smart.dxjc.pp.ua/smart.php?id=viet_bptv2&token=tmxk
+BRT HD,http://smart.dxjc.pp.ua/smart.php?id=viet_brt&token=tmxk
+Ca Mau TV,http://smart.dxjc.pp.ua/smart.php?id=viet_camautv&token=tmxk
+Danang TV1 HD,http://smart.dxjc.pp.ua/smart.php?id=viet_danangtv1&token=tmxk
+Danang TV2 HD,http://smart.dxjc.pp.ua/smart.php?id=viet_danangtv2&token=tmxk
+HBTV HD,http://smart.dxjc.pp.ua/smart.php?id=viet_hbtv&token=tmxk
+PTTH 1,http://smart.dxjc.pp.ua/smart.php?id=viet_ptth1&token=tmxk
 
 dragon 中文,#genre#
 凤凰资讯,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=500960
