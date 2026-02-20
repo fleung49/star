@@ -721,7 +721,9 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 汕头综合,http://free.cnlive.club/channel/n2483dc12.m3u8
 汕头综合,http://www.1328099.xyz:9688/udp/239.253.43.45:5146
 汕尾新闻综合,http://www.1328099.xyz:9688/udp/239.77.0.25:5146
+汕尾新闻综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾文化生活,http://www.1328099.xyz:9688/udp/239.77.0.187:5146
+汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 佛山公共,http://www.1328099.xyz:9688/udp/239.253.43.53:5146
 佛山南海,http://www.1328099.xyz:9688/udp/239.253.43.54:5146
 佛山顺德,http://www.1328099.xyz:9688/udp/239.253.43.55:5146
@@ -757,7 +759,9 @@ HZTV-2,http://www.1328099.xyz:9688/udp/239.77.1.233:5146
 清远新闻综合,http://www.1328099.xyz:9688/udp/239.253.43.33:5146
 清远文旅生活,http://www.1328099.xyz:9688/udp/239.253.43.34:5146
 云浮综合,http://www.1328099.xyz:9688/udp/239.77.0.253:5146
+云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 云浮文旅,http://www.1328099.xyz:9688/udp/239.77.0.254:5146
+云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 茂名综合,http://www.1328099.xyz:9688/udp/239.77.0.206:5146
 茂名文化生活,http://www.1328099.xyz:9688/udp/239.77.0.207:5146
 
@@ -1115,77 +1119,39 @@ PULL FLV,#genre#
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://hls-pull-tvpublica.speedws.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJJcRgrp12oP6KkG1PhQWJK.flv
-无线华丽翡翠,http://hls-pull-tvpublica.speedws.com/live/QbsxHsZLNj2ktYJcRgrZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://hls-pull-tvpublica.speedws.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PJcRgrH9BhEE7d6usSBcnv4Ar.flv
 TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
 TVB PLUS,http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
 千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
-千禧经典台,http://hls-pull-tvpublica.speedws.com/live/dExItJcRgrRV3yeH33cbhn443lvbm4nz1qEI9Rfs1Slf1STsjz.flv
 无线娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-无线娱乐新闻台,http://hls-pull-tvpublica.speedws.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvJcRgr0LemY.flv
-无线明剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHmzzz.flv
-无线华剧,http://23.237.228.134/jsy/8b9aWkJJQwMAAA80dc5516084c53f2f7/hls.m3u8
-无线生活,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbzy.flv
-无线奖门,http://194.147.100.173:80/jsy/p.php/?id=mXWJm1j3jMKkpPh0qGhpfg
-无线奖门,http://pull-vivek.speedws.com:80/live/e4ebfa254f3858665fd57b86e8404993.flv
-无线金曲,http://194.147.100.173:80/jsy/p.php/?id=xkRjHIooECdnKh50AMomHg
-无线金曲,http://pull-vivek.speedws.com:80/live/ce50fe18981a11beba2f15bcb7492841.flv
-无线星河,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbxy.flv
-无线功夫,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbgf.flv
-黄金华剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHtvbhj.flv
-TVB DRAMA,http://hls-pull-tvpublica.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnJcRgrTnY2MtgFyn0ArB7z.flv
-TVB1,http://hls-pull-tvpublica.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBJcRgrePqp.flv
-TVBJ1,http://hls-pull-tvpublica.speedws.com/live/xU3SHbh8JcRgrCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
-MYTV SUPER 1,http://hls-pull-tvpublica.speedws.com/live/13Jgp5L7rVJcRgraDd1h9FpcjE33VoXAVYxLOhbuUeLAfqoxHi.flv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://hls-pull-tvpublica.speedws.com/live/gwS5kbEwNmWObygXxkddJcRgrYr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 Now新闻,http://cdn.163189.xyz/163189/now
-Now财经,http://hls.168.us.kg/u/333/master.m3u8
-Now直播,http://hls.168.us.kg/u/331/master.m3u8
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
-Now华剧,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowhj.flv
-Now剧集viu,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowjj.flv
-Now紫金,http://pull-vivek.speedws.com/live/hktv-7797245HdRUHNEdsHnowgj.flv
-Now体育Prime 630,https://hls.168.us.kg/u/630/master.m3u8
-Now Sports 1,http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-HOY 76,https://hls.168.us.kg/u/76/master.m3u8
-HOY 77,http://hls-pull-tvpublica.speedws.com/live/OCitoW8kzeqjIz3JcRgrfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
 HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 78,http://hls-pull-tvpublica.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzJcRgr05KeGhG.flv
 VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 VIUTV,http://cdn.163189.xyz/163189/viu
 ViuTv6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-RTHK-31,http://hls-pull-tvpublica.speedws.com/live/LfN6YUZUCujLNYAAbTwZNcgmoY0FTLE4wnkJcRgr3nVtHcTXws.flv
 RTHK-31,http://cdn.163189.xyz/163189/rthk31
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-极限电影台,http://hls-pull-wicketpw.speedws.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfols4gDgNC19xXfFvAn4GP.flv
 美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
 天映频道,http://74.91.26.218:82/live/typd.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-澳视澳门,http://hls-pull-tvpublica.speedws.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQKvwd4tD8Z686YrsM.flv
-爱奇艺,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0C4kPNDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
-八度空间,http://hls-pull-tvpublica.speedws.com/live/SEVQ0bRXMnAMbTbILeAhqwKvwd4pwd0zWAf8afKXj0F625wjNc.flv
 八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
-广东体育,http://hls-pull-tvpublica.speedws.com/live/b3wPp1TZjbT396pVN8blfaFsoUGla8BCLip9qWHN7Qlptr8KFy.flv
 广东体育,https://cdn.163189.xyz/163189/gdty
 广东体育,http://119.123.79.39:8086/hls/42/index.m3u8
 广东湾区,http://119.123.79.39:8086/hls/29/index.m3u8
-广东卫视,http://hls-pull-tvpublica.speedws.com/live/1V56OQc2BnpdihCiNtNfaFsoMjyrh2lzJlM47qBfuLGqM2qKrbC.flv
 广东卫视,http://119.123.79.39:8086/hls/44/index.m3u8
 广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
-广东珠江,http://hls-pull-tvpublica.speedws.com/live/3S8xigHp0f96ji1GgfcK5muiuOFRAfaFsoLxBEU2DqbBg5l1J7.flv
 广东珠江,https://cdn.163189.xyz/163189/gdzj
 广东珠江,http://119.123.79.39:8086/hls/47/index.m3u8
 广东新闻,http://119.123.79.39:8086/hls/45/index.m3u8
@@ -1195,46 +1161,29 @@ RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州南国,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-CCTV-1,http://hls-pull-tvpublica.speedws.com/live/ft4Fc0PGDbG0WWFgXQNfaFsoYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
-CCTV-2,http://hls-pull-tvpublica.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNfaFsovGhZHFxhSHx8cqakkdgd999.flv
-CCTV-3,http://hls-pull-tvpublica.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNfaFso3evb3dZyF.flv
-CCTV-4,http://hls-pull-tvpublica.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNfaFsoAG166MYUo9TSyI9UUqn.flv
-CCTV-13,http://hls-pull-tvpublica.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONfaFsoLWazSU1kmL.flv
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+CCTV-5+,http://58.210.139.130:9901/tsfile/live/0140_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
+CCTV-8,http://69.30.245.50/live/cctv8.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-11,http://58.210.139.130:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV-12,http://58.210.139.130:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-CCTV-14,http://hls-pull-tvpublica.speedws.com/live/pyRhADNfaFsolBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
-CCTV-16,http://hls-pull-tvpublica.speedws.com/live/R6JcRgrqenSOIcWLKrw7tdTr6YAlUncDMRVANBe7tBQpLPlbtN.flv
-江苏卫视,http://hls-pull-tvpublica.speedws.com/live/trlXf058oDBEjovR1h5sNfaFsozksVTZ55YkdEsiVFiGFzpkRsB.flv
-浙江卫视,http://hls-pull-tvpublica.speedws.com/live/gbH4PLQ3sx9tsENfaFsoN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv
-湖南卫视,http://hls-pull-tvpublica.speedws.com/live/rshHW4V9A5aGocS0bN5foBUP5w0MZNfaFsoVtVE100iJPiMe7rq.flv
-山西卫视,http://hls-pull-tvpublica.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWofaFsoPOG.flv
-青海卫视,http://hls-pull-tvpublica.speedws.com/live/Vl8mV4zn76zfaFsoLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
-星空卫视,http://pull-skycorp.speedws.com/live/O6bfbXwHUf2RvwuzXM1D4wI4h1r2TYzMljRckRMJ0nU5YV9170.flv
+CCTV-13,http://58.210.139.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV-14,http://58.210.139.130:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV-15,http://58.210.139.130:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV-4k,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-8k,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-中天新闻,http://67.220.67.246:2347/livehttpplay?channel_id=20163
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
-中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
-中天新闻,http://hls-pull-tvpublica.speedws.com/live/nZWx3bceUJ5IXsQsBQhC5PBnH2vyDoW8dpFHbI5j1w0Az7shIA.flv
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
-中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
-TVBS,http://hls-pull-usmanriaz.speedws.com/live/hktv-cctv987HdRUHNEdsHtvbs.flv
-TVBS新闻,http://hls-pull-tvpublica.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lpr38ITf0CHqgjYOaOYV5JSmoP2.flv
-TVBS精采台,http://hls-pull-tvpublica.speedws.com/live/0N6bpFYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
-东森电影,http://hls-pull-tvpublica.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TN6bpF9yKesDJWcvlAgBMV6uv722A6.flv
-八大綜合台,http://hls-pull-tvpublica.speedws.com/live/MHwQxVN5AxNqJmPfalrE7K5hthjpuObDRgh08LA1kizbFDBtzj.flv
-非凡商业,http://hls-pull-tvpublica.speedws.com/live/mQRsAQ2XN6bpFjlOQbPmgwbdL1yQtRKQNzseg7A179VgMYF7dn.flv
-台视新闻,http://hls-pull-wicketpw.speedws.com/live/ofFqVir8hEYxZDb6y677FJxn0xrDBtzjPfOT6XuHngNXajvBUY.flv
-台视综合,http://hls-pull-tvpublica.speedws.com/live/1fAAda17L41fqlzFEVKaY5nPKNqvN6bpFwKIcIMBeBbKtYRRdqX.flv
-民视,http://hls-pull-tvpublica.speedws.com/live/ERadomiHhS5PTDVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-民视影剧,http://hls-pull-tvpublica.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8N6bpFOTgHyml5y7Sy7uhf.flv
-民视综艺,http://hls-pull-tvpublica.speedws.com/live/BN6bpFwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
-华艺中文台,http://hls-pull-wicketpw.speedws.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNS5PTDHJRuFYfN3ccgIZrS.flv
-博斯运动1,http://hls-pull-tvpublica.speedws.com/live/hWhycHOSzY74KUs5OPMMk2I38ITft0bSJUhq7NdxN7hAy0aIYH.flv
-纬来电影,http://hls-pull-tvpublica.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOfVv8adRtOtcGBwEdCNmLrP.flv
-靖天电影,http://hls-pull-tvpublica.speedws.com:80/live/GXPI9p38ITfUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
-靖洋戲劇,http://hls-pull-tvpublica.speedws.com/live/kzhROyIqAycjN38ITfFQLOuapdHlFHHyrTenKIiwObxuYQCNevM.flv
-龙华电影,http://hls-pull-tvpublica.speedws.com/live/IpPvbrMRv3mmh9SqiPKgg38ITf0kDpl7ak7v0IYr5UdKor379J.flv
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华卡通,https://cdn8.163189.xyz/163189/lhkt
@@ -1242,13 +1191,7 @@ TVBS精采台,http://hls-pull-tvpublica.speedws.com/live/0N6bpFYaU9Xvyn84tynbS8c
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,https://cdn8.163189.xyz/163189/lhyp
-ASTRO FOOTBALL,http://hls-pull-wicketpw.speedws.com:80/live/hCe0d3jeGmSyzU5chYryZRIaejWAkiQeStFovYqtEKbYLq3F5H.flv
-ELTA综合,http://hls-pull-tvpublica.speedws.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJ38ITfqFQ7poRQYW7.flv
-ROCK ACTION,http://hls-pull-tvpublica.speedws.com/live/DaDB5k02vT76mWLRRI98QhC5PgnAtwlMDkpUAiMaLoRN3ogEGf.flv
-SKY SPORTS Football,http://hls-pull-tvpublica.speedws.com/live/hCe0d3jeGmSyzU5xbbFcZRIaejWAkiQeStFovYqtEKbYLq3F5H.flv
-SPOTV-1,http://hls-pull-tvpublica.speedws.com:80/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBryxbbFce.flv
-SPOTV-2,http://hls-pull-tvpublica.speedws.com:80/live/0QiQJxpYsTrGCAUjnrGAgrcQwiVCocHAxbbFcHFQ6bP4n5MQQS.flv
-TNT SPORTS 1,http://hls-pull-tvpublica.speedws.com/live/xFEVBVeDx44U2IKkz2drW4nnl9jcZPHT.flv
+
 
 风云4666888,#genre#
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
