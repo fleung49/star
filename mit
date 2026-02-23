@@ -1269,125 +1269,6 @@ CCTV15-音乐,http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playli
 杭州TV1,http://124.90.45.52:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://124.90.45.52:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
-央视卫视23.237,#genre#
-CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV4,http://23.237.228.134/live5/CCTV4.m3u8
-CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
-CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
-CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV13,http://23.237.228.134/live3/CCTV13.m3u8
-CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
-CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
-CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
-CGTN,http://23.237.228.134/live3/CGTN.m3u8
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-东南卫视,http://23.237.228.134/live6/dongnan.m3u8
-海南卫视,http://23.237.228.134/live6/hainan.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-安徽卫视,http://23.237.228.134/live8/anhui.m3u8
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
-天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-东方卫视,http://23.237.228.134/live3/dongfang.m3u8
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
-湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
-四川卫视,http://23.237.228.134/live6/sichuan.m3u8
-重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
-河南卫视,http://23.237.228.134/live6/henan.m3u8
-黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
-贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
-河北卫视,http://23.237.228.134/live8/hebei.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-吉林卫视,http://23.237.228.134/live8/jilin.m3u8
-陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
-甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
-内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-
-咪咕央视43,#genre#
-CCTV-1,http://43.251.226.89:8080/play/1.m3u8
-CCTV-2,http://43.251.226.89:8080/play/2.m3u8
-CCTV-3,http://43.251.226.89:8080/play/3.m3u8
-CCTV-4,http://43.251.226.89:8080/play/4.m3u8
-CCTV-4欧洲,http://43.251.226.89:8080/play/18.m3u8
-CCTV-4美洲,http://43.251.226.89:8080/play/19.m3u8
-CCTV-5,http://43.251.226.89:8080/play/5.m3u8
-CCTV-5＋,http://43.251.226.89:8080/play/6.m3u8
-CCTV-6,http://43.251.226.89:8080/play/7.m3u8
-CCTV-7,http://43.251.226.89:8080/play/8.m3u8
-CCTV-8,http://43.251.226.89:8080/play/9.m3u8
-CCTV-9,http://43.251.226.89:8080/play/10.m3u8
-CCTV-10,http://43.251.226.89:8080/play/11.m3u8
-CCTV-11,http://43.251.226.89:8080/play/12.m3u8
-CCTV-12,http://43.251.226.89:8080/play/13.m3u8
-CCTV-13,http://43.251.226.89:8080/play/14.m3u8
-CCTV-14,http://43.251.226.89:8080/play/15.m3u8
-CCTV-15,http://43.251.226.89:8080/play/16.m3u8
-CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV-17,http://43.251.226.89:8080/play/17.m3u8
-CGTN,http://43.251.226.89:8080/play/25.m3u8
-CGTN DOCUMENTARY,http://43.251.226.89:8080/play/20.m3u8
-大湾区卫视,http://43.251.226.89:8080/play/42.m3u8
-广东卫视,http://43.251.226.89:8080/play/35.m3u8
-海南卫视,http://43.251.226.89:8080/play/47.m3u8
-三沙卫视,http://43.251.226.89:8080/play/53.m3u8
-东南卫视,http://43.251.226.89:8080/play/46.m3u8
-海峡卫视,http://43.251.226.89:8080/play/48.m3u8
-东方卫视,http://43.251.226.89:8080/play/33.m3u8
-北京卫视,http://43.251.226.89:8080/play/36.m3u8
-江苏卫视,http://43.251.226.89:8080/play/34.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖北卫视,http://43.251.226.89:8080/play/43.m3u8
-江西卫视,http://43.251.226.89:8080/play/39.m3u8
-江西卫视,http://43.251.226.89:8080/play/44.m3u8
-河南卫视,http://43.251.226.89:8080/play/40.m3u8
-河北卫视,http://43.251.226.89:8080/play/38.m3u8
-辽宁卫视,http://43.251.226.89:8080/play/37.m3u8
-重庆卫视,http://43.251.226.89:8080/play/52.m3u8
-吉林卫视,http://43.251.226.89:8080/play/44.m3u8
-宁夏卫视,http://43.251.226.89:8080/play/51.m3u8
-陕西卫视,http://43.251.226.89:8080/play/41.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
-青海卫视,http://43.251.226.89:8080/play/45.m3u8
-兵团卫视,http://43.251.226.89:8080/play/50.m3u8
-农林卫视,http://43.251.226.89:8080/play/49.m3u8
-上海新闻综合,http://43.251.226.89:8080/play/54.m3u8
-江苏体育休闲,http://43.251.226.89:8080/play/60.m3u8
-江苏城市,http://43.251.226.89:8080/play/61.m3u8
-江苏国际,http://43.251.226.89:8080/play/62.m3u8
-江苏影视,http://43.251.226.89:8080/play/64.m3u8
-江苏综艺,http://43.251.226.89:8080/play/65.m3u8
-江苏新闻,http://43.251.226.89:8080/play/66.m3u8
-盐城新闻综合,http://43.251.226.89:8080/play/67.m3u8
-淮安新闻综合,http://43.251.226.89:8080/play/68.m3u8
-泰州新闻综合,http://43.251.226.89:8080/play/69.m3u8
-连云港新闻综合,http://43.251.226.89:8080/play/70.m3u8
-宿迁新闻综合,http://43.251.226.89:8080/play/71.m3u8
-徐州新闻综合,http://43.251.226.89:8080/play/72.m3u8
-优漫卡通频道,http://43.251.226.89:8080/play/73.m3u8
-江阴新闻综合,http://43.251.226.89:8080/play/74.m3u8
-南通新闻综合,http://43.251.226.89:8080/play/75.m3u8
-宜兴新闻综合,http://43.251.226.89:8080/play/76.m3u8
-溧水新闻综合,http://43.251.226.89:8080/play/77.m3u8
-陕西银龄频道,http://43.251.226.89:8080/play/78.m3u8
-陕西秦腔频道,http://43.251.226.89:8080/play/80.m3u8
-陕西新闻资讯频道,http://43.251.226.89:8080/play/81.m3u8
-财富天下,http://43.251.226.89:8080/play/82.m3u8
-
 央视频gslb,#genre#
 CCTV-1HD,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2HD,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
@@ -1646,39 +1527,465 @@ TRACE Sport Stars,https://tv.iill.top/4gtv/4gtv-4gtv077
 TRACE Urban,https://tv.iill.top/4gtv/4gtv-4gtv082
 TV5MONDE STYLE生活时尚,https://tv.iill.top/4gtv/4gtv-live122
 
-DBSX,#genre#
-无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
-翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=Jade_xue
-华丽翡翠台,https://smt.1678520.xyz/smt3.2.3.php?id=Wlt
-明珠台,https://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
-TVB PLUS,https://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
-TVB星河,https://smt.1678520.xyz/smt3.2.3.php?id=Xinhe
-无线娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
-无线千禧经典台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-ViuTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-VIUTV,http://cdn.163189.xyz/163189/viu
-VIUTV,https://yang-1989.eu.org/live/ViuTV
-VIUTV6,https://smt.1678520.xyz/smt3.2.3.php?id=viusix_twn
-VIUTV6,https://yang-1989.eu.org/live/ViuTVsix
-HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 78,https://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
-RTHK 31,https://smt.1678520.xyz/smt3.2.3.php?id=rhk31_twn
-RTHK-31,http://cdn.163189.xyz/163189/rthk31
-RTHK 32,https://smt.1678520.xyz/smt3.2.3.php?id=rhk32_twn
-RTHK-32,http://cdn.163189.xyz/163189/rthk32
-凤凰中文,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixtv_hd
-凤凰资讯,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
-凤凰香港,https://smt.1678520.xyz/smt3.2.3.php?id=hkphoenix_twn
-美亚电影台,https://smt.1678520.xyz/smt3.2.3.php?id=meiyamovie_twn
-天映频道,https://smt.1678520.xyz/smt3.2.3.php?id=Celestial
-天映频道,https://smt.1678520.xyz/smt3.2.3.php?id=ctv18_twn
-八度空间,https://smt.1678520.xyz/smt3.2.3.php?id=TV8
-Astro AEC,https://smt.1678520.xyz/smt3.2.3.php?id=AEC
-Astro AOD,https://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
-Astro iQiyi,https://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
-Astro QJ国,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-Astro欢喜,https://smt.1678520.xyz/smt3.2.3.php?id==Huahee
+香港频特,#genre#
+凤凰中文,http://111.iptv543.com/live.php?id=phoenixtv_hd
+凤凰资讯,http://111.iptv543.com/live.php?id=phoenixinfo_hd
+凤凰香港,http://111.iptv543.com/live.php?id=hkphoenix_twn
+无线新闻,http://111.iptv543.com/live.php?id=inews_twn
+翡翠台,http://111.iptv543.com/live.php?id=jade_twn
+翡翠台,http://111.iptv543.com/live.php?id=Jade_xue
+翡翠台,http://111.iptv543.com/live.php?id=Tvbjade
+明珠台,http://111.iptv543.com/live.php?id=pearl_twn
+TVB Plus,http://111.iptv543.com/live.php?id=j2_twn
+无线华丽粤,http://111.iptv543.com/live.php?id=Wlt
+无线华丽国,http://111.iptv543.com/live.php?id=Tvbjade
+无线娱乐新闻,http://111.iptv543.com/live.php?id=Tvbentertainment
+千禧经典,http://111.iptv543.com/live.php?id=Tvbclassic
+TVB 星河 Xing He,http://111.iptv543.com/live.php?id=Xinhe
+HOY 78,http://111.iptv543.com/live.php?id=hoycaijing_twn
+VIUTV,http://111.iptv543.com/live.php?id=viu1_twn
+VIUTV 6,http://111.iptv543.com/live.php?id=viusix_twn
+RTHK-31,http://111.iptv543.com/live.php?id=rhk31_twn
+RTHK-32,http://111.iptv543.com/live.php?id=rhk32_twn
+天映频道粤,http://111.iptv543.com/live.php?id=ctv18_twn
+天映频道国,http://111.iptv543.com/live.php?id=Celestial
+天映频道,http://111.iptv543.com/live.php?id=Celestialindo
+天映经典,http://111.iptv543.com/live.php?id=Celestial2
+美亚电影,http://111.iptv543.com/live.php?id=meiyamovie_twn
+新加CHANNEL U,http://111.iptv543.com/live.php?id=ChannelU
+新加CHANNEL 5,http://111.iptv543.com/live.php?id=Channel5HD
+新加CHANNEL 8,http://111.iptv543.com/live.php?id=Channel8HD
+八度空间,http://111.iptv543.com/live.php?id=TV8
+Astro iQiyi 爱奇艺,http://111.iptv543.com/live.php?id=Qiyi
+Astro QJ,http://111.iptv543.com/live.php?id=Quanjia
+Astro AOD,http://111.iptv543.com/live.php?id=Aodhd
+Astro AEC,http://111.iptv543.com/live.php?id=AEC
+Astro 欢喜,http://111.iptv543.com/live.php?id=Huahee
+
+台湾频特,#genre#
+寰宇新闻,http://111.iptv543.com/live.php?id=huanyuxinwen_twn
+寰宇财经,http://111.iptv543.com/live.php?id=huanyutaiwan_twn
+中天新闻,http://111.iptv543.com/live.php?id=ctinews
+中天亚洲,http://111.iptv543.com/live.php?id=ctiasia_twn
+中天娱乐,http://111.iptv543.com/live.php?id=ctient
+中天综合,http://111.iptv543.com/live.php?id=ctizhonghe
+TVBS,http://111.iptv543.com/live.php?id=tvbs
+TVBS Asia,http://111.iptv543.com/live.php?id=Tvbasia
+TVBS新闻,http://111.iptv543.com/live.php?id=tvbs_n
+TVBS欢乐,http://111.iptv543.com/live.php?id=tvbshuanle_twn
+东森新闻,http://111.iptv543.com/live.php?id=ettvnews
+东森财经,http://111.iptv543.com/live.php?id=ettvcaijing_twn
+东森综合,http://111.iptv543.com/live.php?id=ettvzhonghe
+东森戏剧,http://111.iptv543.com/live.php?id=ettvdrama
+东森洋片,http://111.iptv543.com/live.php?id=ettvwestern
+东森电影,http://111.iptv543.com/live.php?id=ettvmovie
+东森幼幼,http://111.iptv543.com/live.php?id=yoyo_twn
+东森超视,http://111.iptv543.com/live.php?id=ettvsuper
+中视新闻,http://111.iptv543.com/live.php?id=zhongshinews_twn
+中视,http://111.iptv543.com/live.php?id=zhongshihd_twn
+中视经典,http://111.iptv543.com/live.php?id=zhongshi_twn
+民视,http://111.iptv543.com/live.php?id=ftvhd_taiwan
+民视新闻,http://111.iptv543.com/live.php?id=ftvnew_taiwan
+民视第一,http://111.iptv543.com/live.php?id=lunghuajingdian_twn
+民视台湾,http://111.iptv543.com/live.php?id=ftvtaiwan_twn
+华视,http://111.iptv543.com/live.php?id=ctshd_twn
+台视综合,http://111.iptv543.com/live.php?id=ttvzhonghe
+台视,http://111.iptv543.com/live.php?id=ttv_taiwan
+台视新闻,http://111.iptv543.com/live.php?id=ttvnews_twn
+公视台语,http://111.iptv543.com/live.php?id=ctv2_twn
+三立闽南,http://111.iptv543.com/live.php?id=sanlitaiwan
+三立戏剧,http://111.iptv543.com/live.php?id=sanlixiju_twn
+三立综合,http://111.iptv543.com/live.php?id=sanlizhonghe
+三立都会,http://111.iptv543.com/live.php?id=sanlidouhui
+非凡新闻,http://111.iptv543.com/live.php?id=feifannews_twn
+年代新闻,http://111.iptv543.com/live.php?id=niandainews_twn
+八大第一,http://111.iptv543.com/live.php?id=badafirst
+八大综合,http://111.iptv543.com/live.php?id=badazhonghe
+八大戏剧,http://111.iptv543.com/live.php?id=badadrama
+八大娱乐,http://111.iptv543.com/live.php?id=badaentertain
+华艺综合,http://111.iptv543.com/live.php?id=weishichinese_twn
+大爱1台,http://111.iptv543.com/live.php?id=daai_twn
+大爱2台,http://111.iptv543.com/live.php?id=daai2_twn
+好消息2,http://111.iptv543.com/live.php?id=good2_twn
+阿里郎综合,http://111.iptv543.com/live.php?id=arirang_twn
+AXN电影,http://111.iptv543.com/live.php?id=axn_twn
+Cinemax,http://111.iptv543.com/live.php?id=cinemax_twn
+HBo高清,http://111.iptv543.com/live.php?id=hbohd_twn
+HBo家庭,http://111.iptv543.com/live.php?id=fyi_twn
+好莱电影,http://111.iptv543.com/live.php?id=hollywoodmovies_twn
+龙祥电影,http://111.iptv543.com/live.php?id=lungxiangtime_twn
+龙华经典,http://111.iptv543.com/live.php?id=lunghuajingdian_twn
+龙华戏剧,http://111.iptv543.com/live.php?id=lunghuaxiju_twn
+龙华电影,http://111.iptv543.com/live.php?id=xingwei_movie
+龙华偶像,http://111.iptv543.com/live.php?id=lunghuaidol_twn
+龙华洋片,http://111.iptv543.com/live.php?id=lunghuawestern_twn
+纬来电影,http://111.iptv543.com/live.php?id=videolandmovie
+纬来日本,http://111.iptv543.com/live.php?id=videolandjapan
+纬来体育,http://111.iptv543.com/live.php?id=videolandsport
+纬来综合,http://111.iptv543.com/live.php?id=videolandzonghe
+纬来育乐,http://111.iptv543.com/live.php?id=videolandyule
+纬来精彩,http://111.iptv543.com/live.php?id=videolandspecial_twn
+靖天国际,http://111.iptv543.com/live.php?id=jingtianintl_twn
+靖天卡通,http://111.iptv543.com/live.php?id=jingtiancartoon_twn
+ELta影剧,http://111.iptv543.com/live.php?id=eltayingju_twn
+ELta综合,http://111.iptv543.com/live.php?id=eltazonghe_twn
+ELTA体育1,http://111.iptv543.com/live.php?id=eltasport_twn
+ELTA体育2,http://111.iptv543.com/live.php?id=eltasport2_twn
+ELTA体育3,http://111.iptv543.com/live.php?id=eltasport3_twn
+DAZN 1,http://111.iptv543.com/live.php?id=golfchannel_twn
+博斯无限,http://111.iptv543.com/live.php?id=bosiunlimited_twn
+博斯网球,http://111.iptv543.com/live.php?id=bositennis_twn
+博斯运动1,http://111.iptv543.com/live.php?id=bosisport1_twn
+博斯运动2,http://111.iptv543.com/live.php?id=bosisport2_twn
+博斯高球1,http://111.iptv543.com/live.php?id=bosigolf1_twn
+博斯高球2,http://111.iptv543.com/live.php?id=bosigolf2_twn
+探索亚洲,http://111.iptv543.com/live.php?id=discoverytwn_twn
+国家地理,http://111.iptv543.com/live.php?id=natgeohd_twn
+野生动物,http://111.iptv543.com/live.php?id=natgeowild_twn
+动物星球,http://111.iptv543.com/live.php?id=animalplanet_twn
+美食星球,http://111.iptv543.com/live.php?id=foodplanet_twn
+亚洲美食,http://111.iptv543.com/live.php?id=afc_twn
+亚洲旅游,http://111.iptv543.com/live.php?id=asiatravel_twn
+亚洲TLC,http://111.iptv543.com/live.php?id=tlc_twn
+EYETV 旅游,http://111.iptv543.com/live.php?id=eyetvtravel_twn
+EYETV 戏剧,http://111.iptv543.com/live.php?id=eyetvxiju_twn
+MTV,http://111.iptv543.com/live.php?id=mtvhd_twn
+Discovery,http://111.iptv543.com/live.php?id=discoverytwn_twn
+
+体育频特,#genre#
+爱尔达体育1台,http://111.iptv543.com/live.php?id=eltasport_twn
+爱尔达体育2台,http://111.iptv543.com/live.php?id=eltasport2_twn
+爱尔达体育3台,http://111.iptv543.com/live.php?id=eltasport3_twn
+爱尔达体育4台,http://111.iptv543.com/live.php?id=eltasport4_twn
+Astro Arena,http://111.iptv543.com/live.php?id=Arena
+Astro Arena 2,http://111.iptv543.com/live.php?id=Arena2
+Astro Arena Bola 1,http://111.iptv543.com/live.php?id=Bolaarena1
+Astro Arena Bola 2,http://111.iptv543.com/live.php?id=Bolaarena2
+Astro Bein sports 1,http://111.iptv543.com/live.php?id=Astrobein1
+Astro Bein sports 2,http://111.iptv543.com/live.php?id=Astrobein2
+Astro Bein sports 3,http://111.iptv543.com/live.php?id=Astrobein3
+Astro Badminton 1,http://111.iptv543.com/live.php?id=go_badminton1
+Astro Badminton 2,http://111.iptv543.com/live.php?id=go_badminton2
+Astro Cricket,http://111.iptv543.com/live.php?id=Acricket
+Astro EPL 1 backup,http://111.iptv543.com/live.php?id=go_assp1x
+Astro Football,http://111.iptv543.com/live.php?id=go_assp4
+Astro Golf,http://111.iptv543.com/live.php?id=Agolf
+Astro Grandstand,http://111.iptv543.com/live.php?id=go_assp3
+Astro Premier League 1,http://111.iptv543.com/live.php?id=go_assp1
+Astro Premier League 2,http://111.iptv543.com/live.php?id=go_assp2
+Astro Sports Plus,http://111.iptv543.com/live.php?id=go_sportsplus
+Astro W-Sports,http://111.iptv543.com/live.php?id=go_assp5
+Fight Sports,http://111.iptv543.com/live.php?id=Fs
+NBA TV,http://111.iptv543.com/live.php?id=Nba
+RTM Sports HD,http://111.iptv543.com/live.php?id=Rtmsport
+Rugby Pass TV,http://111.iptv543.com/live.php?id=Rugbypasstv
+Sky sports Cricket,http://111.iptv543.com/live.php?id=tiankongcricket
+Sky sports EPL,http://111.iptv543.com/live.php?id=tiankongepl
+Sky sports F1,http://111.iptv543.com/live.php?id=tiankongf1
+Sky sports Main Event,http://111.iptv543.com/live.php?id=tiankongmain
+Sky sports Mix,http://111.iptv543.com/live.php?id=tiankongmix
+Sky sports News,http://111.iptv543.com/live.php?id=tiankongnews
+Sony Ten 1,http://111.iptv543.com/live.php?id=ten1_raj
+Sony Ten 2,http://111.iptv543.com/live.php?id=ten2_raj
+Sony Ten 3,http://111.iptv543.com/live.php?id=ten3_raj
+SPOTV 1,http://111.iptv543.com/live.php?id=go_spotv
+SPOTV 2,http://111.iptv543.com/live.php?id=go_spotv2
+Supersports 1,http://111.iptv543.com/live.php?id=Assp1
+Supersports 2,http://111.iptv543.com/live.php?id=Assp2
+Supersports 3,http://111.iptv543.com/live.php?id=Assp3
+Supersports 4,http://111.iptv543.com/live.php?id=Assp4
+Tnt Sports 1,http://111.iptv543.com/live.php?id=6fac0aaead
+TNT Sports 2,http://111.iptv543.com/live.php?id=d9a76a79cc
+TNT Sports 3,http://111.iptv543.com/live.php?id=5fea4d73db
+TNT Sports 4,http://111.iptv543.com/live.php?id=tntsport4
+WWE,http://111.iptv543.com/live.php?id=Wwe
+
+电影频玛,#genre#
+Animax,http://111.iptv543.com/live.php?id=Animax
+Astrol Kplus,http://111.iptv543.com/live.php?id=Kplus
+Axn HD,http://111.iptv543.com/live.php?id=Axn
+Celestial Classic,http://111.iptv543.com/live.php?id=Celestial2
+Celestial Movies HD,http://111.iptv543.com/live.php?id=Celestialindo
+Cinemax,http://111.iptv543.com/live.php?id=Cinemax
+Dreamworks,http://111.iptv543.com/live.php?id=Dreamworks
+HBO HD,http://111.iptv543.com/live.php?id=Hbo
+HBO Family,http://111.iptv543.com/live.php?id=Hbofamily
+HBO Hits,http://111.iptv543.com/live.php?id=Hbohitshd
+HBO Signature,http://111.iptv543.com/live.php?id=Hbosignature
+Hits,http://111.iptv543.com/live.php?id=Hits
+Hits Movie,http://111.iptv543.com/live.php?id=Hitsmovie
+Movies Now HD,http://111.iptv543.com/live.php?id=moviesnow_raj
+One,http://111.iptv543.com/live.php?id=One
+Paramount Network,http://111.iptv543.com/live.php?id=Paramountnetwork
+Rock Actions,http://111.iptv543.com/live.php?id=Rockaction
+Rock Entertainment,http://111.iptv543.com/live.php?id=Rockentertain
+SCM,http://111.iptv543.com/live.php?id=Weishimovie
+Star Movies HD,http://111.iptv543.com/live.php?id=starmovies_raj
+Thrill,http://111.iptv543.com/live.php?id=Thrill
+tvN Movie,http://111.iptv543.com/live.php?id=Tvnmovie
+Warner TV,http://111.iptv543.com/live.php?id=WarnerTV
+
+纪录频特,#genre#
+Animal_Planet,http://111.iptv543.com/live.php?id=animalplanet_twn
+Animal Planet (Eng),http://111.iptv543.com/live.php?id=AnimalPlanet
+BBC Earth HD,http://111.iptv543.com/live.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://111.iptv543.com/live.php?id=bbclifestyle_twn
+CI,http://111.iptv543.com/live.php?id=ci_twn
+Discovery Asia,http://111.iptv543.com/live.php?id=discoverytwn_twn
+Discovery HD,http://111.iptv543.com/live.php?id=discoveryhd_twn
+Fashion TV,http://111.iptv543.com/live.php?id=fashiontv_twn
+Foodnetwork Hd,http://111.iptv543.com/live.php?id=Foodnetwork
+HGTV,http://111.iptv543.com/live.php?id=HGTV
+History,http://111.iptv543.com/live.php?id=History
+NatGeo HD,http://111.iptv543.com/live.php?id=Natgeo
+Natgeo_HD,http://111.iptv543.com/live.php?id=natgeohd_twn
+NatGeo Wild HD,http://111.iptv543.com/live.php?id=Natgeowild
+NatGeo_Wild HD,http://111.iptv543.com/live.php?id=natgeowild_twn
+TLC,http://111.iptv543.com/live.php?id=Tlc
+
+新闻频特,#genre#
+ABC News,http://111.iptv543.com/live.php?id=abcnews_glo
+Al-Jazeera,http://111.iptv543.com/live.php?id=aljazeera_twn
+BBC World News,http://111.iptv543.com/live.php?id=bbcnews_twn
+BBC World News,http://111.iptv543.com/live.php?id=Bbcnews
+Bloomberg News,http://111.iptv543.com/live.php?id=bloomberg_twn
+CBS HD,http://111.iptv543.com/live.php?id=cbshd_glo
+CBSN HD,http://111.iptv543.com/live.php?id=cbsn_glo
+CNA,http://111.iptv543.com/live.php?id=cna
+CNBC,http://111.iptv543.com/live.php?id=cnbc_twn
+CNN International,http://111.iptv543.com/live.php?id=Cnn
+CNN backup,http://111.iptv543.com/live.php?id=cnn_twn
+DW (Deutsch),http://111.iptv543.com/live.php?id=dw_twn
+Fox News,http://111.iptv543.com/live.php?id=foxnews_twn
+France 24,http://111.iptv543.com/live.php?id=france24_twn
+NHK World,http://111.iptv543.com/live.php?id=nhkworld_japan
+Skynews,http://111.iptv543.com/live.php?id=skynews_twn
+
+儿童频特,#genre#
+Baby TV Eng,http://111.iptv543.com/live.php?id=Babytv
+CBeebies,http://111.iptv543.com/live.php?id=Cbeebies
+Kids TV,http://111.iptv543.com/live.php?id=KidsTV
+Momo TV,http://111.iptv543.com/live.php?id=momo1_twn
+Baby TV,http://111.iptv543.com/live.php?id=babytv_twn
+MiaoMi,http://111.iptv543.com/live.php?id=MiaoMi
+Cartoon Network,http://111.iptv543.com/live.php?id=Cn
+Nickelodeon,http://111.iptv543.com/live.php?id=Nickelodeon
+Nick Jr,http://111.iptv543.com/live.php?id=Nickjr
+
+新加频特,#genre#
+Channel 5,http://111.iptv543.com/live.php?id=Channel5HD
+Channel 8,http://111.iptv543.com/live.php?id=Channel8HD
+Suria,http://111.iptv543.com/live.php?id=Suria
+Channel U,http://111.iptv543.com/live.php?id=ChannelU
+Vasantham,http://111.iptv543.com/live.php?id=Vasantham
+CNA backup,http://111.iptv543.com/live.php?id=cna_twn
+MeWatch Ch 5,http://111.iptv543.com/live.php?id=Mewatch_ch5
+MeWatch Ch 8,http://111.iptv543.com/live.php?id=Mewatch_ch8
+MeWatch Ch U,http://111.iptv543.com/live.php?id=Mewatch_chU
+MeWatch Suria,http://111.iptv543.com/live.php?id=Mewatch_Suria
+MeWatch Vasantham,http://111.iptv543.com/live.php?id=Mewatch_Vasantham
+MeWatch CNA,http://111.iptv543.com/live.php?id=Mewatch_cna
+
+马来频特,#genre#
+TV1,http://111.iptv543.com/live.php?id=TV1
+TV1 backup,http://111.iptv543.com/live.php?id=TV1_backup
+TV2,http://111.iptv543.com/live.php?id=TV2
+TV3,http://111.iptv543.com/live.php?id=TV3
+TV3 SD,http://111.iptv543.com/live.php?id=TV3_mega
+NTV7,http://111.iptv543.com/live.php?id=NTV7
+TV8,http://111.iptv543.com/live.php?id=TV8
+TV9,http://111.iptv543.com/live.php?id=TV9
+Ria,http://111.iptv543.com/live.php?id=Ria-0
+Ria-3,http://111.iptv543.com/live.php?id=Ria_backup
+Al-Hijrah,http://111.iptv543.com/live.php?id=Alhijrah
+Al-Hijrah backup,http://111.iptv543.com/live.php?id=Alhijrah_backup
+Awani,http://111.iptv543.com/live.php?id=Awani
+Bernama,http://111.iptv543.com/live.php?id=Bernama
+Prima,http://111.iptv543.com/live.php?id=Prima-0
+Prima backup,http://111.iptv543.com/live.php?id=AAprima1
+Prima backup 2,http://111.iptv543.com/live.php?id=AAprima
+Ceria,http://111.iptv543.com/live.php?id=Ceria
+Astro MTV,http://111.iptv543.com/live.php?id=AstroMTV
+Mecca Live HD,http://111.iptv543.com/live.php?id=quran_mido
+Madinah HD,http://111.iptv543.com/live.php?id=sunnah_mido
+Oasis,http://111.iptv543.com/live.php?id=Oasis
+Siar,http://111.iptv543.com/live.php?id=Siar
+Citra,http://111.iptv543.com/live.php?id=AAcitra
+Citra backup,http://111.iptv543.com/live.php?id=AAcitra1
+Sensasi,http://111.iptv543.com/live.php?id=Sensasi
+Aura,http://111.iptv543.com/live.php?id=Aura
+Rania,http://111.iptv543.com/live.php?id=Rania
+KBS World,http://111.iptv543.com/live.php?id=KBS
+Boo,http://111.iptv543.com/live.php?id=Boo
+Awesome TV,http://111.iptv543.com/live.php?id=Dsangat
+Astro Sonypix,http://111.iptv543.com/live.php?id=Asonypix
+Sony HD,http://111.iptv543.com/live.php?id=SetOne
+TvN,http://111.iptv543.com/live.php?id=TVN
+AEC,http://111.iptv543.com/live.php?id=AEC
+华丽台 HD （Wah Lai Toi）,http://111.iptv543.com/live.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,http://111.iptv543.com/live.php?id=Huahee
+Astro QJ,http://111.iptv543.com/live.php?id=Quanjia
+TVB Jade,http://111.iptv543.com/live.php?id=Tvbjade
+TVB Asia,http://111.iptv543.com/live.php?id=Tvbasia
+TVB Entertainment,http://111.iptv543.com/live.php?id=Tvbentertainment
+TVB Classic,http://111.iptv543.com/live.php?id=Tvbclassic
+AOD,http://111.iptv543.com/live.php?id=Aodhd
+TVB 星河台 Xing He,http://111.iptv543.com/live.php?id=Xinhe
+爱奇艺 iQiyi,http://111.iptv543.com/live.php?id=Qiyi
+Goshop,http://111.iptv543.com/live.php?id=Goshop
+Celestial Movies HD,http://111.iptv543.com/live.php?id=Celestial
+Astro LOL,http://111.iptv543.com/live.php?id=Astro_lol
+Astro Rusi,http://111.iptv543.com/live.php?id=Rusi
+WION,http://111.iptv543.com/live.php?id=Wion
+RTM Asean,http://111.iptv543.com/live.php?id=Rtmasean
+
+印尼频特,#genre#
+TVRI National,http://111.iptv543.com/live.php?id=TVRI
+RCTI,http://111.iptv543.com/live.php?id=Rcti
+Kompass TV,http://111.iptv543.com/live.php?id=Kompass
+Berita Satu,http://111.iptv543.com/live.php?id=BeritaSatu_eko
+Indosiar HD,http://111.iptv543.com/live.php?id=Indosiar
+AnTV,http://111.iptv543.com/live.php?id=Antv
+MNC TV,http://111.iptv543.com/live.php?id=Mnctv
+Trans 7,http://111.iptv543.com/live.php?id=Trans7_eko
+Transtv,http://111.iptv543.com/live.php?id=Transtv
+JTV,http://111.iptv543.com/live.php?id=JTV_eko
+Metro TV,http://111.iptv543.com/live.php?id=metrotv_eko
+SCTV,http://111.iptv543.com/live.php?id=SCTV
+Tvone,http://111.iptv543.com/live.php?id=Tvone
+TVMU,http://111.iptv543.com/live.php?id=TVMU_eko
+GTV,http://111.iptv543.com/live.php?id=Gtv
+RTV,http://111.iptv543.com/live.php?id=Rtv
+Jak TV,http://111.iptv543.com/live.php?id=JakTV
+iNews TV,http://111.iptv543.com/live.php?id=Inewstv
+Daai TV,http://111.iptv543.com/live.php?id=DaaiTV
+Net TV,http://111.iptv543.com/live.php?id=NetTV
+EWTN,http://111.iptv543.com/live.php?id=Ewtn
+AlQuran AlKareem,http://111.iptv543.com/live.php?id=AlQuran
+Tawaf TV,http://111.iptv543.com/live.php?id=TawafTV
+Vision Prime,http://111.iptv543.com/live.php?id=VisionPrime
+Muslim TV,http://111.iptv543.com/live.php?id=MuslimTV
+Music TV,http://111.iptv543.com/live.php?id=MusicTV
+Lifestyle&amp;Fashion,http://111.iptv543.com/live.php?id=Lifestyle
+Entertain,http://111.iptv543.com/live.php?id=Entertain
+
+印度频特,#genre#
+Sun TV HD,http://111.iptv543.com/live.php?id=Suntv
+Star Vijay,http://111.iptv543.com/live.php?id=Starvijay
+Colors Tamil,http://111.iptv543.com/live.php?id=Colorstam
+Sun Music,http://111.iptv543.com/live.php?id=Sunmusic
+Astro Sunlife,http://111.iptv543.com/live.php?id=Sunlife
+Astro Vaanavil,http://111.iptv543.com/live.php?id=Vaanavil
+Zee Tamil,http://111.iptv543.com/live.php?id=Zeetamil
+Zee Business,http://111.iptv543.com/live.php?id=Zeebusiness
+News 18 Tamil,http://111.iptv543.com/live.php?id=news18tamil_raj
+Adithya,http://111.iptv543.com/live.php?id=Adithya
+Makkal TV,http://111.iptv543.com/live.php?id=Makkaltv
+Zee Action,http://111.iptv543.com/live.php?id=Zeeaction
+Astro KTV,http://111.iptv543.com/live.php?id=Astroktv
+Zee TV HD,http://111.iptv543.com/live.php?id=Zeetvhd
+Zee Cinema HD,http://111.iptv543.com/live.php?id=Zeecinemahd
+Color HD,http://111.iptv543.com/live.php?id=Colorhd
+Starplus HD,http://111.iptv543.com/live.php?id=Starplushd
+Picture HD,http://111.iptv543.com/live.php?id=Npicture
+Zee News,http://111.iptv543.com/live.php?id=Zeenews
+Asianet,http://111.iptv543.com/live.php?id=asianet_raj
+Asianet News,http://111.iptv543.com/live.php?id=asianetnews_raj
+Discovery World Tamil,http://111.iptv543.com/live.php?id=discoveryworldtam_raj
+History Tamil,http://111.iptv543.com/live.php?id=historytam_raj
+NatGeo Tamil,http://111.iptv543.com/live.php?id=natgeotamil_raj
+Natgeo Wild Tamil,http://111.iptv543.com/live.php?id=natgeowildtamil_raj
+Discovery Kids Tamil,http://111.iptv543.com/live.php?id=discoverykidtamil_raj
+Discovery Tamil,http://111.iptv543.com/live.php?id=discoverytamil_raj
+Sony Yay Tamil,http://111.iptv543.com/live.php?id=sonyyaytam_raj
+Sun TV India,http://111.iptv543.com/live.php?id=suntv_raj
+Starmaa HD,http://111.iptv543.com/live.php?id=starmaa_raj
+Starmaa Movies HD,http://111.iptv543.com/live.php?id=starmaamovies_raj
+Bollyone,http://111.iptv543.com/live.php?id=Bollyone
+Vijay Super,http://111.iptv543.com/live.php?id=vijaysuper_raj
+Vellithirai,http://111.iptv543.com/live.php?id=Vellithirai
+
+泰国频特,#genre#
+Channel 3 Thailand,http://111.iptv543.com/live.php?id=ch3_pat
+Channel 5 Thailand,http://111.iptv543.com/live.php?id=ch5_pat
+Channel 7 Thailand,http://111.iptv543.com/live.php?id=ch7_pat
+MCOT HD Thailand-1,http://111.iptv543.com/live.php?id=mcot_pat
+PPTV Thailand1,http://111.iptv543.com/live.php?id=pptv_pat
+Thai Thai,http://111.iptv543.com/live.php?id=thaithai_pat
+Amarin,http://111.iptv543.com/live.php?id=amarin_pat
+Ch 8,http://111.iptv543.com/live.php?id=ch8_pat
+GmmOne,http://111.iptv543.com/live.php?id=gmmone_pat
+Mono,http://111.iptv543.com/live.php?id=mono_pat
+Thairath,http://111.iptv543.com/live.php?id=thairath_pat
+tpbs,http://111.iptv543.com/live.php?id=tpbs_pat
+Workpoint,http://111.iptv543.com/live.php?id=workpoint_pat
+Gmm Channel,http://111.iptv543.com/live.php?id=gmmchannel_pat
+Nation,http://111.iptv543.com/live.php?id=nation_pat
+Tnn24,http://111.iptv543.com/live.php?id=tnn24_pat
+Nbt,http://111.iptv543.com/live.php?id=nbt_pat
+New,http://111.iptv543.com/live.php?id=new_pat
+TPTV,http://111.iptv543.com/live.php?id=tptv_pat
+
+英国频特,#genre#
+BBC 1,http://111.iptv543.com/live.php?id=bbc1_antik
+BBC 2,http://111.iptv543.com/live.php?id=bbc2_antik
+CBBC,http://111.iptv543.com/live.php?id=cbbc_antik
+More4,http://111.iptv543.com/live.php?id=more4_antik
+Freesports,http://111.iptv543.com/live.php?id=freesports_antik
+Pick TV,http://111.iptv543.com/live.php?id=picktv_antik
+itv 1,http://111.iptv543.com/live.php?id=itv1_antik
+itv 2,http://111.iptv543.com/live.php?id=itv2_antik
+Euronews,http://111.iptv543.com/live.php?id=euronews_antik
+Channel 4,http://111.iptv543.com/live.php?id=channel4_antik
+BBC World News,http://111.iptv543.com/live.php?id=bbcworldnews_antik
+
+越南频特,#genre#
+ANTV,http://111.iptv543.com/live.php?id=viet_antv
+VTV 1,http://111.iptv543.com/live.php?id=viet_vtv1
+VTV 7,http://111.iptv543.com/live.php?id=viet_vtv7
+HTV 7,http://111.iptv543.com/live.php?id=viet_htv7
+HTV 9,http://111.iptv543.com/live.php?id=viet_htv9
+BPTV 2,http://111.iptv543.com/live.php?id=viet_bptv2
+BRT HD,http://111.iptv543.com/live.php?id=viet_brt
+Ca Mau TV,http://111.iptv543.com/live.php?id=viet_camautv
+Danang TV1 HD,http://111.iptv543.com/live.php?id=viet_danangtv1
+Danang TV2 HD,http://111.iptv543.com/live.php?id=viet_danangtv2
+HBTV HD,http://111.iptv543.com/live.php?id=viet_hbtv
+PTTH 1,http://111.iptv543.com/live.php?id=viet_ptth1
+
+韩国频特,#genre#
+Arirang HD,http://111.iptv543.com/live.php?id=arirang_korea
+Yonhap News,http://111.iptv543.com/live.php?id=yonhapnews_korea
+CBS,http://111.iptv543.com/live.php?id=cbs_korea
+EBS 1,http://111.iptv543.com/live.php?id=ebs1_korea
+EBS2,http://111.iptv543.com/live.php?id=ebs2_korea
+EBS Plus2,http://111.iptv543.com/live.php?id=ebsplus2_korea
+SBS Plus,http://111.iptv543.com/live.php?id=sbsplus_korea
+YTN,http://111.iptv543.com/live.php?id=ytn_korea
+KBS World 24,http://111.iptv543.com/live.php?id=kbsworld24_korea
+YTN Science,http://111.iptv543.com/live.php?id=ytnscience_korea
+YTN Korean,http://111.iptv543.com/live.php?id=ytnkorean_korea
+YTN DMB,http://111.iptv543.com/live.php?id=ytndmb_korea
+Apps TV,http://111.iptv543.com/live.php?id=appongoogle_korea
+All the Kpop,http://111.iptv543.com/live.php?id=allthekpop_korea
+J the Kpop,http://111.iptv543.com/live.php?id=jthekpop_korea
+EBS Kids,http://111.iptv543.com/live.php?id=ebskids_korea
+CGNTV,http://111.iptv543.com/live.php?id=cgntv_korea
+
+日本频特,#genre#
+NHK-総合-2,http://111.iptv543.com/live.php?id=nhkg_japan
+NHK-E,http://111.iptv543.com/live.php?id=nhke_japan
+テレビ朝日 Asahi TV,http://111.iptv543.com/live.php?id=asahitv_japan
+JET 綜合,http://111.iptv543.com/live.php?id=jettv_japan
+テレビ東京 Tokyo TV,http://111.iptv543.com/live.php?id=tokyotv_japan
+TOKYOMX,http://111.iptv543.com/live.php?id=tokyomx_japan
+NHKBS1,http://111.iptv543.com/live.php?id=nhkbs1_japan
+NHKBSプレミア Premium,http://111.iptv543.com/live.php?id=nhkpremium_japan
+BSジャパン 181,http://111.iptv543.com/live.php?id=bs181_japan
+BSフジ BS Fuji,http://111.iptv543.com/live.php?id=bsfuji_japan
+CNA Japan,http://111.iptv543.com/live.php?id=cna_japan
+BS-TBS,http://111.iptv543.com/live.php?id=bstbs_japan
+NHK Oaska,http://111.iptv543.com/live.php?id=nhkosaka_japan
 
 ASIA | Taiwan,#genre#
 寰宇新闻台,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34870
