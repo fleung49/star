@@ -106,12 +106,14 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港澳台|备①,#genre#
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-翡翠台,http://67.220.67.246:2347/livehttpplay?channel_id=20127
+无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
@@ -184,8 +186,9 @@ RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk33
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
+NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
-NOW财经台,http://208.87.242.79/livehttpplay?channel_id=13000
+NOW财经台,http://hls.168.us.kg/u/333/master.m3u8
 Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 Now Sports,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 Now Sports Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
@@ -251,14 +254,14 @@ HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新聞,http://rihou.cc:555/tv/[Uk]中天新聞
-中天新聞,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
-中天新聞,http://67.220.67.246:2347/livehttpplay?channel_id=20163
+中天新聞,http://111.iptv543.com/live.php?id=ctinews
+中天新聞,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctinews
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
-中天新闻,http://118.233.28.52:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -272,12 +275,17 @@ TVBS新闻台,http://208.87.242.79/livehttpplay?channel_id=20165
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-大湾区卫视,http://208.87.242.79/livehttpplay?channel_id=20083
-广东卫视,http://67.220.67.246:2347/livehttpplay?channel_id=20024
-广东珠江,http://67.220.67.246:2347/livehttpplay?channel_id=20144
-广东体育,http://67.220.67.246:2347/livehttpplay?channel_id=20130
-广东影视,http://67.220.67.246:2347/livehttpplay?channel_id=20145
-深圳卫视,http://67.220.67.246:2347/livehttpplay?channel_id=20025
+广东卫视HD,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
+广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+深圳卫视HD,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
