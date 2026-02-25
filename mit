@@ -2391,7 +2391,13 @@ FS1,http://104.238.222.251:9090/279430_.m3u8
 FS2,http://104.238.222.251:9090/281866_.m3u8
 FSP,http://104.238.222.251:9090/281820_.m3u8
 FOX DEPORTES,http://79.143.17.114:9090/161174_.m3u8
+Fox Sports MX,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
+Fox Sports MX 2,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
+Fox Sports MX 3,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
+Fox Sports MX Premium,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
 GOL,http://104.238.205.28:9090/278838_.m3u8
+GOL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278838.m3u8
+M+ Liga de Campeones (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278845.m3u8
 NBC SPORTS NETWORK,http://199.127.63.143:9090/279502_.m3u8
 Premier Sports 1,http://104.238.205.58:9090/278939_.m3u8
 Premier Sports 2,http://104.238.205.58:9090/278940_.m3u8
@@ -2401,6 +2407,7 @@ Premier Sports 5,http://45.90.106.85:9090/278935_.m3u8
 Premier Sports 6,http://79.143.17.114:9090/278936_.m3u8
 Premier Sports 7,http://104.238.205.58:9090/278937_.m3u8
 Premier Sports 8,http://104.238.205.58:9090/278938_.m3u8
+Real Madrid TV (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278854.m3u8
 SKY Bundesliga,http://104.194.8.54:9090/281188_.m3u8
 SKY Sports Bundesliga,http://104.194.8.54:9090/281188_.m3u8 
 SKY La Liga,http://45.90.106.85:9090/281171_.m3u8
@@ -2412,6 +2419,8 @@ TNT 2,http://104.238.222.251:9090/161287_.m3u8
 TNT 3,http://104.238.222.251:9090/161288_.m3u8
 TNT 4,http://79.143.17.114:9090/161289_.m3u8
 TNT 5,http://79.143.17.114:9090/161290_.m3u8
+TNT SPORTS (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278520.m3u8
+TUDN USA,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
 TUDN XTRA 1,http://104.194.8.54:9090/286082_.m3u8
 TUDN XTRA 2,http://104.194.8.54:9090/286083_.m3u8
 TUDN XTRA 3,http://104.194.8.54:9090/286084_.m3u8
@@ -2423,6 +2432,7 @@ TUDN XTRA 8,http://104.194.8.54:9090/286089_.m3u8
 TUDN XTRA 9,http://108.181.135.111:9090/286090_.m3u8
 TUDN XTRA 10,http://108.181.135.111:9090/286091_.m3u8
 TUDN XTRA 11,http://108.181.135.111:9090/286092_.m3u8
+TVC 1,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278565.m3u8
 TYC SPORTS,http://79.143.17.114:9090/161173_.m3u8
 WIN SPORTS,http://104.238.205.28:9090/299307_.m3u8
 Win Sports Plus,http://104.238.205.28:9090/299303_.m3u8
