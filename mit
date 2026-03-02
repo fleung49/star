@@ -2201,7 +2201,6 @@ KNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/165288.m3u8
 KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 KTLA,https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 KTLA,http://mypanel-4k.com/live/rmt8r91bac/tsleey7v5g/279327.ts
-KTLA,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlFaRPfkxREZ2h4WbYU9sSpJmEpZRmuNnrB8tpfWh5yGo
 KTTV,http://199.127.63.143:9090/279680_.m3u8
 KTTV,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279680.m3u8
 KTTV,http://104.238.222.251:9090/165279_.m3u8
@@ -2210,17 +2209,15 @@ KTTV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangel
 SPECTRUM NEWS SO CAL,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/306915.ts
 ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
-ABC News Live,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlK4yHiSvADN1XUarzU8oddQ
-AccuWeather,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlNPPyQqhgtWKpQcB1u2FYZIkCOzr0SWMBuPRJPzx0A0R
+AccuWeather,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/30528
 ALJAZEERA,http://46.105.71.222:8080/aljazeera/index.m3u8
-Bloomberg,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlIkolO-r6tETCqlMib7emdI
+Bloomberg,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/246834.ts
 BBC WORLD NEWS,http://104.194.8.54:9090/279641_.m3u8
 BBC WORLD NEWS,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 BBC WORLD NEWS,http://46.105.71.222:8080/bbcnews/index.m3u8
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CBS News,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBrvtZw06oVcK2pvyFrHIoAQiIC72YC_9f_n4qmLETIj
 CBS NEWS 24/7,https://fl1.moveonjoy.com/CBS_News/index.m3u8
-CBS NEWS 24/7,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS NEWS 24/7,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/246827.
 CBS SPORTS NETWORK,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -2233,12 +2230,10 @@ CNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279611.m3u8
 CNBC,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC,https://fl1.moveonjoy.com/CNBC/index.m3u8
 CNBC,https://tvpass.org/live/CNBC/hd
-CNBC,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlPcJetL5dUuaDOD1aHq8M5tPPUDY4zsy9O7rNyWklMZl
 CNBC World,https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-CNBC World,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlJPYfiTedqStgsEB7UoURcnVDBeer-YdTwM1sJV_vabF
+CNBC World,http://104.238.222.251:9090/279678_.m3u8
 CNN,http://104.255.88.155/cnn/index.m3u8
 CNN,http://104.238.222.251:9090/278948_.m3u8
-CNN,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlCizbMmi1mduZNLwcC_TKQ_vLqY_ccRh-4Xli48957sS
 CNN,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278948.m3u8
 CNN,https://fl1.moveonjoy.com/CNN/index.m3u8
 CNN,http://46.105.71.222:8080/cnn/index.m3u8
@@ -2247,16 +2242,13 @@ CNN INTLhttp://104.238.222.251:9090/278335_.m3u8
 CNN INTL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278335.m3u8
 CNN INTL,http://199.127.63.143:9090/279679_.m3u8
 CNN INTL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279679.m3u8
-CNN International,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlGfBru56S5Krm8Xl4H1gPEfrbrTRamci1vDwC7Y2unbD
 ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 ESPN 2,https://fl1.moveonjoy.com/ESPN_2/index.m3u8
 ESPN U,https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 EURONEWS,http://46.105.71.222:8080/euronews/index.m3u8
 FOX BUSINESS,http://45.90.106.85:9090/165298_.m3u8
 FOX BUSINESS,https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-FOX Business,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBL0W8pLpY70d8FFcTqHnp3A3nbNF-VMoCdcXtaEVhXJ
 FOX NEWS,http://104.194.8.54:9090/279721_.m3u8
-FOX NEWS,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlEn8awsWHb8qVL1DPyFrD0vvxqANTPuNzFOSe0Q7EfaS
 FOX NEWS,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 FOX NEWS,http://46.105.71.222:8080/foxnews/index.m3u8
 FOX NEWS,http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
@@ -2267,12 +2259,10 @@ FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
 Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FRANCE24,http://46.105.71.222:8080/france24/index.m3u8
 FS1,http://23.237.104.106:8080/USA_FS1/index.m3u8
-FS1,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlM6WDKQCYGiJhGUVh7p4RE3Prq9-xV9ILLe175oBkPM9
+FS1,http://104.238.222.251:9090/279430_.m3u8
 FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
-FS2,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlENypGhIVf_4NGZlURDYeXPqKQ494hrN2l0yegagTZKL
-FOX Deportes,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlH3o5sKgIvxI71DqEz3ZS-ROtaltHSKghX5aGuI1y823
+FS2,http://104.238.222.251:9090/281866_.m3u8
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
-MSNBC,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlFzec5gNsK7U7DMsoiLFZOA-sd9_HVMFYUwxTWIUHu4g
 MSNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279436.m3u8
 MSNBC,http://104.238.222.251:9090/279436_.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
@@ -2281,8 +2271,7 @@ MSNBC,https://tvpass.org/live/MSNBC/hd
 NBC NEWS NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-NBC News Now,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlL0KRcvqgMS1kaW_J6p_9P_TwSURTqGlOgHWm03gHJig
-RT NEWS,http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlED9iB_ccUSJQfZlwVYmuBDrmTlrh796aK6StRHv5Xb0
+RT NEWS,http://ky-tv.cc/live/brendan1/brendan1/2310343.ts
 SKY NEWS,http://46.105.71.222:8080/skynews/index.m3u8
 TVG,http://104.238.222.251:9090/279509_.m3u8
 TVG,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279509.m3u8
