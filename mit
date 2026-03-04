@@ -345,6 +345,32 @@ CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://69.30.246.194/live/cctv17.m3u8
 
+livehttpplay 67.199,#genre#
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=20126
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
+TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+MYTV SUPER 1,http://67.220.71.199:2347/livehttpplay?channel_id=13022
+HOY 77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+RTHK 31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
+CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
+广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
+广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
+
 livehttpplay 208.79,#genre#
 大湾区卫视,http://208.87.242.79/livehttpplay?channel_id=20083
 CCTV 4,http://208.87.242.79/livehttpplay?channel_id=10128
@@ -2246,6 +2272,7 @@ ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 ESPN 2,https://fl1.moveonjoy.com/ESPN_2/index.m3u8
 ESPN U,https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 EURONEWS,http://46.105.71.222:8080/euronews/index.m3u8
+FOX BUSINESS,http://41.205.93.154/FOXBUSINESS/mpegts
 FOX BUSINESS,http://45.90.106.85:9090/165298_.m3u8
 FOX BUSINESS,https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 FOX NEWS,http://104.194.8.54:9090/279721_.m3u8
@@ -2263,6 +2290,7 @@ FS1,http://104.238.222.251:9090/279430_.m3u8
 FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
 FS2,http://104.238.222.251:9090/281866_.m3u8
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
+MSNBC,http://104.255.88.155/msnbc/mpegts
 MSNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279436.m3u8
 MSNBC,http://104.238.222.251:9090/279436_.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
@@ -2276,9 +2304,10 @@ SKY NEWS,http://46.105.71.222:8080/skynews/index.m3u8
 TVG,http://104.238.222.251:9090/279509_.m3u8
 TVG,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279509.m3u8
 TVG,https://fl1.moveonjoy.com/TVG/index.m3u8
-THE WEATHER CHANNE,http://199.127.63.143:9090/279720_.m3u8
-THE WEATHER CHANNE,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279720.m3u8
-THE WEATHER CHANNE,https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+THE WEATHER CHANNEL,http://199.127.63.143:9090/279720_.m3u8
+THE WEATHER CHANNEL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279720.m3u8
+THE WEATHER CHANNEL,https://dvrfl04.tulix.tv/teleup-weather/mpegts
+THE WEATHER CHANNEL,https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 beIN Sports USA,http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
