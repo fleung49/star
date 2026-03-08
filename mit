@@ -106,20 +106,19 @@ Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
 TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港澳台|备①,#genre#
-无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-翡翠台,http://14.21.90.68:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台4K(多音轨字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -128,14 +127,13 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
-TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
+TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
 TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
@@ -186,11 +184,9 @@ RTHK-32,http://cdn.163189.xyz/163189/rthk32
 RTHK-33,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk33
 RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 NOW财经台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
-NOW财经台,http://hls.168.us.kg/u/333/master.m3u8
 Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 Now Sports,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 Now Sports Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
@@ -203,14 +199,10 @@ PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,http://php.jdshipin.com:80/PLTV/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/smt.php?id=viu1_twn
-VIUTV,https://yang-1989.eu.org/live/ViuTV
-VIUTV,http://free.cnlive.club/channel/78204936.m3u8
-VIUTV6,http://free.cnlive.club/channel/necd2834.m3u8
+VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 VIUTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
 VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
-VIUTV6,https://yang-1989.eu.org/live/ViuTVsix
 C+頻道,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
 C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
@@ -257,11 +249,7 @@ HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新聞,http://111.iptv543.com/live.php?id=ctinews
-中天新聞,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctinews
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
+中天新聞,http://208.87.242.79/livehttpplay?channel_id=20163
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
 中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
