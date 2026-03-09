@@ -1141,7 +1141,6 @@ CCTV-8k,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,https://cdn8.163189.xyz/163189/lhyp
 
-
 风云4666888,#genre#
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
 SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
@@ -1923,104 +1922,104 @@ TNT SPORTS 3,http://dragon1977.com:80/047306b75f/b5a06cc482d6/577999
 TNT SPORTS 4,http://dragon1977.com:80/047306b75f/b5a06cc482d6/577998
 TNT SPORTS 5,http://dragon1977.com:80/047306b75f/b5a06cc482d6/577997
 
-BUDTV NEWS&SPORTS,#genre#
-KABC,http://104.238.205.28:9090/279622_.m3u8
-KABC,http://104.238.222.251:9090/165258_.m3u8
-KCBS,http://104.194.8.54:9090/279593_.m3u8
-KCAL,http://104.238.222.251:9090/165268_.m3u8
-KNBC,http://104.194.8.54:9090/279711_.m3u8
-KNBC,http://104.238.222.251:9090/165288_.m3u8
+BTV MX NEWS&SPORTS,#genre#
+KABC,http://live.btv.mx:2424/stream/279622/smAVz_uhytj5REM-4pYNZbkrcB2
+KABC,http://live.btv.mx:2424/stream/165258/smAVz_uhytj5REM-4pYNZbkrcB2
+KCBS,http://live.btv.mx:2424/stream/279593/smAVz_uhytj5REM-4pYNZbkrcB2
+KCAL,http://live.btv.mx:2424/stream/165268/smAVz_uhytj5REM-4pYNZbkrcB2
+KNBC,http://live.btv.mx:2424/stream/279711/smAVz_uhytj5REM-4pYNZbkrcB2
+KNBC,http://live.btv.mx:2424/stream/165288/smAVz_uhytj5REM-4pYNZbkrcB2
 KTLA,https://dvrfl04.tulix.tv/teleup-ktla/mpegts
-KTTV,http://199.127.63.143:9090/279680_.m3u8
-KTTV,http://104.238.222.251:9090/165279_.m3u8
-BLOOMBERG,http://199.127.63.143:9090/279610_.m3u8
-BBC WORLD NEWS,http://199.127.63.143:9090/306167_.m3u8
-CNN,http://199.127.63.143:9090/279679_.m3u8
-CNN,http://199.127.63.143:9090/306170_.m3u8
-CNBC,http://104.238.222.251:9090/279611_.m3u8
-CNBC WORLD,http://104.238.222.251:9090/279678_.m3u8
-FOX BUSINESS,http://45.90.106.85:9090/165298_.m3u8
-FOX NEWS CHANNEL,http://45.90.106.85:9090/165297_.m3u8
-FOX NEWS,http://45.90.106.85:9090/165299_.m3u8
-FOX NEWS,http://104.194.8.54:9090/279721_.m3u8
-MSNBC,http://104.238.222.251:9090/279436_.m3u8
-THE WEATHER CHANNEL,http://199.127.63.143:9090/279712_.m3u8
-THE WEATHER CHANNEL,http://199.127.63.143:9090/279720_.m3u8
-TVG,http://104.238.222.251:9090/279509_.m3u8
-FANDUEL RACINGhttp://104.238.222.251:9090/279463_.m3u8
-FANDUEL TV RACING,http://199.127.63.143:9090/279482_.m3u8
-BEIN SPORTS XTRA,http://104.238.205.58:9090/279421_.m3u8
-BEIN SPORTS,http://104.194.8.54:9090/161161_.m3u8
-BEIN SPORTS n,http://104.238.222.251:9090/279422_.m3u8
-BEIN SPORTS 4,http://79.143.17.114:9090/279415_.m3u8
-BEIN SPORTS 5,http://199.127.63.143:9090/279416_.m3u8
-BEIN SPORTS 6,http://79.143.17.114:9090/279417_.m3u8
-BEIN SPORTS 7,http://199.127.63.143:9090/279418_.m3u8
-BEIN SPORTS 8,http://79.143.17.114:9090/279419_.m3u8
-BT SPORT 1,http://199.127.63.143:9090/306168_.m3u8
-BT SPORT 2,http://199.127.63.143:9090/306169_.m3u8
-CBS SPORTS NETWORK,http://199.127.63.143:9090/279514_.m3u8
-DIRECTV SPORTS,http://104.238.205.28:9090/299317_.m3u8
-DIRECTV SPORTS 2,http://104.238.205.28:9090/299313_.m3u8
-DIRECTV SPORTS PLUS,http://104.238.205.28:9090/299312_.m3u8
-ESPN,http://104.194.8.54:9090/279424_.m3u8
-ESPN 2,http://79.143.17.114:9090/279425_.m3u8
-ESPN NEWS,http://199.127.63.143:9090/279428_.m3u8
-ESPN DEPORTES,http://199.127.63.143:9090/279426_.m3u8
-ESPN U,http://79.143.17.114:9090/279427_.m3u8
-ELEVEN SPORTS NETWORK,http://104.238.222.251:9090/279423_.m3u8
-FANDUEL SPORTS NETWORK,http://79.143.17.114:9090/279487_.m3u8
-FANDUEL TV RACING,http://199.127.63.143:9090/279482_.m3u8
-FANDUEL RACING,http://104.238.222.251:9090/279463_.m3u8
-FS1,http://104.238.222.251:9090/279430_.m3u8
-FS2,http://104.238.222.251:9090/281866_.m3u8
-FSP,http://104.238.222.251:9090/281820_.m3u8
-FOX DEPORTES,http://79.143.17.114:9090/161174_.m3u8
-Fox Sports MX,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
-Fox Sports MX 2,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
-Fox Sports MX 3,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
-Fox Sports MX Premium,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
-GOL,http://104.238.205.28:9090/278838_.m3u8
-GOL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278838.m3u8
-M+ Liga de Campeones (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278845.m3u8
-NBC SPORTS NETWORK,http://199.127.63.143:9090/279502_.m3u8
-Premier Sports 1,http://104.238.205.58:9090/278939_.m3u8
-Premier Sports 2,http://104.238.205.58:9090/278940_.m3u8
-Premier Sports 3,http://104.238.205.58:9090/278941_.m3u8
-Premier Sports 4,http://104.238.205.28:9090/278934_.m3u8
-Premier Sports 5,http://45.90.106.85:9090/278935_.m3u8
-Premier Sports 6,http://79.143.17.114:9090/278936_.m3u8
-Premier Sports 7,http://104.238.205.58:9090/278937_.m3u8
-Premier Sports 8,http://104.238.205.58:9090/278938_.m3u8
-Real Madrid TV (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278854.m3u8
-SKY Bundesliga,http://104.194.8.54:9090/281188_.m3u8
-SKY Sports Bundesliga,http://104.194.8.54:9090/281188_.m3u8 
-SKY La Liga,http://45.90.106.85:9090/281171_.m3u8
-SKY SPORTS PREMIER LEAGUE,http://79.143.17.114:9090/164433_.m3u8
-SKY SPORTS MIX,http://108.181.135.111:9090/286229_.m3u8
-SPOTV 3,http://104.238.205.58:9090/278944_.m3u8
-TNT 1,http://104.238.222.251:9090/161286_.m3u8
-TNT 2,http://104.238.222.251:9090/161287_.m3u8
-TNT 3,http://104.238.222.251:9090/161288_.m3u8
-TNT 4,http://79.143.17.114:9090/161289_.m3u8
-TNT 5,http://79.143.17.114:9090/161290_.m3u8
-TNT SPORTS (ES),http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278520.m3u8
-TUDN USA,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
-TUDN XTRA 1,http://104.194.8.54:9090/286082_.m3u8
-TUDN XTRA 2,http://104.194.8.54:9090/286083_.m3u8
-TUDN XTRA 3,http://104.194.8.54:9090/286084_.m3u8
-TUDN XTRA 4,http://104.194.8.54:9090/286085_.m3u8
-TUDN XTRA 5,http://104.194.8.54:9090/286086_.m3u8
-TUDN XTRA 6,http://104.194.8.54:9090/286087_.m3u8
-TUDN XTRA 7,http://104.194.8.54:9090/286088_.m3u8
-TUDN XTRA 8,http://104.194.8.54:9090/286089_.m3u8
-TUDN XTRA 9,http://108.181.135.111:9090/286090_.m3u8
-TUDN XTRA 10,http://108.181.135.111:9090/286091_.m3u8
-TUDN XTRA 11,http://108.181.135.111:9090/286092_.m3u8
-TVC 1,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278565.m3u8
-TYC SPORTS,http://79.143.17.114:9090/161173_.m3u8
-WIN SPORTS,http://104.238.205.28:9090/299307_.m3u8
-Win Sports Plus,http://104.238.205.28:9090/299303_.m3u8
+KTTV,http://live.btv.mx:2424/stream/279680/smAVz_uhytj5REM-4pYNZbkrcB2
+KTTV,http://live.btv.mx:2424/stream/165279/smAVz_uhytj5REM-4pYNZbkrcB2
+BLOOMBERG,http://live.btv.mx:2424/stream/279610/smAVz_uhytj5REM-4pYNZbkrcB2
+BBC WORLD NEWS,http://live.btv.mx:2424/stream/306167/smAVz_uhytj5REM-4pYNZbkrcB2
+CNN,http://live.btv.mx:2424/stream/279679/smAVz_uhytj5REM-4pYNZbkrcB2
+CNN,http://live.btv.mx:2424/stream/306170/smAVz_uhytj5REM-4pYNZbkrcB2
+CNBC,http://live.btv.mx:2424/stream/279611/smAVz_uhytj5REM-4pYNZbkrcB2
+CNBC WORLD,http://live.btv.mx:2424/stream/279678/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX BUSINESS,http://live.btv.mx:2424/stream/165298/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX NEWS CHANNEL,http://live.btv.mx:2424/stream/165297/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX NEWS,http://live.btv.mx:2424/stream/165299/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX NEWS,http://live.btv.mx:2424/stream/279721/smAVz_uhytj5REM-4pYNZbkrcB2
+MSNBC,http://live.btv.mx:2424/stream/279436/smAVz_uhytj5REM-4pYNZbkrcB2
+THE WEATHER CHANNEL,http://live.btv.mx:2424/stream/279712/smAVz_uhytj5REM-4pYNZbkrcB2
+THE WEATHER CHANNEL,http://live.btv.mx:2424/stream/279720/smAVz_uhytj5REM-4pYNZbkrcB2
+TVG,http://live.btv.mx:2424/stream/279509/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL RACINGhttp://live.btv.mx:2424/stream/279463/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL TV RACING,http://live.btv.mx:2424/stream/279482/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS XTRA,http://live.btv.mx:2424/stream/279421/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS,http://live.btv.mx:2424/stream/161161/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS n,http://live.btv.mx:2424/stream/279422/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS 4,http://live.btv.mx:2424/stream/279415/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS 5,http://live.btv.mx:2424/stream/279416/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS 6,http://live.btv.mx:2424/stream/279417/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS 7,http://live.btv.mx:2424/stream/279418/smAVz_uhytj5REM-4pYNZbkrcB2
+BEIN SPORTS 8,http://live.btv.mx:2424/stream/279419/smAVz_uhytj5REM-4pYNZbkrcB2
+BT SPORT 1,http://live.btv.mx:2424/stream/306168/smAVz_uhytj5REM-4pYNZbkrcB2
+BT SPORT 2,http://live.btv.mx:2424/stream/306169/smAVz_uhytj5REM-4pYNZbkrcB2
+CBS SPORTS NETWORK,http://live.btv.mx:2424/stream/279514/smAVz_uhytj5REM-4pYNZbkrcB2
+DIRECTV SPORTS,http://live.btv.mx:2424/stream/299317/smAVz_uhytj5REM-4pYNZbkrcB2
+DIRECTV SPORTS 2,http://live.btv.mx:2424/stream/299313/smAVz_uhytj5REM-4pYNZbkrcB2
+DIRECTV SPORTS PLUS,http://live.btv.mx:2424/stream/299312/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN,http://live.btv.mx:2424/stream/279424/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN 2,http://live.btv.mx:2424/stream/279425/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN NEWS,http://live.btv.mx:2424/stream/279428/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN DEPORTES,http://live.btv.mx:2424/stream/279426/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN U,http://live.btv.mx:2424/stream/279427/smAVz_uhytj5REM-4pYNZbkrcB2
+ELEVEN SPORTS NETWORK,http://live.btv.mx:2424/stream/279423/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL SPORTS NETWORK,http://live.btv.mx:2424/stream/279487/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL TV RACING,http://live.btv.mx:2424/stream/279482/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL RACING,http://live.btv.mx:2424/stream/279463/smAVz_uhytj5REM-4pYNZbkrcB2
+FS1,http://live.btv.mx:2424/stream/279430/smAVz_uhytj5REM-4pYNZbkrcB2
+FS2,http://live.btv.mx:2424/stream/281866/smAVz_uhytj5REM-4pYNZbkrcB2
+FSP,http://live.btv.mx:2424/stream/281820/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX DEPORTES,http://live.btv.mx:2424/stream/161174/smAVz_uhytj5REM-4pYNZbkrcB2
+Fox Sports MX,http://live.btv.mx:2424/stream/278595/smAVz_uhytj5REM-4pYNZbkrcB2
+Fox Sports MX 2,http://live.btv.mx:2424/stream/278595/smAVz_uhytj5REM-4pYNZbkrcB2
+Fox Sports MX 3,http://live.btv.mx:2424/stream/278595/smAVz_uhytj5REM-4pYNZbkrcB2
+Fox Sports MX Premium,http://live.btv.mx:2424/stream/278595/smAVz_uhytj5REM-4pYNZbkrcB2
+GOL,http://live.btv.mx:2424/stream/278838/smAVz_uhytj5REM-4pYNZbkrcB2
+GOL,http://live.btv.mx:2424/stream/278838/smAVz_uhytj5REM-4pYNZbkrcB2
+M+ Liga de Campeones (ES),http://live.btv.mx:2424/stream/278845/smAVz_uhytj5REM-4pYNZbkrcB2
+NBC SPORTS NETWORK,http://live.btv.mx:2424/stream/279502/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 1,http://live.btv.mx:2424/stream/278939/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 2,http://live.btv.mx:2424/stream/278940/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 3,http://live.btv.mx:2424/stream/278941/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 4,http://live.btv.mx:2424/stream/278934/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 5,http://live.btv.mx:2424/stream/278935/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 6,http://live.btv.mx:2424/stream/278936/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 7,http://live.btv.mx:2424/stream/278937/smAVz_uhytj5REM-4pYNZbkrcB2
+Premier Sports 8,http://live.btv.mx:2424/stream/278938/smAVz_uhytj5REM-4pYNZbkrcB2
+Real Madrid TV (ES),http://live.btv.mx:2424/stream/278854/smAVz_uhytj5REM-4pYNZbkrcB2
+SKY Bundesliga,http://live.btv.mx:2424/stream/281188/smAVz_uhytj5REM-4pYNZbkrcB2
+SKY Sports Bundesliga,http://live.btv.mx:2424/stream/281188/smAVz_uhytj5REM-4pYNZbkrcB2 
+SKY La Liga,http://live.btv.mx:2424/stream/281171/smAVz_uhytj5REM-4pYNZbkrcB2
+SKY SPORTS PREMIER LEAGUE,http://live.btv.mx:2424/stream/164433/smAVz_uhytj5REM-4pYNZbkrcB2
+SKY SPORTS MIX,http://live.btv.mx:2424/stream/286229/smAVz_uhytj5REM-4pYNZbkrcB2
+SPOTV 3,http://live.btv.mx:2424/stream/278944/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT 1,http://live.btv.mx:2424/stream/161286/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT 2,http://live.btv.mx:2424/stream/161287/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT 3,http://live.btv.mx:2424/stream/161288/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT 4,http://live.btv.mx:2424/stream/161289/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT 5,http://live.btv.mx:2424/stream/161290/smAVz_uhytj5REM-4pYNZbkrcB2
+TNT SPORTS (ES),http://live.btv.mx:2424/stream/278520/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN USA,http://live.btv.mx:2424/stream/278570/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 1,http://live.btv.mx:2424/stream/286082/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 2,http://live.btv.mx:2424/stream/286083/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 3,http://live.btv.mx:2424/stream/286084/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 4,http://live.btv.mx:2424/stream/286085/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 5,http://live.btv.mx:2424/stream/286086/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 6,http://live.btv.mx:2424/stream/286087/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 7,http://live.btv.mx:2424/stream/286088/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 8,http://live.btv.mx:2424/stream/286089/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 9,http://live.btv.mx:2424/stream/286090/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 10,http://live.btv.mx:2424/stream/286091/smAVz_uhytj5REM-4pYNZbkrcB2
+TUDN XTRA 11,http://live.btv.mx:2424/stream/286092/smAVz_uhytj5REM-4pYNZbkrcB2
+TVC 1,http://live.btv.mx:2424/stream/278565/smAVz_uhytj5REM-4pYNZbkrcB2
+TYC SPORTS,http://live.btv.mx:2424/stream/161173/smAVz_uhytj5REM-4pYNZbkrcB2
+WIN SPORTS,http://live.btv.mx:2424/stream/299307/smAVz_uhytj5REM-4pYNZbkrcB2
+Win Sports Plus,http://live.btv.mx:2424/stream/299303/smAVz_uhytj5REM-4pYNZbkrcB2
 
 LOS ANGELES,#genre# 
 CBSN,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
@@ -2200,25 +2199,18 @@ CBSN lax,https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 CBSN lax,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
 CBSN lax,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 CBSN lax,https://stream1.freetv.fun/a87bf43af0ea400cd00c2a8a73733f16f1486bc9da85086806b7e323a1096cb5.m3u8
-KABC,http://104.238.205.28:9090/279622_.m3u8
-KABC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279622.m3u8
-KCAL,http://104.238.222.251:9090/165268_.m3u8
-KCAL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/165268.m3u8
+KABC,http://live.btv.mx:2424/stream/279622/smAVz_uhytj5REM-4pYNZbkrcB2
+KCAL,http://live.btv.mx:2424/stream/165268/smAVz_uhytj5REM-4pYNZbkrcB2
 KCAL,http://dragon1977.com:80/047306b75f/b5a06cc482d6/760122
 KCAL,http://bstv.online:8080/adolfo/adolfo/1151756
-KCBS,http://104.194.8.54:9090/279593_.m3u8
-KCBS,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279593.m3u8
-KNBC,http://104.194.8.54:9090/279711_.m3u8
-KNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279711.m3u8
-KNBC,http://104.238.222.251:9090/165288_.m3u8
-KNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/165288.m3u8
+KCBS,http://live.btv.mx:2424/stream/279593/smAVz_uhytj5REM-4pYNZbkrcB2
+KNBC,http://live.btv.mx:2424/stream/279711/smAVz_uhytj5REM-4pYNZbkrcB2
+KNBC,http://live.btv.mx:2424/stream/165288/smAVz_uhytj5REM-4pYNZbkrcB2
 KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 KTLA,https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 KTLA,http://mypanel-4k.com/live/rmt8r91bac/tsleey7v5g/279327.ts
-KTTV,http://199.127.63.143:9090/279680_.m3u8
-KTTV,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279680.m3u8
-KTTV,http://104.238.222.251:9090/165279_.m3u8
-KTTV,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/165279.m3u8
+KTTV,http://live.btv.mx:2424/stream/279680/smAVz_uhytj5REM-4pYNZbkrcB2
+KTTV,http://live.btv.mx:2424/stream/165279/smAVz_uhytj5REM-4pYNZbkrcB2
 KTTV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 SPECTRUM NEWS SO CAL,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/306915.ts
 ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -2226,45 +2218,38 @@ ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
 AccuWeather,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/30528
 ALJAZEERA,http://46.105.71.222:8080/aljazeera/index.m3u8
 Bloomberg,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/246834.ts
-BBC WORLD NEWS,http://104.194.8.54:9090/279641_.m3u8
-BBC WORLD NEWS,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+BBC WORLD NEWS,http://live.btv.mx:2424/stream/279641/smAVz_uhytj5REM-4pYNZbkrcB2
 BBC WORLD NEWS,http://46.105.71.222:8080/bbcnews/index.m3u8
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CBS NEWS 24/7,https://fl1.moveonjoy.com/CBS_News/index.m3u8
 CBS NEWS 24/7,http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/246827.
-CBS SPORTS NETWORK,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+CBS SPORTS NETWORK,http://live.btv.mx:2424/stream/279514/smAVz_uhytj5REM-4pYNZbkrcB2
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CNBC,http://104.238.222.251:9090/279611_.m3u8
-CNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279611.m3u8
+CNBC,http://live.btv.mx:2424/stream/279611/smAVz_uhytj5REM-4pYNZbkrcB2
 CNBC,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-CNBC,https://fl1.moveonjoy.com/CNBC/index.m3u8
 CNBC,https://tvpass.org/live/CNBC/hd
-CNBC World,https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-CNBC World,http://104.238.222.251:9090/279678_.m3u8
+CNBC WORLD,http://live.btv.mx:2424/stream/279678/smAVz_uhytj5REM-4pYNZbkrcB2
 CNN,http://104.255.88.155/cnn/index.m3u8
-CNN,http://104.238.222.251:9090/278948_.m3u8
-CNN,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278948.m3u8
-CNN,https://fl1.moveonjoy.com/CNN/index.m3u8
+CNN,http://live.btv.mx:2424/stream/279679/smAVz_uhytj5REM-4pYNZbkrcB2
+CNN,http://live.btv.mx:2424/stream/306170/smAVz_uhytj5REM-4pYNZbkrcB2
 CNN,http://46.105.71.222:8080/cnn/index.m3u8
 CNN,https://tvpass.org/live/CNN/hd
-CNN INTLhttp://104.238.222.251:9090/278335_.m3u8
-CNN INTL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278335.m3u8
-CNN INTL,http://199.127.63.143:9090/279679_.m3u8
-CNN INTL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279679.m3u8
-ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-ESPN 2,https://fl1.moveonjoy.com/ESPN_2/index.m3u8
-ESPN U,https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+CNN INTL,http://live.btv.mx:2424/stream/278335/smAVz_uhytj5REM-4pYNZbkrcB2
+CNN INTL,http://live.btv.mx:2424/stream/279679/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN,http://live.btv.mx:2424/stream/279424/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN 2,http://live.btv.mx:2424/stream/279425/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN NEWS,http://live.btv.mx:2424/stream/279428/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN DEPORTES,http://live.btv.mx:2424/stream/279426/smAVz_uhytj5REM-4pYNZbkrcB2
+ESPN U,http://live.btv.mx:2424/stream/279427/smAVz_uhytj5REM-4pYNZbkrcB2
 EURONEWS,http://46.105.71.222:8080/euronews/index.m3u8
 FOX BUSINESS,http://41.205.93.154/FOXBUSINESS/mpegts
-FOX BUSINESS,http://45.90.106.85:9090/165298_.m3u8
-FOX BUSINESS,https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-FOX NEWS,http://104.194.8.54:9090/279721_.m3u8
-FOX NEWS,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+FOX BUSINESS,http://live.btv.mx:2424/stream/165298/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX NEWS,http://live.btv.mx:2424/stream/279721/smAVz_uhytj5REM-4pYNZbkrcB2
+FOX NEWS,http://live.btv.mx:2424/stream/165297/smAVz_uhytj5REM-4pYNZbkrcB2
 FOX NEWS,http://46.105.71.222:8080/foxnews/index.m3u8
 FOX NEWS,http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 FOX NEWS,https://tvpass.org/live/FoxNewsChannel/hd
@@ -2274,14 +2259,12 @@ FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
 Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FRANCE24,http://46.105.71.222:8080/france24/index.m3u8
 FS1,http://23.237.104.106:8080/USA_FS1/index.m3u8
-FS1,http://104.238.222.251:9090/279430_.m3u8
+FS1,http://live.btv.mx:2424/stream/279430/smAVz_uhytj5REM-4pYNZbkrcB2
 FS2,http://23.237.104.106:8080/USA_FS2/index.m3u8
-FS2,http://104.238.222.251:9090/281866_.m3u8
+FS2,http://live.btv.mx:2424/stream/281866/smAVz_uhytj5REM-4pYNZbkrcB2
 MSNBC,http://104.255.88.155/msnbc/index.m3u8
 MSNBC,http://104.255.88.155/msnbc/mpegts
-MSNBC,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279436.m3u8
-MSNBC,http://104.238.222.251:9090/279436_.m3u8
-MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
+MSNBC,http://live.btv.mx:2424/stream/279436/smAVz_uhytj5REM-4pYNZbkrcB2
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 MSNBC,https://tvpass.org/live/MSNBC/hd
 NBC NEWS NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -2289,14 +2272,13 @@ NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 RT NEWS,http://ky-tv.cc/live/brendan1/brendan1/2310343.ts
 SKY NEWS,http://46.105.71.222:8080/skynews/index.m3u8
-TVG,http://104.238.222.251:9090/279509_.m3u8
-TVG,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279509.m3u8
-TVG,https://fl1.moveonjoy.com/TVG/index.m3u8
-THE WEATHER CHANNEL,http://199.127.63.143:9090/279720_.m3u8
-THE WEATHER CHANNEL,http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279720.m3u8
+TVG,http://live.btv.mx:2424/stream/279509/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL RACINGhttp://live.btv.mx:2424/stream/279463/smAVz_uhytj5REM-4pYNZbkrcB2
+FANDUEL TV RACING,http://live.btv.mx:2424/stream/279482/smAVz_uhytj5REM-4pYNZbkrcB2
+THE WEATHER CHANNEL,http://live.btv.mx:2424/stream/279712/smAVz_uhytj5REM-4pYNZbkrcB2
+THE WEATHER CHANNEL,http://live.btv.mx:2424/stream/279720/smAVz_uhytj5REM-4pYNZbkrcB2
 THE WEATHER CHANNEL,https://dvrfl04.tulix.tv/teleup-weather/mpegts
-THE WEATHER CHANNEL,https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-beIN Sports USA,http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+BEIN SPORTS,http://live.btv.mx:2424/stream/161161/smAVz_uhytj5REM-4pYNZbkrcB2
 beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
