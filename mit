@@ -174,6 +174,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
+HOY78,https://cdn.163189.xyz/163189/hoy78
 HOY剧集台,https://cdn.163189.xyz/163189/hoyjj
 RTHK-31,http://php.jdshipin.com:80/PLTV/iptv.php?id=rthk31
 RTHK-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
@@ -194,7 +195,7 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-Now爆谷,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 VIUTV,https://cdn.163189.xyz/163189/viu
@@ -249,7 +250,8 @@ HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-中天新聞,http://208.87.242.79/livehttpplay?channel_id=20163
+中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+中天新聞,https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
 中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
@@ -258,9 +260,9 @@ CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
-TVBS新闻台,http://208.87.242.79/livehttpplay?channel_id=20165
-东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -279,6 +281,31 @@ TVBS新闻台,http://208.87.242.79/livehttpplay?channel_id=20165
 FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
+
+huhu11,#genre#
+CCTV 1,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv1hd
+CCTV 2,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv2hd
+CCTV 3,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv3hd
+CCTV 4,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv4hd
+CCTV 5,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv5hd
+CCTV 5+,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv5phd
+CCTV 6,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv6hd
+CCTV 7,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv7hd
+CCTV 8,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv8hd
+CCTV 9,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv9hd
+CCTV 10,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv10hd
+CCTV 11,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv11hd
+CCTV 12,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv12hd
+CCTV 13,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv13hd
+CCTV 14,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv14hd
+CCTV 15,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv15hd
+CCTV 16,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv16hd
+CCTV 17,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv17hd
+寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
+中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
 
 FLV,#genre#
 无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
