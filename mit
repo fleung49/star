@@ -113,12 +113,15 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
+无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 翡翠台4K(多音轨字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -134,6 +137,7 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
@@ -250,20 +254,27 @@ HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
-中天新聞,https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
+中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中天新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
+中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
 中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
+中视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4Y=
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
+东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
@@ -939,14 +950,17 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
 广东卫视,http://www.1328099.xyz:9688/udp/239.77.0.84:5146
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
+广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广东新闻,https://stream1.freetv.fun/c720f6a136abc54cb154f928306bfb58534777b7d32c2aa51bbac65d8fb6f94f.ctv
 广东新闻,https://stream1.freetv.fun/2024dc9d8ccfdb5fb2225f051ad63efdc9584be1740a701f0c43a256f0cf4039.ctv
 广东新闻,https://stream1.freetv.fun/c56ba60c13df9f49626c6191379f359e7db76aea953e82b7ff8420f6e1066072.ctv
-广东新闻,https://stream1.freetv.fun/e08423e5f8bd85691a26a39c5c634b96a45270d6b185604ea63709da96c25987.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
 广东新闻,http://www.1328099.xyz:9688/udp/239.77.0.173:5146
 广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 广东民生,https://stream1.freetv.fun/aacfe255321c041092fc54fe1250336c49e3a785cb7e76a12280593196ad0f55.ctv
 广东民生,https://stream1.freetv.fun/2354bc4edf14a9ba6814c448e808d276bbca0f1fe8133b1e0812e0322ce83beb.ctv
 广东民生,https://stream1.freetv.fun/d705bf2698d0b56ef2db9514c5bdf14406bd0c7fbdfd887eb3b649750bb83361.ctv
@@ -959,6 +973,8 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
 广东影视,http://www.1328099.xyz:9688/udp/239.77.0.217:5146
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.ctv
 广东珠江,https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv
 广东珠江,https://stream1.freetv.fun/206a4d8ed30880e818bfc7088149ff72c90d86176e470bd749088207dcc13074.ctv
@@ -971,6 +987,7 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://www.1328099.xyz:9688/udp/239.77.0.1:5146
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,https://stream1.freetv.fun/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.ctv
 广东体育,https://stream1.freetv.fun/d8de197cafccb00d5ef0b74b6d51099156cdda3dfa9f12a2400ffbbd3c837f9e.ctv
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
@@ -984,14 +1001,16 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://www.1328099.xyz:9688/udp/239.77.0.112:5146
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
+广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 广东少儿,http://www.1328099.xyz:9688/udp/239.77.0.250:5146
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
-广东影视,http://free.cnlive.club/channel/n2afb37ab.m3u8
+广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
 广东经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8
 广东经济科教,http://www.1328099.xyz:9688/udp/239.77.0.85:5146
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
+广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 广州新闻|澜露直播,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
 广州新闻,https://stream1.freetv.fun/023f0747ffcc9d0e670d5baf50da12a3061309f6d019a3c0b2e77e1d39f3f0fa.m3u8
 广州新闻,https://stream1.freetv.fun/ed61829ac0bb1a28d5b4b48fc44b922c449965f788f0366b085dbe80185d915b.m3u8
