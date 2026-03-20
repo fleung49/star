@@ -142,7 +142,7 @@ TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
 TVB1,http://hls-pull-tvpublica.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBJcRgrePqp.flv
-TVB1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=153396
+TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
 TVBJ1,http://hls-pull-tvpublica.speedws.com/live/xU3SHbh8JcRgrCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
@@ -233,9 +233,9 @@ C+頻道,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-SKYLINK TV 1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156399
-SKYLINK TV 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156400
-ICITI,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:5A:3F:19&extension=ts&stream=156401
+SKYLINK TV 1,http://line.senpay23.com:80/4cafe94867/48a12d348c/156399
+SKYLINK TV 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/156400
+ICITI,http://line.senpay23.com:80/4cafe94867/48a12d348c/156401
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
@@ -254,15 +254,19 @@ HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV 13 (抖音视频),http://dxa.yiandrive.com:39319/douyin/547977714661
 CCTV 13 (B站视频),http://dxa.yiandrive.com:39319/bilibili/8178490
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+寰宇财经,http://119.91.7.169:2026/TW.php?id=寰宇财经台
+寰宇新闻台湾台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台湾台
 中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中天新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34899
 中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
-中天亚洲,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=571212
+中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4Y=
+中视,http://119.91.7.169:2026/TW.php?id=中视
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
@@ -272,9 +276,12 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS ASIA,http://line.senpay23.com:80/4cafe94867/48a12d348c/153397
 东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+华视,http://119.91.7.169:2026/TW.php?id=华视
+华视新闻,http://119.91.7.169:2026/TW.php?id=华视新闻
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
@@ -289,9 +296,9 @@ TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 深圳卫视HD,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-FAIRCHILD EAST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90350
-FAIRCHILD WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=90351
-FAIRCHILD 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D05&extension=ts&stream=90352
+FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
+FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
+FAIRCHILD 2 HD,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
 
 huhu11 proxy,#genre#
 CCTV 1,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=cctv1hd
