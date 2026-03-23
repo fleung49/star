@@ -1,859 +1,859 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="香港频特",凤凰中文
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=phoenixtv_hd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/tb/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="香港频特",凤凰资讯
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=phoenixinfo_hd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://175.178.182.213/tb/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="香港频特",凤凰香港
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=hkphoenix_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=hkphoenix_twn
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="香港频特",无线新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=inews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=inews_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频特",翡翠台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=jade_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=jade_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频特",翡翠台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Jade_xue
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Jade_xue
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频特",翡翠台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbjade
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbjade
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://175.178.182.213/tb/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港频特",明珠台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=pearl_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=pearl_twn
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://175.178.182.213/tb/TVB+Plus.png" group-title="香港频特",TVB Plus
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=j2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=j2_twn
 #EXTINF:-1 tvg-id="无线华丽粤" tvg-name="无线华丽粤" tvg-logo="http://175.178.182.213/tb/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD%E7%B2%A4.png" group-title="香港频特",无线华丽粤
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Wlt
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Wlt
 #EXTINF:-1 tvg-id="无线华丽国" tvg-name="无线华丽国" tvg-logo="http://175.178.182.213/tb/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD%E5%9B%BD.png" group-title="香港频特",无线华丽国
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbjade
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbjade
 #EXTINF:-1 tvg-id="无线娱乐新闻" tvg-name="无线娱乐新闻" tvg-logo="http://175.178.182.213/tb/%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB.png" group-title="香港频特",无线娱乐新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbentertainment
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbentertainment
 #EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="http://175.178.182.213/tb/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8.png" group-title="香港频特",千禧经典
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbclassic
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbclassic
 #EXTINF:-1 tvg-id="TVB 星河 Xing He" tvg-name="TVB 星河 Xing He" tvg-logo="http://175.178.182.213/tb/TVB+%E6%98%9F%E6%B2%B3+Xing+He.png" group-title="香港频特",TVB 星河 Xing He
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Xinhe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Xinhe
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="http://175.178.182.213/tb/HOY+78.png" group-title="香港频特",HOY 78
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=hoycaijing_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=hoycaijing_twn
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="http://175.178.182.213/tb/VIUTV.png" group-title="香港频特",VIUTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viu1_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viu1_twn
 #EXTINF:-1 tvg-id="VIUTV 6" tvg-name="VIUTV 6" tvg-logo="http://175.178.182.213/tb/VIUTV+6.png" group-title="香港频特",VIUTV 6
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viusix_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viusix_twn
 #EXTINF:-1 tvg-id="RTHK-31" tvg-name="RTHK-31" tvg-logo="http://175.178.182.213/tb/RTHK-31.png" group-title="香港频特",RTHK-31
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=rhk31_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=rhk31_twn
 #EXTINF:-1 tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="http://175.178.182.213/tb/RTHK-32.png" group-title="香港频特",RTHK-32
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=rhk32_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=rhk32_twn
 #EXTINF:-1 tvg-id="天映频道粤" tvg-name="天映频道粤" tvg-logo="http://175.178.182.213/tb/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%E7%B2%A4.png" group-title="香港频特",天映频道粤
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctv18_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctv18_twn
 #EXTINF:-1 tvg-id="天映频道国" tvg-name="天映频道国" tvg-logo="http://175.178.182.213/tb/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%E5%9B%BD.png" group-title="香港频特",天映频道国
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestial
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestial
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="http://175.178.182.213/tb/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" group-title="香港频特",天映频道
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestialindo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestialindo
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="香港频特",天映经典
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestial2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestial2
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="http://175.178.182.213/tb/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png" group-title="香港频特",美亚电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=meiyamovie_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=meiyamovie_twn
 #EXTINF:-1 tvg-id="新加CHANNEL U" tvg-name="新加CHANNEL U" tvg-logo="http://175.178.182.213/tb/%E6%96%B0%E5%8A%A0CHANNEL+U.png" group-title="香港频特",新加CHANNEL U
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ChannelU
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ChannelU
 #EXTINF:-1 tvg-id="新加CHANNEL 5" tvg-name="新加CHANNEL 5" tvg-logo="http://175.178.182.213/tb/%E6%96%B0%E5%8A%A0CHANNEL+5.png" group-title="香港频特",新加CHANNEL 5
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Channel5HD
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Channel5HD
 #EXTINF:-1 tvg-id="新加CHANNEL 8" tvg-name="新加CHANNEL 8" tvg-logo="http://175.178.182.213/tb/%E6%96%B0%E5%8A%A0CHANNEL+8.png" group-title="香港频特",新加CHANNEL 8
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Channel8HD
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Channel8HD
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="http://175.178.182.213/tb/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4.png" group-title="香港频特",八度空间
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV8
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV8
 #EXTINF:-1 tvg-id="Astro iQiyi 爱奇艺" tvg-name="Astro iQiyi 爱奇艺" tvg-logo="http://175.178.182.213/tb/Astro+iQiyi+%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="香港频特",Astro iQiyi 爱奇艺
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Qiyi
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Qiyi
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="http://175.178.182.213/tb/Astro+QJ.png" group-title="香港频特",Astro QJ
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Quanjia
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Quanjia
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="http://175.178.182.213/tb/Astro+AOD.png" group-title="香港频特",Astro AOD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Aodhd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Aodhd
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="http://175.178.182.213/tb/Astro+AEC.png" group-title="香港频特",Astro AEC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AEC
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AEC
 #EXTINF:-1 tvg-id="Astro 欢喜" tvg-name="Astro 欢喜" tvg-logo="http://175.178.182.213/tb/Astro+%E6%AC%A2%E5%96%9C.png" group-title="香港频特",Astro 欢喜
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Huahee
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Huahee
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="http://175.178.182.213/tb/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="台湾频特",寰宇新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=huanyuxinwen_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="http://175.178.182.213/tb/%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F.png" group-title="台湾频特",寰宇财经
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=huanyutaiwan_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=huanyutaiwan_twn
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="台湾频特",中天新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctinews
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctinews
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png" group-title="台湾频特",中天亚洲
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctiasia_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctiasia_twn
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png" group-title="台湾频特",中天娱乐
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctient
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctient
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png" group-title="台湾频特",中天综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctizhonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctizhonghe
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="http://175.178.182.213/tb/TVBS.png" group-title="台湾频特",TVBS
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tvbs
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tvbs
 #EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="http://175.178.182.213/tb/TVBS+Asia.png" group-title="台湾频特",TVBS Asia
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbasia
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbasia
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="http://175.178.182.213/tb/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾频特",TVBS新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tvbs_n
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="http://175.178.182.213/tb/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾频特",TVBS欢乐
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tvbshuanle_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="台湾频特",东森新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvnews
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvnews
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F.png" group-title="台湾频特",东森财经
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvcaijing_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png" group-title="台湾频特",东森综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvzhonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvzhonghe
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7.png" group-title="台湾频特",东森戏剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvdrama
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvdrama
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="台湾频特",东森洋片
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvwestern
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvwestern
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",东森电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvmovie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvmovie
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png" group-title="台湾频特",东森幼幼
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=yoyo_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=yoyo_twn
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png" group-title="台湾频特",东森超视
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ettvsuper
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvsuper
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频特",中视新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=zhongshinews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=zhongshinews_twn
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E8%A7%86.png" group-title="台湾频特",中视
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=zhongshihd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=zhongshihd_twn
 #EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="http://175.178.182.213/tb/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="台湾频特",中视经典
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=zhongshi_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=zhongshi_twn
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://175.178.182.213/tb/%E6%B0%91%E8%A7%86.png" group-title="台湾频特",民视
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ftvhd_taiwan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="http://175.178.182.213/tb/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频特",民视新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ftvnew_taiwan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="民视第一" tvg-name="民视第一" tvg-logo="http://175.178.182.213/tb/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80.png" group-title="台湾频特",民视第一
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lunghuajingdian_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="http://175.178.182.213/tb/%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE.png" group-title="台湾频特",民视台湾
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ftvtaiwan_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://175.178.182.213/tb/%E5%8D%8E%E8%A7%86.png" group-title="台湾频特",华视
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctshd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctshd_twn
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="http://175.178.182.213/tb/%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88.png" group-title="台湾频特",台视综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ttvzhonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ttvzhonghe
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://175.178.182.213/tb/%E5%8F%B0%E8%A7%86.png" group-title="台湾频特",台视
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ttv_taiwan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="http://175.178.182.213/tb/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频特",台视新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ttvnews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ttvnews_twn
 #EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="http://175.178.182.213/tb/%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD.png" group-title="台湾频特",公视台语
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ctv2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctv2_twn
 #EXTINF:-1 tvg-id="三立闽南" tvg-name="三立闽南" tvg-logo="http://175.178.182.213/tb/%E4%B8%89%E7%AB%8B%E9%97%BD%E5%8D%97.png" group-title="台湾频特",三立闽南
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sanlitaiwan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sanlitaiwan
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="http://175.178.182.213/tb/%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7.png" group-title="台湾频特",三立戏剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sanlixiju_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sanlixiju_twn
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="http://175.178.182.213/tb/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88.png" group-title="台湾频特",三立综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sanlizhonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sanlizhonghe
 #EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="http://175.178.182.213/tb/%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A.png" group-title="台湾频特",三立都会
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sanlidouhui
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sanlidouhui
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="http://175.178.182.213/tb/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" group-title="台湾频特",非凡新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=feifannews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=feifannews_twn
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="http://175.178.182.213/tb/%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB.png" group-title="台湾频特",年代新闻
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=niandainews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=niandainews_twn
 #EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="http://175.178.182.213/tb/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png" group-title="台湾频特",八大第一
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=badafirst
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badafirst
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="http://175.178.182.213/tb/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png" group-title="台湾频特",八大综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=badazhonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badazhonghe
 #EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="http://175.178.182.213/tb/%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7.png" group-title="台湾频特",八大戏剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=badadrama
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badadrama
 #EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="http://175.178.182.213/tb/%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90.png" group-title="台湾频特",八大娱乐
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=badaentertain
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badaentertain
 #EXTINF:-1 tvg-id="华艺综合" tvg-name="华艺综合" tvg-logo="http://175.178.182.213/tb/%E5%8D%8E%E8%89%BA%E7%BB%BC%E5%90%88.png" group-title="台湾频特",华艺综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=weishichinese_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=weishichinese_twn
 #EXTINF:-1 tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="http://175.178.182.213/tb/%E5%A4%A7%E7%88%B11%E5%8F%B0.png" group-title="台湾频特",大爱1台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=daai_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=daai_twn
 #EXTINF:-1 tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="http://175.178.182.213/tb/%E5%A4%A7%E7%88%B12%E5%8F%B0.png" group-title="台湾频特",大爱2台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=daai2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=daai2_twn
 #EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="http://175.178.182.213/tb/%E5%A5%BD%E6%B6%88%E6%81%AF2.png" group-title="台湾频特",好消息2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=good2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=good2_twn
 #EXTINF:-1 tvg-id="阿里郎综合" tvg-name="阿里郎综合" tvg-logo="http://175.178.182.213/tb/%E9%98%BF%E9%87%8C%E9%83%8E%E7%BB%BC%E5%90%88.png" group-title="台湾频特",阿里郎综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=arirang_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=arirang_twn
 #EXTINF:-1 tvg-id="AXN电影" tvg-name="AXN电影" tvg-logo="http://175.178.182.213/tb/AXN%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",AXN电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=axn_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=axn_twn
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://175.178.182.213/tb/Cinemax.png" group-title="台湾频特",Cinemax
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cinemax_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cinemax_twn
 #EXTINF:-1 tvg-id="HBo高清" tvg-name="HBo高清" tvg-logo="http://175.178.182.213/tb/HBo%E9%AB%98%E6%B8%85.png" group-title="台湾频特",HBo高清
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=hbohd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=hbohd_twn
 #EXTINF:-1 tvg-id="HBo家庭" tvg-name="HBo家庭" tvg-logo="http://175.178.182.213/tb/HBo%E5%AE%B6%E5%BA%AD.png" group-title="台湾频特",HBo家庭
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=fyi_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=fyi_twn
 #EXTINF:-1 tvg-id="好莱电影" tvg-name="好莱电影" tvg-logo="http://175.178.182.213/tb/%E5%A5%BD%E8%8E%B1%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",好莱电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=hollywoodmovies_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E7%A5%A5%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",龙祥电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lungxiangtime_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="台湾频特",龙华经典
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lunghuajingdian_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾频特",龙华戏剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lunghuaxiju_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",龙华电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=xingwei_movie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=xingwei_movie
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台湾频特",龙华偶像
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lunghuaidol_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="http://175.178.182.213/tb/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="台湾频特",龙华洋片
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=lunghuawestern_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1.png" group-title="台湾频特",纬来电影
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandmovie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandmovie
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png" group-title="台湾频特",纬来日本
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandjapan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandjapan
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png" group-title="台湾频特",纬来体育
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandsport
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandsport
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88.png" group-title="台湾频特",纬来综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandzonghe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandzonghe
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90.png" group-title="台湾频特",纬来育乐
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandyule
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandyule
 #EXTINF:-1 tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="http://175.178.182.213/tb/%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9.png" group-title="台湾频特",纬来精彩
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=videolandspecial_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=videolandspecial_twn
 #EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="http://175.178.182.213/tb/%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85.png" group-title="台湾频特",靖天国际
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=jingtianintl_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=jingtianintl_twn
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="http://175.178.182.213/tb/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="台湾频特",靖天卡通
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=jingtiancartoon_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="ELta影剧" tvg-name="ELta影剧" tvg-logo="http://175.178.182.213/tb/ELta%E5%BD%B1%E5%89%A7.png" group-title="台湾频特",ELta影剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltayingju_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltayingju_twn
 #EXTINF:-1 tvg-id="ELta综合" tvg-name="ELta综合" tvg-logo="http://175.178.182.213/tb/ELta%E7%BB%BC%E5%90%88.png" group-title="台湾频特",ELta综合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltazonghe_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltazonghe_twn
 #EXTINF:-1 tvg-id="ELTA体育1" tvg-name="ELTA体育1" tvg-logo="http://175.178.182.213/tb/ELTA%E4%BD%93%E8%82%B21.png" group-title="台湾频特",ELTA体育1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport_twn
 #EXTINF:-1 tvg-id="ELTA体育2" tvg-name="ELTA体育2" tvg-logo="http://175.178.182.213/tb/ELTA%E4%BD%93%E8%82%B22.png" group-title="台湾频特",ELTA体育2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport2_twn
 #EXTINF:-1 tvg-id="ELTA体育3" tvg-name="ELTA体育3" tvg-logo="http://175.178.182.213/tb/ELTA%E4%BD%93%E8%82%B23.png" group-title="台湾频特",ELTA体育3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport3_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport3_twn
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="http://175.178.182.213/tb/DAZN+1.png" group-title="台湾频特",DAZN 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=golfchannel_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=golfchannel_twn
 #EXTINF:-1 tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90.png" group-title="台湾频特",博斯无限
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bosiunlimited_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83.png" group-title="台湾频特",博斯网球
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bositennis_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bositennis_twn
 #EXTINF:-1 tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81.png" group-title="台湾频特",博斯运动1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bosisport1_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bosisport1_twn
 #EXTINF:-1 tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82.png" group-title="台湾频特",博斯运动2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bosisport2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bosisport2_twn
 #EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831.png" group-title="台湾频特",博斯高球1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bosigolf1_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bosigolf1_twn
 #EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="http://175.178.182.213/tb/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832.png" group-title="台湾频特",博斯高球2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bosigolf2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bosigolf2_twn
 #EXTINF:-1 tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="http://175.178.182.213/tb/%E6%8E%A2%E7%B4%A2%E4%BA%9A%E6%B4%B2.png" group-title="台湾频特",探索亚洲
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoverytwn_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoverytwn_twn
 #EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="http://175.178.182.213/tb/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png" group-title="台湾频特",国家地理
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeohd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeohd_twn
 #EXTINF:-1 tvg-id="野生动物" tvg-name="野生动物" tvg-logo="http://175.178.182.213/tb/%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9.png" group-title="台湾频特",野生动物
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeowild_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeowild_twn
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="http://175.178.182.213/tb/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.png" group-title="台湾频特",动物星球
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=animalplanet_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=animalplanet_twn
 #EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="http://175.178.182.213/tb/%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83.png" group-title="台湾频特",美食星球
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=foodplanet_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=foodplanet_twn
 #EXTINF:-1 tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="http://175.178.182.213/tb/%E4%BA%9A%E6%B4%B2%E7%BE%8E%E9%A3%9F.png" group-title="台湾频特",亚洲美食
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=afc_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=afc_twn
 #EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="http://175.178.182.213/tb/%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8.png" group-title="台湾频特",亚洲旅游
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=asiatravel_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=asiatravel_twn
 #EXTINF:-1 tvg-id="亚洲TLC" tvg-name="亚洲TLC" tvg-logo="http://175.178.182.213/tb/%E4%BA%9A%E6%B4%B2TLC.png" group-title="台湾频特",亚洲TLC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tlc_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tlc_twn
 #EXTINF:-1 tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="http://175.178.182.213/tb/EYETV+%E6%97%85%E6%B8%B8.png" group-title="台湾频特",EYETV 旅游
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eyetvtravel_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="EYETV 戏剧" tvg-name="EYETV 戏剧" tvg-logo="http://175.178.182.213/tb/EYETV+%E6%88%8F%E5%89%A7.png" group-title="台湾频特",EYETV 戏剧
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eyetvxiju_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://175.178.182.213/tb/MTV.png" group-title="台湾频特",MTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=mtvhd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=mtvhd_twn
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://175.178.182.213/tb/Discovery.png" group-title="台湾频特",Discovery
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoverytwn_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoverytwn_twn
 #EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="http://175.178.182.213/tb/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0.png" group-title="体育频特",爱尔达体育1台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport_twn
 #EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="http://175.178.182.213/tb/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0.png" group-title="体育频特",爱尔达体育2台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport2_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport2_twn
 #EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="http://175.178.182.213/tb/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0.png" group-title="体育频特",爱尔达体育3台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport3_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport3_twn
 #EXTINF:-1 tvg-id="爱尔达体育4台" tvg-name="爱尔达体育4台" tvg-logo="http://175.178.182.213/tb/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0.png" group-title="体育频特",爱尔达体育4台
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=eltasport4_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=eltasport4_twn
 #EXTINF:-1 tvg-id="Astro Arena" tvg-name="Astro Arena" tvg-logo="http://175.178.182.213/tb/Astro+Arena.png" group-title="体育频特",Astro Arena
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Arena
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Arena
 #EXTINF:-1 tvg-id="Astro Arena 2" tvg-name="Astro Arena 2" tvg-logo="http://175.178.182.213/tb/Astro+Arena+2.png" group-title="体育频特",Astro Arena 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Arena2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Arena2
 #EXTINF:-1 tvg-id="Astro Arena Bola 1" tvg-name="Astro Arena Bola 1" tvg-logo="http://175.178.182.213/tb/Astro+Arena+Bola+1.png" group-title="体育频特",Astro Arena Bola 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Bolaarena1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Bolaarena1
 #EXTINF:-1 tvg-id="Astro Arena Bola 2" tvg-name="Astro Arena Bola 2" tvg-logo="http://175.178.182.213/tb/Astro+Arena+Bola+2.png" group-title="体育频特",Astro Arena Bola 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Bolaarena2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Bolaarena2
 #EXTINF:-1 tvg-id="Astro Bein sports 1" tvg-name="Astro Bein sports 1" tvg-logo="http://175.178.182.213/tb/Astro+Bein+sports+1.png" group-title="体育频特",Astro Bein sports 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Astrobein1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Astrobein1
 #EXTINF:-1 tvg-id="Astro Bein sports 2" tvg-name="Astro Bein sports 2" tvg-logo="http://175.178.182.213/tb/Astro+Bein+sports+2.png" group-title="体育频特",Astro Bein sports 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Astrobein2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Astrobein2
 #EXTINF:-1 tvg-id="Astro Bein sports 3" tvg-name="Astro Bein sports 3" tvg-logo="http://175.178.182.213/tb/Astro+Bein+sports+3.png" group-title="体育频特",Astro Bein sports 3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Astrobein3
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Astrobein3
 #EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="http://175.178.182.213/tb/Astro+Badminton+1.png" group-title="体育频特",Astro Badminton 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_badminton1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_badminton1
 #EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="http://175.178.182.213/tb/Astro+Badminton+2.png" group-title="体育频特",Astro Badminton 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_badminton2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_badminton2
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="http://175.178.182.213/tb/Astro+Cricket.png" group-title="体育频特",Astro Cricket
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Acricket
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Acricket
 #EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="http://175.178.182.213/tb/Astro+EPL+1+backup.png" group-title="体育频特",Astro EPL 1 backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp1x
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp1x
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="http://175.178.182.213/tb/Astro+Football.png" group-title="体育频特",Astro Football
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp4
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp4
 #EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="http://175.178.182.213/tb/Astro+Golf.png" group-title="体育频特",Astro Golf
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Agolf
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Agolf
 #EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="http://175.178.182.213/tb/Astro+Grandstand.png" group-title="体育频特",Astro Grandstand
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp3
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp3
 #EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="http://175.178.182.213/tb/Astro+Premier+League+1.png" group-title="体育频特",Astro Premier League 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp1
 #EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="http://175.178.182.213/tb/Astro+Premier+League+2.png" group-title="体育频特",Astro Premier League 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp2
 #EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="http://175.178.182.213/tb/Astro+Sports+Plus.png" group-title="体育频特",Astro Sports Plus
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_sportsplus
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_sportsplus
 #EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="http://175.178.182.213/tb/Astro+W-Sports.png" group-title="体育频特",Astro W-Sports
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_assp5
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_assp5
 #EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="http://175.178.182.213/tb/Fight+Sports.png" group-title="体育频特",Fight Sports
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Fs
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Fs
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="http://175.178.182.213/tb/NBA+TV.png" group-title="体育频特",NBA TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Nba
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Nba
 #EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="http://175.178.182.213/tb/RTM+Sports+HD.png" group-title="体育频特",RTM Sports HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rtmsport
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rtmsport
 #EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="http://175.178.182.213/tb/Rugby+Pass+TV.png" group-title="体育频特",Rugby Pass TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rugbypasstv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rugbypasstv
 #EXTINF:-1 tvg-id="Sky sports Cricket" tvg-name="Sky sports Cricket" tvg-logo="http://175.178.182.213/tb/Sky+sports+Cricket.png" group-title="体育频特",Sky sports Cricket
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongcricket
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongcricket
 #EXTINF:-1 tvg-id="Sky sports EPL" tvg-name="Sky sports EPL" tvg-logo="http://175.178.182.213/tb/Sky+sports+EPL.png" group-title="体育频特",Sky sports EPL
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongepl
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongepl
 #EXTINF:-1 tvg-id="Sky sports F1" tvg-name="Sky sports F1" tvg-logo="http://175.178.182.213/tb/Sky+sports+F1.png" group-title="体育频特",Sky sports F1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongf1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongf1
 #EXTINF:-1 tvg-id="Sky sports Main Event" tvg-name="Sky sports Main Event" tvg-logo="http://175.178.182.213/tb/Sky+sports+Main+Event.png" group-title="体育频特",Sky sports Main Event
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongmain
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongmain
 #EXTINF:-1 tvg-id="Sky sports Mix" tvg-name="Sky sports Mix" tvg-logo="http://175.178.182.213/tb/Sky+sports+Mix.png" group-title="体育频特",Sky sports Mix
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongmix
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongmix
 #EXTINF:-1 tvg-id="Sky sports News" tvg-name="Sky sports News" tvg-logo="http://175.178.182.213/tb/Sky+sports+News.png" group-title="体育频特",Sky sports News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tiankongnews
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tiankongnews
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="http://175.178.182.213/tb/Sony+Ten+1.png" group-title="体育频特",Sony Ten 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ten1_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ten1_raj
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="http://175.178.182.213/tb/Sony+Ten+2.png" group-title="体育频特",Sony Ten 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ten2_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ten2_raj
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="http://175.178.182.213/tb/Sony+Ten+3.png" group-title="体育频特",Sony Ten 3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ten3_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ten3_raj
 #EXTINF:-1 tvg-id="SPOTV 1" tvg-name="SPOTV 1" tvg-logo="http://175.178.182.213/tb/SPOTV+1.png" group-title="体育频特",SPOTV 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_spotv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_spotv
 #EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="http://175.178.182.213/tb/SPOTV+2.png" group-title="体育频特",SPOTV 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=go_spotv2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=go_spotv2
 #EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="http://175.178.182.213/tb/Supersports+1.png" group-title="体育频特",Supersports 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Assp1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Assp1
 #EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="http://175.178.182.213/tb/Supersports+2.png" group-title="体育频特",Supersports 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Assp2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Assp2
 #EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="http://175.178.182.213/tb/Supersports+3.png" group-title="体育频特",Supersports 3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Assp3
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Assp3
 #EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="http://175.178.182.213/tb/Supersports+4.png" group-title="体育频特",Supersports 4
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Assp4
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Assp4
 #EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="http://175.178.182.213/tb/Tnt+Sports+1.png" group-title="体育频特",Tnt Sports 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=6fac0aaead
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=6fac0aaead
 #EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="http://175.178.182.213/tb/TNT+Sports+2.png" group-title="体育频特",TNT Sports 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=d9a76a79cc
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=d9a76a79cc
 #EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="http://175.178.182.213/tb/TNT+Sports+3.png" group-title="体育频特",TNT Sports 3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=5fea4d73db
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=5fea4d73db
 #EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="http://175.178.182.213/tb/TNT+Sports+4.png" group-title="体育频特",TNT Sports 4
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tntsport4
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tntsport4
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="http://175.178.182.213/tb/WWE.png" group-title="体育频特",WWE
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Wwe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Wwe
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://175.178.182.213/tb/Animax.png" group-title="电影频玛",Animax
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Animax
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Animax
 #EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="http://175.178.182.213/tb/Astrol+Kplus.png" group-title="电影频玛",Astrol Kplus
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Kplus
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Kplus
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="http://175.178.182.213/tb/Axn+HD.png" group-title="电影频玛",Axn HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Axn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Axn
 #EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="http://175.178.182.213/tb/Celestial+Classic.png" group-title="电影频玛",Celestial Classic
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestial2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestial2
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="http://175.178.182.213/tb/Celestial+Movies+HD.png" group-title="电影频玛",Celestial Movies HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestialindo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestialindo
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://175.178.182.213/tb/Cinemax.png" group-title="电影频玛",Cinemax
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Cinemax
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Cinemax
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="http://175.178.182.213/tb/Dreamworks.png" group-title="电影频玛",Dreamworks
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Dreamworks
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Dreamworks
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://175.178.182.213/tb/HBO+HD.png" group-title="电影频玛",HBO HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hbo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hbo
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://175.178.182.213/tb/HBO+Family.png" group-title="电影频玛",HBO Family
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hbofamily
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hbofamily
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="http://175.178.182.213/tb/HBO+Hits.png" group-title="电影频玛",HBO Hits
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hbohitshd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hbohitshd
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://175.178.182.213/tb/HBO+Signature.png" group-title="电影频玛",HBO Signature
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hbosignature
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hbosignature
 #EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="http://175.178.182.213/tb/Hits.png" group-title="电影频玛",Hits
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hits
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hits
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="http://175.178.182.213/tb/Hits+Movie.png" group-title="电影频玛",Hits Movie
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Hitsmovie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Hitsmovie
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="http://175.178.182.213/tb/Movies+Now+HD.png" group-title="电影频玛",Movies Now HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=moviesnow_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=moviesnow_raj
 #EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://175.178.182.213/tb/One.png" group-title="电影频玛",One
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=One
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=One
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="http://175.178.182.213/tb/Paramount+Network.png" group-title="电影频玛",Paramount Network
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Paramountnetwork
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Paramountnetwork
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="http://175.178.182.213/tb/Rock+Actions.png" group-title="电影频玛",Rock Actions
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rockaction
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rockaction
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="http://175.178.182.213/tb/Rock+Entertainment.png" group-title="电影频玛",Rock Entertainment
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rockentertain
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rockentertain
 #EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="http://175.178.182.213/tb/SCM.png" group-title="电影频玛",SCM
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Weishimovie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Weishimovie
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="http://175.178.182.213/tb/Star+Movies+HD.png" group-title="电影频玛",Star Movies HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=starmovies_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=starmovies_raj
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://175.178.182.213/tb/Thrill.png" group-title="电影频玛",Thrill
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Thrill
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Thrill
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="http://175.178.182.213/tb/tvN+Movie.png" group-title="电影频玛",tvN Movie
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvnmovie
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvnmovie
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="http://175.178.182.213/tb/Warner+TV.png" group-title="电影频玛",Warner TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=WarnerTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=WarnerTV
 #EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="http://175.178.182.213/tb/Animal_Planet.png" group-title="纪录频特",Animal_Planet
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=animalplanet_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=animalplanet_twn
 #EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="http://175.178.182.213/tb/Animal+Planet+%28Eng%29.png" group-title="纪录频特",Animal Planet (Eng)
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AnimalPlanet
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AnimalPlanet
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="http://175.178.182.213/tb/BBC+Earth+HD.png" group-title="纪录频特",BBC Earth HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbcearth_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbcearth_twn
 #EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="http://175.178.182.213/tb/BBC+Earth+Lifestyle.png" group-title="纪录频特",BBC Earth Lifestyle
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbclifestyle_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="http://175.178.182.213/tb/CI.png" group-title="纪录频特",CI
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ci_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ci_twn
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="http://175.178.182.213/tb/Discovery+Asia.png" group-title="纪录频特",Discovery Asia
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoverytwn_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoverytwn_twn
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="http://175.178.182.213/tb/Discovery+HD.png" group-title="纪录频特",Discovery HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoveryhd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoveryhd_twn
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="http://175.178.182.213/tb/Fashion+TV.png" group-title="纪录频特",Fashion TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=fashiontv_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=fashiontv_twn
 #EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="http://175.178.182.213/tb/Foodnetwork+Hd.png" group-title="纪录频特",Foodnetwork Hd
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Foodnetwork
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Foodnetwork
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://175.178.182.213/tb/HGTV.png" group-title="纪录频特",HGTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=HGTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=HGTV
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://175.178.182.213/tb/History.png" group-title="纪录频特",History
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=History
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=History
 #EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="http://175.178.182.213/tb/NatGeo+HD.png" group-title="纪录频特",NatGeo HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Natgeo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Natgeo
 #EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="http://175.178.182.213/tb/Natgeo_HD.png" group-title="纪录频特",Natgeo_HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeohd_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeohd_twn
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="http://175.178.182.213/tb/NatGeo+Wild+HD.png" group-title="纪录频特",NatGeo Wild HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Natgeowild
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Natgeowild
 #EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="http://175.178.182.213/tb/NatGeo_Wild+HD.png" group-title="纪录频特",NatGeo_Wild HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeowild_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeowild_twn
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://175.178.182.213/tb/TLC.png" group-title="纪录频特",TLC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tlc
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tlc
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="http://175.178.182.213/tb/ABC+News.png" group-title="新闻频特",ABC News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=abcnews_glo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=abcnews_glo
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="http://175.178.182.213/tb/Al-Jazeera.png" group-title="新闻频特",Al-Jazeera
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=aljazeera_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=aljazeera_twn
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://175.178.182.213/tb/BBC+World+News.png" group-title="新闻频特",BBC World News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbcnews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbcnews_twn
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://175.178.182.213/tb/BBC+World+News.png" group-title="新闻频特",BBC World News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Bbcnews
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Bbcnews
 #EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="http://175.178.182.213/tb/Bloomberg+News.png" group-title="新闻频特",Bloomberg News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bloomberg_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bloomberg_twn
 #EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="http://175.178.182.213/tb/CBS+HD.png" group-title="新闻频特",CBS HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cbshd_glo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cbshd_glo
 #EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="http://175.178.182.213/tb/CBSN+HD.png" group-title="新闻频特",CBSN HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cbsn_glo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cbsn_glo
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="http://175.178.182.213/tb/CNA.png" group-title="新闻频特",CNA
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cna
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cna
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="http://175.178.182.213/tb/CNBC.png" group-title="新闻频特",CNBC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cnbc_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cnbc_twn
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="http://175.178.182.213/tb/CNN+International.png" group-title="新闻频特",CNN International
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Cnn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Cnn
 #EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="http://175.178.182.213/tb/CNN+backup.png" group-title="新闻频特",CNN backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cnn_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cnn_twn
 #EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="http://175.178.182.213/tb/DW+%28Deutsch%29.png" group-title="新闻频特",DW (Deutsch)
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=dw_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=dw_twn
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="http://175.178.182.213/tb/Fox+News.png" group-title="新闻频特",Fox News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=foxnews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=foxnews_twn
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="http://175.178.182.213/tb/France+24.png" group-title="新闻频特",France 24
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=france24_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=france24_twn
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="http://175.178.182.213/tb/NHK+World.png" group-title="新闻频特",NHK World
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhkworld_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhkworld_japan
 #EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="http://175.178.182.213/tb/Skynews.png" group-title="新闻频特",Skynews
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=skynews_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=skynews_twn
 #EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="http://175.178.182.213/tb/Baby+TV+Eng.png" group-title="儿童频特",Baby TV Eng
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Babytv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Babytv
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://175.178.182.213/tb/CBeebies.png" group-title="儿童频特",CBeebies
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Cbeebies
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Cbeebies
 #EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="http://175.178.182.213/tb/Kids+TV.png" group-title="儿童频特",Kids TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=KidsTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=KidsTV
 #EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="http://175.178.182.213/tb/Momo+TV.png" group-title="儿童频特",Momo TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=momo1_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=momo1_twn
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://175.178.182.213/tb/Baby+TV.png" group-title="儿童频特",Baby TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=babytv_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=babytv_twn
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="http://175.178.182.213/tb/MiaoMi.png" group-title="儿童频特",MiaoMi
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=MiaoMi
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=MiaoMi
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://175.178.182.213/tb/Cartoon+Network.png" group-title="儿童频特",Cartoon Network
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Cn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Cn
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://175.178.182.213/tb/Nickelodeon.png" group-title="儿童频特",Nickelodeon
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Nickelodeon
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Nickelodeon
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://175.178.182.213/tb/Nick+Jr.png" group-title="儿童频特",Nick Jr
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Nickjr
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Nickjr
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="http://175.178.182.213/tb/Channel+5.png" group-title="新加频特",Channel 5
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Channel5HD
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Channel5HD
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="http://175.178.182.213/tb/Channel+8.png" group-title="新加频特",Channel 8
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Channel8HD
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Channel8HD
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="http://175.178.182.213/tb/Suria.png" group-title="新加频特",Suria
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Suria
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Suria
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="http://175.178.182.213/tb/Channel+U.png" group-title="新加频特",Channel U
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ChannelU
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ChannelU
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="http://175.178.182.213/tb/Vasantham.png" group-title="新加频特",Vasantham
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Vasantham
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Vasantham
 #EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="http://175.178.182.213/tb/CNA+backup.png" group-title="新加频特",CNA backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cna_twn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cna_twn
 #EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="http://175.178.182.213/tb/MeWatch+Ch+5.png" group-title="新加频特",MeWatch Ch 5
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_ch5
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_ch5
 #EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="http://175.178.182.213/tb/MeWatch+Ch+8.png" group-title="新加频特",MeWatch Ch 8
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_ch8
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_ch8
 #EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="http://175.178.182.213/tb/MeWatch+Ch+U.png" group-title="新加频特",MeWatch Ch U
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_chU
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_chU
 #EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="http://175.178.182.213/tb/MeWatch+Suria.png" group-title="新加频特",MeWatch Suria
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_Suria
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_Suria
 #EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="http://175.178.182.213/tb/MeWatch+Vasantham.png" group-title="新加频特",MeWatch Vasantham
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_Vasantham
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_Vasantham
 #EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="http://175.178.182.213/tb/MeWatch+CNA.png" group-title="新加频特",MeWatch CNA
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mewatch_cna
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mewatch_cna
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://175.178.182.213/tb/TV1.png" group-title="马来频特",TV1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV1
 #EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="http://175.178.182.213/tb/TV1+backup.png" group-title="马来频特",TV1 backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV1_backup
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV1_backup
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://175.178.182.213/tb/TV2.png" group-title="马来频特",TV2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV2
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://175.178.182.213/tb/TV3.png" group-title="马来频特",TV3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV3
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV3
 #EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="http://175.178.182.213/tb/TV3+SD.png" group-title="马来频特",TV3 SD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV3_mega
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV3_mega
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://175.178.182.213/tb/NTV7.png" group-title="马来频特",NTV7
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=NTV7
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=NTV7
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="http://175.178.182.213/tb/TV8.png" group-title="马来频特",TV8
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV8
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://175.178.182.213/tb/TV9.png" group-title="马来频特",TV9
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TV9
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TV9
 #EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="http://175.178.182.213/tb/Ria.png" group-title="马来频特",Ria
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Ria-0
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Ria-0
 #EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="http://175.178.182.213/tb/Ria-3.png" group-title="马来频特",Ria-3
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Ria_backup
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Ria_backup
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="http://175.178.182.213/tb/Al-Hijrah.png" group-title="马来频特",Al-Hijrah
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Alhijrah
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Alhijrah
 #EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="http://175.178.182.213/tb/Al-Hijrah+backup.png" group-title="马来频特",Al-Hijrah backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Alhijrah_backup
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Alhijrah_backup
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="http://175.178.182.213/tb/Awani.png" group-title="马来频特",Awani
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Awani
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Awani
 #EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="http://175.178.182.213/tb/Bernama.png" group-title="马来频特",Bernama
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Bernama
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Bernama
 #EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="http://175.178.182.213/tb/Prima.png" group-title="马来频特",Prima
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Prima-0
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Prima-0
 #EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="http://175.178.182.213/tb/Prima+backup.png" group-title="马来频特",Prima backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AAprima1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AAprima1
 #EXTINF:-1 tvg-id="Prima backup 2" tvg-name="Prima backup 2" tvg-logo="http://175.178.182.213/tb/Prima+backup+2.png" group-title="马来频特",Prima backup 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AAprima
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AAprima
 #EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="http://175.178.182.213/tb/Ceria.png" group-title="马来频特",Ceria
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Ceria
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Ceria
 #EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="http://175.178.182.213/tb/Astro+MTV.png" group-title="马来频特",Astro MTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AstroMTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AstroMTV
 #EXTINF:-1 tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="http://175.178.182.213/tb/Mecca+Live+HD.png" group-title="马来频特",Mecca Live HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=quran_mido
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=quran_mido
 #EXTINF:-1 tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="http://175.178.182.213/tb/Madinah+HD.png" group-title="马来频特",Madinah HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sunnah_mido
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sunnah_mido
 #EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="http://175.178.182.213/tb/Oasis.png" group-title="马来频特",Oasis
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Oasis
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Oasis
 #EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="http://175.178.182.213/tb/Siar.png" group-title="马来频特",Siar
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Siar
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Siar
 #EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="http://175.178.182.213/tb/Citra.png" group-title="马来频特",Citra
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AAcitra
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AAcitra
 #EXTINF:-1 tvg-id="Citra backup" tvg-name="Citra backup" tvg-logo="http://175.178.182.213/tb/Citra+backup.png" group-title="马来频特",Citra backup
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AAcitra1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AAcitra1
 #EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="http://175.178.182.213/tb/Sensasi.png" group-title="马来频特",Sensasi
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Sensasi
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Sensasi
 #EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="http://175.178.182.213/tb/Aura.png" group-title="马来频特",Aura
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Aura
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Aura
 #EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="http://175.178.182.213/tb/Rania.png" group-title="马来频特",Rania
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rania
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rania
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="http://175.178.182.213/tb/KBS+World.png" group-title="马来频特",KBS World
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=KBS
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=KBS
 #EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="http://175.178.182.213/tb/Boo.png" group-title="马来频特",Boo
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Boo
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Boo
 #EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="http://175.178.182.213/tb/Awesome+TV.png" group-title="马来频特",Awesome TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Dsangat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Dsangat
 #EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="http://175.178.182.213/tb/Astro+Sonypix.png" group-title="马来频特",Astro Sonypix
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Asonypix
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Asonypix
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://175.178.182.213/tb/Sony+HD.png" group-title="马来频特",Sony HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=SetOne
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=SetOne
 #EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="http://175.178.182.213/tb/TvN.png" group-title="马来频特",TvN
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TVN
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TVN
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="http://175.178.182.213/tb/AEC.png" group-title="马来频特",AEC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AEC
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AEC
 #EXTINF:-1 tvg-id="华丽台 HD （Wah Lai Toi）" tvg-name="华丽台 HD （Wah Lai Toi）" tvg-logo="http://175.178.182.213/tb/%E5%8D%8E%E4%B8%BD%E5%8F%B0+HD+%EF%BC%88Wah+Lai+Toi%EF%BC%89.png" group-title="马来频特",华丽台 HD （Wah Lai Toi）
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Wlt
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Wlt
 #EXTINF:-1 tvg-id="欢喜台 HD （Hua Hee Tai）" tvg-name="欢喜台 HD （Hua Hee Tai）" tvg-logo="http://175.178.182.213/tb/%E6%AC%A2%E5%96%9C%E5%8F%B0+HD+%EF%BC%88Hua+Hee+Tai%EF%BC%89.png" group-title="马来频特",欢喜台 HD （Hua Hee Tai）
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Huahee
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Huahee
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="http://175.178.182.213/tb/Astro+QJ.png" group-title="马来频特",Astro QJ
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Quanjia
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Quanjia
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="http://175.178.182.213/tb/TVB+Jade.png" group-title="马来频特",TVB Jade
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbjade
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbjade
 #EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="http://175.178.182.213/tb/TVB+Asia.png" group-title="马来频特",TVB Asia
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbasia
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbasia
 #EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVB Entertainment" tvg-logo="http://175.178.182.213/tb/TVB+Entertainment.png" group-title="马来频特",TVB Entertainment
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbentertainment
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbentertainment
 #EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="http://175.178.182.213/tb/TVB+Classic.png" group-title="马来频特",TVB Classic
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvbclassic
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvbclassic
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="http://175.178.182.213/tb/AOD.png" group-title="马来频特",AOD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Aodhd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Aodhd
 #EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB 星河台 Xing He" tvg-logo="http://175.178.182.213/tb/TVB+%E6%98%9F%E6%B2%B3%E5%8F%B0+Xing+He.png" group-title="马来频特",TVB 星河台 Xing He
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Xinhe
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Xinhe
 #EXTINF:-1 tvg-id="爱奇艺 iQiyi" tvg-name="爱奇艺 iQiyi" tvg-logo="http://175.178.182.213/tb/%E7%88%B1%E5%A5%87%E8%89%BA+iQiyi.png" group-title="马来频特",爱奇艺 iQiyi
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Qiyi
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Qiyi
 #EXTINF:-1 tvg-id="Goshop" tvg-name="Goshop" tvg-logo="http://175.178.182.213/tb/Goshop.png" group-title="马来频特",Goshop
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Goshop
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Goshop
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="http://175.178.182.213/tb/Celestial+Movies+HD.png" group-title="马来频特",Celestial Movies HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Celestial
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Celestial
 #EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="http://175.178.182.213/tb/Astro+LOL.png" group-title="马来频特",Astro LOL
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Astro_lol
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Astro_lol
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="http://175.178.182.213/tb/Astro+Rusi.png" group-title="马来频特",Astro Rusi
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rusi
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rusi
 #EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="http://175.178.182.213/tb/WION.png" group-title="马来频特",WION
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Wion
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Wion
 #EXTINF:-1 tvg-id="RTM Asean" tvg-name="RTM Asean" tvg-logo="http://175.178.182.213/tb/RTM+Asean.png" group-title="马来频特",RTM Asean
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rtmasean
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rtmasean
 #EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="http://175.178.182.213/tb/TVRI+National.png" group-title="印尼频特",TVRI National
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TVRI
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TVRI
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="http://175.178.182.213/tb/RCTI.png" group-title="印尼频特",RCTI
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rcti
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rcti
 #EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="http://175.178.182.213/tb/Kompass+TV.png" group-title="印尼频特",Kompass TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Kompass
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Kompass
 #EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="http://175.178.182.213/tb/Berita+Satu.png" group-title="印尼频特",Berita Satu
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=BeritaSatu_eko
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=BeritaSatu_eko
 #EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="http://175.178.182.213/tb/Indosiar+HD.png" group-title="印尼频特",Indosiar HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Indosiar
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Indosiar
 #EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="http://175.178.182.213/tb/AnTV.png" group-title="印尼频特",AnTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Antv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Antv
 #EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="http://175.178.182.213/tb/MNC+TV.png" group-title="印尼频特",MNC TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Mnctv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Mnctv
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="http://175.178.182.213/tb/Trans+7.png" group-title="印尼频特",Trans 7
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Trans7_eko
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Trans7_eko
 #EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="http://175.178.182.213/tb/Transtv.png" group-title="印尼频特",Transtv
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Transtv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Transtv
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="http://175.178.182.213/tb/JTV.png" group-title="印尼频特",JTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=JTV_eko
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=JTV_eko
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="http://175.178.182.213/tb/Metro+TV.png" group-title="印尼频特",Metro TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=metrotv_eko
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=metrotv_eko
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://175.178.182.213/tb/SCTV.png" group-title="印尼频特",SCTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=SCTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=SCTV
 #EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="http://175.178.182.213/tb/Tvone.png" group-title="印尼频特",Tvone
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Tvone
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Tvone
 #EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="http://175.178.182.213/tb/TVMU.png" group-title="印尼频特",TVMU
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TVMU_eko
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TVMU_eko
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="http://175.178.182.213/tb/GTV.png" group-title="印尼频特",GTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Gtv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Gtv
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="http://175.178.182.213/tb/RTV.png" group-title="印尼频特",RTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Rtv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Rtv
 #EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="http://175.178.182.213/tb/Jak+TV.png" group-title="印尼频特",Jak TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=JakTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=JakTV
 #EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="http://175.178.182.213/tb/iNews+TV.png" group-title="印尼频特",iNews TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Inewstv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Inewstv
 #EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="http://175.178.182.213/tb/Daai+TV.png" group-title="印尼频特",Daai TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=DaaiTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=DaaiTV
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="http://175.178.182.213/tb/Net+TV.png" group-title="印尼频特",Net TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=NetTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=NetTV
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="http://175.178.182.213/tb/EWTN.png" group-title="印尼频特",EWTN
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Ewtn
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Ewtn
 #EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="http://175.178.182.213/tb/AlQuran+AlKareem.png" group-title="印尼频特",AlQuran AlKareem
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=AlQuran
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=AlQuran
 #EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="http://175.178.182.213/tb/Tawaf+TV.png" group-title="印尼频特",Tawaf TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=TawafTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=TawafTV
 #EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="http://175.178.182.213/tb/Vision+Prime.png" group-title="印尼频特",Vision Prime
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=VisionPrime
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=VisionPrime
 #EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="http://175.178.182.213/tb/Muslim+TV.png" group-title="印尼频特",Muslim TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=MuslimTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=MuslimTV
 #EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="http://175.178.182.213/tb/Music+TV.png" group-title="印尼频特",Music TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=MusicTV
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=MusicTV
 #EXTINF:-1 tvg-id="Lifestyle&amp;Fashion" tvg-name="Lifestyle&amp;Fashion" tvg-logo="http://175.178.182.213/tb/Lifestyle%26amp%3BFashion.png" group-title="印尼频特",Lifestyle&amp;Fashion
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Lifestyle
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Lifestyle
 #EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="http://175.178.182.213/tb/Entertain.png" group-title="印尼频特",Entertain
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Entertain
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Entertain
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="http://175.178.182.213/tb/Sun+TV+HD.png" group-title="印度频特",Sun TV HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Suntv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Suntv
 #EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="http://175.178.182.213/tb/Star+Vijay.png" group-title="印度频特",Star Vijay
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Starvijay
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Starvijay
 #EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="http://175.178.182.213/tb/Colors+Tamil.png" group-title="印度频特",Colors Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Colorstam
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Colorstam
 #EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="http://175.178.182.213/tb/Sun+Music.png" group-title="印度频特",Sun Music
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Sunmusic
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Sunmusic
 #EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="http://175.178.182.213/tb/Astro+Sunlife.png" group-title="印度频特",Astro Sunlife
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Sunlife
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Sunlife
 #EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="http://175.178.182.213/tb/Astro+Vaanavil.png" group-title="印度频特",Astro Vaanavil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Vaanavil
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Vaanavil
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="http://175.178.182.213/tb/Zee+Tamil.png" group-title="印度频特",Zee Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeetamil
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeetamil
 #EXTINF:-1 tvg-id="Zee Business" tvg-name="Zee Business" tvg-logo="http://175.178.182.213/tb/Zee+Business.png" group-title="印度频特",Zee Business
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeebusiness
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeebusiness
 #EXTINF:-1 tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="http://175.178.182.213/tb/News+18+Tamil.png" group-title="印度频特",News 18 Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=news18tamil_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=news18tamil_raj
 #EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="http://175.178.182.213/tb/Adithya.png" group-title="印度频特",Adithya
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Adithya
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Adithya
 #EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="http://175.178.182.213/tb/Makkal+TV.png" group-title="印度频特",Makkal TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Makkaltv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Makkaltv
 #EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="http://175.178.182.213/tb/Zee+Action.png" group-title="印度频特",Zee Action
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeeaction
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeeaction
 #EXTINF:-1 tvg-id="Astro KTV" tvg-name="Astro KTV" tvg-logo="http://175.178.182.213/tb/Astro+KTV.png" group-title="印度频特",Astro KTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Astroktv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Astroktv
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="http://175.178.182.213/tb/Zee+TV+HD.png" group-title="印度频特",Zee TV HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeetvhd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeetvhd
 #EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="http://175.178.182.213/tb/Zee+Cinema+HD.png" group-title="印度频特",Zee Cinema HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeecinemahd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeecinemahd
 #EXTINF:-1 tvg-id="Color HD" tvg-name="Color HD" tvg-logo="http://175.178.182.213/tb/Color+HD.png" group-title="印度频特",Color HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Colorhd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Colorhd
 #EXTINF:-1 tvg-id="Starplus HD" tvg-name="Starplus HD" tvg-logo="http://175.178.182.213/tb/Starplus+HD.png" group-title="印度频特",Starplus HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Starplushd
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Starplushd
 #EXTINF:-1 tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="http://175.178.182.213/tb/Picture+HD.png" group-title="印度频特",Picture HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Npicture
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Npicture
 #EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="http://175.178.182.213/tb/Zee+News.png" group-title="印度频特",Zee News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Zeenews
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Zeenews
 #EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="http://175.178.182.213/tb/Asianet.png" group-title="印度频特",Asianet
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=asianet_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=asianet_raj
 #EXTINF:-1 tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="http://175.178.182.213/tb/Asianet+News.png" group-title="印度频特",Asianet News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=asianetnews_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=asianetnews_raj
 #EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="Discovery World Tamil" tvg-logo="http://175.178.182.213/tb/Discovery+World+Tamil.png" group-title="印度频特",Discovery World Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoveryworldtam_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoveryworldtam_raj
 #EXTINF:-1 tvg-id="History Tamil" tvg-name="History Tamil" tvg-logo="http://175.178.182.213/tb/History+Tamil.png" group-title="印度频特",History Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=historytam_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=historytam_raj
 #EXTINF:-1 tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="http://175.178.182.213/tb/NatGeo+Tamil.png" group-title="印度频特",NatGeo Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeotamil_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeotamil_raj
 #EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="http://175.178.182.213/tb/Natgeo+Wild+Tamil.png" group-title="印度频特",Natgeo Wild Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=natgeowildtamil_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=natgeowildtamil_raj
 #EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="Discovery Kids Tamil" tvg-logo="http://175.178.182.213/tb/Discovery+Kids+Tamil.png" group-title="印度频特",Discovery Kids Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoverykidtamil_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoverykidtamil_raj
 #EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="Discovery Tamil" tvg-logo="http://175.178.182.213/tb/Discovery+Tamil.png" group-title="印度频特",Discovery Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=discoverytamil_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=discoverytamil_raj
 #EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="http://175.178.182.213/tb/Sony+Yay+Tamil.png" group-title="印度频特",Sony Yay Tamil
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sonyyaytam_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sonyyaytam_raj
 #EXTINF:-1 tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="http://175.178.182.213/tb/Sun+TV+India.png" group-title="印度频特",Sun TV India
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=suntv_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=suntv_raj
 #EXTINF:-1 tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="http://175.178.182.213/tb/Starmaa+HD.png" group-title="印度频特",Starmaa HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=starmaa_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=starmaa_raj
 #EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="http://175.178.182.213/tb/Starmaa+Movies+HD.png" group-title="印度频特",Starmaa Movies HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=starmaamovies_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=starmaamovies_raj
 #EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="http://175.178.182.213/tb/Bollyone.png" group-title="印度频特",Bollyone
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Bollyone
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Bollyone
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="http://175.178.182.213/tb/Vijay+Super.png" group-title="印度频特",Vijay Super
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=vijaysuper_raj
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=vijaysuper_raj
 #EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="http://175.178.182.213/tb/Vellithirai.png" group-title="印度频特",Vellithirai
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=Vellithirai
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=Vellithirai
 #EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="http://175.178.182.213/tb/Channel+3+Thailand.png" group-title="泰国频特",Channel 3 Thailand
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ch3_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ch3_pat
 #EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="http://175.178.182.213/tb/Channel+5+Thailand.png" group-title="泰国频特",Channel 5 Thailand
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ch5_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ch5_pat
 #EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="http://175.178.182.213/tb/Channel+7+Thailand.png" group-title="泰国频特",Channel 7 Thailand
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ch7_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ch7_pat
 #EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="http://175.178.182.213/tb/MCOT+HD+Thailand-1.png" group-title="泰国频特",MCOT HD Thailand-1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=mcot_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=mcot_pat
 #EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="http://175.178.182.213/tb/PPTV+Thailand1.png" group-title="泰国频特",PPTV Thailand1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=pptv_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=pptv_pat
 #EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="http://175.178.182.213/tb/Thai+Thai.png" group-title="泰国频特",Thai Thai
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=thaithai_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=thaithai_pat
 #EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="http://175.178.182.213/tb/Amarin.png" group-title="泰国频特",Amarin
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=amarin_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=amarin_pat
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="http://175.178.182.213/tb/Ch+8.png" group-title="泰国频特",Ch 8
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ch8_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ch8_pat
 #EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="http://175.178.182.213/tb/GmmOne.png" group-title="泰国频特",GmmOne
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=gmmone_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=gmmone_pat
 #EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="http://175.178.182.213/tb/Mono.png" group-title="泰国频特",Mono
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=mono_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=mono_pat
 #EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="http://175.178.182.213/tb/Thairath.png" group-title="泰国频特",Thairath
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=thairath_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=thairath_pat
 #EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="http://175.178.182.213/tb/tpbs.png" group-title="泰国频特",tpbs
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tpbs_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tpbs_pat
 #EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="http://175.178.182.213/tb/Workpoint.png" group-title="泰国频特",Workpoint
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=workpoint_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=workpoint_pat
 #EXTINF:-1 tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="http://175.178.182.213/tb/Gmm+Channel.png" group-title="泰国频特",Gmm Channel
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=gmmchannel_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=gmmchannel_pat
 #EXTINF:-1 tvg-id="Nation" tvg-name="Nation" tvg-logo="http://175.178.182.213/tb/Nation.png" group-title="泰国频特",Nation
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nation_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nation_pat
 #EXTINF:-1 tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="http://175.178.182.213/tb/Tnn24.png" group-title="泰国频特",Tnn24
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tnn24_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tnn24_pat
 #EXTINF:-1 tvg-id="Nbt" tvg-name="Nbt" tvg-logo="http://175.178.182.213/tb/Nbt.png" group-title="泰国频特",Nbt
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nbt_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nbt_pat
 #EXTINF:-1 tvg-id="New" tvg-name="New" tvg-logo="http://175.178.182.213/tb/New.png" group-title="泰国频特",New
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=new_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=new_pat
 #EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" tvg-logo="http://175.178.182.213/tb/TPTV.png" group-title="泰国频特",TPTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tptv_pat
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tptv_pat
 #EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="http://175.178.182.213/tb/BBC+1.png" group-title="英国频特",BBC 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbc1_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbc1_antik
 #EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="http://175.178.182.213/tb/BBC+2.png" group-title="英国频特",BBC 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbc2_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbc2_antik
 #EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="http://175.178.182.213/tb/CBBC.png" group-title="英国频特",CBBC
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cbbc_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cbbc_antik
 #EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="http://175.178.182.213/tb/More4.png" group-title="英国频特",More4
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=more4_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=more4_antik
 #EXTINF:-1 tvg-id="Freesports" tvg-name="Freesports" tvg-logo="http://175.178.182.213/tb/Freesports.png" group-title="英国频特",Freesports
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=freesports_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=freesports_antik
 #EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="http://175.178.182.213/tb/Pick+TV.png" group-title="英国频特",Pick TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=picktv_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=picktv_antik
 #EXTINF:-1 tvg-id="itv 1" tvg-name="itv 1" tvg-logo="http://175.178.182.213/tb/itv+1.png" group-title="英国频特",itv 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=itv1_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=itv1_antik
 #EXTINF:-1 tvg-id="itv 2" tvg-name="itv 2" tvg-logo="http://175.178.182.213/tb/itv+2.png" group-title="英国频特",itv 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=itv2_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=itv2_antik
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="http://175.178.182.213/tb/Euronews.png" group-title="英国频特",Euronews
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=euronews_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=euronews_antik
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="http://175.178.182.213/tb/Channel+4.png" group-title="英国频特",Channel 4
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=channel4_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=channel4_antik
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://175.178.182.213/tb/BBC+World+News.png" group-title="英国频特",BBC World News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bbcworldnews_antik
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bbcworldnews_antik
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://175.178.182.213/tb/ANTV.png" group-title="越南频特",ANTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_antv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_antv
 #EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-logo="http://175.178.182.213/tb/VTV+1.png" group-title="越南频特",VTV 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_vtv1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_vtv1
 #EXTINF:-1 tvg-id="VTV 7" tvg-name="VTV 7" tvg-logo="http://175.178.182.213/tb/VTV+7.png" group-title="越南频特",VTV 7
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_vtv7
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_vtv7
 #EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-logo="http://175.178.182.213/tb/HTV+7.png" group-title="越南频特",HTV 7
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_htv7
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_htv7
 #EXTINF:-1 tvg-id="HTV 9" tvg-name="HTV 9" tvg-logo="http://175.178.182.213/tb/HTV+9.png" group-title="越南频特",HTV 9
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_htv9
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_htv9
 #EXTINF:-1 tvg-id="BPTV 2" tvg-name="BPTV 2" tvg-logo="http://175.178.182.213/tb/BPTV+2.png" group-title="越南频特",BPTV 2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_bptv2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_bptv2
 #EXTINF:-1 tvg-id="BRT HD" tvg-name="BRT HD" tvg-logo="http://175.178.182.213/tb/BRT+HD.png" group-title="越南频特",BRT HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_brt
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_brt
 #EXTINF:-1 tvg-id="Ca Mau TV" tvg-name="Ca Mau TV" tvg-logo="http://175.178.182.213/tb/Ca+Mau+TV.png" group-title="越南频特",Ca Mau TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_camautv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_camautv
 #EXTINF:-1 tvg-id="Danang TV1 HD" tvg-name="Danang TV1 HD" tvg-logo="http://175.178.182.213/tb/Danang+TV1+HD.png" group-title="越南频特",Danang TV1 HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_danangtv1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_danangtv1
 #EXTINF:-1 tvg-id="Danang TV2 HD" tvg-name="Danang TV2 HD" tvg-logo="http://175.178.182.213/tb/Danang+TV2+HD.png" group-title="越南频特",Danang TV2 HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_danangtv2
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_danangtv2
 #EXTINF:-1 tvg-id="HBTV HD" tvg-name="HBTV HD" tvg-logo="http://175.178.182.213/tb/HBTV+HD.png" group-title="越南频特",HBTV HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_hbtv
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_hbtv
 #EXTINF:-1 tvg-id="PTTH 1" tvg-name="PTTH 1" tvg-logo="http://175.178.182.213/tb/PTTH+1.png" group-title="越南频特",PTTH 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=viet_ptth1
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=viet_ptth1
 #EXTINF:-1 tvg-id="Arirang HD" tvg-name="Arirang HD" tvg-logo="http://175.178.182.213/tb/Arirang+HD.png" group-title="韩国频特",Arirang HD
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=arirang_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=arirang_korea
 #EXTINF:-1 tvg-id="Yonhap News" tvg-name="Yonhap News" tvg-logo="http://175.178.182.213/tb/Yonhap+News.png" group-title="韩国频特",Yonhap News
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=yonhapnews_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=yonhapnews_korea
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="http://175.178.182.213/tb/CBS.png" group-title="韩国频特",CBS
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cbs_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cbs_korea
 #EXTINF:-1 tvg-id="EBS 1" tvg-name="EBS 1" tvg-logo="http://175.178.182.213/tb/EBS+1.png" group-title="韩国频特",EBS 1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ebs1_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ebs1_korea
 #EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="http://175.178.182.213/tb/EBS2.png" group-title="韩国频特",EBS2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ebs2_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ebs2_korea
 #EXTINF:-1 tvg-id="EBS Plus2" tvg-name="EBS Plus2" tvg-logo="http://175.178.182.213/tb/EBS+Plus2.png" group-title="韩国频特",EBS Plus2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ebsplus2_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ebsplus2_korea
 #EXTINF:-1 tvg-id="SBS Plus" tvg-name="SBS Plus" tvg-logo="http://175.178.182.213/tb/SBS+Plus.png" group-title="韩国频特",SBS Plus
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=sbsplus_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sbsplus_korea
 #EXTINF:-1 tvg-id="YTN" tvg-name="YTN" tvg-logo="http://175.178.182.213/tb/YTN.png" group-title="韩国频特",YTN
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ytn_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ytn_korea
 #EXTINF:-1 tvg-id="KBS World 24" tvg-name="KBS World 24" tvg-logo="http://175.178.182.213/tb/KBS+World+24.png" group-title="韩国频特",KBS World 24
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=kbsworld24_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=kbsworld24_korea
 #EXTINF:-1 tvg-id="YTN Science" tvg-name="YTN Science" tvg-logo="http://175.178.182.213/tb/YTN+Science.png" group-title="韩国频特",YTN Science
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ytnscience_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ytnscience_korea
 #EXTINF:-1 tvg-id="YTN Korean" tvg-name="YTN Korean" tvg-logo="http://175.178.182.213/tb/YTN+Korean.png" group-title="韩国频特",YTN Korean
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ytnkorean_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ytnkorean_korea
 #EXTINF:-1 tvg-id="YTN DMB" tvg-name="YTN DMB" tvg-logo="http://175.178.182.213/tb/YTN+DMB.png" group-title="韩国频特",YTN DMB
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ytndmb_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ytndmb_korea
 #EXTINF:-1 tvg-id="Apps TV" tvg-name="Apps TV" tvg-logo="http://175.178.182.213/tb/Apps+TV.png" group-title="韩国频特",Apps TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=appongoogle_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=appongoogle_korea
 #EXTINF:-1 tvg-id="All the Kpop" tvg-name="All the Kpop" tvg-logo="http://175.178.182.213/tb/All+the+Kpop.png" group-title="韩国频特",All the Kpop
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=allthekpop_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=allthekpop_korea
 #EXTINF:-1 tvg-id="J the Kpop" tvg-name="J the Kpop" tvg-logo="http://175.178.182.213/tb/J+the+Kpop.png" group-title="韩国频特",J the Kpop
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=jthekpop_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=jthekpop_korea
 #EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="http://175.178.182.213/tb/EBS+Kids.png" group-title="韩国频特",EBS Kids
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=ebskids_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ebskids_korea
 #EXTINF:-1 tvg-id="CGNTV" tvg-name="CGNTV" tvg-logo="http://175.178.182.213/tb/CGNTV.png" group-title="韩国频特",CGNTV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cgntv_korea
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cgntv_korea
 #EXTINF:-1 tvg-id="NHK-総合-2" tvg-name="NHK-総合-2" tvg-logo="http://175.178.182.213/tb/NHK-%E7%B7%8F%E5%90%88-2.png" group-title="日本频特",NHK-総合-2
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhkg_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhkg_japan
 #EXTINF:-1 tvg-id="NHK-E" tvg-name="NHK-E" tvg-logo="http://175.178.182.213/tb/NHK-E.png" group-title="日本频特",NHK-E
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhke_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhke_japan
 #EXTINF:-1 tvg-id="テレビ朝日 Asahi TV" tvg-name="テレビ朝日 Asahi TV" tvg-logo="http://175.178.182.213/tb/%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5+Asahi+TV.png" group-title="日本频特",テレビ朝日 Asahi TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=asahitv_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=asahitv_japan
 #EXTINF:-1 tvg-id="JET 綜合" tvg-name="JET 綜合" tvg-logo="http://175.178.182.213/tb/JET+%E7%B6%9C%E5%90%88.png" group-title="日本频特",JET 綜合
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=jettv_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=jettv_japan
 #EXTINF:-1 tvg-id="テレビ東京 Tokyo TV" tvg-name="テレビ東京 Tokyo TV" tvg-logo="http://175.178.182.213/tb/%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC+Tokyo+TV.png" group-title="日本频特",テレビ東京 Tokyo TV
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tokyotv_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tokyotv_japan
 #EXTINF:-1 tvg-id="TOKYOMX" tvg-name="TOKYOMX" tvg-logo="http://175.178.182.213/tb/TOKYOMX.png" group-title="日本频特",TOKYOMX
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=tokyomx_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tokyomx_japan
 #EXTINF:-1 tvg-id="NHKBS1" tvg-name="NHKBS1" tvg-logo="http://175.178.182.213/tb/NHKBS1.png" group-title="日本频特",NHKBS1
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhkbs1_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhkbs1_japan
 #EXTINF:-1 tvg-id="NHKBSプレミア Premium" tvg-name="NHKBSプレミア Premium" tvg-logo="http://175.178.182.213/tb/NHKBS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2+Premium.png" group-title="日本频特",NHKBSプレミア Premium
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhkpremium_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhkpremium_japan
 #EXTINF:-1 tvg-id="BSジャパン 181" tvg-name="BSジャパン 181" tvg-logo="http://175.178.182.213/tb/BS%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3+181.png" group-title="日本频特",BSジャパン 181
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bs181_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bs181_japan
 #EXTINF:-1 tvg-id="BSフジ BS Fuji" tvg-name="BSフジ BS Fuji" tvg-logo="http://175.178.182.213/tb/BS%E3%83%95%E3%82%B8+BS+Fuji.png" group-title="日本频特",BSフジ BS Fuji
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bsfuji_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bsfuji_japan
 #EXTINF:-1 tvg-id="CNA Japan" tvg-name="CNA Japan" tvg-logo="http://175.178.182.213/tb/CNA+Japan.png" group-title="日本频特",CNA Japan
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=cna_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cna_japan
 #EXTINF:-1 tvg-id="BS-TBS" tvg-name="BS-TBS" tvg-logo="http://175.178.182.213/tb/BS-TBS.png" group-title="日本频特",BS-TBS
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=bstbs_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=bstbs_japan
 #EXTINF:-1 tvg-id="NHK Oaska" tvg-name="NHK Oaska" tvg-logo="http://175.178.182.213/tb/NHK+Oaska.png" group-title="日本频特",NHK Oaska
-http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&?id=nhkosaka_japan
+http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=nhkosaka_japan
 
