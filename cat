@@ -1,5 +1,41 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="http://175.178.182.213/tb/cctv1.png" group-title="CCTV央视频特",cctv1
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="http://175.178.182.213/tb/cctv2.png" group-title="CCTV央视频特",cctv2
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="http://175.178.182.213/tb/cctv3.png" group-title="CCTV央视频特",cctv3
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv3
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="http://175.178.182.213/tb/cctv4.png" group-title="CCTV央视频特",cctv4
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv4
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="http://175.178.182.213/tb/cctv5.png" group-title="CCTV央视频特",cctv5
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv5
+#EXTINF:-1 tvg-id="cctv+5" tvg-name="cctv+5" tvg-logo="http://175.178.182.213/tb/cctv%2B5.png" group-title="CCTV央视频特",cctv+5
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv5plus
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://175.178.182.213/tb/cctv6.png" group-title="CCTV央视频特",cctv6
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv6
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="http://175.178.182.213/tb/cctv7.png" group-title="CCTV央视频特",cctv7
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv7
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="http://175.178.182.213/tb/cctv8.png" group-title="CCTV央视频特",cctv8
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="http://175.178.182.213/tb/cctv9.png" group-title="CCTV央视频特",cctv9
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv9
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="http://175.178.182.213/tb/cctv10.png" group-title="CCTV央视频特",cctv10
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv10
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="http://175.178.182.213/tb/cctv11.png" group-title="CCTV央视频特",cctv11
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv11
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="http://175.178.182.213/tb/cctv12.png" group-title="CCTV央视频特",cctv12
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv12
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="http://175.178.182.213/tb/cctv13.png" group-title="CCTV央视频特",cctv13
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv13
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="http://175.178.182.213/tb/cctv14.png" group-title="CCTV央视频特",cctv14
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv14
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="http://175.178.182.213/tb/cctv15.png" group-title="CCTV央视频特",cctv15
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv15
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="http://175.178.182.213/tb/cctv16.png" group-title="CCTV央视频特",cctv16
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv16
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="http://175.178.182.213/tb/cctv17.png" group-title="CCTV央视频特",cctv17
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=cctv17
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="香港频特",凤凰中文
 http://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/tb/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="香港频特",凤凰资讯
