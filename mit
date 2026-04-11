@@ -27,7 +27,6 @@ CCTV中文国际,https://www.youtube.com/watch?v=SdzewdkJa-o
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 中天新聞,http://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34899
@@ -65,12 +64,9 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 港澳台|备①,#genre#
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
-无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -80,7 +76,6 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 翡翠台4K(多音轨字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 华丽翡翠台,http://r.jdshipin.com/thuYX
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
@@ -99,13 +94,10 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,https://smt.1678520.xyz/163189/18e96648d4420d9e
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
-TVB1,http://hls-pull-tvpublica.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBJcRgrePqp.flv
-TVB1,http://protv.fun/4cafe94867/48a12d348c/153396
-TVBJ1,http://hls-pull-tvpublica.speedws.com/live/xU3SHbh8JcRgrCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
+TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
@@ -169,7 +161,6 @@ NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
@@ -204,9 +195,9 @@ VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-SKYLINK TV 1,http://protv.fun/4cafe94867/48a12d348c/156399
-SKYLINK TV 2,http://protv.fun/4cafe94867/48a12d348c/156400
-ICITI,http://protv.fun/4cafe94867/48a12d348c/156401
+SKYLINK TV 1,http://line.senpay23.com:80/4cafe94867/48a12d348c/156399
+SKYLINK TV 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/156400
+ICITI,http://line.senpay23.com:80/4cafe94867/48a12d348c/156401
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
@@ -228,29 +219,20 @@ CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34899
-中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
 中天亚洲,http://47.104.163.156:50/台湾.php?id=ztyz
-中天亚洲,http://protv.fun/4cafe94867/48a12d348c/571212
-中天亚洲,https://tv.iill.top/FainTV/121
-中天娱乐,https://tv.iill.top/api/Cti-K/index.m3u8
+中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
-TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
-东森新闻,http://wspull.aniu.tv/live/IfhEdN30gjBbSnqXKSSSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.m3u8
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 广东卫视HD,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
@@ -265,12 +247,11 @@ TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 浙江卫视4k,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 东南卫视,http://39.165.39.49:85/tsfile/live/1149_1.m3u8?key=txiptv&amp;authid=0
 东方卫视,http://58.245.255.38:8888/tsfile/live/0107_1.m3u8?key=txiptv&amp;authid=0
-CCTV13,https://pull-hls-f26.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ce8c19&major_anchor_level=common&sign=a43f241848c29f61526c1474cf0d9994&t_id=037-20260326233241A93F4D9DEF6EFC8A0394-irrlXD
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-FAIRCHILD EAST,http://protv.fun/4cafe94867/48a12d348c/90350
-FAIRCHILD WEST,http://protv.fun/4cafe94867/48a12d348c/90351
-FAIRCHILD 2 HD,http://protv.fun/4cafe94867/48a12d348c/90352
+FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
+FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
+FAIRCHILD 2 HD,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
 
 HHZT,#genre#
 CCTV 1,http://115.44.143.127:18180/TV00000000000000000068@HHZT
