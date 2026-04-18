@@ -181,6 +181,8 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 港澳台|备①,#genre#
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+無綫新聞台,https://test.946985.filegear-sg.me/proxy/0018347af31503c6
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
@@ -327,6 +329,16 @@ CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
+中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+中旺電視,video://https://m.italkbbtv.com/live/62cc979c4725b5305843c853
+加拿大600新聞台,video://https://m.italkbbtv.com/live/62cb9bbc4725b530583b6b0e
+漢天衛視,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+華語電視一台,http://38.64.72.148/hls/modn/list/4001/playlist.m3u8
+華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
+華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
+南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 寰宇新聞台,http://80tv.eu.org:8711/live.m3u8?c=9
 鏡新聞,http://80tv.eu.org:8711/live.m3u8?c=24
 中天新闻,http://80tv.eu.org:8711/live.m3u8?c=5
@@ -341,29 +353,29 @@ CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 中天新闻2,http://80tv.eu.org:8711/live.m3u8?c=6
 中天亚洲,http://47.104.163.156:50/台湾.php?id=ztyz
 中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
+中视,http://80tv.eu.org:8711/live.m3u8?c=29
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,http://80tv.eu.org:8711/live.m3u8?c=12
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台视新闻,http://80tv.eu.org:8711/live.m3u8?c=13
-中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-中旺電視,video://https://m.italkbbtv.com/live/62cc979c4725b5305843c853
-TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
-加拿大600新聞台,video://https://m.italkbbtv.com/live/62cb9bbc4725b530583b6b0e
-南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 TVBS,http://80tv.eu.org:8711/live.m3u8?c=2
+TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS NEWS,http://80tv.eu.org:8711/live.m3u8?c=3
 TVBS新闻台,http://80tv.eu.org:8711/live.m3u8?c=4
 东森LIVE,http://80tv.eu.org:8711/live.m3u8?c=14
 东森财经新闻,http://80tv.eu.org:8711/live.m3u8?c=17
+东森财经新闻,http://80tv.eu.org:8711/live.m3u8?c=33
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 民視新聞台,http://80tv.eu.org:8711/live.m3u8?c=19
 三立LIVE,http://80tv.eu.org:8711/live.m3u8?c=20
+華視,http://80tv.eu.org:8711/live.m3u8?c=34
 華視新聞,http://80tv.eu.org:8711/live.m3u8?c=22
 公視,http://80tv.eu.org:8711/live.m3u8?c=23
+台视新闻,http://80tv.eu.org:8711/live.m3u8?c=13
+豬哥亮歌廳秀,http://80tv.eu.org:8711/live.m3u8?c=35
 TAIWAN+,http://80tv.eu.org:8711/live.m3u8?c=1
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
