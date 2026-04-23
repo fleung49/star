@@ -1,15 +1,8 @@
 代理测试,#genre#
-無綫新聞台,https://test.946985.filegear-sg.me/proxy/0018347af31503c6
-翡翠台,https://test.946985.filegear-sg.me/proxy/ae913627eb638594
-明珠台,https://test.946985.filegear-sg.me/proxy/50c9aa1bbb38d9c5
-TVB Plus,https://test.946985.filegear-sg.me/proxy/fc3a00da73d24429
-MYTV SUPER Kids Channel,https://test.946985.filegear-sg.me/proxy/eddd5afaabcea08d
 功夫台,http://46.38.157.60:53874/proxy/74a1f88bb26edd96.m3u8
 TVB星河頻道,http://46.38.157.60:53874/proxy/eec374cc1e8d1626.m3u8
 RTHK 33,http://46.38.157.60:53874/proxy/0fdfa04b92f5c594.m3u8
 HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
-美亞電影台,https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
-天映經典頻道,https://test.946985.filegear-sg.me/proxy/e8e0fdc048b8ebc7
 CCTV 1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV 2,https://cdn13.178.indevs.in/163189/728a0426e886a6b6
 CCTV 4,https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f
@@ -182,11 +175,11 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-無綫新聞台,https://test.946985.filegear-sg.me/proxy/0018347af31503c6
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+翡翠台,https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -220,6 +213,7 @@ TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,https://iptv.707626.xyz/live/stream-ch-6n45/master.m3u8
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
@@ -232,17 +226,18 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典台,http://php.jdshipin.com:80/PLTV/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+功夫台,https://iptv.707626.xyz/live/stream-ch-j3ol/master.m3u8
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 凤凰中文,http://o11.163189.xyz/stream/live/fhzw/
 凤凰中文,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://play-flive.ifeng.com/flive/FLIVE_TX_NR_0IN9USDH88W.m3u8
-凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰资讯,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰资讯,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
 凤凰资讯,http://o11.163189.xyz/stream/live/fhzx/
 凤凰资讯,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰香港,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
@@ -268,11 +263,11 @@ NOW财经台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 Now Sports,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 Now Sports Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
+Now星影台,https://iptv.707626.xyz/live/stream-now-x1vz/master.m3u8
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
-NOW星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+Now爆谷台,https://iptv.707626.xyz/live/stream-now-91y5/master.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
@@ -340,7 +335,9 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 寰宇新聞台,http://80tv.eu.org:8711/live.m3u8?c=9
+寰宇新聞台灣台,http://80tv.eu.org:8711/live.m3u8?c=10
 鏡新聞,http://80tv.eu.org:8711/live.m3u8?c=24
+中天新闻,https://iptv.707626.xyz/live/stream-ch-c6gd/master.m3u8
 中天新闻,http://80tv.eu.org:8711/live.m3u8?c=5
 中天新闻,https://v.iill.top/api/Cti-I/index.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
@@ -348,7 +345,6 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
 中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
 中天新闻2,http://80tv.eu.org:8711/live.m3u8?c=6
 中天亚洲,http://47.104.163.156:50/台湾.php?id=ztyz
@@ -369,6 +365,7 @@ TVBS新闻台,http://80tv.eu.org:8711/live.m3u8?c=4
 东森财经新闻,http://80tv.eu.org:8711/live.m3u8?c=33
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+年代新闻,https://iptv.707626.xyz/live/stream-ch-flf6/master.m3u8
 民視新聞台,http://80tv.eu.org:8711/live.m3u8?c=19
 三立LIVE,http://80tv.eu.org:8711/live.m3u8?c=20
 華視,http://80tv.eu.org:8711/live.m3u8?c=34
@@ -398,87 +395,6 @@ TAIWAN+,http://80tv.eu.org:8711/live.m3u8?c=1
 FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
 FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
-
-MyTV Super,#genre#
-无线新闻台,http://fy27.zbds.top:57799/stream/mytv/C/master.m3u8
-无线新闻台,http://fy27.zbds.top:57799/stream/mytv/C2/master.m3u8
-翡翠台,http://fy27.zbds.top:57799/stream/mytv/J/master.m3u8
-翡翠台4K,http://fy27.zbds.top:57799/stream/mytv/JUHD/master.m3u8
-明珠台,http://fy27.zbds.top:57799/stream/mytv/P/master.m3u8
-TVBPlus,http://fy27.zbds.top:57799/stream/mytv/B/master.m3u8
-娱乐新闻台,http://fy27.zbds.top:57799/stream/mytv/CTVE/master.m3u8
-黄金翡翠台,http://fy27.zbds.top:57799/stream/mytv/TVG/master.m3u8
-黄金华剧台,http://fy27.zbds.top:57799/stream/mytv/TVO/master.m3u8
-千禧经典台,http://fy27.zbds.top:57799/stream/mytv/CTVC/master.m3u8
-SUPER EYT,http://fy27.zbds.top:57799/stream/mytv/SEYT/master.m3u8
-SUPER Kids Channel,http://fy27.zbds.top:57799/stream/mytv/KID/master.m3u8
-SUPER Music,http://fy27.zbds.top:57799/stream/mytv/SMUS/master.m3u8
-SUPER Sports,http://fy27.zbds.top:57799/stream/mytv/SSPT/master.m3u8
-MYTV SUPER亚洲剧台,http://fy27.zbds.top:57799/stream/mytv/CTVS/master.m3u8
-MYTV SUPER华语剧台,http://fy27.zbds.top:57799/stream/mytv/CDR3/master.m3u8
-MYTV SUPER粤语片台,http://fy27.zbds.top:57799/stream/mytv/CCLM/master.m3u8
-MYTV SUPER戏曲台,http://fy27.zbds.top:57799/stream/mytv/CCOC/master.m3u8
-MYTV SUPER劇場,http://fy27.zbds.top:57799/stream/mytv/STVM/master.m3u8
-MYTV SUPER煲劇,http://fy27.zbds.top:57799/stream/mytv/SSIT/master.m3u8
-MYTV SUPER獎門人,http://fy27.zbds.top:57799/stream/mytv/SVAR/master.m3u8
-MYTV SUPER話當年,http://fy27.zbds.top:57799/stream/mytv/SDOC/master.m3u8
-MYTV SUPER識嘆,http://fy27.zbds.top:57799/stream/mytv/STRA/master.m3u8
-MYTV SUPER識食,http://fy27.zbds.top:57799/stream/mytv/SFOO/master.m3u8
-MYTV SUPER金曲,http://fy27.zbds.top:57799/stream/mytv/SGOL/master.m3u8
-MYTV SUPER 18台,http://fy27.zbds.top:57799/stream/mytv/C18/master.m3u8
-MYTV SUPER FREE,http://fy27.zbds.top:57799/stream/mytv/CWIN/master.m3u8
-MYTV SUPER直播足球2台,http://fy27.zbds.top:57799/stream/mytv/EVT2/master.m3u8
-MYTV SUPER直播足球3台,http://fy27.zbds.top:57799/stream/mytv/EVT3/master.m3u8
-MYTV SUPER直播足球4台,http://fy27.zbds.top:57799/stream/mytv/EVT4/master.m3u8
-MYTV SUPER直播足球5台,http://fy27.zbds.top:57799/stream/mytv/EVT5/master.m3u8
-MYTV SUPER直播足球6台,http://fy27.zbds.top:57799/stream/mytv/EVT6/master.m3u8
-凤凰中文,http://fy27.zbds.top:57799/stream/mytv/PCC/master.m3u8
-凤凰资讯,http://fy27.zbds.top:57799/stream/mytv/PIN/master.m3u8
-凤凰香港,http://fy27.zbds.top:57799/stream/mytv/PHK/master.m3u8
-TVBS ASIA,http://fy27.zbds.top:57799/stream/mytv/CTS1/master.m3u8
-TVBS新闻台,http://fy27.zbds.top:57799/stream/mytv/CTSN/master.m3u8
-美亚电影台,http://fy27.zbds.top:57799/stream/mytv/CMAM/master.m3u8
-天映经典频道,http://fy27.zbds.top:57799/stream/mytv/CCCM/master.m3u8
-创世电视,http://fy27.zbds.top:57799/stream/mytv/CRE/master.m3u8
-CCTV1,http://fy27.zbds.top:57799/stream/mytv/CC1/master.m3u8
-CCTV2,http://fy27.zbds.top:57799/stream/mytv/CCE/master.m3u8
-CCTV4 欧洲,http://fy27.zbds.top:57799/stream/mytv/CC4/master.m3u8
-CCTV11,http://fy27.zbds.top:57799/stream/mytv/CCO/master.m3u8
-海峡卫视,http://fy27.zbds.top:57799/stream/mytv/FJTV/master.m3u8
-大湾区卫视,http://fy27.zbds.top:57799/stream/mytv/GBTV/master.m3u8
-深圳国际频道,http://fy27.zbds.top:57799/stream/mytv/SZTV/master.m3u8
-东方国际频道,http://fy27.zbds.top:57799/stream/mytv/DTV/master.m3u8
-云南国际卫视,http://fy27.zbds.top:57799/stream/mytv/YNTV/master.m3u8
-北京国际频道,http://fy27.zbds.top:57799/stream/mytv/BJTV/master.m3u8
-安徽国际频道,http://fy27.zbds.top:57799/stream/mytv/AHTV/master.m3u8
-广西国际频道,http://fy27.zbds.top:57799/stream/mytv/GXTV/master.m3u8
-江苏国际频道,http://fy27.zbds.top:57799/stream/mytv/JSTV/master.m3u8
-浙江国际频道,http://fy27.zbds.top:57799/stream/mytv/ZJTV/master.m3u8
-湖南国际频道,http://fy27.zbds.top:57799/stream/mytv/HNTV/master.m3u8
-中国电影频道,http://fy27.zbds.top:57799/stream/mytv/CMC/master.m3u8
-Aljazeera,http://fy27.zbds.top:57799/stream/mytv/CJAZ/master.m3u8
-Animax,http://fy27.zbds.top:57799/stream/mytv/CANI/master.m3u8
-Arirang TV,http://fy27.zbds.top:57799/stream/mytv/CARI/master.m3u8
-AXN,http://fy27.zbds.top:57799/stream/mytv/CAXN/master.m3u8
-CNA,http://fy27.zbds.top:57799/stream/mytv/CCNA/master.m3u8
-CGTN,http://fy27.zbds.top:57799/stream/mytv/CGE/master.m3u8
-CGTN记录频道,http://fy27.zbds.top:57799/stream/mytv/CGD/master.m3u8
-DW,http://fy27.zbds.top:57799/stream/mytv/CDW1/master.m3u8
-Fashion Box,http://fy27.zbds.top:57799/stream/mytv/FBX/master.m3u8
-France24,http://fy27.zbds.top:57799/stream/mytv/CF24/master.m3u8
-Global Trekker,http://fy27.zbds.top:57799/stream/mytv/SMS/master.m3u8
-KIX,http://fy27.zbds.top:57799/stream/mytv/CKIX/master.m3u8
-Love Nature 4K,http://fy27.zbds.top:57799/stream/mytv/LN4/master.m3u8
-Love Nature HD,http://fy27.zbds.top:57799/stream/mytv/LNH/master.m3u8
-Mezzo Live HD,http://fy27.zbds.top:57799/stream/mytv/CMEZ/master.m3u8
-NHK World-Japan,http://fy27.zbds.top:57799/stream/mytv/CNHK/master.m3u8
-NickJr.,http://fy27.zbds.top:57799/stream/mytv/CNIJR/master.m3u8
-Nickelodeon,http://fy27.zbds.top:57799/stream/mytv/CNIKO/master.m3u8
-PopC,http://fy27.zbds.top:57799/stream/mytv/POPC/master.m3u8
-ROCK Action,http://fy27.zbds.top:57799/stream/mytv/CRTX/master.m3u8
-ROCK Entertainment,http://fy27.zbds.top:57799/stream/mytv/CRTE/master.m3u8
-Thrill,http://fy27.zbds.top:57799/stream/mytv/CTHR/master.m3u8
-tvN,http://fy27.zbds.top:57799/stream/mytv/CJTV/master.m3u8
 
 HHZT,#genre#
 CCTV 1,http://115.44.143.127:18180/TV00000000000000000068@HHZT
