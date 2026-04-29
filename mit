@@ -2445,6 +2445,7 @@ FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
 Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FRANCE 24,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31318/index.m3u8
 FRANCE 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+FRANCE 24,http://103.213.31.111/France24/index.m3u8
 FS1,http://84.17.50.102/foxsports1/mpegts
 FS1 US,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
 FS2 US,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
@@ -2464,6 +2465,7 @@ RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT NEWS,http://kstv.us:8080/live/t6YpgZuR61/5937629247/23259.ts
 RT NEWS,http://protv.fun/4cafe94867/48a12d348c/91935
 RT NEWS,http://ky-tv.cc/live/brendan1/brendan1/2310343.ts
+RT NEWS,http://179.60.51.134:8888/RT/index.m3u8
 RT DOCUMENTARY,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 SKY NEWS,http://kstv.us:8080/live/t6YpgZuR61/5937629247/47831.ts
 SKY NEWS,http://royalibox.com/9680723188/kyft6ks0g7gr7uw0xio6/10536
