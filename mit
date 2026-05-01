@@ -1157,84 +1157,197 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 
-PULL FLV,#genre#
-无线新闻,http://74.91.26.218:82/live/inews.m3u8
-无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-翡翠台,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
-TVB PLUS,http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
-千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
-无线娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-Now新闻,http://cdn.163189.xyz/163189/now
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
-NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
-HOY 77,http://cdn.163189.xyz/163189/hoy
-VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-VIUTV,http://cdn.163189.xyz/163189/viu
-ViuTv6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-RTHK-31,http://cdn.163189.xyz/163189/rthk31
-RTHK-32,http://cdn.163189.xyz/163189/rthk32
-RTHK-33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-RTHK-34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-广东体育,https://cdn.163189.xyz/163189/gdty
-广东体育,http://119.123.79.39:8086/hls/42/index.m3u8
-广东湾区,http://119.123.79.39:8086/hls/29/index.m3u8
-广东卫视,http://119.123.79.39:8086/hls/44/index.m3u8
-广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
-广东珠江,https://cdn.163189.xyz/163189/gdzj
-广东珠江,http://119.123.79.39:8086/hls/47/index.m3u8
-广东新闻,http://119.123.79.39:8086/hls/45/index.m3u8
-广东民生,http://119.123.79.39:8086/hls/39/index.m3u8
-广东经济,http://119.123.79.39:8086/hls/63/index.m3u8
-广东影视,http://119.123.79.39:8086/hls/46/index.m3u8
-广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-广州南国,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-5+,http://58.210.139.130:9901/tsfile/live/0140_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
-CCTV-11,http://58.210.139.130:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-12,http://58.210.139.130:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-CCTV-13,http://58.210.139.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-14,http://58.210.139.130:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-15,http://58.210.139.130:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-4k,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-8k,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华卡通,https://cdn8.163189.xyz/163189/lhkt
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-龙华洋片,https://cdn8.163189.xyz/163189/lhyp
+707626 香港頻道,#genre#
+無綫新聞台,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
+翡翠台,https://iptv.707626.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+TVB Plus,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
+娛樂新聞台,https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+功夫台,https://iptv.707626.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
+千禧經典台,https://iptv.707626.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+星河頻道,https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
+黃金華劇台,https://iptv.707626.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
+戲曲台,https://iptv.707626.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u8
+鳳凰中文,https://iptv.707626.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
+鳳凰資訊,https://iptv.707626.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
+鳳凰香港,https://iptv.707626.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+美亞電影台,https://iptv.707626.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
+Now星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+Now爆穀台,https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+Nick Jr.,https://iptv.707626.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
+Nickelodeon,https://iptv.707626.xyz/ch/c86c29b2edfc72379273947448977aee/master.m3u8
+PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
+ROCK Action,https://iptv.707626.xyz/ch/b26842b3897cd4c06af028d2ef030d79/master.m3u8
+Thrill,https://iptv.707626.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
+ZooMoo,https://iptv.707626.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
+
+707626 臺灣頻道,#genre#
+寰宇新聞台,https://iptv.707626.xyz/ch/5d63f4c7138710902e7a556d56153053/master.m3u8
+中天新聞台,https://iptv.707626.xyz/ch/48427aaf6dc96edbb10da27d2de03400/master.m3u8
+中視新聞,https://iptv.707626.xyz/ch/845a1b13bfa79751ac2850c7807d4deb/master.m3u8
+東森新聞台,https://iptv.707626.xyz/ch/276d9d7351320ebaf09bcd53b121a2b0/master.m3u8
+三立綜合台,https://iptv.707626.xyz/ch/c4ec421108818660ddae5a78da732c3b/master.m3u8
+非凡新聞台,https://iptv.707626.xyz/ch/a119271e4a5a1ec6522fe55e1e07121f/master.m3u8
+年代新聞,https://iptv.707626.xyz/ch/f92bee3f634772070bc7e3b4b6e5909b/master.m3u8
+民視,https://iptv.707626.xyz/ch/a00c59dd9be990de5086ceb4cdad6b9e/master.m3u8
+民視影劇台,https://iptv.707626.xyz/ch/f19dc15aa6534dadc3a9c31ae7677a41/master.m3u8
+民視新聞台,https://iptv.707626.xyz/ch/14158b59295c71b2a1709171ef4b02d0/master.m3u8
+民視第一台,https://iptv.707626.xyz/ch/7e28de260dfbe8bed04668edc8cfd6e7/master.m3u8
+民視綜藝台,https://iptv.707626.xyz/ch/4b50c98f868064adfcb05e696be40d49/master.m3u8
+華視新聞,https://iptv.707626.xyz/ch/a61c5f9f78e67dc09393bd3a6138ab34/master.m3u8
+台視新聞,https://iptv.707626.xyz/ch/5cd1a31388506bc49a3ab7628d2f8f97/master.m3u8
+龍華洋片台,https://iptv.707626.xyz/ch/4e020d8192f217595d72c81ebcc833b0/master.m3u8
+龍華電影台,https://iptv.707626.xyz/ch/10fbe371a344af4e85fc643bdd6efc6d/master.m3u8
+龍祥時代,https://iptv.707626.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
+博斯無限台,https://iptv.707626.xyz/ch/6966c735911e00fa94dad20c8cdbc0a1/master.m3u8
+愛爾達娛樂台,https://iptv.707626.xyz/ch/ec122a6044dcb179a38479b6752de4c3/master.m3u8
+
+707626 體育賽事,#genre#
+ACC Digital Network,https://iptv.707626.xyz/ch/a1bd4bf75aade6e7e25ac8bd4637c7a5/master.m3u8
+Altitude Sports,https://iptv.707626.xyz/ch/366d071442bb63e2c9a564edb0c9b92e/master.m3u8
+beIN SPORTS,https://iptv.707626.xyz/ch/ab051930ac996e3b960ec2ccdfadf5d2/master.m3u8
+beIN SPORTS XTRA,https://iptv.707626.xyz/ch/4120591c8019ce0b9f2c45e99e348d05/master.m3u8
+Big Ten Network,https://iptv.707626.xyz/ch/462d37a4aa9a9af4a8940eae4d4f1efa/master.m3u8
+Bloomberg Television 4K,https://iptv.707626.xyz/ch/484975b05af7f75dccb2b81c7797ca81/master.m3u8
+CBS Sports Network,https://iptv.707626.xyz/ch/832caefe5359bd1edf52db1212304feb/master.m3u8
+Clarity 4K,https://iptv.707626.xyz/ch/721162bc9d55d5fbe933df8ca6618d9c/master.m3u8
+Cosmote Sport 1 GR,https://iptv.707626.xyz/ch/ac4233f86e62a2af8d7818a38135d3bb/master.m3u8
+Cosmote Sport 2 GR,https://iptv.707626.xyz/ch/42e5a98235f2a0dbdeee9d0eeb31c161/master.m3u8
+Cosmote Sport 3 GR,https://iptv.707626.xyz/ch/d9eab0574b1a99b03973c2c2b765631c/master.m3u8
+Cosmote Sport 4 GR,https://iptv.707626.xyz/ch/e8d04c1b7d666c90b2c125f272789198/master.m3u8
+Cosmote Sport 5 GR,https://iptv.707626.xyz/ch/823af6db207c939fe6af05398367d308/master.m3u8
+Cosmote Sport 6 GR,https://iptv.707626.xyz/ch/6630c2db527a6b1e7a44f6ecbc27e79a/master.m3u8
+Cosmote Sport 7 GR,https://iptv.707626.xyz/ch/7d0a08aa7a7dde53722c352733077a8b/master.m3u8
+Cosmote Sport 8 GR,https://iptv.707626.xyz/ch/7bf50c178ae58e085be5c16af3fd3980/master.m3u8
+Cosmote Sport 9 GR,https://iptv.707626.xyz/ch/9c03aa819c144fbd2ce7b344aefd7121/master.m3u8
+DAZN Ringside,https://iptv.707626.xyz/ch/3075ae2a2b23ac8061ebfafb276af68f/master.m3u8
+ESPN,https://iptv.707626.xyz/ch/a6ed812e1b899b54a4a926672effa6c3/master.m3u8
+ESPN Deportes,https://iptv.707626.xyz/ch/d5c0cef2c825660b688bb91032485e39/master.m3u8
+ESPN 2,https://iptv.707626.xyz/ch/f0c699c4265f87ad56c0e023ab67b55c/master.m3u8
+ESPN 8 The Ocho,https://iptv.707626.xyz/ch/478bce9b01191f21c726bfefb143132a/master.m3u8
+ESPNEWS,https://iptv.707626.xyz/ch/9cc22d3d50bef7310428b80ab23cd450/master.m3u8
+ESPNU,https://iptv.707626.xyz/ch/4428bb42260db00a37309f52b584addb/master.m3u8
+Eurosport 1 UK,https://iptv.707626.xyz/ch/fb31d6c2816197fcc05c69fd6cba7250/master.m3u8
+Eurosport 2 UK,https://iptv.707626.xyz/ch/0c0e2b0de16096bb055baf309dc35b60/master.m3u8
+F1 Channel,https://iptv.707626.xyz/ch/ab4d82c0e755b5cedb7c27977313d4b6/master.m3u8
+FS1,https://iptv.707626.xyz/ch/e4bf07f2d22f4c47e310ea774749a42d/master.m3u8
+FS2,https://iptv.707626.xyz/ch/5153e1241bd5ff4d77e963a557e96285/master.m3u8
+FanDuel Racing,https://iptv.707626.xyz/ch/13859c76d1b605dcfeaa3adef526eab1/master.m3u8
+FanDuel TV,https://iptv.707626.xyz/ch/ac45a798dd9b95398676a05cd255aa3b/master.m3u8
+FanDuel TV Extra,https://iptv.707626.xyz/ch/78879d6c2bad26bf3656ba684a93e293/master.m3u8
+Fox Sports 501 AU,https://iptv.707626.xyz/ch/e79a17c066a8abc87075734e7da9830f/master.m3u8
+Fox Sports 502 AU,https://iptv.707626.xyz/ch/fc3ca9944bd0686173674d0fde0c142a/master.m3u8
+Fox Sports 503 AU,https://iptv.707626.xyz/ch/ecdc3ba8d544b322bf6895a84a51bb33/master.m3u8
+Fox Sports 504 AU,https://iptv.707626.xyz/ch/15233085ac8c4fa7f383e1ad70abec90/master.m3u8
+Fox Sports 505 AU,https://iptv.707626.xyz/ch/aa385fdf27094906f82b7a27e5dc5be5/master.m3u8
+Fox Sports 506 AU,https://iptv.707626.xyz/ch/47fca756a53c67886a1c50ddafa8a3ea/master.m3u8
+Fox Sports 507 AU,https://iptv.707626.xyz/ch/203787f1456ff75633b141658939a5d6/master.m3u8
+Fubo Sports Network,https://iptv.707626.xyz/ch/1081a143095242e2d90553ba34d2bd5a/master.m3u8
+Golf Channel,https://iptv.707626.xyz/ch/4eda567f93351bc00a7b9b8327d7bccd/master.m3u8
+HBO Boxing,https://iptv.707626.xyz/ch/755a95a2ec43b7e25210a133f716eb57/master.m3u8
+Loupe 4K,https://iptv.707626.xyz/ch/a88cdd724ce62f6d625cb8695b536cfd/master.m3u8
+Love Nature 4K CA,https://iptv.707626.xyz/ch/b8574fca20a915b8a47efb2d91793c8c/master.m3u8
+MLB Network,https://iptv.707626.xyz/ch/c71b33610631bec806f8c3e53f8960de/master.m3u8
+MSG,https://iptv.707626.xyz/ch/5fb8e3d781c103fc932d139614fa2336/master.m3u8
+MSG SportsZone,https://iptv.707626.xyz/ch/48b98333e873510546f659ff847636b7/master.m3u8
+Marquee Sports Network,https://iptv.707626.xyz/ch/bce0f471b6b84d71022f9adf5a045546/master.m3u8
+MotoGP TV,https://iptv.707626.xyz/ch/a0a56aee18b3f0dd532f5a8e7e4f11d8/master.m3u8
+NASCAR Channel,https://iptv.707626.xyz/ch/e4d2308aea580c30b292c67a10059c2f/master.m3u8
+NBA TV,https://iptv.707626.xyz/ch/9cc8bbe055987b034305d3a58ca13396/master.m3u8
+NBC Sports Bay Area,https://iptv.707626.xyz/ch/116b1ee912f7e52bc59e830f160185c2/master.m3u8
+NBC Sports Boston,https://iptv.707626.xyz/ch/d49f08f4df3d03f680e3387416e5dc8b/master.m3u8
+NBC Sports California,https://iptv.707626.xyz/ch/5922356f8c314ae4a6d4ab62202aec29/master.m3u8
+NBC Sports NOW,https://iptv.707626.xyz/ch/5cb774b6d873bb1932714875287861e8/master.m3u8
+NBC Sports Philadelphia,https://iptv.707626.xyz/ch/52acb844a4954531b8abe84a1729516f/master.m3u8
+NESN 4K,https://iptv.707626.xyz/ch/3aa7cb9436cc7ed1a4f232991c865d14/master.m3u8
+NESN Nation,https://iptv.707626.xyz/ch/b8bdc411533eb1af4ff490d67b297502/master.m3u8
+NFL Network,https://iptv.707626.xyz/ch/519a7248a5d865c6bd66cbe48a55e7f2/master.m3u8
+NFL RedZone,https://iptv.707626.xyz/ch/1888df2c16597dcfbed763095d9d0515/master.m3u8
+NHL Network,https://iptv.707626.xyz/ch/fc15653b26ec0801a6db7225c2a9d5f0/master.m3u8
+PFL,https://iptv.707626.xyz/ch/064b87bc579437a102345eb785b7f11a/master.m3u8
+Premier Sports 1 UK,https://iptv.707626.xyz/ch/0ae80cee948e7ee70cd11cfafc343533/master.m3u8
+Premier Sports 2 UK,https://iptv.707626.xyz/ch/fde758ac2bf542f91cd7aa05df955f95/master.m3u8
+Red Bull TV,https://iptv.707626.xyz/ch/ee48da3f6372472c0fbce9be364b96dd/master.m3u8
+SEC Network,https://iptv.707626.xyz/ch/b319144730eec0d229a3686e12b65f2b/master.m3u8
+SKY Sport 1 NZ,https://iptv.707626.xyz/ch/2bad4c64076640b11032a11ce912cbc3/master.m3u8
+SKY Sport 2 NZ,https://iptv.707626.xyz/ch/acbc399f991a9d45765e25d9f62bd2e4/master.m3u8
+SKY Sport 3 NZ,https://iptv.707626.xyz/ch/a43d3c45c97442900e28da2e9e3e34cb/master.m3u8
+SKY Sport 4 NZ,https://iptv.707626.xyz/ch/77fb30c37cfed2f59a6210e7be38b4b7/master.m3u8
+SKY Sport 5 NZ,https://iptv.707626.xyz/ch/e8e0fe91e1a18c1dc3746cbdbff8dc55/master.m3u8
+SKY Sport 6 NZ,https://iptv.707626.xyz/ch/7b09d53c0d00ff0623e6c0212d8fa7af/master.m3u8
+SKY Sport 7 NZ,https://iptv.707626.xyz/ch/4ccd3da5663ba9a59476eed9c0c9e646/master.m3u8
+SKY Sport 8 Premier League NZ,https://iptv.707626.xyz/ch/d83d67eb013ccd58d287de3cc958b608/master.m3u8
+SKY Sport 9 NZ,https://iptv.707626.xyz/ch/d0cbf93e886c3f1202dc52fa27b3f8e5/master.m3u8
+Sky Sports Action UK,https://iptv.707626.xyz/ch/055458b6e22afb8a0b32cd73a03d38e0/master.m3u8
+Sky Sports Cricket UK,https://iptv.707626.xyz/ch/118d3e8bb304a97ff399d7733dee0c55/master.m3u8
+Sky Sports F1 4K UK,https://iptv.707626.xyz/ch/5ae2b33b5e1fd9105b6f4f459b2bc66d/master.m3u8
+Sky Sports F1 UK,https://iptv.707626.xyz/ch/198d386675596deb8c9a0df91a8870b9/master.m3u8
+Sky Sports Football UK,https://iptv.707626.xyz/ch/5c3f92518f514e3b74ae2ee2c8c71b5c/master.m3u8
+Sky Sports Golf UK,https://iptv.707626.xyz/ch/6ca783d59d8def784e6fa94699d143f6/master.m3u8
+Sky Sports Main Event UK,https://iptv.707626.xyz/ch/afd19b880927cfbb409f32a354ed4dc6/master.m3u8
+Sky Sports Mix UK,https://iptv.707626.xyz/ch/cfe4e130f29d20d5eaee3d6ec2be3f08/master.m3u8
+Sky Sports News UK,https://iptv.707626.xyz/ch/437373939ae0b7786460e7467a66e726/master.m3u8
+Sky Sports Premier League UK,https://iptv.707626.xyz/ch/9a0e3104ceabccdde05b63bd8f5ca1d8/master.m3u8
+Sky Sports Racing UK,https://iptv.707626.xyz/ch/5a885b8caef615a48eee792b390c59ce/master.m3u8
+Sky Sports Tennis UK,https://iptv.707626.xyz/ch/1dd221da59f0314295a338093005717e/master.m3u8
+Sky Sports+ UK,https://iptv.707626.xyz/ch/6fe96438cfe3f1ba0c26d00ec4a996df/master.m3u8
+Space City Home Network,https://iptv.707626.xyz/ch/cb14f9d9a1b684e92eadebc5a4ccd4fc/master.m3u8
+Spectrum Sports Net LA Dodgers,https://iptv.707626.xyz/ch/dba284324c7e35ddff407432719de321/master.m3u8
+Spectrum Sports Net Lakers,https://iptv.707626.xyz/ch/1142db2e33ceb26537e3d95b5d6ea1f2/master.m3u8
+Sportsnet 360 CA,https://iptv.707626.xyz/ch/12c2ab9c5983a00decd14ffefb799b0f/master.m3u8
+Sportsnet East CA,https://iptv.707626.xyz/ch/b3e73a50177ed01eadd647760aaf5b0e/master.m3u8
+Sportsnet New York,https://iptv.707626.xyz/ch/c253196b3e4b60b3f9a47efc8d5def57/master.m3u8
+Sportsnet ONE CA,https://iptv.707626.xyz/ch/970ea0e7a7a7531abf6f172ea274465d/master.m3u8
+Sportsnet Pittsburgh,https://iptv.707626.xyz/ch/03cb9a75c32035fcad79f9b5777f316f/master.m3u8
+Sportsnet World CA,https://iptv.707626.xyz/ch/4d762b5556ee6cbf1de3f6919accc4eb/master.m3u8
+Strongman Champions League,https://iptv.707626.xyz/ch/a7a95cb866ba5f0dd20102601507f341/master.m3u8
+T2 Tennis Channel,https://iptv.707626.xyz/ch/783bd6a276b025da0c52c10435def489/master.m3u8
+TNT Sports 1 UK,https://iptv.707626.xyz/ch/356ee69e0797606308bf26a9a540d190/master.m3u8
+TNT Sports 2 UK,https://iptv.707626.xyz/ch/e27c2179e3c15bdc7ad32f88d9e598f7/master.m3u8
+TNT Sports 3 UK,https://iptv.707626.xyz/ch/95f5630702f25eee88910a544d471c6f/master.m3u8
+TNT Sports 4 UK,https://iptv.707626.xyz/ch/517afdc29292da5a6293db7a3277f32c/master.m3u8
+TSN1 CA,https://iptv.707626.xyz/ch/415f2a7c9741ab855cd53010a2e139fa/master.m3u8
+TSN2 CA,https://iptv.707626.xyz/ch/0aeea92cd9d9f99d84bbd7f348240293/master.m3u8
+TSN3 CA,https://iptv.707626.xyz/ch/49fe24c527faa1cd8d4d83bbe6914942/master.m3u8
+TSN4 CA,https://iptv.707626.xyz/ch/472cbc4785d0cefa0b83a4bbe40f34f9/master.m3u8
+TSN5 CA,https://iptv.707626.xyz/ch/21bd3fd27792eed59683caa830aeab2c/master.m3u8
+Tennis Channel,https://iptv.707626.xyz/ch/76e08c623379f117d3c18ca00376589c/master.m3u8
+The Cowboy Channel,https://iptv.707626.xyz/ch/0292b821ac75a54ef354c77c54966d0c/master.m3u8
+UFC,https://iptv.707626.xyz/ch/7124fb479126356e21acdc3715f04aff/master.m3u8
+WWE Network,https://iptv.707626.xyz/ch/19b620220e99bf3e94053864c263f8a0/master.m3u8
+WWE Superstar Central,https://iptv.707626.xyz/ch/57effb300e189f46439da08c33ef9c00/master.m3u8
+Willow Cricket,https://iptv.707626.xyz/ch/e021260600f31b899a0188df1bb10fb6/master.m3u8
+Willow Sports,https://iptv.707626.xyz/ch/d29132a492ab75ec120410f06a37d4de/master.m3u8
+Women's Sports Network,https://iptv.707626.xyz/ch/c7e2ac5cceacfe3a9e48ff463138ade8/master.m3u8
+World Fishing Network,https://iptv.707626.xyz/ch/890f21f1822c14386ac3e6e5068d69fd/master.m3u8
+YES Network,https://iptv.707626.xyz/ch/66559b3716a6e8b4c2d467f2531bed9d/master.m3u8
+Ziggo Sport 2 NL,https://iptv.707626.xyz/ch/4080dd7a267e1db4c213fd0692f479b9/master.m3u8
+Ziggo Sport 3 NL,https://iptv.707626.xyz/ch/52fc6d767245d94b9feea55c3ee03a66/master.m3u8
+Ziggo Sport 4 NL,https://iptv.707626.xyz/ch/3a3e5f998f609fdcd9e8b78b70054ba4/master.m3u8
+Ziggo Sport NL,https://iptv.707626.xyz/ch/dfc13525e0148f779327995a5da4ba2a/master.m3u8
+
+707626 新加坡體育頻道,#genre#
+beIN Sports HD,https://iptv.707626.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
+beIN Sports 2 HD,https://iptv.707626.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
+beIN Sports 3 HD,https://iptv.707626.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+beIN Sports 4 HD,https://iptv.707626.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
+beIN Sports 5 HD,https://iptv.707626.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+FIGHT SPORTS HD,https://iptv.707626.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+Hub Premier 1 HD,https://iptv.707626.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
+Hub Premier 2 HD,https://iptv.707626.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
+Hub Premier 3 HD,https://iptv.707626.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
+Hub Premier 4 HD,https://iptv.707626.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
+Hub Premier 5 HD,https://iptv.707626.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
+Hub Premier 6 HD,https://iptv.707626.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
+Hub Premier 7 HD,https://iptv.707626.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
+Hub Premier 8 HD,https://iptv.707626.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
+Hub Sports 1 HD,https://iptv.707626.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
+Hub Sports 2 HD,https://iptv.707626.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
+Hub Sports 3 HD,https://iptv.707626.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+Hub Sports 4 HD,https://iptv.707626.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+Hub Sports 5 HD,https://iptv.707626.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+Hub Sports 6 HD,https://iptv.707626.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+Hub Sports 7 HD,https://iptv.707626.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+Hub Sports 8 HD,https://iptv.707626.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
 
 风云4666888,#genre#
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
