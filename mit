@@ -178,6 +178,7 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
+无线新闻,http://66.163.115.84/hendrix1/hendrix1/28236
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -202,14 +203,17 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-TVB Plus,https://smt.1678520.xyz/163189/18e96648d4420d9e
+TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
 TVB娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
 TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
+TVB1,http://66.163.115.84/hendrix1/hendrix1/28233
+TVBJ1,http://66.163.115.84/hendrix1/hendrix1/28232
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB DRAMA,http://66.163.115.84/hendrix1/hendrix1/28237
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 TVB星河,https://www.9kds.com/d/hk/tvbxh/?kl=www.9kds.com
@@ -244,6 +248,7 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰香港,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰美洲台,http://66.163.115.84/hendrix1/hendrix1/28239
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -306,9 +311,6 @@ VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-SKYLINK TV 1,http://line.senpay23.com:80/4cafe94867/48a12d348c/156399
-SKYLINK TV 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/156400
-ICITI,http://line.senpay23.com:80/4cafe94867/48a12d348c/156401
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
@@ -333,8 +335,16 @@ CGTN GLOBAL BIZ,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi
 中旺電視,video://https://m.italkbbtv.com/live/62cc979c4725b5305843c853
 加拿大600新聞台,video://https://m.italkbbtv.com/live/62cb9bbc4725b530583b6b0e
 漢天衛視,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+汉天卫视 USA HTTV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283890
 KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
-美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+美國城市衛視ICITI,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+美國城市衛視ICITI,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283900
+美國城市衛視ICITI,http://66.163.115.84/hendrix1/hendrix1/28844
+美國城市衛視ICITI,http://line.senpay23.com:80/4cafe94867/48a12d348c/156401
+天下衛視SKYLINK TV 1,http://line.senpay23.com:80/4cafe94867/48a12d348c/156399
+天下衛視SKYLINK TV 1,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283898
+天下衛視SKYLINK TV 2,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283899
+天下衛視SKYLINK TV 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/156400
 華語電視一台,http://38.64.72.148/hls/modn/list/4001/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
@@ -360,6 +370,7 @@ TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS ASIA,http://66.163.115.84/live/hendrix1/hendrix1/28234.ts
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 东森财经新闻,http://208.87.242.79/livehttpplay?channel_id=20078
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
@@ -376,6 +387,9 @@ TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
+广州新闻4K,https://cdn15.163189.xyz/163189/90871926591ebcbc
+广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 深圳卫视HD,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视4k,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 浙江卫视4k,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
