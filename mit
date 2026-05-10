@@ -1689,96 +1689,77 @@ Clarity 4K,https://iptv.707626.xyz/ch/6b524eba472d8b84fc243b6510737145/master.m3
 Loupe 4K,https://iptv.707626.xyz/ch/83e28d1966f4888308e6e97b804caf1e/master.m3u8
 Love Nature 4K CA,https://iptv.707626.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
 
-
-ttvb 中國央衛視,#genre#
-CCTV 1 綜合,https://cdn-2.ttvb.eu.org/api/CCTV1/index.m3u8
-CCTV 2 財經,https://cdn-2.ttvb.eu.org/api/CCTV2/index.m3u8
-CCTV 3 綜藝,https://cdn-2.ttvb.eu.org/api/CCTV3/index.m3u8
-CCTV 4 中文國際,https://cdn-2.ttvb.eu.org/api/CCTV4/index.m3u8
-CCTV 5 體育,https://cdn-2.ttvb.eu.org/api/CCTV5/index.m3u8
-CCTV 5+ 體育賽事,https://cdn-2.ttvb.eu.org/api/CCTV5+/index.m3u8
-CCTV 6 電影,https://cdn-2.ttvb.eu.org/api/CCTV6/index.m3u8
-CCTV 7 國防軍事,https://cdn-2.ttvb.eu.org/api/CCTV7/index.m3u8
-CCTV 8 電視劇,https://cdn-2.ttvb.eu.org/api/CCTV8/index.m3u8
-CCTV 9 記錄,https://cdn-2.ttvb.eu.org/api/CCTV9/index.m3u8
-CCTV 10 科教,https://cdn-2.ttvb.eu.org/api/CCTV10/index.m3u8
-CCTV 11 戲曲,https://cdn-2.ttvb.eu.org/api/CCTV11/index.m3u8
-CCTV 12 社會與法,https://cdn-2.ttvb.eu.org/api/CCTV12/index.m3u8
-CCTV 13 新聞,https://cdn-2.ttvb.eu.org/api/CCTV13/index.m3u8
-CCTV 14 少兒,https://cdn-2.ttvb.eu.org/api/CCTV14/index.m3u8
-CCTV 15 音樂,https://cdn-2.ttvb.eu.org/api/CCTV15/index.m3u8
-北京衛視,https://cdn-2.ttvb.eu.org/api/bjws/index.m3u8
-東方衛視,https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
-廣東衛視,https://cdn-2.ttvb.eu.org/api/gdws/index.m3u8
-浙江衛視,https://cdn-2.ttvb.eu.org/api/zjws/index.m3u8
-江蘇衛視,https://cdn-2.ttvb.eu.org/api/jsws/index.m3u8
-湖南衛視,https://cdn-2.ttvb.eu.org/api/hnws/index.m3u8
-四川衛視,https://cdn-2.ttvb.eu.org/api/scws/index.m3u8
-
-ttvb 台灣,#genre#
-中天亞洲,https://cdn-2.ttvb.eu.org/api/Cti-I/index.m3u8
-中天綜合,https://cdn-2.ttvb.eu.org/api/Cti-K/index.m3u8
-中天娛樂,https://cdn-2.ttvb.eu.org/api/Cti-E/index.m3u8
-東森電影,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
-東森洋片,https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
-東森綜合,https://cdn-2.ttvb.eu.org/api/ET-Variety-Channel/index.m3u8
-東森戲劇,https://cdn-2.ttvb.eu.org/api/ET-Drama-Channel/index.m3u8
-東森幼幼,https://cdn-2.ttvb.eu.org/api/YoYo-TV/index.m3u8
-台視,https://cdn-2.ttvb.eu.org/api/TTV/index.m3u8
-年代新聞,https://cdn-2.ttvb.eu.org/api/Era-News/index.m3u8
-緯來日本,https://cdn-2.ttvb.eu.org/api/VL-Japan/index.m3u8
-緯來體育,https://cdn-2.ttvb.eu.org/api/VL-Sports/index.m3u8
-緯來電影,https://cdn-2.ttvb.eu.org/api/VL-Movies/index.m3u8
-緯來綜合,https://cdn-2.ttvb.eu.org/api/VL-ONTV/index.m3u8
-緯來戲劇,https://cdn-2.ttvb.eu.org/api/VL-Drama/index.m3u8
-緯來育樂,https://cdn-2.ttvb.eu.org/api/VL-E/index.m3u8
-好萊塢電影,https://cdn-2.ttvb.eu.org/api/Hollywood-Movie/index.m3u8
-龍祥時代,https://cdn-2.ttvb.eu.org/api/LSTIME-Movie/index.m3u8
-CINEMAX,https://cdn-2.ttvb.eu.org/api/Cinemax/index.m3u8
-MTV Live,https://cdn-2.ttvb.eu.org/api/MTV-Live/index.m3u8
-
-ttvb 體育,#genre#
-beIN Sports 1,https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
-beIN Sports 2,https://cdn-1.ttvb.eu.org/api/beIN-Sports-2/index.m3u8
-beIN Sports 3,https://cdn-1.ttvb.eu.org/api/beIN-Sports-3/index.m3u8
-beIN Sports 4,https://cdn-1.ttvb.eu.org/api/beIN-Sports-4/index.m3u8
-beIN Sports 5,https://cdn-1.ttvb.eu.org/api/beIN-Sports-5/index.m3u8
-Eurosport 1,https://cdn-1.ttvb.eu.org/api/Eurosport-1/index.m3u8
-Eurosport 2,https://cdn-1.ttvb.eu.org/api/Eurosport-2/index.m3u8
-Fight Sports,https://cdn-1.ttvb.eu.org/api/Fight-Sports/index.m3u8
-Hub Premier 1,https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
-Hub Premier 2,https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
-Hub Premier 3,https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
-Hub Premier 4,https://cdn-1.ttvb.eu.org/api/Hub-Premier-4/index.m3u8
-Hub Premier 5,https://cdn-1.ttvb.eu.org/api/Hub-Premier-5/index.m3u8
-Hub Premier 6,https://cdn-1.ttvb.eu.org/api/Hub-Premier-6/index.m3u8
-Hub Premier 7,https://cdn-1.ttvb.eu.org/api/Hub-Premier-7/index.m3u8
-Hub Premier 8,https://cdn-1.ttvb.eu.org/api/Hub-Premier-8/index.m3u8
-Hub Sports 1,https://cdn-1.ttvb.eu.org/api/Hub-Sports-1/index.m3u8
-Hub Sports 2,https://cdn-1.ttvb.eu.org/api/Hub-Sports-2/index.m3u8
-Hub Sports 3,https://cdn-1.ttvb.eu.org/api/Hub-Sports-3/index.m3u8
-Hub Sports 4,https://cdn-1.ttvb.eu.org/api/Hub-Sports-4/index.m3u8
-Hub Sports 5,https://cdn-1.ttvb.eu.org/api/Hub-Sports-5/index.m3u8
-Hub Sports 6,https://cdn-1.ttvb.eu.org/api/Hub-Sports-6/index.m3u8
-Hub Sports 7,https://cdn-1.ttvb.eu.org/api/Hub-Sports-7/index.m3u8
-Hub Sports 8,https://cdn-1.ttvb.eu.org/api/Hub-Sports-8/index.m3u8
-Sky Sports Cricket,https://cdn-2.ttvb.eu.org/api/Sky-Sports-Cricket/index.m3u8
-Sky Sports Premier League,https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
-Sky Sports F1,https://cdn-2.ttvb.eu.org/api/Sky-Sports-F1/index.m3u8
-Sky Sports Mix,https://cdn-2.ttvb.eu.org/api/Sky-Sports-Mix/index.m3u8
-Spotv 1,https://cdn-1.ttvb.eu.org/api/Spotv-1/index.m3u8
-Spotv 2,https://cdn-1.ttvb.eu.org/api/Spotv-2/index.m3u8
-TNT Sport 1,https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
-TNT Sport 2,https://cdn-1.ttvb.eu.org/api/TNT-Sports-2/index.m3u8
-TNT Sport 3,https://cdn-1.ttvb.eu.org/api/TNT-Sports-3/index.m3u8
-TNT Sport 4,https://cdn-1.ttvb.eu.org/api/TNT-Sports-4/index.m3u8
-BBC Earth,https://cdn-1.ttvb.eu.org/api/BBC-Earth/index.m3u8
-BBC Lifestyle,https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
-Discovery,https://cdn-1.ttvb.eu.org/api/Discovery/index.m3u8
-HBO,https://cdn-1.ttvb.eu.org/api/HBO/index.m3u8
-HBO Hits,https://cdn-1.ttvb.eu.org/api/HBO-Hits/index.m3u8
-HBO Family,https://cdn-1.ttvb.eu.org/api/HBO-Family/index.m3u8
-HBO Signature,https://cdn-1.ttvb.eu.org/api/HBO-Signature/index.m3u8
+107 央卫视秒播,#genre#
+CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV-4K超高清,http://107.150.60.122/live/cctv4k.m3u8
+CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
+中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
+中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
+中国教育3,http://107.150.60.122/live/cetv3.m3u8
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8
+深圳卫视,http://107.150.60.122/live/szwshd.m3u8
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8
+东南卫视,http://107.150.60.122/live/dnwshd.m3u8
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
+浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8
+辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
+山东卫视,http://107.150.60.122/live/sdwshd.m3u8
+天津卫视,http://107.150.60.122/live/tjwshd.m3u8
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
+西藏卫视,http://107.150.60.122/live/xzws.m3u8
+广东新闻,http://107.150.60.122/live/gdxw.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东体育,http://107.150.60.122/live/gdty.m3u8
+广西新闻,http://107.150.60.122/live/gxxw.m3u8
+广西国际,http://107.150.60.122/live/gxgj.m3u8
+广西影视,http://107.150.60.122/live/gxys.m3u8
+广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
+广西都市,http://107.150.60.122/live/gxds.m3u8
+湖北综合,http://107.150.60.122/live/hbzh.m3u8
+湖北经视,http://107.150.60.122/live/hbjs.m3u8
+湖北影视,http://107.150.60.122/live/hbys.m3u8
+湖北教育,http://107.150.60.122/live/hbjy.m3u8
+湖北垄上,http://107.150.60.122/live/hbls.m3u8
+湖北生活,http://107.150.60.122/live/hbty.m3u8
+湖南娱乐,http://107.150.60.122/live/hnyl.m3u8
+湖南教育,http://107.150.60.122/live/hnjy.m3u8
+吉林都市,http://107.150.60.122/live/jlds.m3u8
+吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
+吉林生活,http://107.150.60.122/live/jlsh.m3u8
+新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
+新疆汉语体育健康,http://107.150.60.122/live/xjtv7.m3u8
+江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
+江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
+北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
+成龙电影,http://107.150.60.122/live/lbcl.m3u8
+周润发电影,http://107.150.60.122/live/lbzrf.m3u8
+周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
+林正英影院,http://107.150.60.122/live/lblzy.m3u8
 
 69.30 中國央衛視,#genre#
 CCTV1 綜合,http://69.30.245.50/live/cctv1.m3u8
@@ -2165,118 +2146,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-
-ASIA | Taiwan,#genre#
-寰宇新闻台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34870
-镜新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34876
-中天新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34899
-中天综合,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34898
-TVBS,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34915
-TVBS新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34783
-TVBS欢乐台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34913
-TVBS精采台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34912
-东森戏剧,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34906
-东森新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34905
-东森洋片,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34904
-东森电影,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34903
-东森综合,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34902
-东森财经,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34901
-中视经典,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34851
-三立综合,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34907
-华视新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34886
-年代新闻,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34869
-非凡新闻HD,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34832
-八大综合,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34892
-客家电视台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34871
-好消息,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34791#http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34839
-好消息2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34873
-动物星球,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34889
-博斯无限,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34885
-博斯运动1,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34884
-博斯运动2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34883
-博斯高球2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34881
-好莱坞电影台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34872
-时尚运动 X,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34864
-爱尔达体育1台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34857
-爱尔达体育2台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34865
-爱尔达体育3台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34866
-纬来电影,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34852
-纬来育乐,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34855#http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34849
-美亚电影,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34848
-靖天卡通,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34842
-靖天国际台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34841
-靖天映画,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34838
-靖天电影台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34836
-靖洋戏剧,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34833
-龙华偶像,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34830
-龙华戏剧,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34829
-龙华洋片,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34828
-龙华电影,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34827
-龙祥电影,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34825
-半岛国际新闻台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34888
-ASIA TRAVEL,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34925#http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34796
-ASIAN ACTION,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34847
-Baby TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34929
-CINEMAX,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34928
-DISCOVERY ASIA,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34788
-DMAX,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34877
-ELTA综合,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34920
-ELTV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34834
-Ginx Esports TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34919
-HBO FAMILY,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34824
-HBO HD,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34918
-
-ASIA | SINGAPORE,#genre#
-8 TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34619
-CHANNEL U,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34774
-CHANNEL 8,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34775
-CHANNEL 5,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34776
-CHANNEL NEWS ASIA,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34782
-
-ASIA | MALAYSIA VIP,#genre#
-凤凰资讯,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34641
-TVB 星河,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34560
-TVB 经典台,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34555
-TVBS ASIA,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34561
-ASTRO IQIYI,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34553
-天映频道,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34674
-8 TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34619
-ALJAZEERA,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34680
-ANIMAL PLANET,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34589
-ANIPLUS,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34616
-ASTRO ARENA 2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34649
-ASTRO CERIA,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34590
-ASTRO CRICKET,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34615
-ASTRO SUPERSPORT 1,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34535
-ASTRO SUPERSPORT 2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34534
-ASTRO SUPERSPORT 3,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34533
-ASTRO SUPERSPORT 4,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34531
-ASTRO SUPERSPORT 5,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34532
-AXN,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34597
-BBC NEWS,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34578
-BEIN SPORTS 3,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34632
-BERNAMA NEWS,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34575
-CBEEBIES,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34645
-CCTV 4,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34563
-CHUTTI TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34549
-CINEMA WORLD,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34625
-CNN,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34577
-COLORS TAMIL,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34672
-DISCOVERY CHANEL,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34586
-DW,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34643
-EUROSPORT,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34611
-FRANCE 24,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34640
-FRANCE24,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34679
-GOLF CHANNEL,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34613
-HISTORY,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34588
-KBS WORLD,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34567
-NTV7,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34621
-SUN MUSIC,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34681#http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34548
-SUN TV,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34552
-TV 1,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34618
-TV 2,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34536
-TV 9,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34620
-WWE,http://vipkentken.top:8080/vip6821768502490/6c17bae55394/34612
 
 ✪mypanel CHINA,#genre#
 CCTV 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163730
