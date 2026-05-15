@@ -1,8 +1,13 @@
 代理测试,#genre#
-功夫台,http://46.38.157.60:53874/proxy/74a1f88bb26edd96.m3u8
-TVB星河頻道,http://46.38.157.60:53874/proxy/eec374cc1e8d1626.m3u8
-RTHK 33,http://46.38.157.60:53874/proxy/0fdfa04b92f5c594.m3u8
-HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
+无线新闻台,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
+翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+TVB娱乐新闻台,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+TVB星河頻道,https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
+凤凰中文,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
+凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
+凤凰香港,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+NOW新闻台,https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
+HOY 76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 CCTV 1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV 2,https://cdn13.178.indevs.in/163189/728a0426e886a6b6
 CCTV 4,https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f
@@ -15,16 +20,12 @@ CHC动作电影,https://cdn13.178.indevs.in/163189/32a810b251717bd0
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
 五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
-中天新聞台,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
-中天新聞台,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
-东森新闻台,http://46.38.157.60:53874/proxy/0f23c88d7f2082dc.m3u8
+中天新聞台,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
+TVBS新闻台,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
+东森新闻,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+东森财经新闻,https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-纬来电影台,http://46.38.157.60:53874/proxy/a7de9e9ba71250e9.m3u8
-纬来体育,http://46.38.157.60:53874/proxy/e817c60fff235471.m3u8
-龍龍華洋片台,http://46.38.157.60:53874/proxy/06d0b0bbd784014c.m3u8
-龍華偶像台,http://46.38.157.60:53874/proxy/2fbdd9c9dd4627f0.m3u8
-龍華電影台,http://46.38.157.60:53874/proxy/d9255b48be481af4.m3u8
 采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
@@ -374,7 +375,6 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 寰宇新聞台灣台,http://rihou.cc:555/tv/寰宇台湾
 镜新闻,http://rihou.cc:555/tv/镜新闻
 中天新闻,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-中天新闻,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
@@ -1313,60 +1313,6 @@ Thrill,https://test.946985.filegear-sg.me/proxy/2521a32c6a134b4d
 TRACE Sport Stars,https://test.946985.filegear-sg.me/proxy/f0889f7214e25cb8
 ZooMoo,https://test.946985.filegear-sg.me/proxy/2f092e1eb3f2096a
 
-咪视通,#genre#
-晴彩少年,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
-晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
-晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
-晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
-咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
-咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
-咪咕CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522
-咪视通-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969
-咪视界-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308
-咪视通-3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218
-咪视通-4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001
-咪视通-5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176
-咪视通-6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379
-咪视通-7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129
-咪视通-8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948
-咪视通-9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638
-咪视通-10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494
-咪视通-11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837
-咪视通-12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518
-咪视通-13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519
-咪视通-14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520
-咪视通-15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521
-咪视通-16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522
-咪视通-17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
-咪视通-18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524
-咪视通-19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
-咪视通-20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
-咪视通-21,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
-咪视通-22,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530
-咪视通-23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011531
-咪视通-24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097
-咪视通-25,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019
-咪视通-26,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809
-咪视通-27,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915
-咪视通-28,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193
-咪视通-29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077
-咪视通-30,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658
-咪视通-31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788
-咪视通-32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833
-咪视通-33,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297
-咪视通-34,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518
-咪视通-35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558
-咪视通-36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616
-咪视通-37,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470
-咪视通-38,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560
-咪视通-39,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678
-咪视通-40,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839
-咪视通-41,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904
-咪视通-42,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434
-咪视通-43,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380
-咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
-咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
-
 74.91 CN,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -1728,53 +1674,6 @@ CHC影迷電影,http://69.30.245.50/live/chcym.m3u8
 浙江衛視,http://69.30.246.194/live/zjws.m3u8
 江蘇衛視,http://69.30.246.194/live/jsws.m3u8
 東方衛視,http://69.30.246.194/live/dfws.m3u8
-
-dongfang 體育,#genre#
-beIN Sports,http://cdn2.dongfang.uk/stream/service/922edf4fc882241b0eba0a279b26dee2
-beIN Sports 2,http://cdn2.dongfang.uk/stream/service/40f1fc945fc73109d98b102b880c0b26
-beIN Sports 4,http://cdn2.dongfang.uk/stream/service/b1e13ca85f193e61f15e543d5730944b
-beIN Sports 5,http://cdn2.dongfang.uk/stream/service/57945fc17826d360ab06aa287696ac55
-beIN Sports 6,http://cdn2.dongfang.uk/stream/service/b0c5bb34bd6f065b9523b93cc2ae72eb
-beIN Sports 7,http://cdn2.dongfang.uk/stream/service/b79ef1162d1c766920a396e3a53c40df
-beIN Sports 8,http://cdn2.dongfang.uk/stream/service/2a199f05ff194820c84dfd46fad68b71
-beIN Sports Xtra 1,http://cdn2.dongfang.uk/stream/service/4c541dd019378b78a0a66ea10d956698
-CBS Sports Network,http://cdn2.dongfang.uk/stream/service/7f1abd9709ec048b399feff5a382e371
-Eleven Sports,http://cdn2.dongfang.uk/stream/service/c93d5547f618feb222950051ec99095d
-ESPN,http://cdn2.dongfang.uk/stream/service/b52b9c871834086c8acb978862960a72
-ESPN 2,http://cdn2.dongfang.uk/stream/service/aa0f892bbf0002592270a5b613a5c5a1
-ESPN 3,http://cdn2.dongfang.uk/stream/service/158ed0c3636419cb6b35efd26f48cd46
-ESPN News,http://cdn2.dongfang.uk/stream/service/949dcad7b0f7cd5e3f0b33406438d4b4
-FIGHT Network,http://cdn2.dongfang.uk/stream/service/f9c036dabfde590da194f495920862d3
-Fox Sports 1,http://cdn2.dongfang.uk/stream/service/dcd60cdb3c44bc5a13cc59ef91649dfa
-Fox Sports 2,http://cdn2.dongfang.uk/stream/service/cd61c82a17467629803241fbe38eaf9d
-NBA TV Canada,http://cdn2.dongfang.uk/stream/service/6b032e5cd82473a7bd5fd18ea3622df1
-Sky Sports News,http://cdn2.dongfang.uk/stream/service/8b70c914c0e8fb99961589884e7168bc
-Sky Sports Action,http://cdn2.dongfang.uk/stream/service/70a79beb6d4dd9853a3e505c4d640a36
-Sky Sports Arena,http://cdn2.dongfang.uk/stream/service/413002202e0b26efd5cdd8a93c1f7caf
-Sky Sports Cricket,http://cdn2.dongfang.uk/stream/service/3b685bb39211c7313ab14cfc9c8b09ce
-Sky Sports F1,http://cdn2.dongfang.uk/stream/service/407af8079be364b2447e468197f729e2
-Sky Sports Golf,http://cdn2.dongfang.uk/stream/service/48e74c4450b241747d990e489558184c
-Sky Sports Main Event,http://cdn2.dongfang.uk/stream/service/bf1770c6bdb54b735f8990433f166ffd
-Sky Sports Mix,http://cdn2.dongfang.uk/stream/service/d4161aab5af34bdea8c91c5614113154
-Sky Sports Racing,http://cdn2.dongfang.uk/stream/service/375f770b542ff70171e6dfdefa530d68
-TNT Sports 2,http://cdn2.dongfang.uk/stream/service/ca163b5023150954383517020275f095
-TNT Sports 3,http://cdn2.dongfang.uk/stream/service/b6143c17e997ba9d64615d2fc0209616
-TNT Sports 4,http://cdn2.dongfang.uk/stream/service/1bd908da3cf3c7adf7903ff4e7386794
-TNT Sports 5,http://cdn2.dongfang.uk/stream/service/0f3aea3f020896c5d564d7ae8042ed87
-TNT Sports 7,http://cdn2.dongfang.uk/stream/service/fcb66216142419f0d1ac8780a8608bcc
-TNT Sports 8,http://cdn2.dongfang.uk/stream/service/66e47a02b83d7aca6cd60ba1019bb67f
-TNT Sports 9,http://cdn2.dongfang.uk/stream/service/11908b34a9c5208e8d9fb5f93e170dfc
-TNT Sports 10,http://cdn2.dongfang.uk/stream/service/f9212acbdf09c61ca03e93628bb27278
-TSN 1,http://cdn2.dongfang.uk/stream/service/21764d9aeb83f7c5234c4ea74889974d
-TSN 2,http://cdn2.dongfang.uk/stream/service/73ed6eab6648471ba72fa1b12707c328
-TSN 3,http://cdn2.dongfang.uk/stream/service/5dd8c7b303bd987de9eec6ec11f0be9f
-TSN 4,http://cdn2.dongfang.uk/stream/service/35df36a4acf6ea44b6eaa5f3aeae9d43
-TSN 5,http://cdn2.dongfang.uk/stream/service/16133607c97542558da33b7453689291
-Disney Channel,http://cdn2.dongfang.uk/stream/service/ebdf1b85549f7b05ac48dbd60c402f90
-Disney Junior,http://cdn2.dongfang.uk/stream/service/ecc0c86282ac3605617ae9f0cc406cb7
-Disney XD,http://cdn2.dongfang.uk/stream/service/34f2a78a944f84423c98215b4b738a8d
-HBO 1,http://cdn2.dongfang.uk/stream/service/84fa10809c726a7c20eec32e0458e928
-HBO 2,http://cdn2.dongfang.uk/stream/service/43b8b81d853669278889f6c5df73c884
 
 风云4666888,#genre#
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
