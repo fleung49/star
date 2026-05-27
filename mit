@@ -380,10 +380,12 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 寰宇新闻台,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
+寰宇新闻台,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-hyxw.flv
 寰宇新闻台,http://rihou.cc:555/tv/寰宇新闻
 寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-寰宇新聞台灣台,http://rihou.cc:555/tv/寰宇台湾
+寰宇新聞台灣台,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-hyxwtwt.flv
 镜新闻,http://rihou.cc:555/tv/镜新闻
+镜新闻,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-jdsxwt.flv
 中天新闻,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
 中天新闻,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
@@ -402,10 +404,13 @@ TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS ASIA,http://66.163.115.84/live/hendrix1/hendrix1/28234.ts
+TVBS新闻台,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-TVBSxwt.flv
 TVBS新闻台,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS欢乐台,https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master.m3u8
+东森新闻,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-dsxw.flv
 东森新闻,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+东森财经新闻,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-dscjxw.flv
 东森财经新闻,https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 年代新闻,https://iptv.707626.xyz/live/stream-ch-flf6/master.m3u8
@@ -695,6 +700,8 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 极限电影台,p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
 广东频道,#genre#
+广东大湾区卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=gdgj&usign=ktMK8lyLfEnok6_oExMv4w
+广东大湾区卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=nfws&usign=ktMK8lyLfEnok6_oExMv4w
 广东大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广东大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
 广东大湾区卫视,http://218.15.20.81:3388/hls/13/index.m3u8
@@ -702,11 +709,13 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东大湾区卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.215:5146
 广东大湾区卫视,http://14.118.74.55:10001/rtp/239.77.0.215:5146
 广东大湾区卫视,http://www.yahao.host:4022/udp/239.77.0.215:5146
+广东卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdwshd&usign=ktMK8lyLfEnok6_oExMv4w
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://61.145.242.11:9088/hls/19/index.m3u8
 广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
 广东卫视,http://14.118.74.55:10001/rtp/239.77.0.84:5146
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
+广东4K超高清,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs3&usign=ktMK8lyLfEnok6_oExMv4w
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:82/live1/jsb.m3u8?id=gdxwa&usign=ktMK8lyLfEnok6_oExMv4w
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -715,14 +724,17 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻,http://14.118.74.55:10001/rtp/239.77.0.173:5146
 广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
+广东民生,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdgg&usign=ktMK8lyLfEnok6_oExMv4w
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 广东民生,http://61.145.242.11:9088/hls/16/index.m3u8
 广东民生,http://14.118.74.55:10001/rtp/239.77.0.225:5146
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
+广东影视,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs4&usign=ktMK8lyLfEnok6_oExMv4w
 广东影视,http://61.145.242.11:9088/hls/22/index.m3u8
 广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
 广东影视,http://14.118.74.55:10001/rtp/239.77.0.217:5146
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
+广东珠江,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdzj&usign=ktMK8lyLfEnok6_oExMv4w
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://61.145.242.11:9088/hls/23/index.m3u8
@@ -734,6 +746,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://14.118.74.55:10001/rtp/239.77.0.1:5146
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
+广东体育,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdty&usign=ktMK8lyLfEnok6_oExMv4w
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
@@ -747,14 +760,18 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://14.118.74.55:10001/rtp/239.77.0.112:5146
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
+广东少儿,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdtvs5&usign=ktMK8lyLfEnok6_oExMv4w
+广东少儿,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs5&usign=ktMK8lyLfEnok6_oExMv4w
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://61.145.242.11:9088/hls/17/index.m3u8
 广东少儿,http://14.118.74.55:10001/rtp/239.77.0.250:5146
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
+广东移动,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdyd&usign=ktMK8lyLfEnok6_oExMv4w
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东移动,http://61.145.242.11:9088/hls/21/index.m3u8
 广东经济科教,http://14.118.74.55:10001/rtp/239.77.0.85:5146
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
+广东岭南戏曲,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdlnxq&usign=ktMK8lyLfEnok6_oExMv4w
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 广州新闻,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzxw&usign=ktMK8lyLfEnok6_oExMv4w
 广州新闻,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
@@ -786,11 +803,13 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi 
 广州竞赛,https://tencentplaybusiness.gztv.com/live/jingsai.m3u8
 广州竞赛,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
+广州南国都市4K,http://38.75.136.137:82/live1/gdgztv.m3u8?id=gdgzsh&usign=ktMK8lyLfEnok6_oExMv4w
 广州南国都市4K,http://r.jdshipin.com/nWaZO
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,http://47.108.20.161:8866/guangdong/guangzhou.php?id=shenghuo
+深圳卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=szwshd&usign=ktMK8lyLfEnok6_oExMv4w
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
