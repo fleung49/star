@@ -256,6 +256,7 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰中文,https://play-flive.ifeng.com/flive/FLIVE_TX_NR_0IN9USDH88W.m3u8
 凤凰中文,video://https://www.faintv.com/channel/204
 凤凰中文,https://live2-faintv.cdn.hinet.net/live_HLS/NP026.stream/chunklist.m3u8?token=YbSgcJIeRquUeGQuiviFNQ&expires=1779481835
+凤凰资讯,https://pull-wsu.liveonlinetest.com:443/live/fhwszxtiVjdaclFnLKHUrRr.flv
 凤凰资讯,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT
@@ -266,13 +267,14 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,video://https://www.faintv.com/channel/120
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=3
+凤凰香港,https://pull-wsu.liveonlinetest.com:443/live/fhwsxgtiVjdaclFnLKHUrRr.flv
 凤凰香港,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰香港,http://php.jdshipin.com:80/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,video://https://www.faintv.com/channel/18965
-凤凰美洲台,http://66.163.115.84/hendrix1/hendrix1/28239HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
+凤凰美洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -382,9 +384,12 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新聞台灣台,http://rihou.cc:555/tv/寰宇台湾
 镜新闻,http://rihou.cc:555/tv/镜新闻
+中天新闻,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
 中天新闻,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
 中天亚洲,http://rihou.cc:555/tv/中天亚洲
 中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中视,http://74.91.26.218:82/live/ctv.m3u8
@@ -392,7 +397,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-TVBS,http://rihou.cc:555/tv/TVBS1
+TVBS,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-TVBS.flv
 TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -703,6 +708,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东卫视,http://14.118.74.55:10001/rtp/239.77.0.84:5146
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:82/live1/jsb.m3u8?id=gdxwa&usign=ktMK8lyLfEnok6_oExMv4w
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广东新闻,http://61.145.242.11:9088/hls/20/index.m3u8
@@ -750,6 +756,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东经济科教,http://14.118.74.55:10001/rtp/239.77.0.85:5146
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
+广州新闻,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzxw&usign=ktMK8lyLfEnok6_oExMv4w
 广州新闻,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 广州新闻,https://cdn15.163189.xyz/163189/90871926591ebcbc
@@ -759,6 +766,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen 
 广州新闻,http://14.118.74.55:10001/rtp/239.253.43.72:5146
 广州新闻,http://vpn.jk960.cn:8686/rtp/239.253.43.72:5146
+广州综合,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzzh&usign=ktMK8lyLfEnok6_oExMv4w
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
@@ -859,7 +867,6 @@ HZTV-2,http://14.118.74.55:10001/rtp/239.77.1.233:5146
 云浮文旅,http://14.118.74.55:10001/rtp/239.77.0.254:5146
 茂名综合,http://14.118.74.55:10001/rtp/239.77.0.206:5146
 茂名文化生活,http://14.118.74.55:10001/rtp/239.77.0.207:5146
-
 
 📺海南频道,#genre#
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
