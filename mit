@@ -180,18 +180,14 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 
 港澳台|备①,#genre#
 无线新闻台,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-无线新闻台,http://122.100.242.52:12179/stream/channelid/1803382046?profile=pass
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 无线新闻,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
 翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-翡翠台,http://122.100.242.52:12179/stream/channelid/614956956?profile=pass
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
@@ -202,15 +198,12 @@ TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
 华丽翡翠台,http://php.jdshipin.com:80/PLTV/iptv.php?id=huali
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
-明珠台,http://122.100.242.52:12179/stream/channelid/2051586642?profile=pass
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 TVB Plus,http://php.jdshipin.com/smt.php?id=j2_twn
 TVB娱乐新闻台,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
@@ -292,18 +285,15 @@ NOW新闻台,https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.
 NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 NOW财经台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
-Now英超,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
-Now Sports,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-Now Sports Prime,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117464
+Now英超,http://lunar.pm:8080/leslie/snook/117457
+Now Sports,http://lunar.pm:8080/leslie/snook/117458
+Now Sports Prime,http://lunar.pm:8080/leslie/snook/117464
 Now星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 Now爆谷台,https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 POPC电影,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 美亚电影,https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
 VIUTV,https://cdn.163189.xyz/163189/viu
@@ -354,7 +344,6 @@ HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 CGTN GLOBAL BIZ,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
@@ -390,11 +379,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
 中天亚洲,http://rihou.cc:555/tv/中天亚洲
 中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
-中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 TVBS,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-TVBS.flv
 TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
@@ -412,7 +397,6 @@ TVBS欢乐台,https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master
 年代新闻,https://iptv.707626.xyz/live/stream-ch-flf6/master.m3u8
 民视,https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
 民视新闻,https://iptv.852851.xyz/ch/d189e089ebb1c52dc37afcaa7fb0f732/master.m3u8
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
 民视影剧,https://iptv.852851.xyz/ch/c26bd44b89386a2ff2e72a939ad4e165/master.m3u8
 民视台湾,https://iptv.852851.xyz/ch/607a18a31aed6088cae86fa23b2269ab/master.m3u8
 民视第一,https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
@@ -426,9 +410,9 @@ TVBS欢乐台,https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master
 广东卫视HD,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
-广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
-广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
@@ -637,7 +621,6 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广东新闻,http://61.145.242.11:9088/hls/20/index.m3u8
-广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻,http://14.118.74.55:10001/rtp/239.77.0.173:5146
 广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
 广东民生,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdgg&usign=ktMK8lyLfEnok6_oExMv4w
@@ -654,7 +637,6 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://61.145.242.11:9088/hls/23/index.m3u8
-广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
 广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://cdn.163189.xyz/163189/gdzj
@@ -665,7 +647,6 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东体育,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdty&usign=ktMK8lyLfEnok6_oExMv4w
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://14.118.74.55:10001/rtp/239.77.0.112:5146
 广东体育,http://183.7.151.166:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.57.248.86:8183/tsfile/live/1000_1.m3u8
@@ -1305,7 +1286,7 @@ SBN全球財經台,https://lo.esnad.dpdns.org/?id=224&token=pixman@4gtv-2026
 TRACE Urban,https://lo.esnad.dpdns.org/?id=78&token=pixman@4gtv-2026
 TV5MONDE STYLE HD 生活時尚,https://lo.esnad.dpdns.org/?id=178&token=pixman@4gtv-2026
 
-CN 中国频道852851,#genre#
+中国频道852851,#genre#
 CCTV1,https://iptv.852851.xyz/ch/371969b89a239ca6da31073a61bc91a5/master.m3u8
 CCTV2,https://iptv.852851.xyz/ch/3437151ece57d8839f4a6dc4cc840c7f/master.m3u8
 CCTV3,https://iptv.852851.xyz/ch/f9cb10ef675fb4300fdba42663704234/master.m3u8
@@ -1335,9 +1316,10 @@ CCTV17,https://iptv.852851.xyz/ch/2bc9d9501a3fe46366cbf35e79081b9d/master.m3u8
 贵州卫视,https://iptv.852851.xyz/ch/e575e608e4eaa2026f6da1626c09e6be/master.m3u8
 黑龙江卫视,https://iptv.852851.xyz/ch/3c2f0d03276cfe8a81a5e2393373d79e/master.m3u8
 
-HK 香港频道852851,#genre#
+香港频道852851,#genre#
 凤凰中文,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
 凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
@@ -1351,9 +1333,9 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 TVB星河,https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
 TVB功夫,https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
 TVB黄金华剧,https://iptv.852851.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
+Asian Action 亚洲武侠台,https://iptv.852851.xyz/ch/ac1768836d705f59898489a16be124e3/master.m3u8
 HOY76,https://iptv.852851.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
-HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY77,HOY 77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY78,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
 HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 ViuTV,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
@@ -1370,6 +1352,9 @@ Now Sports Prime,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
 PopC,https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 Thrill,https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
 ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
+ASTRO AEC,https://iptv.852851.xyz/ch/91251ae2ef6b6370ddbfd299778c99a4/master.m3u8
+ASTRO AOD,https://iptv.852851.xyz/ch/cd70fca0fc4f13e2065a87f7c5fb5485/master.m3u8
+iQIYI,https://iptv.852851.xyz/ch/58e01ece842818fff79b14b4d5bf5825/master.m3u8
 美亚电影,https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1402,7 +1387,7 @@ ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
 凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
 凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.50:5140
 
-MO 澳门频道,#genre#
+澳门频道,#genre#
 澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -1410,7 +1395,7 @@ MO 澳门频道,#genre#
 澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
-TW 台湾频道852851,#genre#
+台湾频道852851,#genre#
 寰宇新闻,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
@@ -1594,11 +1579,12 @@ Hub Sports 5 HD,https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/mast
 Hub Sports 6 HD,https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
 Hub Sports 7 HD,https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
 Hub Sports 8 HD,https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
-beIN Sports 1 HD,https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
-beIN Sports 2 HD,https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
-beIN Sports 3 HD,https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
-beIN Sports 4 HD,https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
-beIN Sports 5 HD,https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+Hub Sports 8 HD,https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+beIN Sports 1 HD,https://iptv.852851.xyz/ch/673fc49af155175186892fb8dc133578/master.m3u8
+beIN Sports 2 HD,https://iptv.852851.xyz/ch/c75ae247b5b0202f3ba3baedc8f1c9cc/master.m3u8
+beIN Sports 3 HD,https://iptv.852851.xyz/ch/f573b33d85d2d272f76b27a7f0ee57ad/master.m3u8
+beIN Sports 4 HD,https://iptv.852851.xyz/ch/3b6e35bcf16e1604cc9caf0c3c47bb8f/master.m3u8
+
 NOW体育1 4K,https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 NOW体育1,https://iptv.852851.xyz/ch/096e1c2a9bfda6fb968c05e6312110a9/master.m3u8
 NOW体育641,https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
@@ -1610,7 +1596,7 @@ KNBC,https://iptv.852851.xyz/ch/fde0ee540895074dd9a44591f9baee83/master.m3u8
 KTLA,https://iptv.852851.xyz/ch/f20795886fd1583c6839532981405eae/master.m3u8
 KTTV,https://iptv.852851.xyz/ch/d193b96865647f7096098247ef9fd3e0/master.m3u8
 
-US NEWS 852851,#genre#
+NEWS 852851,#genre#
 ABC News Live,https://iptv.852851.xyz/ch/9fdff510a09cddd4744d8536303714f8/master.m3u8
 Al Jazeera,https://iptv.852851.xyz/ch/9e6e9aa1f66c0365eb12754f502e3f49/master.m3u8
 BBC News International,https://iptv.852851.xyz/ch/6f8f6a0e01e85e0658becf549bcf6a3f/master.m3u8
@@ -1642,7 +1628,7 @@ TRT World TR,https://iptv.852851.xyz/ch/3b8a616965578945178602f9f8f8e90c/master.
 YTN KR,https://iptv.852851.xyz/ch/0457d9c15752818f79b4ee63b6595c78/master.m3u8
 Yahoo Finance,https://iptv.852851.xyz/ch/50d20b6784e1f7201aa2f2f356bfc886/master.m3u8
 
-US SPORTS 852851,#genre#
+USA SPORTS 852851,#genre#
 ACC Network,https://iptv.852851.xyz/ch/bc0263f64aacd4d16358127aff3269a3/master.m3u8
 Altitude Sports,https://iptv.852851.xyz/ch/72a5f8514c667c97b67a183873167395/master.m3u8
 beIN SPORTS,https://iptv.852851.xyz/ch/72bc150195ae65af0728f0b563a78787/master.m3u8
