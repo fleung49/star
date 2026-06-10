@@ -2235,6 +2235,7 @@ CCTV4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&s
 CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156404
 CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90226
 CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423389
+CCTV娱乐,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156405
 CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156413
 CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90227
 CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919460
@@ -2276,6 +2277,34 @@ TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:
 TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153397
 YOYO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156403
 
+185.80 HK|NOW SPORTS,#genre#
+HK|NOW SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554949
+HK|NOW SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554948
+HK|NOW SPORTS 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554947
+HK|NOW SPORTS 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554946
+HK|NOW SPORTS 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554945
+HK|NOW SPORTS 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554944
+HK|NOW SPORTS 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554943
+HK|NOW SPORTS PREMIER LEAGUE 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903729
+HK|NOW SPORTS PREMIER LEAGUE UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948624
+HK|NOW SPORTS PREMIER LEAGUE 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903752
+HK|NOW SPORTS PREMIER LEAGUE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903751
+HK|NOW SPORTS PREMIER LEAGUE 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903750
+HK|NOW SPORTS PREMIER LEAGUE 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903749
+HK|NOW SPORTS PREMIER LEAGUE 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903748
+HK|NOW SPORTS PREMIER LEAGUE 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903747
+HK|NOW SPORTS PRIME 630,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903746
+HK|NOW SPORTS PRIME 631,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903745
+HK|NOW SPORTS PRIME 632,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903744
+HK|NOW SPORTS PRIME 633,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903743
+HK|NOW SPORTS PRIME 634,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903742
+HK|NOW SPORTS PRIME 635,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903741
+HK|NOW SPORTS PRIME 636,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903740
+HK|NOW SPORTS PRIME 637,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903739
+HK|NOW SPORTS PRIME 680,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903732
+HK|NOW SPORTS 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948655
+HK|NOW SPORTS UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948636
+
 185.80 LOS ANGELES,#genre#
 KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=172930
 KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=172930
@@ -2295,7 +2324,8 @@ SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1
 SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1597053
 
 185.80 NEWS,#genre#
-ABC NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920498
+ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920498
+ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1924347
 ACCU WEATHER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931179
 ALJAZEERA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=155749
 BBC NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176797
