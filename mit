@@ -441,36 +441,6 @@ FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
 FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
 FAIRCHILD 2 HD,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
 
-hdhd China,#genre#
-无线新闻台,http://66.163.115.84/hendrix1/hendrix1/28236
-TVBJ-1 (S),http://66.163.115.84/hendrix1/hendrix1/28232
-TVB 1,http://66.163.115.84/hendrix1/hendrix1/28238
-TVB1,http://66.163.115.84/hendrix1/hendrix1/28233
-TVBe,http://66.163.115.84/hendrix1/hendrix1/28235
-TVB Drama,http://66.163.115.84/hendrix1/hendrix1/28237
-凤凰美洲台,http://66.163.115.84/hendrix1/hendrix1/28239
-BabyTV Mandarin,http://66.163.115.84/hendrix1/hendrix1/28240
-CGTN,http://66.163.115.84/hendrix1/hendrix1/28847
-北京国际,http://66.163.115.84/hendrix1/hendrix1/28848
-湖南国际,http://66.163.115.84/hendrix1/hendrix1/28849
-深圳国际,http://66.163.115.84/hendrix1/hendrix1/28850
-安徽国际,http://66.163.115.84/hendrix1/hendrix1/28851
-江苏国际,http://66.163.115.84/hendrix1/hendrix1/28853
-海峡卫视,http://66.163.115.84/hendrix1/hendrix1/28854
-美國城市衛視ICITI,http://66.163.115.84/hendrix1/hendrix1/28844
-汉天卫视 USA HTTV,http://66.163.115.84/hendrix1/hendrix1/28834
-三立国际台,http://66.163.115.84/hendrix1/hendrix1/28833
-东森中国台,http://66.163.115.84/hendrix1/hendrix1/28836
-东森卫视,http://66.163.115.84/hendrix1/hendrix1/28837
-东森戏剧,http://66.163.115.84/hendrix1/hendrix1/28838
-东森财经,http://66.163.115.84/hendrix1/hendrix1/28839
-东森美洲,http://66.163.115.84/hendrix1/hendrix1/28840
-台视综合,http://66.163.115.84/hendrix1/hendrix1/28835
-台视新闻,http://66.163.115.84/hendrix1/hendrix1/28841
-TVBS ASIA,http://66.163.115.84/hendrix1/hendrix1/28832
-TVBS ASIA,http://66.163.115.84/hendrix1/hendrix1/28234
-Yoyo TV,http://66.163.115.84/hendrix1/hendrix1/28845
-
 央卫cbmg,#genre#
 CCTV1综合,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 CCTV2财经,https://live.chinacert.cftest5.cn/cnmg/live/631780532
@@ -1286,526 +1256,6 @@ TRACE Sport Stars,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv077/index.m3u8
 TRACE Urban,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv082/index.m3u8
 TV5 MONDE STYLE生活时尚,https://cdn.19891230.eu.org/4gtv/4gtv-live122/index.m3u8
 
-中国频道852851,#genre#
-CCTV1,https://iptv.852851.xyz/ch/371969b89a239ca6da31073a61bc91a5/master.m3u8
-CCTV2,https://iptv.852851.xyz/ch/3437151ece57d8839f4a6dc4cc840c7f/master.m3u8
-CCTV3,https://iptv.852851.xyz/ch/f9cb10ef675fb4300fdba42663704234/master.m3u8
-CCTV4,https://iptv.852851.xyz/ch/193944c6dbb659040a03eb6916a11af1/master.m3u8
-CCTV5,https://iptv.852851.xyz/ch/0f7235126d61982697983bd5fec5a442/master.m3u8
-CCTV6,https://iptv.852851.xyz/ch/dba8ec09d64d843956f174427e1481a3/master.m3u8
-CCTV7,https://iptv.852851.xyz/ch/3075c4aa17a8af0404a7e5ffa9736508/master.m3u8
-CCTV8,https://iptv.852851.xyz/ch/2e5e13b9d19e87a68adc05bb00e138fd/master.m3u8
-CCTV9,https://iptv.852851.xyz/ch/587491e8fa876ab633fddb1e99f1446a/master.m3u8
-CCTV10,https://iptv.852851.xyz/ch/b4338d13205638200e7ac987d0b63b2f/master.m3u8
-CCTV11,https://iptv.852851.xyz/ch/48db31689c7127577939073f8ab318c8/master.m3u8
-CCTV12,https://iptv.852851.xyz/ch/52e6b98fbd99327ac41c6a58c1ed769d/master.m3u8
-CCTV13,https://iptv.852851.xyz/ch/191194cd466a9b63790a39587939b0c5/master.m3u8
-CCTV14,https://iptv.852851.xyz/ch/578ba63f19fcc3428214ffe4d71e0e38/master.m3u8
-CCTV15,https://iptv.852851.xyz/ch/cc3e6a8e5ba0e0aaa0f7cda8372ccd0e/master.m3u8
-CCTV17,https://iptv.852851.xyz/ch/2bc9d9501a3fe46366cbf35e79081b9d/master.m3u8
-云南卫视,https://iptv.852851.xyz/ch/0d16f7e173befecdc732c8ab2e40881d/master.m3u8
-北京卫视,https://iptv.852851.xyz/ch/ee9e291f29c1b9f3b352bc24246afdbc/master.m3u8
-四川卫视,https://iptv.852851.xyz/ch/6e40b513f101b702cc93f08eebc45942/master.m3u8
-安徽卫视,https://iptv.852851.xyz/ch/9fd0d262a6e9aa04831c8d327f35000b/master.m3u8
-山东卫视,https://iptv.852851.xyz/ch/ea45baf23f287c5e0b706f744d5ef199/master.m3u8
-江苏卫视,https://iptv.852851.xyz/ch/8c967d4f6c1d39329ba439eb6f613228/master.m3u8
-江西卫视,https://iptv.852851.xyz/ch/e821702c41b8b1684512d90fd4d4566e/master.m3u8
-河南卫视,https://iptv.852851.xyz/ch/81cbef2ae53d3603b26ed8f1fea5426a/master.m3u8
-浙江卫视,https://iptv.852851.xyz/ch/9c68b3ffd5269e7588f9da8399cc1ac1/master.m3u8
-湖南卫视,https://iptv.852851.xyz/ch/d2ba298a0e803078dcb4af8c2b40df93/master.m3u8
-贵州卫视,https://iptv.852851.xyz/ch/e575e608e4eaa2026f6da1626c09e6be/master.m3u8
-黑龙江卫视,https://iptv.852851.xyz/ch/3c2f0d03276cfe8a81a5e2393373d79e/master.m3u8
-
-香港频道852851,#genre#
-凤凰中文,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
-凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
-凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
-凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
-凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-无线新闻,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-TVB PLUS,https://iptv.852851.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
-TVB娱乐新闻,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
-TVB千禧经典,https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
-TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u8
-TVB星河,https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
-TVB功夫,https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
-TVB黄金华剧,https://iptv.852851.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
-Asian Action 亚洲武侠台,https://iptv.852851.xyz/ch/ac1768836d705f59898489a16be124e3/master.m3u8
-HOY76,https://iptv.852851.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
-HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY78,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
-HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-ViuTV,https://iptv.852851.xyz/ch/148e6121b1ccfbfb72fa733e0a3bcc53/master.m3u8
-ViuTV,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
-ViuTVsix,https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
-NOW新闻,https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
-Now新聞台,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
-NOW直播,https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
-Now直播台,https://cdn.19891230.eu.org/hk/now-331/index.m3u8
-Now財經台,https://cdn.19891230.eu.org/hk/now-333/index.m3u8
-NOW爆谷,https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
-NOW星影,https://iptv.852851.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
-NOW TV,http://hao6688.3322.org:30066/stream/channelid/1202446510?ticket=813edb83caf88d8bc0dd49f6e4cc57baf86c8a55&profile=pass
-Now Sports Prime,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
-PopC,https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
-Thrill,https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
-ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
-ASTRO AEC,https://iptv.852851.xyz/ch/91251ae2ef6b6370ddbfd299778c99a4/master.m3u8
-ASTRO AOD,https://iptv.852851.xyz/ch/cd70fca0fc4f13e2065a87f7c5fb5485/master.m3u8
-iQIYI,https://iptv.852851.xyz/ch/58e01ece842818fff79b14b4d5bf5825/master.m3u8
-美亚电影,https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-凤凰中文,http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.35:5140
-凤凰中文,http://l3.negative.video:50000/udp/233.50.202.35:5140
-凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
-凤凰中文,http://www.negative.top:50000/udp/233.50.202.35:5140
-凤凰中文,http://0000505.xyz:8888/udp/239.76.246.134:1234
-凤凰中文,http://0000505.xyz:8888/udp/239.76.253.135:9000
-凤凰中文,http://phmanet.com:9999/udp/239.76.246.134:1234
-凤凰中文,http://phmanet.com:9999/udp/239.76.253.135:9000
-凤凰中文,http://www.zlizi.cn:4023/udp/239.76.253.135:9000
-凤凰中文,http://183.222.206.14:8096/udp/239.94.2.51:5140
-凤凰中文,http://183.222.206.14:8096/udp/239.94.2.52:5140
-凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
-凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.52:5140
-凤凰资讯,http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.36:5140
-凤凰资讯,http://l3.negative.video:50000/udp/233.50.202.36:5140
-凤凰资讯,http://www.lvyjay.win:4022/udp/233.50.202.36:5140
-凤凰资讯,http://www.negative.top:50000/udp/233.50.202.36:5140
-凤凰资讯,http://0000505.xyz:8888/udp/239.76.246.135:1234
-凤凰资讯,http://0000505.xyz:8888/udp/239.76.253.134:9000
-凤凰资讯,http://phmanet.com:9999/udp/239.76.246.135:1234
-凤凰资讯,http://phmanet.com:9999/udp/239.76.253.134:9000
-凤凰资讯,http://www.zlizi.cn:4023/udp/239.76.253.134:9000
-凤凰资讯,http://183.222.206.14:8096/udp/239.94.2.49:5140
-凤凰资讯,http://183.222.206.14:8096/udp/239.94.2.50:5140
-凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
-凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.50:5140
-
-澳门频道,#genre#
-澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-
-台湾频道852851,#genre#
-寰宇新闻,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
-寰宇新闻台湾,https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
-寰宇新闻台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-镜新闻,http://220.135.64.124:5050/of-4gtv-4gtv075/index.m3u8?proxy=true
-中天新闻,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-中天新闻,https://tv123.cc.cd/live.php/?ch=37e3e1fa1935
-中天新闻,https://lo.esnad.dpdns.org/?id=30&token=pixman@4gtv-2026
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中旺电视,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4010/playlist.m3u8
-中视新闻,https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-中视,https://iptv.852851.xyz/ch/177f5903c7e4ae806ba85f66cb9a47e9/master.m3u8
-中视,rtmp://f13h.mine.nu/sat/tv091
-中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-TVBS,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
-TVBS新闻,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
-TVBS NEWS,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
-TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS欢乐,https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master.m3u8
-TVBS欢乐,http://220.135.64.124:5050/of-4gtv-4gtv068/index.m3u8?proxy=true
-TVBS精采,https://iptv.852851.xyz/ch/bb3281a447bf2b92e8649856a3cf47e4/master.m3u8
-TVBS精采,http://220.135.64.124:5050/of-4gtv-4gtv067/index.m3u8?proxy=true
-东森新闻,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
-东森新闻,http://220.135.64.124:5050/of-4gtv-4gtv152/index.m3u8?proxy=true
-东森财经新闻,https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
-东森财经新闻,http://220.135.64.124:5050/of-4gtv-4gtv153/index.m3u8?proxy=true
-东森美洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2016/playlist.m3u8
-东森中国,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2003/playlist.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森购物1,http://220.135.64.124:5050/of-4gtv-live047/index.m3u8?proxy=true
-东森购物2,http://220.135.64.124:5050/of-4gtv-live046/index.m3u8?proxy=true
-东森购物3,http://220.135.64.124:5050/of-4gtv-live048/index.m3u8?proxy=true
-东森购物4,http://220.135.64.124:5050/of-4gtv-live049/index.m3u8?proxy=true
-三立新闻iNEWS,https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
-三立新闻iNEWS,http://220.135.64.124:5050/of-4gtv-live089/index.m3u8?proxy=true
-三立综合,http://220.135.64.124:5050/of-4gtv-live207/index.m3u8?proxy=true
-年代新闻,https://iptv.852851.xyz/ch/f92bee3f634772070bc7e3b4b6e5909b/master.m3u8
-华视新闻,https://iptv.852851.xyz/ch/aded50059a1800c43d8550835d5bffc7/master.m3u8
-华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-华视,https://iptv.852851.xyz/ch/7a872af54b1cf5759760cda101a96322/master.m3u8
-华视,rtmp://f13h.mine.nu/sat/tv111
-华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-民视新闻,https://iptv.852851.xyz/ch/d189e089ebb1c52dc37afcaa7fb0f732/master.m3u8
-民视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://220.135.64.124:5050/of-litv-ftv13/index.m3u8?proxy=true
-民视第一,https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
-民视第一,http://220.135.64.124:5050/of-4gtv-4gtv003/index.m3u8?proxy=true
-民视台湾,https://iptv.852851.xyz/ch/607a18a31aed6088cae86fa23b2269ab/master.m3u8
-民视台湾,http://220.135.64.124:5050/of-4gtv-4gtv001/index.m3u8?proxy=true
-民视综艺,https://iptv.852851.xyz/ch/350c39eb0281a4483d7ac781bcb7a9f4/master.m3u8
-民视综艺,http://220.135.64.124:5050/of-4gtv-4gtv004/index.m3u8?proxy=true
-民视,https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
-民视,http://220.135.64.124:5050/of-4gtv-4gtv002/index.m3u8?proxy=true
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视旅游,https://iptv.852851.xyz/ch/725bcfd457065c449b059334d1045e31/master.m3u8
-民视旅游,http://220.135.64.124:5050/of-litv-ftv07/index.m3u8?proxy=true
-民视影剧,https://iptv.852851.xyz/ch/c26bd44b89386a2ff2e72a939ad4e165/master.m3u8
-民视影剧,http://220.135.64.124:5050/of-litv-ftv09/index.m3u8?proxy=true
-台视,rtmp://f13h.mine.nu/sat/tv071
-台视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4013/playlist.m3u8
-公视戏剧,https://iptv.852851.xyz/ch/8e4931749fd767d220a829bff964e0bc/master.m3u8
-公视戏剧,http://220.135.64.124:5050/of-4gtv-4gtv042/index.m3u8?proxy=true
-客家电视,http://220.135.64.124:5050/of-4gtv-4gtv043/index.m3u8?proxy=true
-猪哥亮歌厅秀,https://iptv.852851.xyz/ch/14db6078bae8ec9eeb8ca5aab68b4b39/master.m3u8
-猪哥亮歌厅秀,http://220.135.64.124:5050/of-4gtv-4gtv006/index.m3u8?proxy=true
-金光布袋戏,https://iptv.852851.xyz/ch/25b16c8078470f48c7d2c81116d4d219/master.m3u8
-金光布袋戏,http://220.135.64.124:5050/of-4gtv-live144/index.m3u8?proxy=true
-大爱,http://220.135.64.124:5050/of-4gtv-live007/index.m3u8?proxy=true
-大爱2,http://220.135.64.124:5050/of-4gtv-live106/index.m3u8?proxy=true
-好消息,http://220.135.64.124:5050/of-litv-ftv16/index.m3u8?proxy=tru
-好消息2,http://220.135.64.124:5050/of-litv-ftv17/index.m3u8?proxy=true
-人间卫视,http://220.135.64.124:5050/of-4gtv-live008/index.m3u8?proxy=true
-SBN全球财经,http://220.135.64.124:5050/of-4gtv-live060/index.m3u8?proxy=true
-八大精彩,https://iptv.852851.xyz/ch/9329c2dc7eb2fd01f54035cbdac54747/master.m3u8
-八大精彩,http://220.135.64.124:5050/of-4gtv-4gtv034/index.m3u8?proxy=true
-八大综艺,https://iptv.852851.xyz/ch/99658c11ae4549774ee7be76da9e1615/master.m3u8
-八大综艺,http://220.135.64.124:5050/of-4gtv-4gtv039/index.m3u8?proxy=true
-视纳华仁纪实,http://220.135.64.124:5050/of-4gtv-4gtv013/index.m3u8?proxy=true
-亚洲旅游,https://iptv.852851.xyz/ch/22629042ba4aeac6d099f950272b06fe/master.m3u8
-亚洲旅游,http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
-采昌影剧,https://iptv.852851.xyz/ch/0708eb9fd0c7269b426ae98ec0c460ef/master.m3u8
-采昌影剧,http://220.135.64.124:5050/of-4gtv-4gtv049/index.m3u8?proxy=true
-车迷TV,http://220.135.64.124:5050/of-4gtv-live201/index.m3u8?proxy=true
-国家地理,http://hao6688.3322.org:30066/stream/channelid/2078414118?ticket=e065a44a88cabc5d9ef153287c5af520702b2095&profile=pass
-历史,http://220.135.64.124:5050/of-4gtv-live026/index.m3u8?proxy=true
-龙祥时代,https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
-滚动力Rollor,http://220.135.64.124:5050/of-4gtv-live012/index.m3u8?proxy=true
-探索频道,http://hao6688.3322.org:30066/stream/channelid/2043319510?ticket=5020714b439c287bf3cfdc0a4069d115647bb9d9&profile=pass
-卫视电影,http://hao6688.3322.org:30066/stream/channelid/276139302?ticket=797a9386b7fb2ac7031b760bd182c7018541ae95&profile=pass
-新唐人亚太,http://220.135.64.124:5050/of-4gtv-live050/index.m3u8?proxy=true
-经典电影,http://220.135.64.124:5050/of-4gtv-live021/index.m3u8?proxy=true
-经典卡通,http://220.135.64.124:5050/of-4gtv-live022/index.m3u8?proxy=true
-精选动漫,http://220.135.64.124:5050/of-4gtv-live024/index.m3u8?proxy=true
-达文西,http://220.135.64.124:5050/of-4gtv-4gtv018/index.m3u8?proxy=true
-爱尔达宠物运动,https://iptv.852851.xyz/ch/de92d33f53f4b6626ceb600ecbbf4697/master.m3u8
-爱尔达宠物运动,http://220.135.64.124:5050/of-4gtv-4gtv070/index.m3u8?proxy=true
-爱尔达生活旅游,http://220.135.64.124:5050/of-4gtv-live120/index.m3u8?proxy=true
-韩国娱乐,http://220.135.64.124:5050/of-4gtv-4gtv016/index.m3u8?proxy=true
-靖天电影,https://iptv.852851.xyz/ch/3a322f04f5ad7923c21dbce8f8f0d885/master.m3u8
-靖天电影,http://220.135.64.124:5050/of-4gtv-4gtv061/index.m3u8?proxy=true
-靖天戏剧,https://iptv.852851.xyz/ch/a0ce5f61da4ba42090cd8a6fb3144126/master.m3u8
-靖天戏剧,http://220.135.64.124:5050/of-4gtv-4gtv058/index.m3u8?proxy=true
-靖天映画,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
-靖天映画,http://220.135.64.124:5050/of-4gtv-4gtv055/index.m3u8?proxy=true
-靖天国际,http://220.135.64.124:5050/of-4gtv-4gtv063/index.m3u8?proxy=true
-靖天欢乐,http://220.135.64.124:5050/of-4gtv-4gtv054/index.m3u8?proxy=true
-靖天卡通,http://220.135.64.124:5050/of-4gtv-4gtv044/index.m3u8?proxy=true
-靖天日本,http://220.135.64.124:5050/of-4gtv-4gtv047/index.m3u8?proxy=true
-靖天育乐,http://220.135.64.124:5050/of-4gtv-4gtv062/index.m3u8?proxy=true
-靖天资讯,http://220.135.64.124:5050/of-4gtv-4gtv065/index.m3u8?proxy=true
-靖天综合,http://220.135.64.124:5050/of-4gtv-4gtv046/index.m3u8?proxy=true
-靖洋卡通,http://220.135.64.124:5050/of-4gtv-4gtv057/index.m3u8?proxy=true
-靖洋戏剧,https://iptv.852851.xyz/ch/c6a9a10a88d2d16d79ff1731fa6634d1/master.m3u8
-靖洋戏剧,http://220.135.64.124:5050/of-4gtv-4gtv045/index.m3u8?proxy=true
-纬来电影,https://iptv.852851.xyz/ch/dffe7a7d276d1f8b96092ed1acb34115/master.m3u8
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-博斯高球1,https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
-博斯网球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
-时尚运动X,http://220.135.64.124:5050/of-4gtv-4gtv014/index.m3u8?proxy=true
-影迷数位电影,http://220.135.64.124:5050/of-4gtv-4gtv011/index.m3u8?proxy=true
-影迷数位纪实,http://220.135.64.124:5050/of-litv-ftv15/index.m3u8?proxy=true
-智林体育,http://220.135.64.124:5050/of-4gtv-4gtv101/index.m3u8?proxy=true
-国会1,http://220.135.64.124:5050/of-4gtv-4gtv084/index.m3u8?proxy=true
-国会2,http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-AMC电影,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.m3u8
-AMC电影,http://220.135.64.124:5050/of-4gtv-4gtv017/index.m3u8?proxy=true
-AXN,http://hao6688.3322.org:30066/stream/channelid/843456280?ticket=3b36e3d97b41957376702ef15837c5d6961ed8d6&profile=pass
-Cinema World,http://220.135.64.124:5050/of-4gtv-live069/index.m3u8?proxy=true
-CINEMAX,http://hao6688.3322.org:30066/stream/channelid/1339446993?ticket=30ba8f6bae64aebd2912effee30232358c195ccf&profile=pass
-CI罪案侦查,http://220.135.64.124:5050/of-4gtv-live027/index.m3u8?proxy=true
-CLASSICA,http://220.135.64.124:5050/of-4gtv-4gtv059/index.m3u8?proxy=true
-CMusic电影原声,http://220.135.64.124:5050/of-4gtv-live031/index.m3u8?proxy=true
-DAZN1,rtmp://f13h.mine.nu/sat/tv731
-DAZN2,rtmp://f13h.mine.nu/sat/tv741
-DreamWorks,http://220.135.64.124:5050/of-4gtv-live017/index.m3u8?proxy=true
-FESTIVA探索娱乐,http://220.135.64.124:5050/of-4gtv-live011/index.m3u8?proxy=true
-GINX Esports TV,http://220.135.64.124:5050/of-4gtv-4gtv053/index.m3u8?proxy=true
-Global Trekker,http://220.135.64.124:5050/of-4gtv-live112/index.m3u8?proxy=true
-HITS,http://220.135.64.124:5050/of-4gtv-live620/index.m3u8?proxy=true
-HITS,https://iptv.852851.xyz/ch/33cd3aa3235f1e08dc5b94bb3dde1bbb/master.m3u8
-INULTRA,http://220.135.64.124:5050/of-4gtv-live096/index.m3u8?proxy=true
-Lifetime,http://220.135.64.124:5050/of-4gtv-live029/index.m3u8?proxy=true
-Live ABC互动英语,http://220.135.64.124:5050/of-4gtv-live030/index.m3u8?proxy=true
-Love Nature,http://220.135.64.124:5050/of-4gtv-live208/index.m3u8?proxy=true
-LUXE TV,http://220.135.64.124:5050/of-4gtv-live121/index.m3u8?proxy=true
-Magellan TV,http://220.135.64.124:5050/of-4gtv-live123/index.m3u8?proxy=true
-Mezzo Live HD,http://220.135.64.124:5050/of-4gtv-4gtv083/index.m3u8?proxy=true
-MOMO亲子,http://220.135.64.124:5050/of-4gtv-live107/index.m3u8?proxy=true
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761
-My Cinema Europe,http://220.135.64.124:5050/of-litv-ftv10/index.m3u8?proxy=true
-Nick Jr.,https://iptv.852851.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
-Nick Jr.,http://220.135.64.124:5050/of-4gtv-live032/index.m3u8?proxy=true
-Nickelodeon,https://iptv.852851.xyz/ch/c86c29b2edfc72379273947448977aee/master.m3u8
-Nickelodeon,http://220.135.64.124:5050/of-4gtv-live105/index.m3u8?proxy=true
-ROCK Action,http://220.135.64.124:5050/of-4gtv-live138/index.m3u8?proxy=true
-ROCK Action,https://iptv.852851.xyz/ch/b26842b3897cd4c06af028d2ef030d79/master.m3u8
-ROCK Action,https://iptv.852851.xyz/ch/7764b570509d615773e0897940ae8543/master.m3u8
-ROCK Entertainment,http://220.135.64.124:5050/of-4gtv-live080/index.m3u8?proxy=true
-TRACE Sport Stars,http://220.135.64.124:5050/of-4gtv-4gtv077/index.m3u8?proxy=true
-TRACE Urban,http://220.135.64.124:5050/of-4gtv-4gtv082/index.m3u8?proxy=true
-TV5 MODNDE,http://hao6688.3322.org:30066/stream/channelid/1476756624?ticket=699b0515b3bc79b861ea2ee99c56a43c8dae31e5&profile=pass
-TV5MONDE STYLE,http://220.135.64.124:5050/of-4gtv-live122/index.m3u8?proxy=true
-
-ASIA SPORTS 852851,#genre#
-Hub Premier 1 HD,https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
-Hub Premier 2 HD,https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
-Hub Premier 3 HD,https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
-Hub Premier 4 HD,https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
-Hub Premier 5 HD,https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
-Hub Premier 6 HD,https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
-Hub Premier 7 HD,https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
-Hub Premier 8 HD,https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
-Hub Sports 1 HD,https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
-Hub Sports 2 HD,https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
-Hub Sports 3 HD,https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
-Hub Sports 4 HD,https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
-Hub Sports 5 HD,https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
-Hub Sports 6 HD,https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
-Hub Sports 7 HD,https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
-Hub Sports 8 HD,https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
-Hub Sports 8 HD,https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
-beIN Sports 1 HD,https://iptv.852851.xyz/ch/673fc49af155175186892fb8dc133578/master.m3u8
-beIN Sports 2 HD,https://iptv.852851.xyz/ch/c75ae247b5b0202f3ba3baedc8f1c9cc/master.m3u8
-beIN Sports 3 HD,https://iptv.852851.xyz/ch/f573b33d85d2d272f76b27a7f0ee57ad/master.m3u8
-beIN Sports 4 HD,https://iptv.852851.xyz/ch/3b6e35bcf16e1604cc9caf0c3c47bb8f/master.m3u8
-
-LOS ANGELES 852851,#genre#
-KABC,https://iptv.852851.xyz/ch/b51e7b35a420eb18543224ec5cc25ab1/master.m3u8
-KCBS,https://iptv.852851.xyz/ch/2cc7de95455eb15bd8fc5809563c3532/master.m3u8
-KNBC,https://iptv.852851.xyz/ch/e6fce0c86972c251c7d641e339c919c7/master.m3u8
-KTLA,https://iptv.852851.xyz/ch/29c4de15cffdfff3402919d1603c2e10/master.m3u8
-KTTV,https://iptv.852851.xyz/ch/a71ca8c6869c23176a2054af98170377/master.m3u8
-
-NEWS 852851,#genre#
-ABC News Live,https://iptv.852851.xyz/ch/e01289da456a926f5848ee5473ba6cc5/master.m3u8
-Al Jazeera,https://iptv.852851.xyz/ch/f62b2ad37349d06ad12a8841339304d1/master.m3u8
-BBC News International,https://iptv.852851.xyz/ch/76b7f75d3a812685015c2ea0d0bb06f8/master.m3u8
-BBC News UK,https://iptv.852851.xyz/ch/9cafbd4dc356fb5b84981eb5401dfba3/master.m3u8
-CBC News Network CA,https://iptv.852851.xyz/ch/40f67354b02a2bf9bac1280e056fde42/master.m3u8
-CBS News 24/7,hhttps://iptv.852851.xyz/ch/73f5cc5156eafe1b82cd5362d18f5aef/master.m3u8
-CGTN CN,https://iptv.852851.xyz/ch/0e759def1c88cf9873cbb46629bec9c9/master.m3u8
-CNA SG,https://iptv.852851.xyz/ch/ecbcf1d55f738f4ac0f53abf9bd05800/master.m3u8
-CNBC,https://iptv.852851.xyz/ch/535e4f7151623377dbc1e705379aee99/master.m3u8
-CNN,https://iptv.852851.xyz/ch/f7571155bf4bfe84167ab18d92b0f505/master.m3u8
-CNN International,https://iptv.852851.xyz/ch/0359fb8f352e729b5240144a33fdab35/master.m3u8
-CP24,https://iptv.852851.xyz/ch/1e4ed264a6231677e8dd1c8379a9b89a/master.m3u8
-CTV News Channel CA,https://iptv.852851.xyz/ch/179491c1c161a25d6932d4bc1b09928c/master.m3u8
-Cheddar News,https://iptv.852851.xyz/ch/e28abb5ba99884d45304a58fab8a2197/master.m3u8
-DW,https://iptv.852851.xyz/ch/f848ccf67b19691624438a0e17d33137/master.m3u8
-Euronews,https://iptv.852851.xyz/ch/1ee7dc4e33b3af0fb6997450855cd7c0/master.m3u8
-Fox Business,https://iptv.852851.xyz/ch/85ce0550ccdfd86ea1962ea9b086b59f/master.m3u8
-Fox News Channel,https://iptv.852851.xyz/ch/298a6a4795b3eb9199d9ad52f25d9ee0/master.m3u8
-Live NOW from FOX,https://iptv.852851.xyz/ch/0bbc57028345f23f811c1095726a5ba4/master.m3u8
-MS NOW,https://iptv.852851.xyz/ch/e7d4e3eb3864b940290a3f33fe114bf9/master.m3u8
-NBC News NOW,https://iptv.852851.xyz/ch/08da966a2cee1bb541b20a5967e9123b/master.m3u8
-NEWSMAX,https://iptv.852851.xyz/ch/7e52020e5ea66a6df77ec32123256d38/master.m3u8
-NewsNation,https://iptv.852851.xyz/ch/c92c01f35de6a232fc65d7c83af8f460/master.m3u8
-Racing TV UK,https://iptv.852851.xyz/ch/ead6eb6bdd38ac5f923b587c44fa1a3a/master.m3u8
-RT,https://iptv.852851.xyz/ch/216888465f3230a8a6f796006e086800/master.m3u8
-Reuters,https://iptv.852851.xyz/ch/24ab3f5dec8aa5ae2ae8981fde1925e2/master.m3u8
-Sky News,https://iptv.852851.xyz/ch/e88ae70455a513e54c35c00c616d8b3c/master.m3u8
-THE WEATHER CHANNEL,https://iptv.852851.xyz/ch/d761a92cfdfbf669431fd5570907be57/master.m3u8
-TRT World TR,https://iptv.852851.xyz/ch/7352d091ad46bd31027debc8a475a4c8/master.m3u8
-Yahoo Finance,https://iptv.852851.xyz/ch/6d34fd89105bcf1aafc80c6692db04fc/master.m3u8
-
-USA SPORTS 852851,#genre#
-ACC Network,https://iptv.852851.xyz/ch/fb2aeb00326ecae9d813615b75a99143/master.m3u8
-Altitude Sports,https://iptv.852851.xyz/ch/e8ef9699a82a27d7a37a60d5915dbf8f/master.m3u8
-beIN SPORTS XTRA,https://iptv.852851.xyz/ch/7348673565591cc5e2e542fe8a834644/master.m3u8
-beIN SPORTS en Español,https://iptv.852851.xyz/ch/cc38d95c616a82788ca0711371165576/master.m3u8
-beIN Sports,https://iptv.852851.xyz/ch/083b59b25f2430fbe683a0fa516a73d3/master.m3u8
-beIN Sports 2 HD,https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
-beIN Sports 3 HD,https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
-beIN Sports 4 HD,https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
-Big Ten Network,https://iptv.852851.xyz/ch/69dfbc16d447e12b6c126b7d8515b050/master.m3u8
-CBS Sports Network,https://iptv.852851.xyz/ch/839f2d5fd96297cc923600ec0d5b486e/master.m3u8
-Chicago Sports Network,https://iptv.852851.xyz/ch/6e356cc727a5d8964abcad8266f76cb4/master.m3u8
-Cowboy+ Sports,https://iptv.852851.xyz/ch/09b5e895f7dbed4d64e53c6498467b6c/master.m3u8
-ESPN,https://iptv.852851.xyz/ch/0fda3917e09f4fc27328bb04cfb93353/master.m3u8
-ESPN Deportes,https://iptv.852851.xyz/ch/23fc331dc93e46a21af89401005cc73b/master.m3u8
-ESPN2,https://iptv.852851.xyz/ch/ba314713b8ee1b60570ae75117bf86f9/master.m3u8
-ESPNEWS,https://iptv.852851.xyz/ch/aa50cffc4252d5b4eb65d7a9a0c44fdb/master.m3u8
-ESPNU,https://iptv.852851.xyz/ch/fea2cd3d8a86cfecb044a0b13a5ac8c5/master.m3u8
-FIFA+,https://iptv.852851.xyz/ch/ecd42364355e39206a2abfb43b702080/master.m3u8
-FOX Deportes,https://iptv.852851.xyz/ch/9383405a14d5e8ba7e4105da8e32d638/master.m3u8
-FS1,https://iptv.852851.xyz/ch/e89232b7f99d3f488a99c2f54c4572b0/master.m3u8
-FS2,https://iptv.852851.xyz/ch/470f5e6b3dd0ecae043cbef8fe8659ec/master.m3u8
-FanDuel Racing,https://iptv.852851.xyz/ch/4f6ec23172b7f5a714be0c18796b1ace/master.m3u8
-FanDuel TV,https://iptv.852851.xyz/ch/d02caa0a0d5838669190961954dcdc0f/master.m3u8
-Golf Channel,https://iptv.852851.xyz/ch/acf3b6f6a188ca10b4529dc3479fccca/master.m3u8
-MLB Network,https://iptv.852851.xyz/ch/e18eed7c95bae6b19953725cfd098fd8/master.m3u8
-MSG,https://iptv.852851.xyz/ch/3abefa1a38c3d2f55590014dceb83dd5/master.m3u8
-Marquee Sports Network,https://iptv.852851.xyz/ch/9bfa326c22f675ee0550621837fa3632/master.m3u8
-NBA TV,https://iptv.852851.xyz/ch/5ea928569a3ba92b45a18b1281419fc1/master.m3u8
-NBC Sports Bay Area,https://iptv.852851.xyz/ch/5a331f426de4ffdf4095323ab1b8a326/master.m3u8
-NBC Sports Boston,https://iptv.852851.xyz/ch/ee16e9e6ffeb59754553acfc35900f85/master.m3u8
-NBC Sports California,https://iptv.852851.xyz/ch/37a4300f1d03a039fc8f4c23fe1a1d8c/master.m3u8
-NBC Sports Philadelphia,https://iptv.852851.xyz/ch/1b2958c19c69eef42bb42029da3d246b/master.m3u8
-NBC Sports NOW,https://iptv.852851.xyz/ch/28f47339359ab5818836469f93ba7ae5/master.m3u8
-NESN,https://iptv.852851.xyz/ch/5a66a7c90c430de1c9101d395bcc1fa5/master.m3u8
-NFL Network,https://iptv.852851.xyz/ch/b618206a1ef194c1d4b9ab5b06e9b411/master.m3u8
-NFL RedZone,https://iptv.852851.xyz/ch/bc2173dfb95616306e3ea49111eaabff/master.m3u8
-NHL Network,https://iptv.852851.xyz/ch/aab895020d8c9678ad1c2d1697228aea/master.m3u8
-SEC Network,https://iptv.852851.xyz/ch/d356f6454bfce4bff7c9302bd3d26548/master.m3u8
-Space City Home Network,https://iptv.852851.xyz/ch/4c15f2b66159cc692e0e9684658537e5/master.m3u8
-Spectrum SportsNet,https://iptv.852851.xyz/ch/d1585326f6b32a5a13145dc62b2cf201/master.m3u8
-Spectrum SportsNet Los Angeles,https://iptv.852851.xyz/ch/6efc2717ef94428cb546a5527823749c/master.m3u8
-Sportsnet 360 CA,https://iptv.852851.xyz/ch/8ad29f69dfda0671e0a87a8b18e0700d/master.m3u8
-Sportsnet East CA,https://iptv.852851.xyz/ch/3e7b9274f250974a88830f0447887708/master.m3u8
-Sportsnet New York,https://iptv.852851.xyz/ch/79b003a6803395b72958dc28ecb6f790/master.m3u8
-Sportsnet ONE CA,https://iptv.852851.xyz/ch/bcd3199be39e2d1584f4587e8590298e/master.m3u8
-Sportsnet Ontario CA,https://iptv.852851.xyz/ch/fbcee7f55721c6edf650f18afc7f83fd/master.m3u8
-Sportsnet Pacific CA,https://iptv.852851.xyz/ch/363c3af239b5c1bacedc2b0f51088189/master.m3u8
-Sportsnet Pittsburgh,https://iptv.852851.xyz/ch/908ff2797ce9d85dcf5a97d40a222ab2/master.m3u8
-Sportsnet West CA,https://iptv.852851.xyz/ch/ed5aaabff14796211eb75ecbfe4d1776/master.m3u8
-Sportsnet World CA,https://iptv.852851.xyz/ch/0c8baf4ff885bdf9bd59eb5b27a41a53/master.m3u8
-Tennis Channel,https://iptv.852851.xyz/ch/b2d906cd27fc365150282d2da339a738/master.m3u8
-TSN The Ocho CA,https://iptv.852851.xyz/ch/3c701e142712bf69f84a1badfcb8184b/master.m3u8
-TSN1 CA,https://iptv.852851.xyz/ch/d5c4c253dcbd06d40cb53e1cab10bb80/master.m3u8
-TSN2 CA,https://iptv.852851.xyz/ch/4ba939aad0f8ca40dc44081f57e8bc5b/master.m3u8
-TSN3 CA,https://iptv.852851.xyz/ch/c059370c10906298f62c3b1cae0decfb/master.m3u8
-TSN4 CA,https://iptv.852851.xyz/ch/cc47c663ff41a099f218ee777e9d2e31/master.m3u8
-TSN5 CA,https://iptv.852851.xyz/ch/4fc1f0d8a015d5756a8484e8e80d9fc6/master.m3u8
-TUDN,https://iptv.852851.xyz/ch/88518e1d2794b42a8476e70ce4d0a3d4/master.m3u8
-UFC,https://iptv.852851.xyz/ch/eda337ab298342f0cef857b6fb6ed8cf/master.m3u8
-Willow Cricket,https://iptv.852851.xyz/ch/b949ca0cc4545aea982faad15ad1cce8/master.m3u8
-Women's Sports Network,https://iptv.852851.xyz/ch/1e37d0630ddaf4ee5607970a341a81c6/master.m3u8
-WWE Network,https://iptv.852851.xyz/ch/4091528baf71ae6db0712ee4130f6868/master.m3u8
-YES Network,https://iptv.852851.xyz/ch/14518a4423f9b666fa21ff4ab0122c79/master.m3u8
-
-🤠国际体育 852851,#genre#
-beIN SPORTS 1 FR,https://iptv.852851.xyz/ch/61e5209d2bebd9df18a877173aa13406/master.m3u8
-beIN SPORTS 2 FR,https://iptv.852851.xyz/ch/61e5209d2bebd9df18a877173aa13406/master.m3u8
-beIN SPORTS 3 FR,https://iptv.852851.xyz/ch/8ff8069c94cdf5d478d46699ce5a3abd/master.m3u8
-CANAL+ Foot FR,https://iptv.852851.xyz/ch/f05c339b8621119ffd02de5b9d4b69d2/master.m3u8
-CANAL+ Sport 360 FR,https://iptv.852851.xyz/ch/d0acdddf0d61a69fe8eb3c803ad7b2f3/master.m3u8
-CANAL+ Sport FR,https://iptv.852851.xyz/ch/14ca7f3d009b6ca81f13eeae32bf33a2/master.m3u8
-Canal+ Extra 1 PL,https://iptv.852851.xyz/ch/c5fd1508ac8c9942279c7f8552e45e2a/master.m3u8
-CANAL+ Extra 2 PL,https://iptv.852851.xyz/ch/9e5ea7ee40928745dd6f296b22ea50d1/master.m3u8
-Canal+ Sport 2 PL,https://iptv.852851.xyz/ch/81c53232a5135453ddc9fc24b8bd2236/master.m3u8
-Canal+ Sport 3 PL,https://iptv.852851.xyz/ch/1721fcd2d0e458b3a4c674047f5fc3c4/master.m3u8
-Canal+ Sport 4 PL,https://iptv.852851.xyz/ch/aec5e932950d3c127582f09d1a32d5ac/master.m3u8
-Canal+ Sport PL,https://iptv.852851.xyz/ch/5acebe767042a274493b2d1ce0ba721f/master.m3u8
-DAZN 1 DE,https://iptv.852851.xyz/ch/9377dc52b7d82b3725877021e75cb475/master.m3u8
-DAZN 2 DE,https://iptv.852851.xyz/ch/3ea44e39844fd8fe65de3b8ff6b8934b/master.m3u8
-Deportes por M+ ES,https://iptv.852851.xyz/ch/895dd71e6a1506115691bd5a45b1d65f/master.m3u8
-ELEVEN SPORTS 1 PL,https://iptv.852851.xyz/ch/c40b10e050eeeae9c26f918a7f37f992/master.m3u8
-ELEVEN SPORTS 2 PL,https://iptv.852851.xyz/ch/010d9be0108ba50442d5b5d37903671b/master.m3u8
-ELEVEN SPORTS 3 PL,https://iptv.852851.xyz/ch/d982f73874d4514ae429b867d74a26c4/master.m3u8
-ELEVEN SPORTS 4 PL,https://iptv.852851.xyz/ch/4731fdc0123b83575680dd5c0e2a08f6/master.m3u8
-ESPN 2 NL,https://iptv.852851.xyz/ch/1847c4d0e6eceb1ccbc26704ff193e74/master.m3u8
-ESPN 3 NL,https://iptv.852851.xyz/ch/05d3ecb85bb4bd8c67e8de66f3ac6ebb/master.m3u8
-ESPN 4 NL,https://iptv.852851.xyz/ch/660bd2a8c1ea6be06a9e7a53b351f64f/master.m3u8
-ESPN NL,https://iptv.852851.xyz/ch/74b23313e8b71fb6574c7e35e218ca84/master.m3u8
-EuroSport 1 FR,https://iptv.852851.xyz/ch/95be662a8f6514f7d8f667a38fae18a5/master.m3u8
-EuroSport 2 FR,https://iptv.852851.xyz/ch/552f9b578a163e20c790a13f0ca219f2/master.m3u8
-Fox Sports 501 AU,https://iptv.852851.xyz/ch/ffc25a202591b781bbdfbeba54105865/master.m3u8
-Fox Sports 502 AU,https://iptv.852851.xyz/ch/f8d916a814442604a530df194d5ab0ec/master.m3u8
-Fox Sports 503 AU,https://iptv.852851.xyz/ch/d382e05f614e5a5296e56a24e1abe823/master.m3u8
-Fox Sports 504 AU,https://iptv.852851.xyz/ch/5d9c96e80628de6cc1b93c48f56298b4/master.m3u8
-Fox Sports 505 AU,https://iptv.852851.xyz/ch/b0304e00851d0e2be9231bde4a4087bf/master.m3u8
-Fox Sports 506 AU,https://iptv.852851.xyz/ch/8c88f4d019e750537fd98b913ca4d2ba/master.m3u8
-Fox Sports 507 AU,https://iptv.852851.xyz/ch/cab9c03c5a4ee9041ce834d244599371/master.m3u8
-Fox Sports News AU,https://iptv.852851.xyz/ch/6e6dd9315510d9ab5f872e84346108aa/master.m3u8
-Golf por M+ ES,https://iptv.852851.xyz/ch/b58946c163d269adde1731f23c839aca/master.m3u8
-Golf+ FR,https://iptv.852851.xyz/ch/69c6e2923d2cc1bf8d3b90cb7bded641/master.m3u8
-Infosport+ FR,https://iptv.852851.xyz/ch/6f585ea9212d04c66e49017b9ca71972/master.m3u8
-LaLiga por M+ ES,https://iptv.852851.xyz/ch/6e3124a2996d724f580c59b7c20b1ea4/master.m3u8
-Liga de Campeones por M+ ES,https://iptv.852851.xyz/ch/a86bdc8dc7dad2e1e0a1c1b1518c66ee/master.m3u8
-Polsat Sport 1 PL,https://iptv.852851.xyz/ch/d6c3c039f6dbc3d23069d7403607834f/master.m3u8
-Polsat Sport 2 PL,https://iptv.852851.xyz/ch/5ef15b3e16090f5c3c4a8556e5d6cfa8/master.m3u8
-Polsat Sport 3 PL,https://iptv.852851.xyz/ch/83894d6c77112026b80cf036620dbbbf/master.m3u8
-Polsat Sport Fight PL,https://iptv.852851.xyz/ch/676700578ea2627fd2e4deea890b02dc/master.m3u8
-Polsat Sport Premium 1 PL,https://iptv.852851.xyz/ch/df1d621bcd5a45b2b5b50cddbd7a5bd7/master.m3u8
-Polsat Sport Premium 2 PL,https://iptv.852851.xyz/ch/a5fcab2219b787d7244ed6066e8a3f65/master.m3u8
-Premier Sports 1 UK,https://iptv.852851.xyz/ch/ed06999775113a377918b600c946d466/master.m3u8
-Premier Sports 2 UK,https://iptv.852851.xyz/ch/53d1a6caa367936d465782a6f03eacc9/master.m3u8
-Sky Sport 24 IT,https://iptv.852851.xyz/ch/8025fc7d9b99f921315741289c4be1b0/master.m3u8
-Sky Sport Arena IT,https://iptv.852851.xyz/ch/8415a5a6fb4e573d6477e4f2d1b1ad30/master.m3u8
-Sky Sport Austria 1 DE,https://iptv.852851.xyz/ch/33326390988e6c3f08d71313857c237b/master.m3u8
-Sky Sport Basket IT,https://iptv.852851.xyz/ch/4ab194d892a062e68b4c74739260e019/master.m3u8
-Sky Sport Bundesliga DE,https://iptv.852851.xyz/ch/50620e216f99b27380d88ee1e22dcbdf/master.m3u8
-Sky Sport Calcio IT,https://iptv.852851.xyz/ch/1f12570112e6aa69a368ddedcceb5090/master.m3u8
-Sky Sport F1 DE,https://iptv.852851.xyz/ch/8f58005d6ac72e2fa315f71ec97f6435/master.m3u8
-Sky Sport F1 IT,https://iptv.852851.xyz/ch/1cfb6865467b8a1cba97c8e2cdba0564/master.m3u8
-Sky Sport Golf DE,https://iptv.852851.xyz/ch/23abf2238804519754893c84a0f1e92a/master.m3u8
-Sky Sport Golf IT,https://iptv.852851.xyz/ch/9079fb700e7e05e268089781c723fde6/master.m3u8
-Sky Sport Legend IT,https://iptv.852851.xyz/ch/039223e3e61afef8bf1c72d396fe0646/master.m3u8
-Sky Sport Max IT,https://iptv.852851.xyz/ch/24385c84f2c4052ff8ac05d888ad654e/master.m3u8
-Sky Sport Mix DE,https://iptv.852851.xyz/ch/81282a4f85f5e538e5d32eaf717110e3/master.m3u8
-Sky Sport Mix IT,https://iptv.852851.xyz/ch/6940c03685fe18bb1497bad010237b68/master.m3u8
-Sky Sport MotoGP IT,https://iptv.852851.xyz/ch/667afd72ccd1bb95c952125a4f867256/master.m3u8
-Sky Sport News DE,https://iptv.852851.xyz/ch/7f85470b916e06e46bc9ab1b7858af79/master.m3u8
-Sky Sport Premier League DE,https://iptv.852851.xyz/ch/3a71ce1c93e3231dc34bdb6754399561/master.m3u8
-Sky Sport Tennis DE,https://iptv.852851.xyz/ch/d04118d4110872c3e6f40cd7563068f8/master.m3u8
-Sky Sport Tennis IT,https://iptv.852851.xyz/ch/7043efc8d694da00832d624df7f94f55/master.m3u8
-Sky Sport Top Event DE,https://iptv.852851.xyz/ch/af0341beabcdea33107bd72d8923a465/master.m3u8
-Sky Sport Uno IT,https://iptv.852851.xyz/ch/395a1be60df34b4ec421dc7bf7817c87/master.m3u8
-SKY Sport 1 NZ,https://iptv.852851.xyz/ch/c24af82d959dc1d59132fd4a478ab4c0/master.m3u8
-SKY Sport 2 NZ,https://iptv.852851.xyz/ch/504b33ae12f687adb98bb935066e3a21/master.m3u8
-SKY Sport 3 NZ,https://iptv.852851.xyz/ch/490d8c1532a1367f891f9d0735eea00f/master.m3u8
-SKY Sport 4 NZ,https://iptv.852851.xyz/ch/bb9a88c7e1c6e80338227c7cbda16d3e/master.m3u8
-SKY Sport 5 NZ,https://iptv.852851.xyz/ch/bb745da0c6ed0a86dee1cbd0a3bdd13f/master.m3u8
-SKY Sport 6 NZ,https://iptv.852851.xyz/ch/d76aec9933c02988902686b3611c1dd9/master.m3u8
-SKY Sport 7 NZ,https://iptv.852851.xyz/ch/3a102ca9e2614bfc18333779c01d5c47/master.m3u8
-SKY Sport 9 NZ,https://iptv.852851.xyz/ch/98c4efe98b5542033eaaf8f72780440d/master.m3u8
-SKY Sport Premier League NZ,https://iptv.852851.xyz/ch/7daf6cba021f53c922fd44c260aeb0e9/master.m3u8
-SKY Sport Select NZ,https://iptv.852851.xyz/ch/f56fa14a1e25825974c03357d1e4e2d9/master.m3u8
-Sky Sports Action UK,https://iptv.852851.xyz/ch/c938764fac229acc9f19d4cdbf0f45bf/master.m3u8
-Sky Sports Cricket UK,https://iptv.852851.xyz/ch/90e754de6956019768f484dafb3b70d8/master.m3u8
-Sky Sports F1 UK,https://iptv.852851.xyz/ch/a26b449171c90c5f6832e70bab032ea8/master.m3u8
-Sky Sports Football UK,https://iptv.852851.xyz/ch/6e48718d140c5874a7be9a4595c6e2b2/master.m3u8
-Sky Sports Golf UK,https://iptv.852851.xyz/ch/47af0b92a7d3e8ec410320b3fad7f02f/master.m3u8
-Sky Sports Main Event UK,https://iptv.852851.xyz/ch/c85a2c634b99f97f776ec15dcd2c144b/master.m3u8
-Sky Sports Mix UK,https://iptv.852851.xyz/ch/e134fa908d602e19f0c249b43fe716b1/master.m3u8
-Sky Sports News UK,https://iptv.852851.xyz/ch/c7e9b02be6ab840cb2b3abaebbd223c1/master.m3u8
-Sky Sports Premier League UK,https://iptv.852851.xyz/ch/34f69db8ce47a42bfbc93e3a5df0df34/master.m3u8
-Sky Sports Racing UK,https://iptv.852851.xyz/ch/75ec0c3b01f42f0a398fb9b3aed9bc02/master.m3u8
-Sky Sports Tennis UK,https://iptv.852851.xyz/ch/3caf7005a0256862bbf2b83a7303325c/master.m3u8
-Sky Sports+ UK,https://iptv.852851.xyz/ch/7a50549b251aba0d527348ff02d19b71/master.m3u8
-TNT Sports 1 UK,https://iptv.852851.xyz/ch/add817c7b5ecc5ef32b6d2fbfab6fbae/master.m3u8
-TNT Sports 2 UK,https://iptv.852851.xyz/ch/ab4d6fd0504344428055bfb757fccb0b/master.m3u8
-TNT Sports 3 UK,https://iptv.852851.xyz/ch/916c58c539ece19e24c8009def99f2e7/master.m3u8
-TNT Sports 4 UK,https://iptv.852851.xyz/ch/9fd9800f20a3c88f0d44992e9ebfdd9f/master.m3u8
-TV4 Fotboll SE,https://iptv.852851.xyz/ch/feb0f2714bbedd81d7de6cb53e7b88b9/master.m3u8
-TV4 Hockey SE,https://iptv.852851.xyz/ch/ccac91b83c419109bfbc664c62db2c39/master.m3u8
-TV4 Motor SE,https://iptv.852851.xyz/ch/09d8376b39d62668f600827b281ca5de/master.m3u8
-TV4 Sportkanalen SE,https://iptv.852851.xyz/ch/67d659bf785cb78fbc036e8f0c194387/master.m3u8
-TV4 Tennis SE,https://iptv.852851.xyz/ch/5060f98fb35572ae04934debfab9eb8c/master.m3u8
-V Sport 1 SE,https://iptv.852851.xyz/ch/c4c653124f6ef7723cbfedb70658959d/master.m3u8
-V Sport Extra SE,https://iptv.852851.xyz/ch/053430dcf486b9555f2c37667e80dce6/master.m3u8
-V Sport Football SE,https://iptv.852851.xyz/ch/3923305d00cb21c538b5c92a1aa4ca73/master.m3u8
-V Sport Golf SE,https://iptv.852851.xyz/ch/5537b944e9eb2d14a568494c9309b9ef/master.m3u8
-V Sport Motor SE,https://iptv.852851.xyz/ch/205c0ea3a7b4dfdc129325424eb25646/master.m3u8
-V Sport Premium SE,https://iptv.852851.xyz/ch/884fbd5e6d33abc4191453ddf9e92d47/master.m3u8
-V Sport Vinter SE,https://iptv.852851.xyz/ch/b1fa72372e4072acb2ebc9762f390977/master.m3u8
-Vamos por M+ ES,https://iptv.852851.xyz/ch/88b772793a8fcef4160fe222912195c5/master.m3u8
-Viaplay Sport SE,https://iptv.852851.xyz/ch/4b2a51c07f9586f65a827063581a549a/master.m3u8
-Ziggo Sport 2 NL,https://iptv.852851.xyz/ch/a50ca67a27ee9905a813b726884f9d60/master.m3u8
-Ziggo Sport 3 NL,https://iptv.852851.xyz/ch/f282b4b20dec96c38eb821a48ea9f5a3/master.m3u8
-Ziggo Sport 4 NL,https://iptv.852851.xyz/ch/2972ebdc51d62df733761ddca054ac8b/master.m3u8
-Ziggo Sport 5 NL,https://iptv.852851.xyz/ch/fd9338102b9f35b774ff38aa8153b0ee/master.m3u8
-Ziggo Sport 6 NL,https://iptv.852851.xyz/ch/2f0b133a2f2d36767fe7c18b1e2c260e/master.m3u8
-Ziggo Sport NL,https://iptv.852851.xyz/ch/2921aa83dba51f48eae44c7749928f09/master.m3u8
-
 107 央卫视秒播,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
@@ -2218,341 +1668,341 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
 185.80 CN,#genre#
-无线新闻台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153399
-TVB1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153396
-TVB1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153401
-TVBJ1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153395
-TVBe,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153398
-TVB DRAMA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153400
-凤凰资讯,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=114695
-凤凰资讯,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156407
-凤凰美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153402
-凤凰美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156408
-天映经典,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919463
-天映频道,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919461
-CCTV3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=903374
-CCTV4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2033862
-CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156404
-CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90226
-CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423389
-CCTV娱乐,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156405
-CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156413
-CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90227
-CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919460
-CGTN DOCUMENTARY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919459
-CHINA MOVIE CHANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156417
-安徽国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156420
-安徽卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919481
-北京国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156416
-深圳国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156419
-浙江国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156412
-东方国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156415
-东方卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919401
-湖南国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156418
-湖南卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919436
-江苏国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156423
-江苏卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919431
-海峡卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156424
-华夏电视台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156422
-长城精品,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156409
-长城精品,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156410
-FAIRCHILD 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90352
-FAIRCHILD EAST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90352
-FAIRCHILD WEST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90351
-WOWTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423381
-天下衛視SKYLINK TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156399
-天下衛視SKYLINK TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156400
-美國城市衛視ICITI,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156401
-漢天電視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156391
-東森中國台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156393
-東森戲劇,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156395
-東森財經,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156396
-東森衛視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156394
-東森美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156397
-美國城市衛視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156401
-三立国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156390
-台视综合,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156392
-台视新闻,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156398
-TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156402
-TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=153397
-YOYO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=156403
+无线新闻台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153399
+TVB1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153396
+TVB1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153401
+TVBJ1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153395
+TVBe,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153398
+TVB DRAMA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153400
+凤凰资讯,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=114695
+凤凰资讯,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156407
+凤凰美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153402
+凤凰美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156408
+天映经典,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919463
+天映频道,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919461
+CCTV3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=903374
+CCTV4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2033862
+CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156404
+CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90226
+CCTV4美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423389
+CCTV娱乐,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156405
+CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156413
+CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90227
+CGTN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919460
+CGTN DOCUMENTARY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919459
+CHINA MOVIE CHANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156417
+安徽国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156420
+安徽卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919481
+北京国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156416
+深圳国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156419
+浙江国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156412
+东方国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156415
+东方卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919401
+湖南国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156418
+湖南卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919436
+江苏国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156423
+江苏卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919431
+海峡卫视,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156424
+华夏电视台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156422
+长城精品,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156409
+长城精品,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156410
+FAIRCHILD 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90352
+FAIRCHILD EAST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90352
+FAIRCHILD WEST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90351
+WOWTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423381
+天下衛視SKYLINK TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156399
+天下衛視SKYLINK TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156400
+美國城市衛視ICITI,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156401
+漢天電視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156391
+東森中國台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156393
+東森戲劇,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156395
+東森財經,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156396
+東森衛視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156394
+東森美洲,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156397
+美國城市衛視,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156401
+三立国际,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156390
+台视综合,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156392
+台视新闻,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156398
+TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156402
+TVBS ASIA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=153397
+YOYO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=156403
 
 185.80 HK|NOW SPORTS,#genre#
-HK|NOW SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554949
-HK|NOW SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554948
-HK|NOW SPORTS 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554947
-HK|NOW SPORTS 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554946
-HK|NOW SPORTS 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554945
-HK|NOW SPORTS 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554944
-HK|NOW SPORTS 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554943
-HK|NOW SPORTS PREMIER LEAGUE 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903729
-HK|NOW SPORTS PREMIER LEAGUE UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948624
-HK|NOW SPORTS PREMIER LEAGUE 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903752
-HK|NOW SPORTS PREMIER LEAGUE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903751
-HK|NOW SPORTS PREMIER LEAGUE 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903750
-HK|NOW SPORTS PREMIER LEAGUE 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903749
-HK|NOW SPORTS PREMIER LEAGUE 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903748
-HK|NOW SPORTS PREMIER LEAGUE 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903747
-HK|NOW SPORTS PRIME 630,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903746
-HK|NOW SPORTS PRIME 631,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903745
-HK|NOW SPORTS PRIME 632,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903744
-HK|NOW SPORTS PRIME 633,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903743
-HK|NOW SPORTS PRIME 634,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903742
-HK|NOW SPORTS PRIME 635,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903741
-HK|NOW SPORTS PRIME 636,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903740
-HK|NOW SPORTS PRIME 637,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903739
-HK|NOW SPORTS PRIME 680,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903732
-HK|NOW SPORTS 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948655
-HK|NOW SPORTS UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1948636
+HK|NOW SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554949
+HK|NOW SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554948
+HK|NOW SPORTS 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554947
+HK|NOW SPORTS 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554946
+HK|NOW SPORTS 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554945
+HK|NOW SPORTS 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554944
+HK|NOW SPORTS 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554943
+HK|NOW SPORTS PREMIER LEAGUE 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903729
+HK|NOW SPORTS PREMIER LEAGUE UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1948624
+HK|NOW SPORTS PREMIER LEAGUE 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903752
+HK|NOW SPORTS PREMIER LEAGUE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903751
+HK|NOW SPORTS PREMIER LEAGUE 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903750
+HK|NOW SPORTS PREMIER LEAGUE 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903749
+HK|NOW SPORTS PREMIER LEAGUE 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903748
+HK|NOW SPORTS PREMIER LEAGUE 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903747
+HK|NOW SPORTS PRIME 630,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903746
+HK|NOW SPORTS PRIME 631,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903745
+HK|NOW SPORTS PRIME 632,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903744
+HK|NOW SPORTS PRIME 633,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903743
+HK|NOW SPORTS PRIME 634,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903742
+HK|NOW SPORTS PRIME 635,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903741
+HK|NOW SPORTS PRIME 636,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903740
+HK|NOW SPORTS PRIME 637,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903739
+HK|NOW SPORTS PRIME 680,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903732
+HK|NOW SPORTS 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1948655
+HK|NOW SPORTS UHD 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1948636
 
 185.80 LOS ANGELES,#genre#
-KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=172930
-KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=172930
-KCBS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173138
-KCBS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173138
-KCAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=397115
-KCAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=397115
-KNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173924
-KNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173924
-KTTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173612
-KTTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=173612
-KTLA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176840
-KTLA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176840
-CBS NEWS LOS ANGELES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920381
-CBS NEWS LOS ANGELES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920381
-SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1597053
-SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1597053
+KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=172930
+KABC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=172930
+KCBS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173138
+KCBS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173138
+KCAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=397115
+KCAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=397115
+KNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173924
+KNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173924
+KTTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173612
+KTTV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=173612
+KTLA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176840
+KTLA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176840
+CBS NEWS LOS ANGELES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1920381
+CBS NEWS LOS ANGELES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1920381
+SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1597053
+SPECTRUM NEWS SO CAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1597053
 
 185.80 NEWS,#genre#
-ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920498
-ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1924347
-ACCU WEATHER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931179
-ALJAZEERA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=155749
-BBC NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176797
-BLOOMBERG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919467
-CBS NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45603
-CNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919458
-CNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176804
-CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=442785
-CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45592
-CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176809
-CNN INTL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920665
-CP24,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176805
-DW,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919451
-FOX BUSINESS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2030927
-FOX NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176823
-FOX WEATHER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931076
-FRANCE 24,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919446
-MSNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176827
-NBC NEWS NOW,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1920031
-RT,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=176830
-THE WEATHER CHANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=716435
-TRT WORLD,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1564154
+ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1920498
+ABC NEWS LIVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1924347
+ACCU WEATHER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931179
+ALJAZEERA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=155749
+BBC NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176797
+BLOOMBERG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919467
+CBS NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=45603
+CNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919458
+CNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176804
+CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=442785
+CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=45592
+CNN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176809
+CNN INTL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1920665
+CP24,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176805
+DW,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919451
+FOX BUSINESS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2030927
+FOX NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176823
+FOX WEATHER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931076
+FRANCE 24,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919446
+MSNBC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176827
+NBC NEWS NOW,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1920031
+RT,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=176830
+THE WEATHER CHANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=716435
+TRT WORLD,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1564154
 
 185.80 SPORTS,#genre#
-ARENA SPORT !,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077057
-ARENA SPORT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077056
-ARENA SPORT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077055
-ARENA SPORT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077054
-ARENA SPORT 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077053
-ARENA SPORT 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077052
-ARENA SPORT PREMIUM !,http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:3D:60&stream=2077060
-ARENA SPORT PREMIUM 2,http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:3D:60&stream=2077059
-ARENA SPORT PREMIUM 3,http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:3D:60&stream=2077058
-ASTRO FOOTBALL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=571246
-ASTRO GRANDSTAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=571247
-ASTRO PREMIER LEAGUE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=571245
-ASTRO PREMIER LEAGUE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=571248
-ASTRO SPORTS PLUS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=554968
-BEIN SPORTS 1 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=177356
-BEIN SPORTS 2 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=177357
-BEIN SPORTS 4 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=177358
-BEIN SPORTS 5 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=177359
-BEIN SPORTS 1 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919472
-BEIN SPORTS 2 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919471
-BEIN SPORTS 3 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919470
-BEIN SPORTS 4 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919469
-BEIN SPORTS 5 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919468
-BEIN SPORTS 1 ID,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=683139
-BEIN SPORTS 2 ID,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=683138
-BEIN SPORTS 1 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=526126
-BEIN SPORTS 2 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=526125
-BEIN SPORTS 3 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=526124
-BEIN SPORTS 1 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=941569
-BEIN SPORTS 2 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=941568
-BEIN SPORTS 3 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=941567
-BEIN SPORTS 4 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=941566
-BEIN SPORTS 5 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=941565
-BEIN SPORTS XTRA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931159
-BEIN SPORTS MAX 1 TR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2090078
-BEIN SPORTS MAX 2 TR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2090077
-CBS SPORTS NETWORK,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931140
-DAZN LIGA 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=986639
-DAZN LIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1347433
-DAZN LIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2074435
-DAZN LIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2074434
-DUBAI RACING 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=894436
-DUBAI RACING 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=894437
-DUBAI RACING 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=894438
-EQUIDA LUVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=894432
-ERC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=894435
-ESPN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931094
-ESPN 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1931093
-ESPN NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45578
-ESPN U,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=90958
-ESPN DEPORTES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1921358
-FOX SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077001
-FOX SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077000
-HPITV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=732042
-HPITV EAST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=732043
-HPITV INTL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=732044
-HPITV WEST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=732045
-HUB PREMIER 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032529
-HUB PREMIER 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032528
-HUB PREMIER 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032527
-HUB PREMIER 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032526
-HUB PREMIER 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032525
-HUB PREMIER 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032524
-HUB PREMIER 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032523
-HUB PREMIER 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032522
-HUB PREMIER 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1032521
-HUB SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903771
-HUB SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903772
-HUB SPORTS 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903773
-HUB SPORTS 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903774
-HUB SPORTS 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1903775
-LIGUE +1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624009
-LIGUE +2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624008
-LIGUE +3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624007
-LIGUE +4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624006
-LIGUE +5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624005
-LIGUE +6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624004
-LIGUE +7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624003
-LIGUE +8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624002
-LIGUE +9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624001
-LIGUE +10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1624000
-LALIGA TV BAR 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=107590
-LALIGA TV BAR 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=107589
-LALIGA TV BAR 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=107588
-LALIGA TV BAR 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=107587
-M.LALIGA 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=477159
-M.LALIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=477160
-M.LALIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=915235
-M.LALIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=915237
-RACING TV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=899881
-SKY BUNDESLIGA 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411572
-SKY BUNDESLIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411570
-SKY BUNDESLIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411568
-SKY BUNDESLIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411566
-SKY BUNDESLIGA 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411564
-SKY BUNDESLIGA 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411562
-SKY BUNDESLIGA 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411560
-SKY BUNDESLIGA 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411558
-SKY BUNDESLIGA 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411556
-SKY BUNDESLIGA 10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=411554
-SKY SPORTS FOOTBALL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905858
-SKY SPORTS MAIN EVENT,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905853
-SKY SPORTS MIX,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905850
-SKY SPORTS NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905847
-SKY SPORTS PREMIER LEAGUE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905844
-SKY SPORTS RACING,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=899880
-SOCCER ChANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919399
-SPORT TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077015
-SPORT TV 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077014
-SPOTV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919396
-SPOTV 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1919395
-TNT 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905819
-TNT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905816
-TNT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905812
-TNT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1905810
-TNT SPORTS|EVENT 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1596285
-TNT SPORTS|EVENT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1596284
-TNT SPORTS|EVENT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1596283
-TNT SPORTS|EVENT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1596282
-TNT SPORTS|EVENT 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1596281
-TSN 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077049
-TSN 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077048
-TSN 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077047
-TSN 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077046
-TSN 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077045
-WIN SPORTS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077040
-WIN SPORTS PLUS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=2077039
+ARENA SPORT !,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077057
+ARENA SPORT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077056
+ARENA SPORT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077055
+ARENA SPORT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077054
+ARENA SPORT 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077053
+ARENA SPORT 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077052
+ARENA SPORT PREMIUM !,http://185.80.197.39:80/play/live.php?mac=00:1A:79:51:3B:21&stream=2077060
+ARENA SPORT PREMIUM 2,http://185.80.197.39:80/play/live.php?mac=00:1A:79:51:3B:21&stream=2077059
+ARENA SPORT PREMIUM 3,http://185.80.197.39:80/play/live.php?mac=00:1A:79:51:3B:21&stream=2077058
+ASTRO FOOTBALL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=571246
+ASTRO GRANDSTAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=571247
+ASTRO PREMIER LEAGUE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=571245
+ASTRO PREMIER LEAGUE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=571248
+ASTRO SPORTS PLUS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=554968
+BEIN SPORTS 1 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=177356
+BEIN SPORTS 2 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=177357
+BEIN SPORTS 4 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=177358
+BEIN SPORTS 5 CA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=177359
+BEIN SPORTS 1 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919472
+BEIN SPORTS 2 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919471
+BEIN SPORTS 3 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919470
+BEIN SPORTS 4 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919469
+BEIN SPORTS 5 VISION+,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919468
+BEIN SPORTS 1 ID,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=683139
+BEIN SPORTS 2 ID,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=683138
+BEIN SPORTS 1 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=526126
+BEIN SPORTS 2 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=526125
+BEIN SPORTS 3 FR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=526124
+BEIN SPORTS 1 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=941569
+BEIN SPORTS 2 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=941568
+BEIN SPORTS 3 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=941567
+BEIN SPORTS 4 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=941566
+BEIN SPORTS 5 SG,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=941565
+BEIN SPORTS XTRA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931159
+BEIN SPORTS MAX 1 TR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2090078
+BEIN SPORTS MAX 2 TR,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2090077
+CBS SPORTS NETWORK,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931140
+DAZN LIGA 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=986639
+DAZN LIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1347433
+DAZN LIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2074435
+DAZN LIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2074434
+DUBAI RACING 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=894436
+DUBAI RACING 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=894437
+DUBAI RACING 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=894438
+EQUIDA LUVE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=894432
+ERC,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=894435
+ESPN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931094
+ESPN 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1931093
+ESPN NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=45578
+ESPN U,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=90958
+ESPN DEPORTES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1921358
+FOX SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077001
+FOX SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077000
+HPITV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=732042
+HPITV EAST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=732043
+HPITV INTL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=732044
+HPITV WEST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=732045
+HUB PREMIER 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032529
+HUB PREMIER 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032528
+HUB PREMIER 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032527
+HUB PREMIER 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032526
+HUB PREMIER 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032525
+HUB PREMIER 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032524
+HUB PREMIER 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032523
+HUB PREMIER 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032522
+HUB PREMIER 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1032521
+HUB SPORTS 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903771
+HUB SPORTS 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903772
+HUB SPORTS 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903773
+HUB SPORTS 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903774
+HUB SPORTS 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1903775
+LIGUE +1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624009
+LIGUE +2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624008
+LIGUE +3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624007
+LIGUE +4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624006
+LIGUE +5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624005
+LIGUE +6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624004
+LIGUE +7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624003
+LIGUE +8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624002
+LIGUE +9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624001
+LIGUE +10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1624000
+LALIGA TV BAR 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=107590
+LALIGA TV BAR 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=107589
+LALIGA TV BAR 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=107588
+LALIGA TV BAR 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=107587
+M.LALIGA 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=477159
+M.LALIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=477160
+M.LALIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=915235
+M.LALIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=915237
+RACING TV,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=899881
+SKY BUNDESLIGA 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411572
+SKY BUNDESLIGA 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411570
+SKY BUNDESLIGA 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411568
+SKY BUNDESLIGA 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411566
+SKY BUNDESLIGA 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411564
+SKY BUNDESLIGA 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411562
+SKY BUNDESLIGA 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411560
+SKY BUNDESLIGA 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411558
+SKY BUNDESLIGA 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411556
+SKY BUNDESLIGA 10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=411554
+SKY SPORTS FOOTBALL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905858
+SKY SPORTS MAIN EVENT,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905853
+SKY SPORTS MIX,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905850
+SKY SPORTS NEWS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905847
+SKY SPORTS PREMIER LEAGUE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905844
+SKY SPORTS RACING,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=899880
+SOCCER ChANNEL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919399
+SPORT TV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077015
+SPORT TV 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077014
+SPOTV 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919396
+SPOTV 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1919395
+TNT 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905819
+TNT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905816
+TNT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905812
+TNT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1905810
+TNT SPORTS|EVENT 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1596285
+TNT SPORTS|EVENT 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1596284
+TNT SPORTS|EVENT 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1596283
+TNT SPORTS|EVENT 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1596282
+TNT SPORTS|EVENT 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1596281
+TSN 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077049
+TSN 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077048
+TSN 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077047
+TSN 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077046
+TSN 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077045
+WIN SPORTS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077040
+WIN SPORTS PLUS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=2077039
 
 185.80 RELAX,#genre#
-RELAX 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502991
-RELAX 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502992
-RELAX 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502993
-RELAX 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502994
-RELAX 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502995
-RELAX 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502996
-RELAX 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502997
-RELAX 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502998
-RELAX 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502999
-RELAX 10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503000
-RELAX 11,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503001
-RELAX 12,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503002
-RELAX 13,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503003
-RELAX 14,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503004
-RELAX 15,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503005
-RELAX AUSTRALUA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502985
-RELAX EARTH NATURE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502986
-RELAX EUTOPE TOWNS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505566
-RELAX FLOWER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505571
-RELAX FOREST AMERICAN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505565
-RELAX FOREST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502987
-RELAX ICELAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503007
-RELAX INSPIRATIONAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502988
-RELAX ITALY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505561
-RELAX MORNING RELAXATION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505568
-RELAX MOROCCO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503006
-RELAX NORWAY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1503008
-RELAX NATURE RELAXATION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505569
-RELAX THE OCEAN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502989
-RELAX TROPICAL BEACH,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502990
-RELAX TURKEY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1502984
-RELAX SNOW WINTER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505573
-RELAX STARDUST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505574
-RELAX SWITZERLAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505562
-RELAX VIETNAM,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1505564
+RELAX 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502991
+RELAX 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502992
+RELAX 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502993
+RELAX 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502994
+RELAX 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502995
+RELAX 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502996
+RELAX 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502997
+RELAX 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502998
+RELAX 9,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502999
+RELAX 10,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503000
+RELAX 11,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503001
+RELAX 12,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503002
+RELAX 13,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503003
+RELAX 14,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503004
+RELAX 15,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503005
+RELAX AUSTRALUA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502985
+RELAX EARTH NATURE,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502986
+RELAX EUTOPE TOWNS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505566
+RELAX FLOWER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505571
+RELAX FOREST AMERICAN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505565
+RELAX FOREST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502987
+RELAX ICELAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503007
+RELAX INSPIRATIONAL,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502988
+RELAX ITALY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505561
+RELAX MORNING RELAXATION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505568
+RELAX MOROCCO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503006
+RELAX NORWAY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1503008
+RELAX NATURE RELAXATION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505569
+RELAX THE OCEAN,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502989
+RELAX TROPICAL BEACH,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502990
+RELAX TURKEY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1502984
+RELAX SNOW WINTER,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505573
+RELAX STARDUST,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505574
+RELAX SWITZERLAND,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505562
+RELAX VIETNAM,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1505564
 
 185.80 MUSIC,#genre#
-BRITNEY SPEARS,,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1061869
-CELINE DION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1061870
-CLUBLAND,,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372117
-ELVIS PRESLEY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1061871
-MADONNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1061873
-MICHAEL JACKSON,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=930686
-RIHANNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1061875
-KARAOKE 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372123
-KARAOKE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372124
-KARAOKE 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372125
-KARAOKE 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372126
-KARAOKE 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372127
-KARAOKE 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372128
-KARAOKE 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372129
-KARAOKE 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372130
-MC-POP HITS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372103
-MC-ROCK,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372099
-MC-THROWBACK JAMS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372094
-MC-TODAY'S COUNTRY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1372097
-RETRO 80,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1103406
-STINGRAY EASY LISTENING,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1566930
-STINGRAY FESTIVSL 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423355
-STINGRAY FLASHBACK'70S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423353
-STINGRAY HIP-HOP/R&B,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1566933
-STINGRAY NOTHING BUT 90S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1566931
-STINGRAY REMEMBER THE'80S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423341
-STINGRAY RETRO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423340
-STINGRAY ROMANCE LATINO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1566916
-STINGRAY THE BLUES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=1423334
-VEVO'70S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886257
-VEVO'80S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886256
-VEVO'90S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886255
-VEVO 2K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886254
-VEVO COUNTRY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886259
-VEVO HIP-HOP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886260
-VEVO POP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886251
-VEVO REGGAETON & TRAP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886258
+BRITNEY SPEARS,,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1061869
+CELINE DION,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1061870
+CLUBLAND,,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372117
+ELVIS PRESLEY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1061871
+MADONNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1061873
+MICHAEL JACKSON,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=930686
+RIHANNA,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1061875
+KARAOKE 1,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372123
+KARAOKE 2,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372124
+KARAOKE 3,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372125
+KARAOKE 4,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372126
+KARAOKE 5,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372127
+KARAOKE 6,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372128
+KARAOKE 7,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372129
+KARAOKE 8,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372130
+MC-POP HITS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372103
+MC-ROCK,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372099
+MC-THROWBACK JAMS,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372094
+MC-TODAY'S COUNTRY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1372097
+RETRO 80,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1103406
+STINGRAY EASY LISTENING,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1566930
+STINGRAY FESTIVSL 4K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423355
+STINGRAY FLASHBACK'70S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423353
+STINGRAY HIP-HOP/R&B,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1566933
+STINGRAY NOTHING BUT 90S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1566931
+STINGRAY REMEMBER THE'80S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423341
+STINGRAY RETRO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423340
+STINGRAY ROMANCE LATINO,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1566916
+STINGRAY THE BLUES,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=1423334
+VEVO'70S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886257
+VEVO'80S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886256
+VEVO'90S,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886255
+VEVO 2K,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886254
+VEVO COUNTRY,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886259
+VEVO HIP-HOP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886260
+VEVO POP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886251
+VEVO REGGAETON & TRAP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886258
 
 2026,#genre#
 01 VIP Sports,http://fastrunner.live:8080/LXdVGQ2ulN/2YV8Pnu7e9/135151
