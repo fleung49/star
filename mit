@@ -2049,6 +2049,20 @@ VEVO HIP-HOP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:
 VEVO POP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886251
 VEVO REGGAETON & TRAP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:51:3B:21&stream=886258
 
+NOW,#genre#
+NOW 1,http://77.90.60.172:55555/1
+NOW 2,http://77.90.60.172:55555/2
+NOW 3,http://77.90.60.172:55555/3
+NOW 4,http://77.90.60.172:55555/4
+NOW 5,http://77.90.60.172:55555/5
+NOW 6,http://77.90.60.172:55555/6
+NOW 7,http://77.90.60.172:55555/7
+NOW 8,http://77.90.60.172:55555/8
+NOW 9,http://77.90.60.172:55555/9
+NOW 10,http://77.90.60.172:55555/10
+NOW 11,http://77.90.60.172:55555/11
+NOW 12,http://77.90.60.172:55555/12
+
 2026,#genre#
 01 VIP Sports,http://fastrunner.live:8080/LXdVGQ2ulN/2YV8Pnu7e9/135151
 02 VIP Sports,http://fastrunner.live:8080/LXdVGQ2ulN/2YV8Pnu7e9/135152
