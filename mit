@@ -2323,22 +2323,28 @@ The Rolling Stones:Ladies & Gentlemen 1972,http://mypanel-4k.com:80/movie/968072
 The Rolling Stones:Live from Amsterdam 1995,http://mypanel-4k.com:80/movie/9680723188/kyft6ks0g7gr7uw0xio6/327385.mkv
 
 ##### LOS ANGELES CHANNELS #####,#genre#
+KABC,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/95348.ts
 KABC,http://bgdc.live:25461/rodneyb5777/5777/215925
 KABC,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=76897
-KABC,http://lunar.pm:8080/live/leslie/snook/64455.ts
-KCAL,http://lunar.pm:8080/live/leslie/snook/64570.ts
+KABC,http://lunar.pm:8080/live/kita/Twin/64455.ts
+KCAL,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/95471.ts
+KCAL,http://lunar.pm:8080/live/kita/Twin/64570.ts
 KCAL,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=76860
+KCBS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/95470.ts
 KCBS,http://bgdc.live:25461/rodneyb5777/5777/215482
-KCBS,http://lunar.pm:8080/leslie/snook/64580
-KTTV,http://lunar.pm:8080/live/leslie/snook/64677.ts
+KCBS,http://lunar.pm:8080/kita/Twin/64580
+KTTV,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/95578.ts
+KTTV,http://lunar.pm:8080/live/kita/Twin/64677.ts
 KTTV,http://bgdc.live:25461/rodneyb5777/5777/215728
 KTTV,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=76434
 KTTV,https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
 KTTV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+KNBC,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/79887.ts
 KNBC,http://bgdc.live:25461/rodneyb5777/5777/189595
 KNBC,http://bgdc.live:25461/rodneyb5777/5777/215501
-KNBC,http://lunar.pm:8080/live/leslie/snook/64797.ts
-KTLA,http://lunar.pm:8080/live/leslie/snook/64699.ts
+KNBC,http://lunar.pm:8080/live/kita/Twin/64797.ts
+KTLA,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/95660.ts
+KTLA,http://lunar.pm:8080/live/kita/Twin/64699.ts
 KTLA,http://bgdc.live:25461/rodneyb5777/5777/189579
 KTLA,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=279327
 SPECTRUM NEWS 1 LOS ANGELES,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=306915
@@ -2412,73 +2418,75 @@ THE WEATHER CHANNEL,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102226.ts
 
 NEWS CHANNEL,#genre#
 ABC NEWS LIVE,https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
-ACCU WEATHER,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/30528
-ALJAZEERA,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/960/index.m3u8
-BBC NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/545/index.m3u8
-CGTN,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/830/index.m3u8
-CNBC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/35524
-CNBC,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/962/index.m3u8
-CNN,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/6499/index.m3u8
-CNN,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/10378
-CNN INTL,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/31301/index.m3u8
-EURONEWS,http://tbtv.me:2095/play/live.php?extension=ts&mac=00:1A:79:E7:32:0C&stream=175199
+ACCU WEATHER,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/82799.ts
+ALJAZEERA,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/960/index.m3u8
+BBC NEWS,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/545/index.m3u8
+BBC NEWS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/1777.ts
+CGTN,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/830/index.m3u8
+CNBC,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/525.ts
+CNBC,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/962/index.m3u8
+CNN,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/6499/index.m3u8
+CNN,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/568.ts
+CNN INTL,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/31301/index.m3u8
+CNN INTL,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/1764.ts
+EURONEWS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/420.ts
 EURONEWS,https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8
-FOX NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/19147/index.m3u8
-FOX NEWS,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/10397
+FOX BUSINESS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/78205.ts
+FOX NEWS,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/19147/index.m3u8
+FOX NEWS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/545.ts
 FOX NEWS NOW,https://live-manifest.production-public.tubi.io/live/a576cd08-8cbc-43e2-a873-8647b363abcb/playlist.m3u8
 FOX WEATHER,https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
-FRANCE 24,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/31318/index.m3u8
-MSNBC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/31407
-MSNBC,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/31407
+FRANCE 24,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/31318/index.m3u8
+MSNBC,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/575.ts
 NBC NEWS NOW,https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
-RT NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/840/index.m3u8
-SKY NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/2475/index.m3u8
-THE WEATHER CHANNEL,http://egaletv.cc/9680723188/kyft6ks0g7gr7uw0xio6/75416
-
+NBC NEWS NOW,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/112725.ts
+RT NEWS,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/840/index.m3u8
+SKY NEWS,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/2475/index.m3u8
+SKY NEWS,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/16005.ts
+THE WEATHER CHANNEL,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/82815.ts
 USA,#genre#
 ABC News Live,http://kstv.us:8080/live/t6YpgZuR61/5937629247/15967.ts
 ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
 AccuWeather,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/30528
-ALJAZEERA,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/960/index.m3u8
-ALJAZEERA,http://lunar.pm:8080/live/leslie/snook/132104.ts
+ALJAZEERA,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/960/index.m3u8
+ALJAZEERA,http://lunar.pm:8080/live/kita/Twin/132104.ts
 ALJAZEERA,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/255.ts
 hBloomberg,ttp://bgdc.live:25461/rodneyb5777/5777/15336
 Bloomberg,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102140.ts
 BBC WORLD NEWS,http://23.237.104.106:8080/USA_BBC_NEWS/mpegts
 BBC WORLD NEWS,https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-BBC WORLD NEWS,http://lunar.pm:8080/live/leslie/snook/8805.ts
+BBC WORLD NEWS,http://lunar.pm:8080/live/kita/Twin/8805.ts
 CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CBS NEWS 24/7,http://ky-tv.cc/live/brendan1/brendan1/517979.ts
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CGTN,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/830/index.m3u8
+CGTN,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/830/index.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CNBC,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6482/index.m3u8
+CNBC,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/6482/index.m3u8
 CNBC,https://tvpass.org/live/CNBC/hd
 CNBC WORLD,http://live.btv.mx:2424/stream/279678/smAVz_uhytj5REM-4pYNZbkrcB2
-CNN,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6499/index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/6499/index.m3u8
 CNN,http://41.205.64.66/CNN/index.m3u8
 CNN,http://41.223.30.230/CNN/index.m3u8
 CNN,https://tvpass.org/live/CNN/hd
 CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNN,http://lunar.pm:8080/live/leslie/snook/104092.ts
-CNN,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/6499/index.m3u8
-CNN,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6499/index.m3u8
+CNN,http://lunar.pm:8080/live/kita/Twin/104092.ts
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN INTL,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31301/index.m3u8
-CNN INTL,http://lunar.pm:8080/live/leslie/snook/120251.ts
+CNN INTL,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/31301/index.m3u8
+CNN INTL,http://lunar.pm:8080/live/kita/Twin/120251.ts
 CNN INTL,https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 CNN INTL,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/253.ts
-CP 24 CA,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6501/index.m3u8
+CP 24 CA,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/6501/index.m3u8
 EURONEWS,http://royalibox.com/9680723188/kyft6ks0g7gr7uw0xio6/54268
 FOX BUSINESS,http://41.205.93.154/FOXBUSINESS/index.m3u8
-FOX BUSINESS,http://lunar.pm:8080/live/leslie/snook/9328.ts
+FOX BUSINESS,http://lunar.pm:8080/live/kita/Twin/9328.ts
 FOX NEWS,http://41.205.93.154/FOX-NEWS/index.m3u8
-FOX NEWS,http://lunar.pm:8080/live/leslie/snook/123011.ts
+FOX NEWS,http://lunar.pm:8080/live/kita/Twin/123011.ts
 FOX NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/19147/index.m3u8
 FOX NEWS,https://tvpass.org/live/FoxNewsChannel/hd
 LIVENOW FROM FOX,https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
@@ -2488,16 +2496,16 @@ FOX WEATHER,https://247wlive.foxweather.com/stream/index.m3u8
 FOX WEATHER,https://livetv-fa.tubi.video/fox-weather/index.m3u8
 FOX WEATHER,https://foxweather-xumo.amagi.tv/playlist.m3u8
 Live NOW from FOX,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-FRANCE 24,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31318/index.m3u8
+FRANCE 24,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/31318/index.m3u8
 FRANCE 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 FRANCE 24,http://103.213.31.111/France24/index.m3u8
 FS1,http://84.17.50.102/foxsports1/mpegts
-FS1 US,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
-FS2 US,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
+FS1 US,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/7322/index.m3u8
+FS2 US,http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/7323/index.m3u8
 MSNBC,http://41.205.64.66/MSNBC/index.m3u8
 MSNBC,http://41.223.30.230/MSNBC/index.m3u8
 MSNBC,http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/31407
-MSNBC,http://lunar.pm:8080/live/leslie/snook/9326.ts
+MSNBC,http://lunar.pm:8080/live/kita/Twin/9326.ts
 MSNBC,https://tvpass.org/live/MSNBC/hd
 NBC NEWS NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC NEWS NOW,http://41.223.30.230/NBC/index.m3u8
@@ -2507,7 +2515,7 @@ REUTERS TV,https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amag
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT NEWS,http://179.60.51.134:8888/RT/index.m3u8
 RT DOCUMENTARY,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-SKY NEWS,http://lunar.pm:8080/live/leslie/snook/25465.ts
+SKY NEWS,http://lunar.pm:8080/live/kita/Twin/25465.ts
 TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 FANDUEL TV RACING,http://bgdc.live:25461/rodneyb5777/5777/217326
 FANDUEL TV RACING,http://104.129.12.146:18080/stream/fanduel-tv.ts
