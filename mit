@@ -243,6 +243,7 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,video://https://www.faintv.com/channel/18965
 凤凰美洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
+凤凰美洲台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:08:D9:F1&stream=156408
 HOY76,https://cdn11.163189.xyz/163189/hoy76
 HOY77,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
 HOY77,http://cdn.163189.xyz/163189/hoy
@@ -325,7 +326,9 @@ CH5,https://cdn6.163189.xyz/163189/ch5
 CH8,https://cdn6.163189.xyz/163189/ch8
 CHU,https://cdn6.163189.xyz/163189/chu
 HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
+HUB娱家,http://75.127.89.169:35441/endday20260630.php?id=1106
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
+HUB都会,http://75.127.89.169:35441/endday20260630.php?id=1108
 CCTV1,https://cdn16.163189.xyz/163189/cctv1
 CCTV2,https://cdn16.163189.xyz/163189/cctv2
 CCTV3,https://cdn16.163189.xyz/163189/cctv3
