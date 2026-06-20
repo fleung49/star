@@ -1302,64 +1302,6 @@ CHC影迷電影,http://69.30.245.50/live/chcym.m3u8
 江蘇衛視,http://69.30.246.194/live/jsws.m3u8
 東方衛視,http://69.30.246.194/live/dfws.m3u8
 
-风云4666888,#genre#
-SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
-SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
-TNT SPORTS 1,http://iptv.4666888.xyz/iptv2A.php?id=3
-SKY SPORTS Football,http://iptv.4666888.xyz/iptv2A.php?id=4
-WWE,http://iptv.4666888.xyz/iptv2A.php?id=5
-博斯运动1,http://iptv.4666888.xyz/iptv2A.php?id=6
-CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
-CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
-无线千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
-RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
-MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-无线华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
-HOY 78,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB DRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
-翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
-娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
-华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
-八大綜合,http://iptv.4666888.xyz/iptv2A.php?id=38
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=39
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-tvbs新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-TVBS精彩台,http://iptv.4666888.xyz/iptv2A.php?id=47
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
-rock娱乐,http://iptv.4666888.xyz/iptv2A.php?id=50
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-
 广东央视卫视116,#genre#
 CCTV1-综合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1958,29 +1900,26 @@ VEVO POP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:6
 VEVO REGGAETON & TRAP,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=886258
 
 NOW SPORTS,#genre#
-NOW 1,http://77.90.60.172:55555/1
-NOW 2,http://77.90.60.172:55555/2
-NOW 3,http://77.90.60.172:55555/3
-NOW 4,http://77.90.60.172:55555/4
-NOW 5,http://77.90.60.172:55555/5
-NOW 6,http://77.90.60.172:55555/6
-NOW 7,http://77.90.60.172:55555/7
-NOW 8,http://77.90.60.172:55555/8
-NOW 9,http://77.90.60.172:55555/9
-NOW 10,http://77.90.60.172:55555/10
-NOW 11,http://77.90.60.172:55555/11
-NOW 12,http://77.90.60.172:55555/12
 NOW SPORTS 616,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 NOW SPORTS 617,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 NOW SPORTS 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+NOW SPORTS 618,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzA5ODAudHM=
 NOW SPORTS 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 NOW SPORTS 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465860
-咪咕体育,https://live12.szyac.com/live/12871538.m3u8
-广东体育,https://live12.szyac.com/live/37111391.m3u8
-CCTV5体育,https://live12.szyac.com/live/85042987.m3u8
-澳门体育,https://live12.szyac.com/live/77795881.m3u8
-ELTA体育1,https://live12.szyac.com/live/13212901.m3u8
-TSN 1,https://streaming.noobz.top/hls/live.m3u8
+NOW SPORTS PLUS,ttps://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzAyMzUudHM=
+NOW SPORTS PRIME,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzAyMzMudHM=
+五星体育,https://cdn15.163189.xyz/163189/wxty
+爱尔达体育1台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzg4MTMudHM=
+爱尔达体育2台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzg4MTIudHM=
+爱尔达体育3台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzg4MTEudHM=
+爱尔达体育4台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzg4MTAudHM=
+爱尔达体育4台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzg4MTAudHM=
+HAMI 1台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMzA5ODQudHM=
+TSN 1,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTA4MTIudHM=
+TSN 2,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTA4MTAudHM=
+TSN 3,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTA4MDgudHM=
+TSN 4,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTA4MDYudHM=
+TSN 5,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTA4MDQudHM=
 TUDN,https://my-cors-proxy.olutuna.workers.dev/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 NOW SPORTS 4K,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
 HUB SPORTS 1,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
@@ -1992,8 +1931,6 @@ BEIN SPORTS 2,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
 BEIN SPORTS 3,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
 BEIN SPORTS 4,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
 BEIN SPORTS 5,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
-Spotv台,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
-Spotv2台,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
 NBA,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
 
 2026,#genre#
