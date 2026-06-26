@@ -94,53 +94,6 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 
-YouTube新聞,#genre#
-鳳凰衛視#24小時直播間,https://www.youtube.com/watch?v=fN9uYWCjQaw
-無綫新聞｜TVB News,https://www.youtube.com/watch?v=ODoLLoOt_Yc
-CCTV中文国际,https://www.youtube.com/watch?v=vNVp6bxkL1c
-CCTV中文国际2,https://www.youtube.com/watch?v=shJ83KBZm9w
-CCTV 13 NEWS,https://www.youtube.com/watch?v=bG3bzm1l-bs
-CGTN,https://www.youtube.com/watch?v=BOy2xDU1LC8
-寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-中天新聞,http://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxwTN,
-中天新闻,http://rihou.cc:555/tv/中天新聞
-中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
-中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8?token=123
-中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live409/index.m3u8?token=123
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-三立NEWS,https://www.youtube.com/watch?v=ZSKIiW54rtQ
-东森新聞,https://www.youtube.com/watch?v=E0zhe2gkXBs
-东森财经新闻,https://www.youtube.com/watch?v=AEBeWMM1atA
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-澳洲ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
-ABC News Live,https://www.youtube.com/watch?v=iipR5yUp36o
-Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
-BLOOMBERG,https://www.youtube.com/watch?v=iEpJwprxDdk
-CBS NEWS LIVE,https://www.youtube.com/watch?v=lZo_X9bsTYE
-CGTN Europe,https://www.youtube.com/watch?v=_6dRRfnYJws
-CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
-Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
-Fox NEWS Live Now,https://www.youtube.com/watch?v=YDfiTGGPYCk
-FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
-KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
-KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
-Nat geo wild,https://www.youtube.com/watch?v=BJ3Yv572V1A
-NBC NEWS NOW,youtube.com/watch?v=1AdUc-Eul_k
-NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-RT LIVE,https://www.youtube.com/watch?v=GZm0UuozlpA
-Sky News,https://www.youtube.com/watch?v=oQim6AnuFhY
-TRT WORLD,https://www.youtube.com/watch?v=KK3bo6v7x8U
-
 港澳台|备①,#genre#
 無綫新聞台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
@@ -466,77 +419,50 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东大湾区卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=gdgj&usign=ktMK8lyLfEnok6_oExMv4w
 广东大湾区卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=nfws&usign=ktMK8lyLfEnok6_oExMv4w
 广东大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
-广东大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
-广东大湾区卫视,http://218.15.20.81:3388/hls/13/index.m3u8
 广东大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 广东大湾区卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.215:5146
-广东大湾区卫视,http://14.118.74.55:10001/rtp/239.77.0.215:5146
 广东大湾区卫视,http://www.yahao.host:4022/udp/239.77.0.215:5146
 广东卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdwshd&usign=ktMK8lyLfEnok6_oExMv4w
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-广东卫视,http://61.145.242.11:9088/hls/19/index.m3u8
-广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
-广东卫视,http://14.118.74.55:10001/rtp/239.77.0.84:5146
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 广东4K超高清,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs3&usign=ktMK8lyLfEnok6_oExMv4w
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:82/live1/jsb.m3u8?id=gdxwa&usign=ktMK8lyLfEnok6_oExMv4w
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
-广东新闻,http://61.145.242.11:9088/hls/20/index.m3u8
-广东新闻,http://14.118.74.55:10001/rtp/239.77.0.173:5146
 广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
 广东民生,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdgg&usign=ktMK8lyLfEnok6_oExMv4w
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
-广东民生,http://61.145.242.11:9088/hls/16/index.m3u8
-广东民生,http://14.118.74.55:10001/rtp/239.77.0.225:5146
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
 广东影视,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs4&usign=ktMK8lyLfEnok6_oExMv4w
-广东影视,http://61.145.242.11:9088/hls/22/index.m3u8
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
-广东影视,http://14.118.74.55:10001/rtp/239.77.0.217:5146
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
 广东珠江,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdzj&usign=ktMK8lyLfEnok6_oExMv4w
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东珠江,http://61.145.242.11:9088/hls/23/index.m3u8
-广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://cdn.163189.xyz/163189/gdzj
-广东珠江,https://cdn2.101.qzz.io/163189/gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江,http://14.118.74.55:10001/rtp/239.77.0.1:5146
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东体育,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdty&usign=ktMK8lyLfEnok6_oExMv4w
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
-广东体育,http://14.118.74.55:10001/rtp/239.77.0.112:5146
-广东体育,http://183.7.151.166:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://183.57.248.86:8183/tsfile/live/1000_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,https://cdn2.101.qzz.io/163189/gdty
 广东体育,http://cdn.163189.xyz/163189/gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,http://14.118.74.55:10001/rtp/239.77.0.112:5146
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
 广东少儿,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdtvs5&usign=ktMK8lyLfEnok6_oExMv4w
 广东少儿,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs5&usign=ktMK8lyLfEnok6_oExMv4w
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
-广东少儿,http://61.145.242.11:9088/hls/17/index.m3u8
-广东少儿,http://14.118.74.55:10001/rtp/239.77.0.250:5146
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
 广东移动,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdyd&usign=ktMK8lyLfEnok6_oExMv4w
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
-广东移动,http://61.145.242.11:9088/hls/21/index.m3u8
-广东经济科教,http://14.118.74.55:10001/rtp/239.77.0.85:5146
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
 广东岭南戏曲,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdlnxq&usign=ktMK8lyLfEnok6_oExMv4w
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
+广州新闻,https://cdn16.163189.xyz/163189/gzxw
 广州新闻,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzxw&usign=ktMK8lyLfEnok6_oExMv4w
 广州新闻,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
-广州新闻,https://cdn15.163189.xyz/163189/90871926591ebcbc
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
@@ -546,17 +472,16 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广州综合,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzzh&usign=ktMK8lyLfEnok6_oExMv4w
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州综合,https://cdn16.163189.xyz/163189/gzzh
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,http://47.108.20.161:8866/guangdong/guangzhou.php?id=zhonghe
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe 
-广州综合,http://14.118.74.55:10001/rtp/239.253.43.71:5146
 广州法治,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 广州法治,https://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi 
 广州法治,http://47.108.20.161:8866/guangdong/guangzhou.php?id=fazhi
-广州法治,http://14.118.74.55:10001/rtp/239.253.43.74:5146
 广州影视,http://tencentplaybusiness.gztv.com/live/yingshi.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,http://xhyx.gz.cn:1698/hls/93/index.m3u8
@@ -567,6 +492,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广州南国都市4K,http://r.jdshipin.com/nWaZO
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+广州南国都市,https://cdn15.163189.xyz/163189/ngds
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,http://47.108.20.161:8866/guangdong/guangzhou.php?id=shenghuo
 深圳卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=szwshd&usign=ktMK8lyLfEnok6_oExMv4w
@@ -2030,8 +1956,6 @@ NOW SPORTS 619,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
 NOW SPORTS 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465860
 NOW SPORTS 619,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465860
 五星体育,https://cdn15.163189.xyz/163189/wxty
-世杯小红书,https://pull.jxxgz.top/live/8881872.flv?auth_info=LLUwFvUDmusjDjUiqGctVd%2Bfn214%2Fp37BKXW1sNCM0o%3D.4661373452546d6c5a69724b7135586e
-世杯KR,https://pull.yaokun1985.com/live/9327905.flv?auth_info=9ei3Vq3UAsx%2F9r%2FHqzf%2FGluiEt2IG33VfCHk%2B9EhmYc%3D.6f54334d6d75487350423948446e6172
 愛爾達體育1台,http://www.kaniptv.cn/ua3.php?etoken=98kg7MdAIhZAdR6fGgjF%2BGBby2EkFuqevt%2BujVmLw0HP2LOAKKseBI9Zc3FArl03Ghf5jUuc%2FyUsjAYVK7cZx5r3DOOIaPTZ4UmNshB9leyZoIN6z5g3%2B1JjbRcC6NVLXhRLa2oZrd1uJTgbuQoMkG4456gAknxZwk2%2BDVS3igcPcMhkQ%2F8tBVQnnmnF75VdIwjxiWjfhn1orSS4uyF%2FgbJibSgcF%2FUhfdAjyRETScLhTYucGVKvbGpwfaUqQRSpyeKnIJWpbrgtxdJOkPVSwzEHZXMpNGHHg3UW5eJhvEpF%2FRu4aIm%2FSThGa8Tx%2F%2BGJA6%2BwxS2tE7KAC8CjT89TmA%3D%3D
 愛爾達體育2台,http://www.kaniptv.cn/ua3.php?etoken=W98DGESOWInL3wHSC1Zl4uVKhR4QDoXCF%2Fam00K3MehiBtE%2F0DgW5mcUaBiNx8aUqoOc6BkQBEnyelA%2B9Dy25ev97f8hXkrA49FlkpRUHpdbn8tF3UYH1UbBbKjc2epfAZSWdS6qDpVHEQwE%2Bq1owO2nI8%2FgNMOF4cOJdMKkFnY%2BnXE9W5ZqjeayKQhFWMQR6KGBj%2F%2BDdNvpS%2BSowMw6x5hHXfFIIh9PHnBVrKUHLlWgYKKEfbdaY2hei%2FG0NDgl0qU3yRxncdPcA6UEZj7VF2mGWJ%2BRvq9QWM1jCo712aLOSDwPXyT%2FVdn0ChgS4xleb3T9AmjauWyQ9VdI%2FSMyAA%3D%3D
 DAZN MUNDIAL 1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1745110
@@ -2456,75 +2380,74 @@ Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/
 TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-m
 
 ky.restream LOS ANGELES,#genre#
-CBSN LOS ANGELES,http://ky-tv.cc/live/brendan1/brendan1/517581.ts
+CBSN LOS ANGELES,http://kytv.xyz:80/live/brendan1/brendan1/517581.ts
 CBSN LOS ANGELES,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/112185
-KABC,http://ky-tv.cc/live/brendan1/brendan1/517452.ts
-KABC,http://ky-tv.cc/live/brendan1/brendan1/648313.ts
+KABC,http://kytv.xyz:80/live/brendan1/brendan1/517452.ts
+KABC,http://kytv.xyz:80/live/brendan1/brendan1/648313.ts
 KABC,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2684
-KCAL,http://ky-tv.cc/live/brendan1/brendan1/517581.ts
-KCAL,http://ky-tv.cc/live/brendan1/brendan1/648417.ts
+KCAL,http://kytv.xyz:80/live/brendan1/brendan1/517581.ts
+KCAL,http://kytv.xyz:80/live/brendan1/brendan1/648417.ts
 KCAL,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/87548
-KCBS,http://ky-tv.cc/live/brendan1/brendan1/517519.ts
-KCBS,http://ky-tv.cc/live/brendan1/brendan1/648418.ts
+KCBS,http://kytv.xyz:80/live/brendan1/brendan1/517519.ts
+KCBS,http://kytv.xyz:80/live/brendan1/brendan1/648418.ts
 KCBS,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2637
 KCBS,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2622
-KNBC,http://ky-tv.cc/live/brendan1/brendan1/517814.ts
-KNBC,http://ky-tv.cc/live/brendan1/brendan1/648649.ts
+KNBC,http://kytv.xyz:80/live/brendan1/brendan1/517814.ts
+KNBC,http://kytv.xyz:80/live/brendan1/brendan1/648649.ts
 KNBC,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2453
-KTLA,http://ky-tv.cc/live/brendan1/brendan1/517786.ts
+KTLA,http://kytv.xyz:80/live/brendan1/brendan1/517786.ts
 KTLA,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/87547
 KTLA,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/90546
-KTTV,http://ky-tv.cc/live/brendan1/brendan1/648521.ts
-KTTV,http://ky-tv.cc/live/brendan1/brendan1/517267.ts
+KTTV,http://kytv.xyz:80/live/brendan1/brendan1/648521.ts
+KTTV,http://kytv.xyz:80/live/brendan1/brendan1/517267.ts
 KTTV,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2550
-SPECTRUM NEWS 1 LOS ANGELES,http://ky-tv.cc/live/brendan1/brendan1/2882221.ts
 SPECTRUM NEWS 1 LOS ANGELES,http://kytv.xyz:80/live/brendan1/brendan1/2882221.ts
 
 ky.restream NEWS,#genre#
-ABC NEWS LIVE,http://ky-tv.cc/live/brendan1/brendan1/648323.ts
+ABC NEWS LIVE,http://kytv.xyz:80/live/brendan1/brendan1/648323.ts
 ABC NEWS LIVE,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/38235
 ACCU WEATHER,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/76440
-ACCU WEATHER,http://ky-tv.cc/live/brendan1/brendan1/175785.ts
-ALJAZEERA,http://ky-tv.cc/live/brendan1/brendan1/499315.ts
+ACCU WEATHER,http://kytv.xyz:80/live/brendan1/brendan1/175785.ts
+ALJAZEERA,http://kytv.xyz:80/live/brendan1/brendan1/499315.ts
 ALJAZEERA,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/89034
-BBC WORLD NEWS,http://ky-tv.cc/live/brendan1/brendan1/1847083.ts
+BBC WORLD NEWS,http://kytv.xyz:80/live/brendan1/brendan1/1847083.ts
 BBC WORLD NEWS,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/659609
-BLOOMBERG,http://ky-tv.cc/live/brendan1/brendan1/1852103.ts
+BLOOMBERG,http://kytv.xyz:80/live/brendan1/brendan1/1852103.ts
 BLOOMBERG,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3615
-CBS NEWS 24/7,http://ky-tv.cc/live/brendan1/brendan1/517979.ts
+CBS NEWS 24/7,http://kytv.xyz:80/live/brendan1/brendan1/517979.ts
 CBS NEWS 24/7,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3620
 CNA,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/659605
-CNN,http://ky-tv.cc/live/brendan1/brendan1/1846753.ts
+CNN,http://kytv.xyz:80/live/brendan1/brendan1/1846753.ts
 CNN,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3625
 CNN,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659612
 CNN Indonesia,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659613
-CNN INTL,http://ky-tv.cc/live/brendan1/brendan1/181884.ts
+CNN INTL,http://kytv.xyz:80/live/brendan1/brendan1/181884.ts
 CNN INTL,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/88946
-CNBC,http://ky-tv.cc/live/brendan1/brendan1/943540.ts
+CNBC,http://kytv.xyz:80/live/brendan1/brendan1/943540.ts
 CNBC,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3624
 DW NEWS,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659614
-FOX BUSINESS,http://ky-tv.cc/live/brendan1/brendan1/2209769.ts
+FOX BUSINESS,http://kytv.xyz:80/live/brendan1/brendan1/2209769.ts
 FOX BUSINESS,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/2568
-FOX NEWS,http://ky-tv.cc/live/brendan1/brendan1/648545.ts
+FOX NEWS,http://kytv.xyz:80/live/brendan1/brendan1/648545.ts
 FOX NEWS,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3647
 Fox News 4K,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659615
-FOX WEATHER,http://ky-tv.cc/live/brendan1/brendan1/2567237.ts
+FOX WEATHER,http://kytv.xyz:80/live/brendan1/brendan1/2567237.ts
 FOX WEATHER,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/638797
-FRANCE 24,http://ky-tv.cc/live/brendan1/brendan1/189950.ts
+FRANCE 24,http://kytv.xyz:80/live/brendan1/brendan1/189950.ts
 FRANCE 24,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/434228
-MSNBC,http://ky-tv.cc/live/brendan1/brendan1/228579.ts
+MSNBC,http://kytv.xyz:80/live/brendan1/brendan1/228579.ts
 MSNBC,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/3663
-NBC NEWS NOW,http://ky-tv.cc/live/brendan1/brendan1/189950.ts
+NBC NEWS NOW,http://kytv.xyz:80/live/brendan1/brendan1/189950.ts
 NBC NEWS NOW,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/638808
-RT NEWS,http://ky-tv.cc/live/brendan1/brendan1/2310343.ts
+RT NEWS,http://kytv.xyz:80/live/brendan1/brendan1/2310343.ts
 RT NEWS,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/659563
-RTE NEWS,http://ky-tv.cc/live/brendan1/brendan1/189995.ts
-SKY NEWS,http://ky-tv.cc/live/brendan1/brendan1/1383051.ts
+RTE NEWS,http://kytv.xyz:80/live/brendan1/brendan1/189995.ts
+SKY NEWS,http://kytv.xyz:80/live/brendan1/brendan1/1383051.ts
 SKY NEWS,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659616
 TRT World,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/659618
 TVG,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/21628
 TVG 2,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/21629
-THE WEATHER CHANNEL,http://ky-tv.cc/live/brendan1/brendan1/175945.ts
+THE WEATHER CHANNEL,http://kytv.xyz:80/live/brendan1/brendan1/175945.ts
 THE WEATHER CHANNEL,https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/42308
 
 🎸演唱会现场,#genre#
