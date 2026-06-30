@@ -833,6 +833,26 @@ TRACE URBAN,http://220.135.64.124:5050/of-4gtv-4gtv082/index.m3u8?proxy=true
 TRACE SPORT STARS,http://220.135.64.124:5050/of-4gtv-4gtv077/index.m3u8?proxy=true
 TV5monde,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
+央视cdn163189,#genre#
+CCTV-1,https://cdn.qd.je/163189.php?id=cctv1
+CCTV-2,https://cdn.qd.je/163189.php?id=cctv2
+CCTV-3,https://cdn.qd.je/163189.php?id=cctv3
+CCTV-4,https://cdn.qd.je/163189.php?id=cctv4
+CCTV-5,https://cdn.qd.je/163189.php?id=cctv5
+CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p
+CCTV-6,https://cdn.qd.je/163189.php?id=cctv6
+CCTV-7,https://cdn.qd.je/163189.php?id=cctv7
+CCTV-8,https://cdn.qd.je/163189.php?id=cctv8
+CCTV-9,https://cdn.qd.je/163189.php?id=cctv9
+CCTV-10,https://cdn.qd.je/163189.php?id=cctv10
+CCTV-11,https://cdn.qd.je/163189.php?id=cctv11
+CCTV-12,https://cdn.qd.je/163189.php?id=cctv12
+CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
+CCTV-14,https://cdn.qd.je/163189.php?id=cctv14
+CCTV-15,https://cdn.qd.je/163189.php?id=cctv15
+CCTV-16,https://cdn.qd.je/163189.php?id=cctv16
+CCTV-17,https://cdn.qd.je/163189.php?id=cctv17
+
 74.91 CN,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
