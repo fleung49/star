@@ -442,12 +442,14 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://cdn.163189.xyz/163189/gdzj
+广东珠江,https://cdn.qd.je/163189.php?id=gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东体育,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdty&usign=ktMK8lyLfEnok6_oExMv4w
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn.163189.xyz/163189/gdty
+广东体育,https://cdn.qd.je/163189.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
@@ -494,6 +496,7 @@ RTHK-35台,p3p://fccs.ddns.net:19906/6649b7100008096b53d82f711ddb55de
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
+广州南国都市,https://cdn.qd.je/163189.php?id=ngds
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,http://47.108.20.161:8866/guangdong/guangzhou.php?id=shenghuo
 深圳卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=szwshd&usign=ktMK8lyLfEnok6_oExMv4w
@@ -852,6 +855,9 @@ CCTV-14,https://cdn.qd.je/163189.php?id=cctv14
 CCTV-15,https://cdn.qd.je/163189.php?id=cctv15
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16
 CCTV-17,https://cdn.qd.je/163189.php?id=cctv17
+广东珠江,https://cdn.qd.je/163189.php?id=gdzj
+广东体育,https://cdn.qd.je/163189.php?id=gdty
+广州南国都市,https://cdn.qd.je/163189.php?id=ngds
 
 74.91 CN,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
