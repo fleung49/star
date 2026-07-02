@@ -109,6 +109,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 港澳台|备①,#genre#
 無綫新聞台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+無綫新聞台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzUwMDk1My50cw==
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 无线新闻,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
@@ -137,15 +138,17 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
-TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
-TVB娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
+TVB娱乐新闻台,https://cdn.qd.je/163189.php?id=ylxw
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
+TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495602
 TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
-TVB1,http://66.163.115.84/hendrix1/hendrix1/28233
-TVBJ1,http://66.163.115.84/hendrix1/hendrix1/28232
+TVB1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495604
+TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495598
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 TVB DRAMA,https://cdn.qd.je/163189.php?id=tvbd
+TVB DRAMA,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495603
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
@@ -289,7 +292,7 @@ Astro欢喜台,http://o11.163189.xyz/stream/live/hxt/
 爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 八度空间,https://cdn6.163189.xyz/163189/8tv
 八度空间,https://cdn.qd.je/163189.php?id=8tv
-CNA,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvbTI2MDQxOTMzNzg4MDg2NS8xMTExMTEvMTEzMjEudHM=
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CH5,https://cdn.qd.je/163189.php?id=ch5
 CH8,https://cdn.qd.je/163189.php?id=ch8
 CHU,https://cdn.qd.je/163189.php?id=chu
@@ -1925,6 +1928,7 @@ FOX 26,https://iptv.domains/Henry/123456/345527
 FS1,http://amethystc.live/RayMcDatt56/Uld2rukiJBuCd5GC/340019
 FS1,http://primestreams.tv:826/anto.j/c9yJDcXyPe/120267
 TSN 1,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/17181.ts
+TSN 1,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzY0NDYxLnRz
 TSN 2,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/17180.ts
 TSN 1 4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 TSN 2 4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
