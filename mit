@@ -1051,7 +1051,6 @@ MOMO親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
 Nick Jr. 兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=219
 TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 
-
 4gtv.cnlive,#genre#
 寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
@@ -1731,6 +1730,7 @@ NOW SPORTS 616,http://primestreams.tv:826/anto.j/c9yJDcXyPe/120336
 NOW SPORTS 616,http://185.160.192.64/live/mangin15/85784/465865.ts
 NOW SPORTS 616,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 NOW SPORTS 616,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465865
+NOW SPORTS 616,http://starhub.pro/farhat-3379/67897-913379/745270
 NOW SPORTS 617,http://primestreams.tv:826/anto.j/c9yJDcXyPe/120337
 NOW SPORTS 617,http://185.160.192.64/live/mangin15/85784/465865.ts
 NOW SPORTS 617,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
@@ -1759,7 +1759,8 @@ DAZN MUNDIAL 3,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:
 DAZN MUNDIAL 4,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1745113
 TUDN,https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 BBC 1,http://tv.cloudcdn.me/live.ts?channelId=4213&uid=4280&deviceMac=00:1A:79:07:07:43
-BEIN SPORTS 1 FR,http://185.160.192.64/live/mangin15/85784/465913.ts
+BEIN SPORTS 1 FR,http://185.160.192.64/mangin15/85784/465913
+BEIN SPORTS MAX 1,http://starhub.pro/farhat-3379/67897-913379/744517
 FIFA 1,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/135151.ts
 FIFA 2,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/135152.ts
 FIFA 3,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/135153.ts
@@ -1770,6 +1771,8 @@ FOX 26,http://amethystc.live/RayMcDatt56/Uld2rukiJBuCd5GC/340018
 FOX 26,http://primestreams.tv:826/anto.j/c9yJDcXyPe/120266
 FS1,http://amethystc.live/RayMcDatt56/Uld2rukiJBuCd5GC/340019
 FS1,http://primestreams.tv:826/anto.j/c9yJDcXyPe/120267
+FS1,http://starhub.pro/farhat-3379/67897-913379/130044
+SPORT TV 1,http://starhub.pro/farhat-3379/67897-913379/688307
 TSN 1,https://tv123.cc.cd/live.php?ch=1144606f1061
 TSN 1,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1621.ts
 TSN 1,http://premiumclub.streamtv.to:8080/live/Fratila/VQlMIcx3iE/17181.ts
@@ -1783,6 +1786,7 @@ TSN 2 4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 TVP 1,http://nexusconnects.org/live/73VYA4/QSJ4VX/1745105.ts
 LALIGA 1,http://185.160.192.64/live/mangin15/85784/465905.ts
 M6,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
+UNITE8 SPORTS 1,http://starhub.pro/farhat-3379/67897-913379/741567
 
 Primestreams,#genre#
 KABC,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109800.ts
