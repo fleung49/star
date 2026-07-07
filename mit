@@ -55,6 +55,7 @@ CGTN-F,video://http://wcetv.com/videos/view/liv/5
 台視新聞台,video://http://wcetv.com/videos/view/liv/9
 雲南衛視,video://http://wcetv.com/videos/view/liv/10
 廣東衛視,video://http://wcetv.com/videos/view/liv/11
+中天新聞台,video://https://v.kylintv.com/#/livedetails?id=44657EE3F5EBA103F5A6
 
 US italkbbtv,#genre#
 凤凰资讯台,video://https://m.italkbbtv.com/live/62cc97174725b5305843c454
@@ -1753,6 +1754,7 @@ ANTENNA 1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD
 ANTENNA 2,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1765325
 AZTECA 7,http://daleplaytv.vip/ClienteHectorM2m8Ma/hW8eAXqdNp5c/450926
 DSPORTS,http://185.160.192.64/live/mangin15/85784/465846.ts
+DAZN MUNDIAL 1,http://izzantv.webhop.me:80/play/live.php?extension=ts&mac=00:1B:79:1C:78:40&stream=1745110
 DAZN MUNDIAL 1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1745110
 DAZN MUNDIAL 2,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1745111
 DAZN MUNDIAL 3,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1745112
