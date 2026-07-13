@@ -110,6 +110,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 無綫新聞台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 無綫新聞台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzUwMDk1My50cw==
+無綫新聞台,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzYxNjQ2MS50cw==
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 无线新闻,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
@@ -1179,19 +1180,27 @@ TRUE PREMIERE LEAGUE 5 [TH],https://tv.media4u.top:443/live/media4u/media4u/6488
 media4u LOS ANGELES,#genre#
 KABC,https://tv.media4u.top/media4u/media4u/303268
 KABC,https://tv.media4u.top/media4u/media4u/253892
+KABC,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTQ4OTgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 KCBS,https://tv.media4u.top/media4u/media4u/882420
 KCBS,https://tv.media4u.top/media4u/media4u/252413
+KCBS,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTQ5NjM2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 KCAL,https://tv.media4u.top/media4u/media4u/856166
 KCAL,https://tv.media4u.top/media4u/media4u/499907
 KCAL,https://tv.media4u.top/media4u/media4u/915523
+KCAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NzYwMTIyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 KTLA,https://tv.media4u.top/media4u/media4u/829612
 KTLA,https://tv.media4u.top/media4u/media4u/809465
 KTLA,https://tv.media4u.top/media4u/media4u/39318
+KTLA,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzQ2OTMzNi50cw==
 KNBC,https://tv.media4u.top/media4u/media4u/58292
 KNBC,https://tv.media4u.top/media4u/media4u/301437
+KNBC,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTUwMzgyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+KNBC,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU1MDM4MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 KTTV,https://tv.media4u.top/media4u/media4u/499907
 KTTV,https://tv.media4u.top/media4u/media4u/852282
+KTTV,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU0OTg3NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 Spectrum News 1-SO CAL,https://tv.media4u.top/media4u/media4u/13986
+SPECTRUM NEWS 1 - SO CAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MTM5NjQ1MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1XYzNaakh4UmtJ
 
 media4u World News,#genre#
 ABC News Live (USA),https://tv.media4u.top:443/live/media4u/media4u/355280
@@ -1210,6 +1219,7 @@ CNA,https://tv.media4u.top/media4u/media4u/870317
 CNBC (USA),https://tv.media4u.top:443/live/media4u/media4u/886404
 CNBC World (USA),https://tv.media4u.top:443/live/media4u/media4u/189811
 CNN (USA),https://tv.media4u.top:443/live/media4u/media4u/432333
+CNN,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU1MjAwMSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 CNN INTERNATIONAL,https://tv.media4u.top:443/live/media4u/media4u/884065
 CP 24 (Canada),https://tv.media4u.top:443/live/media4u/media4u/238132
 CTV NEWS (Canada),https://tv.media4u.top:443/live/media4u/media4u/881552
