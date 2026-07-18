@@ -115,6 +115,8 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 无线新闻,https://cdn6.cc.cd/163189/wxxw
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/492389.ts
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
+无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
 翡翠台,https://cdn6.123.rr.kg/163189/fct
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/492383.ts
@@ -156,7 +158,7 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰香港,https://cdn6.123.rr.kg/163189/fhhk
 凤凰香港,video://https://www.faintv.com/channel/18965
 凤凰美洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
-凤凰美洲台,http://185.80.197.39:80/play/live.php?extension=ts&mac=00:1A:79:08:D9:F1&stream=156408
+凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156408
 HOY76,https://cdn11.123.rr.kg/163189/hoy76
 HOY77,https://cdn.123.rr.kg/163189/hoy
 HOY78,https://cdn.123.rr.kg/163189/hoy78
@@ -172,7 +174,6 @@ NOW新闻台,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
 NOW财经台,https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 Now直播台,https://cdn.19891230.eu.org/hk/now-331/index.m3u8
 Now Sports Prime,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
-NOW SPORTS 4K,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
 Now18台,http://124.244.129.167:9004/0.ts
 Now18台,http://qingyi.7766.org:9004/0.ts
 Now 618,http://42.98.241.116:9241/0.ts
@@ -214,7 +215,11 @@ CCTV2,https://cdn16.123.rr.kg/163189/cctv2
 CCTV3,https://cdn16.123.rr.kg/163189/cctv3
 CCTV4,https://cdn16.123.rr.kg/163189/cctv4
 CCTV5,https://cdn16.123.rr.kg/163189/cctv5
+cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
+cctv5,http://82.156.243.185:36888/av3a/cctv5.m3u8
 CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
+cctv5+,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+cctv5+,http://82.156.243.185:36888/av3a/cctv5p.m3u8
 CCTV6,https://cdn16.123.rr.kg/163189/cctv6
 CCTV7,https://cdn16.123.rr.kg/163189/cctv7
 CCTV8,https://cdn16.123.rr.kg/163189/cctv8
@@ -226,7 +231,14 @@ CCTV13,https://cdn16.123.rr.kg/163189/cctv13
 CCTV14,https://cdn16.123.rr.kg/163189/cctv14
 CCTV15,https://cdn16.123.rr.kg/163189/cctv15
 CCTV16,https://cdn16.123.rr.kg/163189/cctv16
+cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+cctv16,http://82.156.243.185:36888/av3a/cctv16.m3u8
 CCTV17,https://cdn16.123.rr.kg/163189/cctv17
+cctv4k,http://107.150.52.50:82/live/cctv4k.m3u8
+cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+cctv4k,http://82.156.243.185:36888/av3a/cctv4k.m3u8
+cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+cctv8k,http://82.156.243.185:36888/av3a/cctv8k.m3u8
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 CGTN GLOBAL BIZ,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
@@ -248,30 +260,27 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-寰宇新闻台,hhttp://106.107.242.201:50007/litv-longturn14/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-寰宇新闻台,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-寰宇新聞台灣台,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+寰宇新聞台,https://4gtv.tv911.ccwu.cc/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0&token=tv123
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-寰宇財經新聞,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-镜新闻,http://rihou.cc:555/tv/镜新闻
+寰宇新聞台灣台,https://4gtv.tv911.ccwu.cc/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=tv123
+镜新闻,https://4gtv.tv911.ccwu.cc/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0&token=tv123
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-中天新闻,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻2,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+中天新闻,https://4gtv.tv911.ccwu.cc/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0&token=tv123
 中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
-TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+中視新聞,https://4gtv.tv911.ccwu.cc/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E&token=tv123
+TVBS,https://4gtv.tv911.ccwu.cc/playlist?channel=TVBS&token=tv123
+TVBS新聞,https://4gtv.tv911.ccwu.cc/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=tv123
+TVBS歡樂台,https://4gtv.tv911.ccwu.cc/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0&token=tv123
+TVBS精采台,https://4gtv.tv911.ccwu.cc/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0&token=tv123
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
-TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻台,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS欢乐台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-东森新闻,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-东森财经新闻,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+东森新闻,https://4gtv.tv911.ccwu.cc/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0&token=tv123
+东森财经新闻,https://4gtv.tv911.ccwu.cc/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0&token=tv123
 东森财经新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
@@ -285,7 +294,6 @@ TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzL
 民視健康美麗生活-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=376
 华视,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 华视新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
-华视新闻,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 龍華電影,https://cdn8.123.rr.kg/163189/lhdy
 龍華偶像,https://cdn8.123.rr.kg/163189/lhox
 龍華戲劇,https://cdn8.123.rr.kg/163189/lhxj
@@ -316,8 +324,11 @@ TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzL
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
+FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90350
 FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
-FAIRCHILD 2 HD,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
+FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90351
+FAIRCHILD 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
+FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90352
 
 香港p3p,#genre#
 无线新闻台,p3p://fccs.ddns.net:19906/653e4818000b73240c7d19181340415e
@@ -619,149 +630,64 @@ HZTV-2,http://14.118.74.55:10001/rtp/239.77.1.233:5146
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
-4g4v台湾频道106,#genre#
-寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-寰宇新聞台灣台,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-寰宇財經,http://106.107.242.201:50007/4gtv-4gtv158/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-鏡電視新聞台,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中天亞洲台,http://106.107.242.201:50007/4gtv-4gtv109/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中天新聞台,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS HD,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS台劇台,http://106.107.242.201:50007/4gtv-live088/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS新聞台,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TVBS綜藝台,http://106.107.242.201:50007/4gtv-live087/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-三立綜合台,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中視,http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中視新聞台,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中視經典台,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-中視菁采台,http://106.107.242.201:50007/4gtv-4gtv064/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-東森購物一台,http://106.107.242.201:50007/4gtv-4gtv102/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-東森購物二台,http://106.107.242.201:50007/4gtv-4gtv103/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-非凡商業,http://106.107.242.201:50007/4gtv-4gtv048/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-非凡新聞,http://106.107.242.201:50007/4gtv-4gtv010/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-台灣戲劇台,http://106.107.242.201:50007/litv-longturn22/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-台視HD,http://106.107.242.201:50007/4gtv-4gtv066/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-台視新聞台,http://106.107.242.201:50007/4gtv-4gtv051/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-台視財經台,http://106.107.242.201:50007/4gtv-4gtv056/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-華視,http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-華視新聞台,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視HD,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視台灣台,http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視旅遊,http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視第一台,http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-八大精彩,http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-八大綜藝,http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-原住民族電視台,http://106.107.242.201:50007/4gtv-live014/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-霹靂布袋戲,http://106.107.242.201:50007/4gtv-live145/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-大愛二台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-大愛電視,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-好消息,http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-好消息2台,http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-倪珍英語新聞,http://106.107.242.201:50007/nnews-en/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-倪珍越語新聞,http://106.107.242.201:50007/nnews-vn/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-亞洲旅遊,http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯無限I,http://106.107.242.201:50007/litv-longturn10/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯無限II,http://106.107.242.201:50007/litv-longturn13/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯網球,http://106.107.242.201:50007/litv-longturn09/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯運動I,http://106.107.242.201:50007/litv-longturn07/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯運動II,http://106.107.242.201:50007/litv-longturn08/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯高球I,http://106.107.242.201:50007/litv-longturn05/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯高球II,http://106.107.242.201:50007/litv-longturn06/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-博斯魅力,http://106.107.242.201:50007/litv-longturn04/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天卡通台,http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天國際,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天戲劇,http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天日本,http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天映畫,http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天歡樂,http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天綜合,http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天育樂,http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天資訊,http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖天電影,http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖洋卡通,http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-韓國娛樂台,http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華偶像,http://106.107.242.201:50007/litv-longturn12/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華卡通,http://106.107.242.201:50007/litv-longturn01/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華戲劇,http://106.107.242.201:50007/litv-longturn18/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華日韓,http://106.107.242.201:50007/litv-longturn11/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華洋片,http://106.107.242.201:50007/litv-longturn02/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華經典,http://106.107.242.201:50007/litv-longturn21/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-龍華電影,http://106.107.242.201:50007/litv-longturn03/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-國會頻道1,http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-國會頻道2,http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-幸福空間居家台,http://106.107.242.201:50007/4gtv-live206/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-影迷數位紀實台,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-影迷數位電影台,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-戲劇免費看1台,http://106.107.242.201:50007/4gtv-live010/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-新唐人亞太台,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-智林體育,http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-歐洲光影,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-第1商業台,http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-經典卡通台,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-經典電影台,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-視納華仁紀實頻道,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-車迷 TV,http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-達文西,http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-電影原聲台 CMusic,http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-amc 電影台,http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ALJAZEERA 半島國際新聞台,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Arirang TV,http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-BLOOMBERG TV,http://106.107.242.201:50007of-/4gtv-live059/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-CI 罪案偵查頻道,http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Cinema World,http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-CLASSICA 古典樂,http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-CNBC Asia 財經台,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-DreamWorks,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ELTA娛樂,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ELTA生活旅遊,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ELTV生活英語台,http://106.107.242.201:50007/litv-longturn20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-FRANCE24,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-FUN 4K探索娛樂,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-HITS,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-INULTRA,http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Lifetime,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-LiveABC 互動英語台,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-LOVE NATURE,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-LUXE TV,http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-MagellanTV頻道,http://106.107.242.201:50007/4gtv-live123/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-MEZZO LIVE HD,http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-MTV Live,http://106.107.242.201:50007/4gtv-live025/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-NHK WORLD,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Nick Jr.,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Nickelodeon,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Pet Club TV,http://106.107.242.201:50007/4gtv-live110/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-SBN 全球財經台,http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Smart知識台,http://106.107.242.201:50007/litv-longturn19/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Trace Urban,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-TV5MONDE Style,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+trexlive CN,#genre#
+无线新闻台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
+TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153396
+TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153401
+TVBJ1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153395
+TVBe,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153398
+TVB DRAMA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153400
+凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=114695
+凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156407
+凤凰美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153402
+凤凰美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156408
+天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919463
+天映频道,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919461
+CCTV3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=903374
+CCTV4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2033862
+CCTV4美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156404
+CCTV4美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90226
+CCTV4美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423389
+CGTN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156413
+CGTN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90227
+CGTN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919460
+CGTN DOCUMENTARY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919459
+CHINA MOVIE CHANNEL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156417
+安徽国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156420
+安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919481
+北京国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156416
+深圳国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156419
+浙江国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156412
+东方国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156415
+东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919401
+湖南国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156418
+湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919436
+江苏国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156423
+江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919431
+海峡卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156424
+华夏电视台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156422
+长城精品,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156409
+长城精品,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156410
+FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90352
+FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90350
+FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90351
+WOWTV,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423381
+天下衛視SKYLINK TV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156399
+天下衛視SKYLINK TV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156400
+美國城市衛視ICITI,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
+漢天電視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156391
+東森中國台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156393
+東森戲劇,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156395
+東森財經,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156396
+東森衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156394
+東森美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156397
+美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
+三立国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156390
+台视综合,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156392
+台视新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156398
+TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156402
+TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153397
+YOYO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156403
 
 4Gtv-220,#genre#
 寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
@@ -2179,61 +2105,6 @@ LALIGA 1,http://185.160.192.64/live/mangin15/85784/465905.ts
 M6,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
 UNITE8 SPORTS 1,http://starhub.pro/farhat-3379/67897-913379/741567
 
-Primestreams,#genre#
-KABC,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109800.ts
-KCBS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109405.ts
-KCAL,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109404.ts
-KTLA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/98469.ts
-KTTV,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109511.ts
-KNBC,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109603.ts
-ABC NEWS LIVE,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119030.ts
-ACCU WEATHER,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/114265.ts
-AL JAZEERA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119442.ts
-BBC NEWS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109111.ts
-BEIN SPORTS USA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1501.ts
-BEIN SPORTS N,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/27685.ts
-BEIN SPORTS LALIGA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/28014.ts
-BEIN SPORTS XTRA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/114577.ts
-BLOOMBERG,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/30274.ts
-CCTV 4,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119452.ts
-CGTN DOCUMENTARY,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/110127.ts
-CNA,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119453.ts
-CNBC,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1346.ts
-CNN,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1347.ts
-CNN INTL,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119460.ts
-CP 24,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/36921.ts
-FOX BUSINSS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/27167.ts
-FOX NEWS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/109150.ts
-FOX WEATHER,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118687.ts
-FRANCE 24,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/119471.ts
-FS1,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118498.ts
-FS2,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/38483.ts
-FOX DEPORTES,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/36267.ts
-MSNBC,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/30001.ts
-NOW SPORTS 4K,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120336.ts
-RACING TV,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/37186.ts
-RTE NEWS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/98809.ts
-SKY NEWS,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/98807.ts
-THE WEATHER CHANNEL,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1454.ts
-TNT,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/96162.ts
-TNT SPORTS 1,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118634.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118635.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118636.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118637.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118638.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118639.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118640.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118641.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/118642.ts
-TNT SPORTS ,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/100707.ts
-TSN 1,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1621.ts
-TSN 2,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1622.ts
-TSN 3,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1623.ts
-TSN 4,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1624.ts
-TSN 5,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/1625.ts
-TVG,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/97589.ts
-FANDUEL RACING TV,http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/35449.ts
-
 kt央卫,#genre#
 CCTV-1,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698607.ts
 CCTV-2,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698608.ts
@@ -2461,6 +2332,246 @@ CNA,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/25837.ts
 CHANNEL 5,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/25833.ts
 CHANNEL 8,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/25834.ts
 CHANNEL U,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/25835.ts
+
+trexlive LOS ANGELES,#genre#
+KABC,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/172930
+KCBS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/173138
+KCAL,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/397115
+KNBC,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/173924
+KTTV,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/173612
+KTLA,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176840
+CBS NEWS LOS ANGELES,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1920381
+SPECTRUM NEWS SO CAL,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1597053
+
+trexlive NEWS,#genre#
+ABC NEWS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1920498
+ACCU WEATHER,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1931179
+ALJAZEERA,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/155749
+BBC NEWS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176797
+BLOOMBERG,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1919467
+CBS NEWS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/45603
+CNA,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1919458
+CNBC,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176804
+CNN,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/442785
+CNN,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/45592
+CNN,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176809
+CNN INTL,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1920665
+CP24,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176805
+DW,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1919451
+FOX BUSINESS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/2030927
+FOX NEWS,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176823
+FOX WEATHER,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1931076
+FRANCE 24,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1919446
+MSNBC,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176827
+NBC NEWS NOW,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1920031
+RT,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/176830
+THE WEATHER CHANNEL,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/716435
+TRT WORLD,http://mag.trexlive.me:80/4753f923d5/5dd52ed922/1564154
+
+trexlive SPORTS,#genre#
+ARENA SPORT !,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077057
+ARENA SPORT 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077056
+ARENA SPORT 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077055
+ARENA SPORT 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077054
+ARENA SPORT 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077053
+ARENA SPORT 6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077052
+ARENA SPORT PREMIUM !,http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=2077060
+ARENA SPORT PREMIUM 2,http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=2077059
+ARENA SPORT PREMIUM 3,http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=2077058
+ASTRO FOOTBALL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=571246
+ASTRO GRANDSTAND,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=571247
+ASTRO PREMIER LEAGUE,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=571245
+ASTRO PREMIER LEAGUE 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=571248
+ASTRO SPORTS PLUS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=554968
+BEIN SPORTS 1 CA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=177356
+BEIN SPORTS 2 CA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=177357
+BEIN SPORTS 4 CA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=177358
+BEIN SPORTS 5 CA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=177359
+BEIN SPORTS 1 VISION+,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919472
+BEIN SPORTS 2 VISION+,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919471
+BEIN SPORTS 3 VISION+,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919470
+BEIN SPORTS 4 VISION+,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919469
+BEIN SPORTS 5 VISION+,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919468
+BEIN SPORTS 1 ID,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=683139
+BEIN SPORTS 2 ID,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=683138
+BEIN SPORTS 1 FR,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=526126
+BEIN SPORTS 2 FR,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=526125
+BEIN SPORTS 3 FR,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=526124
+BEIN SPORTS 1 SG,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=941569
+BEIN SPORTS 2 SG,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=941568
+BEIN SPORTS 3 SG,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=941567
+BEIN SPORTS 4 SG,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=941566
+BEIN SPORTS 5 SG,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=941565
+BEIN SPORTS XTRA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1931159
+BEIN SPORTS MAX 1 TR,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2090078
+BEIN SPORTS MAX 2 TR,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2090077
+CBS SPORTS NETWORK,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1931140
+DAZN LIGA 4K,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=986639
+DAZN LIGA 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1347433
+DAZN LIGA 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2074435
+DAZN LIGA 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2074434
+DUBAI RACING 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=894436
+DUBAI RACING 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=894437
+DUBAI RACING 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=894438
+EQUIDA LUVE,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=894432
+ERC,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=894435
+ESPN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1931094
+ESPN 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1931093
+ESPN NEWS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=45578
+ESPN U,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90958
+ESPN DEPORTES,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1921358
+FOX SPORTS 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077001
+FOX SPORTS 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077000
+HPITV,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=732042
+HPITV EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=732043
+HPITV INTL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=732044
+HPITV WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=732045
+HUB PREMIER 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032529
+HUB PREMIER 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032528
+HUB PREMIER 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032527
+HUB PREMIER 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032526
+HUB PREMIER 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032525
+HUB PREMIER 6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032524
+HUB PREMIER 7,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032523
+HUB PREMIER 8,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032522
+HUB PREMIER 9,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1032521
+HUB SPORTS 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1903771
+HUB SPORTS 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1903772
+HUB SPORTS 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1903773
+HUB SPORTS 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1903774
+HUB SPORTS 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1903775
+LIGUE +1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624009
+LIGUE +2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624008
+LIGUE +3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624007
+LIGUE +4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624006
+LIGUE +5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624005
+LIGUE +6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624004
+LIGUE +7,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624003
+LIGUE +8,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624002
+LIGUE +9,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624001
+LIGUE +10,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1624000
+LALIGA TV BAR 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=107590
+LALIGA TV BAR 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=107589
+LALIGA TV BAR 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=107588
+LALIGA TV BAR 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=107587
+M.LALIGA 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=477159
+M.LALIGA 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=477160
+M.LALIGA 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=915235
+M.LALIGA 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=915237
+RACING TV,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=899881
+SKY BUNDESLIGA 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411572
+SKY BUNDESLIGA 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411570
+SKY BUNDESLIGA 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411568
+SKY BUNDESLIGA 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411566
+SKY BUNDESLIGA 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411564
+SKY BUNDESLIGA 6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411562
+SKY BUNDESLIGA 7,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411560
+SKY BUNDESLIGA 8,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411558
+SKY BUNDESLIGA 9,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411556
+SKY BUNDESLIGA 10,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=411554
+SKY SPORTS FOOTBALL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905858
+SKY SPORTS MAIN EVENT,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905853
+SKY SPORTS MIX,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905850
+SKY SPORTS NEWS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905847
+SKY SPORTS PREMIER LEAGUE,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905844
+SKY SPORTS RACING,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=899880
+SOCCER ChANNEL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919399
+SPORT TV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077015
+SPORT TV 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077014
+SPOTV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919396
+SPOTV 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919395
+TNT 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905819
+TNT 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905816
+TNT 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905812
+TNT 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1905810
+TNT SPORTS|EVENT 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1596285
+TNT SPORTS|EVENT 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1596284
+TNT SPORTS|EVENT 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1596283
+TNT SPORTS|EVENT 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1596282
+TNT SPORTS|EVENT 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1596281
+TSN 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077049
+TSN 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077048
+TSN 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077047
+TSN 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077046
+TSN 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077045
+WIN SPORTS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077040
+WIN SPORTS PLUS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=2077039
+
+trexlive RELAX,#genre#
+RELAX 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502991
+RELAX 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502992
+RELAX 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502993
+RELAX 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502994
+RELAX 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502995
+RELAX 6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502996
+RELAX 7,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502997
+RELAX 8,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502998
+RELAX 9,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502999
+RELAX 10,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503000
+RELAX 11,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503001
+RELAX 12,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503002
+RELAX 13,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503003
+RELAX 14,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503004
+RELAX 15,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503005
+RELAX AUSTRALUA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502985
+RELAX EARTH NATURE,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502986
+RELAX EUTOPE TOWNS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505566
+RELAX FLOWER,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505571
+RELAX FOREST AMERICAN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505565
+RELAX FOREST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502987
+RELAX ICELAND,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503007
+RELAX INSPIRATIONAL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502988
+RELAX ITALY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505561
+RELAX MORNING RELAXATION,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505568
+RELAX MOROCCO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503006
+RELAX NORWAY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1503008
+RELAX NATURE RELAXATION,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505569
+RELAX THE OCEAN,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502989
+RELAX TROPICAL BEACH,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502990
+RELAX TURKEY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1502984
+RELAX SNOW WINTER,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505573
+RELAX STARDUST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505574
+RELAX SWITZERLAND,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505562
+RELAX VIETNAM,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1505564
+
+trexlive MUSIC,#genre#
+BRITNEY SPEARS,,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1061869
+CELINE DION,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1061870
+CLUBLAND,,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372117
+ELVIS PRESLEY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1061871
+MADONNA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1061873
+MICHAEL JACKSON,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=930686
+RIHANNA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1061875
+KARAOKE 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372123
+KARAOKE 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372124
+KARAOKE 3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372125
+KARAOKE 4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372126
+KARAOKE 5,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372127
+KARAOKE 6,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372128
+KARAOKE 7,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372129
+KARAOKE 8,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372130
+MC-POP HITS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372103
+MC-ROCK,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372099
+MC-THROWBACK JAMS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372094
+MC-TODAY'S COUNTRY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1372097
+RETRO 80,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1103406
+STINGRAY EASY LISTENING,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1566930
+STINGRAY FESTIVSL 4K,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423355
+STINGRAY FLASHBACK'70S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423353
+STINGRAY HIP-HOP/R&B,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1566933
+STINGRAY NOTHING BUT 90S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1566931
+STINGRAY REMEMBER THE'80S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423341
+STINGRAY RETRO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423340
+STINGRAY ROMANCE LATINO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1566916
+STINGRAY THE BLUES,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1423334
+VEVO'70S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886257
+VEVO'80S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886256
+VEVO'90S,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886255
+VEVO 2K,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886254
+VEVO COUNTRY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886259
+VEVO HIP-HOP,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886260
+VEVO POP,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886251
+VEVO REGGAETON & TRAP,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=886258
 
 News jmp2,#genre#
 ABC 20/20,https://jmp2.uk/stvp-US4800001W5
