@@ -1,149 +1,385 @@
-赛雷央视卫视,#genre#
-CCTV-1,http://free.cnlive.club/channel/65b36335.m3u8
-CCTV-2,http://free.cnlive.club/channel/65b5b8f5.m3u8
-CCTV-3,http://free.cnlive.club/channel/65b47a65.m3u8
-CCTV-4,http://free.cnlive.club/channel/n4a5d2858.m3u8
-CCTV-5,http://free.cnlive.club/channel/65af9be4.m3u8
-CCTV-5+,http://free.cnlive.club/channel/nef8dac1.m3u8
-CCTV-6,http://free.cnlive.club/channel/65b48560.m3u8
-CCTV-7,http://free.cnlive.club/channel/n408755f8.m3u8
-CCTV-8,http://free.cnlive.club/channel/50fdc854.m3u8
-CCTV-9,http://free.cnlive.club/channel/65b89b46.m3u8
-CCTV-10,http://free.cnlive.club/channel/4ee90a2f.m3u8
-CCTV-11,http://free.cnlive.club/channel/4ee69fa9.m3u8
-CCTV-12,http://free.cnlive.club/channel/3bac7728.m3u8
-CCTV-13,http://free.cnlive.club/channel/4ee827ef.m3u8
-CCTV-14,http://free.cnlive.club/channel/4ee72d51.m3u8
-CCTV-15,http://free.cnlive.club/channel/4eeedf1f.m3u8
-CCTV-16,http://free.cnlive.club/channel/34622605.m3u8
-CCTV-17,http://free.cnlive.club/channel/322d3cd3.m3u8
-CGTN,http://free.cnlive.club/channel/2708082f.m3u8
-大湾区卫视,http://free.cnlive.club/channel/684d0497.m3u8
-北京卫视,http://free.cnlive.club/channel/4ddfb741.m3u8
-湖南卫视,http://free.cnlive.club/channel/5a53e58d.m3u8
-湖北卫视,http://free.cnlive.club/channel/5a52f54d.m3u8
-江苏卫视,http://free.cnlive.club/channel/5a21705c.m3u8
-广东卫视,http://free.cnlive.club/channel/530cf649.m3u8
-深圳卫视,http://free.cnlive.club/channel/5a3478ee.m3u8
-四川卫视,http://free.cnlive.club/channel/4fcef3ee.m3u8
-东南卫视,http://free.cnlive.club/channel/4bada807.m3u8
-浙江卫视,http://free.cnlive.club/channel/5a3edab2.m3u8
-东方卫视,http://free.cnlive.club/channel/4bf2a9e9.m3u8
-广西卫视,http://free.cnlive.club/channel/53ebe4ec.m3u8
-广东珠江,http://free.cnlive.club/channel/n6e47401d.m3u8
-广东体育,http://free.cnlive.club/channel/n2afd3461.m3u8
-广东影视,http://free.cnlive.club/channel/n2afb37ab.m3u8
-汕头综合,http://free.cnlive.club/channel/n2483dc12.m3u8
-汕头经济,http://free.cnlive.club/channel/7e5a2477.m3u8
-潮州民生,http://free.cnlive.club/channel/n230c08ff.m3u8
-潮州综合,http://free.cnlive.club/channel/n2309dfa1.m3u8
+📶央视卫视saileitv,#genre#
+CCTV-1,video://https://saileitv.com/play.html?channelId=65b36335
+CCTV-2,video://https://saileitv.com/play.html?channelId=65b5b8f5
+CCTV-3,video://https://saileitv.com/play.html?channelId=65b47a65
+CCTV-4,video://https://saileitv.com/play.html?channelId=n4a5d2858
+CCTV-5,video://https://saileitv.com/play.html?channelId=65af9be4
+CCTV-5+,video://https://saileitv.com/play.html?channelId=nef8dac1
+CCTV-6,video://https://saileitv.com/play.html?channelId=65b48560
+CCTV-7,video://https://saileitv.com/play.html?channelId=n408755f8
+CCTV-8,video://https://saileitv.com/play.html?channelId=50fdc854
+CCTV-9,video://https://saileitv.com/play.html?channelId=65b89b46
+CCTV-10,video://https://saileitv.com/play.html?channelId=4ee90a2f
+CCTV-11,video://https://saileitv.com/play.html?channelId=4ee69fa9
+CCTV-12,video://https://saileitv.com/play.html?channelId=3bac7728
+CCTV-13,video://https://saileitv.com/play.html?channelId=4ee827ef
+CCTV-14,video://https://saileitv.com/play.html?channelId=4ee72d51
+CCTV-15,video://https://saileitv.com/play.html?channelId=4eeedf1f
+CCTV-16,video://https://saileitv.com/play.html?channelId=34622605
+CCTV-17,video://https://saileitv.com/play.html?channelId=322d3cd3
+CGTN,video://https://saileitv.com/play.html?channelId=2708082f
+大湾区卫视,video://https://saileitv.com/play.html?channelId=684d0497
+北京卫视,video://https://saileitv.com/play.html?channelId=4ddfb741
+湖南卫视,video://https://saileitv.com/play.html?channelId=5a53e58d
+湖北卫视,video://https://saileitv.com/play.html?channelId=5a52f54d
+江苏卫视,video://https://saileitv.com/play.html?channelId=5a21705c
+广东卫视,video://https://saileitv.com/play.html?channelId=530cf649
+深圳卫视,video://https://saileitv.com/play.html?channelId=5a3478ee
+四川卫视,video://https://saileitv.com/play.html?channelId=4fcef3ee
+东南卫视,video://https://saileitv.com/play.html?channelId=4bada807
+浙江卫视,video://https://saileitv.com/play.html?channelId=5a3edab2
+东方卫视,video://https://saileitv.com/play.html?channelId=4bf2a9e9
+广西卫视,video://https://saileitv.com/play.html?channelId=53ebe4ec
+广东珠江,video://https://saileitv.com/play.html?channelId=n6e47401d
+广东体育,video://https://saileitv.com/play.html?channelId=n2afd3461
+广东影视,video://https://saileitv.com/play.html?channelId=n2afb37ab
+汕头综合,video://https://saileitv.com/play.html?channelId=n2483dc12
+汕头经济,video://https://saileitv.com/play.html?channelId=7e5a2477
+潮州民生,video://https://saileitv.com/play.html?channelId=n230c08ff
+潮州综合,video://https://saileitv.com/play.html?channelId=n2309dfa1
 
-赛雷香港,#genre#
-Plus综合,http://free.cnlive.club/channel/6429ae4c.m3u8
-凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
-有线新闻,http://free.cnlive.club/channel/7289243e.m3u8
-无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8
-无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8
-无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8
-无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8
-无线娱乐新闻,http://free.cnlive.club/channel/nac85e88.m3u8
-千禧经典,http://free.cnlive.club/channel/n1ab8717e.m3u8
-VIUTV'粤,http://free.cnlive.club/channel/78204936.m3u8
-VIUTV'英,http://free.cnlive.club/channel/necd2834.m3u8
-RTHK-31,http://free.cnlive.club/channel/n8badbb5.m3u8
-RTHK-32,http://free.cnlive.club/channel/n8badbb4.m3u8
-美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8
-天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8
-天映频道,http://free.cnlive.club/channel/5150b0a1.m3u8
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
-Astro爱奇艺,http://free.cnlive.club/channel/n367ccbbb.m3u8
-Astro QJ,http://free.cnlive.club/channel/n2d0f5476.m3u8
-Astro AOD,http://free.cnlive.club/channel/fa50a06.m3u8
-Astro AEC,http://free.cnlive.club/channel/36f451f2.m3u8
-Astro 欢喜,http://free.cnlive.club/channel/n129801d1.m3u8
 
-赛雷台湾,#genre#
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天新闻台,http://free.cnlive.club/channel/n3ee59a96.m3u8
-中天娱乐,http://free.cnlive.club/channel/41d6f491.m3u8
-中天综合,http://free.cnlive.club/channel/41db6ede.m3u8
-中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8
-寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
-寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8
-东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
-东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8
-东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8
-东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8
-东森电影,http://free.cnlive.club/channel/n5502f4.m3u8
-东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8
-东森超视,http://free.cnlive.club/channel/4210df69.m3u8
-东森财经,http://free.cnlive.club/channel/209f9e70.m3u8
-tvbs,http://free.cnlive.club/channel/154f9d73.m3u8
-tvbs欢乐,http://free.cnlive.club/channel/n69c10b55.m3u8
-tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
-年代新闻,http://free.cnlive.club/channel/49184630.m3u8
-非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8
-中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8
-中视,http://free.cnlive.club/channel/dc53f4d.m3u8
-中视经典,http://free.cnlive.club/channel/4291e438.m3u8
-公视,http://free.cnlive.club/channel/3b838b0c.m3u8
-公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8
-民视,http://free.cnlive.club/channel/n4d0434cf.m3u8
-民视台湾台,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
-民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8
-华视,http://free.cnlive.club/channel/560bcbee.m3u8
-台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
-台视,http://free.cnlive.club/channel/5ef6ab90.m3u8
-台视综合,http://free.cnlive.club/channel/45306b98.m3u8
-八大第一,http://free.cnlive.club/channel/2733018a.m3u8
-八大综合,http://free.cnlive.club/channel/27420c52.m3u8
-八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8
-八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8
-华艺综合,http://free.cnlive.club/channel/5af2eef0.m3u8
-AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8
-CInemax,http://free.cnlive.club/channel/7c7a1311.m3u8
-HBo高清,http://free.cnlive.club/channel/2d329e1c.m3u8
-HBo家庭,http://free.cnlive.club/channel/n54fc5ba0.m3u8
-好莱电影,http://free.cnlive.club/channel/n2db95de5.m3u8
-龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8
-龙华戏剧,http://free.cnlive.club/channel/66c51883.m3u8
-龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8
-龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8
-龙华电影,http://free.cnlive.club/channel/66c77727.m3u8
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8
-纬来日本,http://free.cnlive.club/channel/58197296.m3u8
-纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8
-纬来综合,http://free.cnlive.club/channel/581c693b.m3u8
-纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8
-纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8
-靖天国际,http://free.cnlive.club/channel/63189371.m3u8
-靖天卡通,http://free.cnlive.club/channel/63181d62.m3u8
-大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8
-大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8
-好消息贰,http://free.cnlive.club/channel/n5e3decc0.m3u8
-三立台湾台,http://free.cnlive.club/channel/642f20a.m3u8
-三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8
-三立综合,http://free.cnlive.club/channel/6e155cc.m3u8
-三立都会,http://free.cnlive.club/channel/72452bb.m3u8
-ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8
-ELta综合,http://free.cnlive.club/channel/n20929de1.m3u8
-ELTA体1,http://free.cnlive.club/channel/n6cd87fd.m3u8
-ELTA体2,http://free.cnlive.club/channel/n6cd87de.m3u8
-ELTA体3,http://free.cnlive.club/channel/n6cd87bf.m3u8
-博斯无限,http://free.cnlive.club/channel/47dd89d5.m3u8
-博斯网球,http://free.cnlive.club/channel/4838e3b3.m3u8
-博斯运动1,http://free.cnlive.club/channel/n3a1a5ced.m3u8
-博斯运动2,http://free.cnlive.club/channel/n3a1a4bf9.m3u8
-博斯高球1,http://free.cnlive.club/channel/n34996e5a.m3u8
-博斯高球2,http://free.cnlive.club/channel/n34995d66.m3u8
-美食星球,http://free.cnlive.club/channel/5939fd4b.m3u8
-亚洲美食,http://free.cnlive.club/channel/4258879f.m3u8
-亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8
-亚洲TLC,http://free.cnlive.club/channel/34964cb6.m3u8
-EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8
-EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8
-MTv高清,http://free.cnlive.club/channel/731620b3.m3u8
-ARIRANG,http://free.cnlive.club/channel/5a358dea.m3u8
+📶香港saileitv,#genre#
+无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
+翡翠台,video://https://saileitv.com/play.html?channelId=n7549189d
+明珠台,video://https://saileitv.com/play.html?channelId=n75ab7db0
+TVB Plus,video://https://saileitv.com/play.html?channelId=6429ae4c
+TVB娱乐新闻台,video://https://saileitv.com/play.html?channelId=nac85e88
+TVB星河,video://https://saileitv.com/play.html?channelId=6dd7925f
+千禧经典台,video://https://saileitv.com/play.html?channelId=n1ab8717e
+VIUTV,video://https://saileitv.com/play.html?channelId=78204936
+VIUTV 6,video://https://saileitv.com/play.html?channelId=necd2834
+HOY 78,video://https://saileitv.com/play.html?channelId=7289243e
+RTHK31,video://https://saileitv.com/play.html?channelId=n8badbb5
+RTHK32,video://https://saileitv.com/play.html?channelId=n8badbb4
+凤凰中文,video://https://saileitv.com/play.html?channelId=n496e6eec
+凤凰资讯,video://https://saileitv.com/play.html?channelId=n4966a4fb
+凤凰香港,video://https://saileitv.com/play.html?channelId=n49654430
+
+📶NEWS saileitv,#genre#
+ABC NEWS LIVE,video://https://saileitv.com/play.html?channelId=n38043943
+ALJAZEERA,video://https://saileitv.com/play.html?channelId=65af47c7
+BBC NEWS,video://https://saileitv.com/play.html?channelId=n66a1746b
+BLOOMBERG,video://https://saileitv.com/play.html?channelId=72e3ee4f
+CBS NEWS LIVE,video://https://saileitv.com/play.html?channelId=n2ff473c1
+CBSN,video://https://saileitv.com/play.html?channelId=317a4f4b
+CGTN,video://https://saileitv.com/play.html?channelId=n337674eb
+CNA,video://https://saileitv.com/play.html?channelId=n43b97ee1
+CNBC,video://https://saileitv.com/play.html?channelId=n33765cdd
+CNN INTL,video://https://saileitv.com/play.html?channelId=n4d8e2986
+CNN,video://https://saileitv.com/play.html?channelId=n5b2e0cca
+DW,video://https://saileitv.com/play.html?channelId=7f39bd23
+FOX NEWS,video://https://saileitv.com/play.html?channelId=n41640285
+FRANCE 24,video://https://saileitv.com/play.html?channelId=12188570
+NHK,video://https://saileitv.com/play.html?channelId=n683bca74
+SKY NEWS,video://https://saileitv.com/play.html?channelId=n38043943
+
+📶台湾台saileitv,#genre#
+寰宇新闻,video://https://saileitv.com/play.html?channelId=n43c34be8
+寰宇财经,video://https://saileitv.com/play.html?channelId=n4332074a
+中天新闻,video://https://saileitv.com/play.html?channelId=41d8a09d
+中天新闻台,video://https://saileitv.com/play.html?channelId=n3ee59a96
+中天亚洲,video://https://saileitv.com/play.html?channelId=41d5ac2a
+中天综合,video://https://saileitv.com/play.html?channelId=41db6ede
+中天娱乐,video://https://saileitv.com/play.html?channelId=41d6f491
+TVBS,video://https://saileitv.com/play.html?channelId=154f9d73
+TVBS新闻,video://https://saileitv.com/play.html?channelId=n69ccce92
+TVBS欢乐,video://https://saileitv.com/play.html?channelId=n69c10b55
+TVBS ASIA,video://https://saileitv.com/play.html?channelId=30a8c4da
+东森新闻,video://https://saileitv.com/play.html?channelId=n88aa83
+东森财经新闻,video://https://saileitv.com/play.html?channelId=209f9e70
+东森综合,video://https://saileitv.com/play.html?channelId=n31b0a4
+东森戏剧,video://https://saileitv.com/play.html?channelId=n9e78d0
+东森电影,video://https://saileitv.com/play.html?channelId=n5502f4
+东森洋片,video://https://saileitv.com/play.html?channelId=n7160b4
+东森幼幼,video://https://saileitv.com/play.html?channelId=naa6d18
+东森超视,video://https://saileitv.com/play.html?channelId=4210df69
+中视,video://https://saileitv.com/play.html?channelId=dc53f4d
+中视新闻,video://https://saileitv.com/play.html?channelId=428f1dfa
+中视经典,video://https://saileitv.com/play.html?channelId=4291e438
+三立台湾,video://https://saileitv.com/play.html?channelId=642f20a
+三立都会,video://https://saileitv.com/play.html?channelId=72452bb
+三立综合,video://https://saileitv.com/play.html?channelId=6e155cc
+三立戏剧,video://https://saileitv.com/play.html?channelId=6748da0
+台视,video://https://saileitv.com/play.html?channelId=5ef6ab90
+台视新闻,video://https://saileitv.com/play.html?channelId=452d9d57
+台视综合,video://https://saileitv.com/play.html?channelId=45306b98
+华视,video://https://saileitv.com/play.html?channelId=560bcbee
+公视,video://https://saileitv.com/play.html?channelId=3b838b0c
+公视台语,video://https://saileitv.com/play.html?channelId=3ccf6783
+民视,video://https://saileitv.com/play.html?channelId=n4d0434cf
+民视新闻,video://https://saileitv.com/play.html?channelId=n4b747ee6
+民视台湾,video://https://saileitv.com/play.html?channelId=n4bbbe8c9
+非凡新闻,video://https://saileitv.com/play.html?channelId=6302a884
+年代新闻,video://https://saileitv.com/play.html?channelId=49184630
+八大第一,video://https://saileitv.com/play.html?channelId=2733018a
+八大综合,video://https://saileitv.com/play.html?channelId=27420c52
+八大戏剧,video://https://saileitv.com/play.html?channelId=26d54426
+八大娱乐,video://https://saileitv.com/play.html?channelId=26b73cff
+大爱电视,video://https://saileitv.com/play.html?channelId=46f9ba85
+大爱,video://https://saileitv.com/play.html?channelId=
+大爱二,video://https://saileitv.com/play.html?channelId=46f0bf6e
+好消息2,video://https://saileitv.com/play.html?channelId=n5e3decc0
+华艺中文台,video://https://saileitv.com/play.html?channelId=5af2eef0
+纬来体育,video://https://saileitv.com/play.html?channelId=5816d06e
+纬来精彩,video://https://saileitv.com/play.html?channelId=581c2f1a
+纬来日本,video://https://saileitv.com/play.html?channelId=58197296
+纬来电影,video://https://saileitv.com/play.html?channelId=581b458b
+纬来综合,video://https://saileitv.com/play.html?channelId=581c693b
+纬来育乐,video://https://saileitv.com/play.html?channelId=581c988d
+爱尔达综合,video://https://saileitv.com/play.html?channelId=n20929de1
+爱尔达影剧,video://https://saileitv.com/play.html?channelId=n2109392b
+爱尔达体育1,video://https://saileitv.com/play.html?channelId=n6cd87fd
+爱尔达体育2,video://https://saileitv.com/play.html?channelId=n6cd87de
+爱尔达体育3,video://https://saileitv.com/play.html?channelId=n6cd87bf
+博斯运动一,video://https://saileitv.com/play.html?channelId=n3a1a5ced
+博斯运动二,video://https://saileitv.com/play.html?channelId=n3a1a4bf9
+博斯高球一,video://https://saileitv.com/play.html?channelId=n34996e5a
+博斯高球二,video://https://saileitv.com/play.html?channelId=n34995d66
+博斯网球,video://https://saileitv.com/play.html?channelId=4838e3b3
+博斯无限,video://https://saileitv.com/play.html?channelId=47dd89d5
+龙华电视戏剧,video://https://saileitv.com/play.html?channelId=66c51883
+龙华偶像,video://https://saileitv.com/play.html?channelId=66c2f564
+龙华电影,video://https://saileitv.com/play.html?channelId=66c77727
+龙华洋片,video://https://saileitv.com/play.html?channelId=66c68ce7
+龙华经典,video://https://saileitv.com/play.html?channelId=66c892d4
+龙祥时代,video://https://saileitv.com/play.html?channelId=67548a4f
+靖天国际,video://https://saileitv.com/play.html?channelId=63189371
+靖天卡通,video://https://saileitv.com/play.html?channelId=63181d62
+好莱坞电影,video://https://saileitv.com/play.html?channelId=n2db95de5
+卫视电影,video://https://saileitv.com/play.html?channelId=5967d303
+美亚电影,video://https://saileitv.com/play.html?channelId=5824ef5e
+EYETV旅游,video://https://saileitv.com/play.html?channelId=28efa38
+EYETV戏剧,video://https://saileitv.com/play.html?channelId=27dadb3
+亚洲旅游,video://https://saileitv.com/play.html?channelId=852ca6f
+亚洲美食,video://https://saileitv.com/play.html?channelId=4258879f
+美食星球,video://https://saileitv.com/play.html?channelId=5939fd4b
+动物星球,video://https://saileitv.com/play.html?channelId=nb957a7c
+TLC旅游生活,video://https://saileitv.com/play.html?channelId=34964cb6
+Arirang,video://https://saileitv.com/play.html?channelId=5a358dea
+AXN Taiwan,video://https://saileitv.com/play.html?channelId=n4e27c899
+CI,video://https://saileitv.com/play.html?channelId=1404dfbd
+CINEMAX,video://https://saileitv.com/play.html?channelId=7c7a1311
+DISCOVERY,video://https://saileitv.com/play.html?channelId=n2517f7dd
+DISCOVERY ASIA,video://https://saileitv.com/play.html?channelId=n3efbe5af
+HBO,video://https://saileitv.com/play.html?channelId=2d329e1c
+HBO HD,video://https://saileitv.com/play.html?channelId=6c689e6d
+HBO FAMILY,video://https://saileitv.com/play.html?channelId=n50b4438b
+HBO_HITS,video://https://saileitv.com/play.html?channelId=n54fc5ba0
+HBO SIGNATURE,video://https://saileitv.com/play.html?channelId=n1075adf9
+MTV Live,video://https://saileitv.com/play.html?channelId=731620b3
+
+📶新加坡saileitv,#genre#
+Channel 5,video://https://saileitv.com/play.html?channelId=2f64b875
+Channel 8,video://https://saileitv.com/play.html?channelId=2f64b878
+Channel U,video://https://saileitv.com/play.html?channelId=2f64b895
+Suria,video://https://saileitv.com/play.html?channelId=1a7c7a05
+Vasantham,video://https://saileitv.com/play.html?channelId=n4a74f6e
+MeWatch Ch 5,video://https://saileitv.com/play.html?channelId=n4b711d7a
+MeWatch Ch 8,video://https://saileitv.com/play.html?channelId=n4b711d77
+MeWatch Ch U,video://https://saileitv.com/play.html?channelId=n4b711d5a
+MeWatch Suria,video://https://saileitv.com/play.html?channelId=n21c9f664
+MeWatch Vasantham,video://https://saileitv.com/play.html?channelId=22029ca9
+MeWatch CNA,video://https://saileitv.com/play.html?channelId=5d30c8a
+CNA,video://https://saileitv.com/play.html?channelId=4e9c8333
+CNA backup,video://https://saileitv.com/play.html?channelId=7f3deb4f
+
+📶马来西亚saileitv,#genre#
+TVB Asia,video://https://saileitv.com/play.html?channelId=30a8c4da
+TVB Classic,video://https://saileitv.com/play.html?channelId=n1ab8717e
+TVB Entertainment,video://https://saileitv.com/play.html?channelId=nac85e88
+TVB Jade,video://https://saileitv.com/play.html?channelId=30ac9808
+TVB 星河台 Xing He,video://https://saileitv.com/play.html?channelId=6dd7925f
+Astro华丽台,video://https://saileitv.com/play.html?channelId=n177a7044
+Astro欢喜台,video://https://saileitv.com/play.html?channelId=n129801d1
+Astro爱奇艺 iQiyi,video://https://saileitv.com/play.html?channelId=n367ccbbb
+Astro QJ全佳,video://https://saileitv.com/play.html?channelId=n2d0f5476
+AOD,video://https://saileitv.com/play.html?channelId=fa50a06
+AEC,video://https://saileitv.com/play.html?channelId=fa508cf
+AFC 亚洲旅游,video://https://saileitv.com/play.html?channelId=1d3786b3
+Al-Hijrah,http://free.cnlive.club/channel/n3fbbd7fe
+Al-Hijrah backup,http://free.cnlive.club/channel/73890fa0
+Al-Jazeera,http://free.cnlive.club/channel/n5abdd660
+Animal Planet (Eng),http://free.cnlive.club/channel/n1f7b561
+Astro Arena,http://free.cnlive.club/channel/n4564ece9
+Astro Astro Arena 2,http://free.cnlive.club/channel/n7fdd5297
+Astro Bola Arena 1,http://free.cnlive.club/channel/n6393f37a
+Astro Bola Arena 2,http://free.cnlive.club/channel/n6393f379
+Astro LOL,video://https://saileitv.com/play.html?channelId=n74db4c28
+Astro MTV,video://https://saileitv.com/play.html?channelId=n74db47c2
+Astro Rusi,video://https://saileitv.com/play.html?channelId=n268aead6
+Astro Sonypix,video://https://saileitv.com/play.html?channelId=n158a73d9
+Astro Kplus,video://https://saileitv.com/play.html?channelId=n52c5637e
+Aura,video://https://saileitv.com/play.html?channelId=n1b0334ad
+Awani,video://https://saileitv.com/play.html?channelId=n4562b60a
+Awesome TV,video://https://saileitv.com/play.html?channelId=4d7fdd4f
+Axn,video://https://saileitv.com/play.html?channelId=n66e1336b
+BBC World News,video://https://saileitv.com/play.html?channelId=2e8ad8ee
+Bernama,video://https://saileitv.com/play.html?channelId=n606edc5a
+Bloomberg News,video://https://saileitv.com/play.html?channelId=8103ba8
+Boo,video://https://saileitv.com/play.html?channelId=fa511d2
+Cartoon Network,video://https://saileitv.com/play.html?channelId=607a1b6c
+Celestial Classic,video://https://saileitv.com/play.html?channelId=n7b0fbbc6
+Celestial Movies天映频道,video://https://saileitv.com/play.html?channelId=5150b0a1
+Ceria,video://https://saileitv.com/play.html?channelId=n454e7688
+Citra,video://https://saileitv.com/play.html?channelId=n454c9c73
+Citra backup,video://https://saileitv.com/play.html?channelId=n52b2e4b
+CNA,video://https://saileitv.com/play.html?channelId=fa51166
+CNBC,video://https://saileitv.com/play.html?channelId=n1b02e444
+CNN backup,video://https://saileitv.com/play.html?channelId=n1b9b2af1
+Dreamworks,video://https://saileitv.com/play.html?channelId=n760128b1
+Food Network Hd,video://https://saileitv.com/play.html?channelId=n28c53ee4
+Goshop,video://https://saileitv.com/play.html?channelId=n5d1f9a32
+HBO,video://https://saileitv.com/play.html?channelId=n5df653c9
+HBO Hits,video://https://saileitv.com/play.html?channelId=465013db
+HBO Signature,video://https://saileitv.com/play.html?channelId=n4641f303
+HGTV,video://https://saileitv.com/play.html?channelId=n1b00b66f
+KBS World,video://https://saileitv.com/play.html?channelId=14eeb45e
+LOVE NATURE,video://https://saileitv.com/play.html?channelId=n6598e6ce
+Madinah,video://https://saileitv.com/play.html?channelId=n782c73d0
+Mecca Live,video://https://saileitv.com/play.html?channelId=n1e7b0117
+NatGeo Wild,video://https://saileitv.com/play.html?channelId=n6598e6ce
+Nick Jr,video://https://saileitv.com/play.html?channelId=20599755
+Nickelodeon,video://https://saileitv.com/play.html?channelId=1c7b5a15
+NTV7,video://https://saileitv.com/play.html?channelId=n1afdcb49
+Oasis,video://https://saileitv.com/play.html?channelId=n44a72a25
+One,video://https://saileitv.com/play.html?channelId=fa54276
+Paramount Network,video://https://saileitv.com/play.html?channelId=2d02c137
+Prima,video://https://saileitv.com/play.html?channelId=n44917d75
+Prima backup,video://https://saileitv.com/play.html?channelId=366678f7
+Prima backup 2,video://https://saileitv.com/play.html?channelId=36ac1b49
+Rania,video://https://saileitv.com/play.html?channelId=n447cf679
+Ria,video://https://saileitv.com/play.html?channelId=fa54d1a
+Ria-3,video://https://saileitv.com/play.html?channelId=n44798bc0
+Rock Actions,video://https://saileitv.com/play.html?channelId=191ec512
+Rock Entertainment,video://https://saileitv.com/play.html?channelId=n66be2823
+RTM Asean,video://https://saileitv.com/play.html?channelId=32091bdb
+RTM Sports,video://https://saileitv.com/play.html?channelId=ne37fa48
+Sensasi,video://https://saileitv.com/play.html?channelId=22a4fb90
+Siar,video://https://saileitv.com/play.html?channelId=n1afb3509
+Sony,video://https://saileitv.com/play.html?channelId=33b732a5
+TLC,video://https://saileitv.com/play.html?channelId=fa550fb
+TV1,video://https://saileitv.com/play.html?channelId=fa5521f
+TV1 backup,video://https://saileitv.com/play.html?channelId=n519451d
+TV2,video://https://saileitv.com/play.html?channelId=fa55220
+TV3,video://https://saileitv.com/play.html?channelId=fa55221
+TV3 SD,video://https://saileitv.com/play.html?channelId=n486f0f50
+TV8,video://https://saileitv.com/play.html?channelId=fa55226
+TV9,video://https://saileitv.com/play.html?channelId=fa55227
+TvN,video://https://saileitv.com/play.html?channelId=fa5561c
+tvN Movie,video://https://saileitv.com/play.html?channelId=n1b6a6bd4
+WION,video://https://saileitv.com/play.html?channelId=n1af9ddff
+
+📶SPORTS saileitv,#genre#
+爱尔达体育1,video://https://saileitv.com/play.html?channelId=n6cd87fd
+爱尔达体育1,video://https://saileitv.com/play.html?channelId=22f30a81
+爱尔达体育2,video://https://saileitv.com/play.html?channelId=723ab075
+爱尔达体育3,video://https://saileitv.com/play.html?channelId=723ab094
+爱尔达体育4,video://https://saileitv.com/play.html?channelId=3994338
+博斯运动一,video://https://saileitv.com/play.html?channelId=n3a1a5ced
+博斯运动一,video://https://saileitv.com/play.html?channelId=74a006f6
+博斯运动二,video://https://saileitv.com/play.html?channelId=n3a1a4bf9
+博斯运动二,video://https://saileitv.com/play.html?channelId=3d918cad
+博斯高球一,video://https://saileitv.com/play.html?channelId=n34996e5a
+博斯高球一,video://https://saileitv.com/play.html?channelId=3dbeffb9
+博斯高球二,video://https://saileitv.com/play.html?channelId=n34995d66
+博斯高球二,video://https://saileitv.com/play.html?channelId=3dbeffba
+博斯网球,video://https://saileitv.com/play.html?channelId=4838e3b3
+博斯网球,video://https://saileitv.com/play.html?channelId=n79e465e1
+博斯无限,video://https://saileitv.com/play.html?channelId=47dd89d5
+ASTRO ARENA,video://https://saileitv.com/play.html?channelId=n2e6605fc
+ASTRO ARENA 2,video://https://saileitv.com/play.html?channelId=n2cfc72ea
+ASTRO ARENA BOLA,video://https://saileitv.com/play.html?channelId=n30b4b24d
+ASTRO ARENA BOLA 2,video://https://saileitv.com/play.html?channelId=n30b4b24c
+ASTRO PREMIER LEAGUE 1,video://https://saileitv.com/play.html?channelId=6b9a7458
+ASTRO PREMIER LEAGUE 2,video://https://saileitv.com/play.html?channelId=6b9a7459
+ASTRO GRANDSTAND,video://https://saileitv.com/play.html?channelId=n19794632
+ASTRO FOOTBALL,video://https://saileitv.com/play.html?channelId=29962bf1
+ASTRO SPORTS PLUS,video://https://saileitv.com/play.html?channelId=17502b7
+ASTRO BADMINTON 1,video://https://saileitv.com/play.html?channelId=1de1e193
+ASTRO BADMINTON 2,video://https://saileitv.com/play.html?channelId=1de1e194
+ASTRO CRICKET,video://https://saileitv.com/play.html?channelId=n670c7d13
+ASTRO GOLF,video://https://saileitv.com/play.html?channelId=n7fc29d1a
+ASTRO W SPORT,video://https://saileitv.com/play.html?channelId=3c34fa39
+BEIN SPORTS 1,video://https://saileitv.com/play.html?channelId=n44210d04
+BEIN SPORTS 2,video://https://saileitv.com/play.html?channelId=n44210d03
+BEIN SPORTS 3,video://https://saileitv.com/play.html?channelId=n44210d02
+CCTV 5,video://https://saileitv.com/play.html?channelId=n5d959a6c
+CCTV 5+,video://https://saileitv.com/play.html?channelId=n4fd60eb5
+DAZN 1,video://https://saileitv.com/play.html?channelId=n7ee06ef6
+JSPORT 1,video://https://saileitv.com/play.html?channelId=n774f4da
+JSPORT 2,video://https://saileitv.com/play.html?channelId=n774f4d9
+JSPORT 3,video://https://saileitv.com/play.html?channelId=n774f4d8
+JSPORT 4,video://https://saileitv.com/play.html?channelId=n774f4d7
+RUBY PASS,video://https://saileitv.com/play.html?channelId=8c42189
+RTM SPORTS,video://https://saileitv.com/play.html?channelId=n1624505b
+SKY SPORTS F1,video://https://saileitv.com/play.html?channelId=n57ed90b2
+SKY SPORTS CRICKET,video://https://saileitv.com/play.html?channelId=5863830e
+SKY SPORTS PREMIER LEAGUE,video://https://saileitv.com/play.html?channelId=5a3b7abe
+SKY SPORTS MAIN EVENT,video://https://saileitv.com/play.html?channelId=5acb9d16
+SKY SPORTS NEWS,video://https://saileitv.com/play.html?channelId=n12c7b72a
+SKY SPORTS MIX,video://https://saileitv.com/play.html?channelId=5a3b9bf9
+SONY SPORT 1,video://https://saileitv.com/play.html?channelId=n248a5048
+SONY SPORT 2,video://https://saileitv.com/play.html?channelId=n248a5047
+SONY SPORT 3,video://https://saileitv.com/play.html?channelId=n248a5046
+SPOTV,video://https://saileitv.com/play.html?channelId=6d1675a
+SPOTV 2,video://https://saileitv.com/play.html?channelId=n552b885b
+TNT 1,video://https://saileitv.com/play.html?channelId=1fe0e79
+TNT 2,video://https://saileitv.com/play.html?channelId=n23c66d86
+TNT 3,video://https://saileitv.com/play.html?channelId=n23c66d85
+TNT 4,video://https://saileitv.com/play.html?channelId=n23c66d84
+WWE,video://https://saileitv.com/play.html?channelId=n52e4e43e
+
+📶英国saileitv,#genre#
+ABC NEWS LIVE,video://https://saileitv.com/play.html?channelId=2fe5b83d
+Al-Jazeera,video://https://saileitv.com/play.html?channelId=n312e1c58
+Animal Planet (Eng),video://https://saileitv.com/play.html?channelId=23d55997
+Axn,video://https://saileitv.com/play.html?channelId=n4a933563
+BBC 1,video://https://saileitv.com/play.html?channelId=n12f70f84
+BBC 2,video://https://saileitv.com/play.html?channelId=n12f70f83
+BBC Earth,video://https://saileitv.com/play.html?channelId=3709a607
+BBC Earth Lifestyle,video://https://saileitv.com/play.html?channelId=72553caa
+BBC World News,video://https://saileitv.com/play.html?channelId=361e4ef6
+Bloomberg News,video://https://saileitv.com/play.html?channelId=fa3b1b0
+CBBC,video://https://saileitv.com/play.html?channelId=7b42ceb8
+CBeebies,video://https://saileitv.com/play.html?channelId=n56ec6d34
+CBS NEWS,video://https://saileitv.com/play.html?channelId=n2ff473c1
+CGTN,video://https://saileitv.com/play.html?channelId=7b42e3b6
+Channel 4,video://https://saileitv.com/play.html?channelId=2135795f
+CNBC,video://https://saileitv.com/play.html?channelId=7b42fbc4
+CN,video://https://saileitv.com/play.html?channelId=n3f6d3a2
+CNN,video://https://saileitv.com/play.html?channelId=1bd4f74b
+CNN BACKUP,video://https://saileitv.com/play.html?channelId=n5b2e0cca
+CNN INTL,video://https://saileitv.com/play.html?channelId=n4d8e2986
+DMAX,video://https://saileitv.com/play.html?channelId=n72228966
+DW (Deutsch),video://https://saileitv.com/play.html?channelId=2a24e4c4
+Euronews,video://https://saileitv.com/play.html?channelId=19750d38
+FOX NEWS,video://https://saileitv.com/play.html?channelId=n41640285
+France 24,video://https://saileitv.com/play.html?channelId=n13cd9691
+Freesports,video://https://saileitv.com/play.html?channelId=7994d0e3
+HBO,video://https://saileitv.com/play.html?channelId=n41a855c1
+HGTV,video://https://saileitv.com/play.html?channelId=7b452999
+History,video://https://saileitv.com/play.html?channelId=514cb39c
+Hits Movie,video://https://saileitv.com/play.html?channelId=n6906b9d8
+itv 1,video://https://saileitv.com/play.html?channelId=n10ba00dc
+itv 2,video://https://saileitv.com/play.html?channelId=n10ba00db
+Kids TV,video://https://saileitv.com/play.html?channelId=n10d59be3
+More4,video://https://saileitv.com/play.html?channelId=n1246df79
+MTV Live,video://https://saileitv.com/play.html?channelId=52a078d5
+NatGeo,video://https://saileitv.com/play.html?channelId=530c09b4
+NatGeo Wild,video://https://saileitv.com/play.html?channelId=n5e0570c6
+NHK World,video://https://saileitv.com/play.html?channelId=71de198b
+Nick Jr,video://https://saileitv.com/play.html?channelId=n7234a5b3
+Nickelodeon,video://https://saileitv.com/play.html?channelId=24e2e10d
+Pick TV,video://https://saileitv.com/play.html?channelId=n8682e17
+Sky News,video://https://saileitv.com/play.html?channelId=n65136184
+Sky Sports Cricket,video://https://saileitv.com/play.html?channelId=n178afb67
+Sky Sports EPL,video://https://saileitv.com/play.html?channelId=n11368637
+Sky Sports F1,video://https://saileitv.com/play.html?channelId=n7c6d1d1d
+Sky Sports Main Event,video://https://saileitv.com/play.html?channelId=n40025455
+Sky Sports News,video://https://saileitv.com/play.html?channelId=n1595d4d5
+Star Movies,video://https://saileitv.com/play.html?channelId=1c63b283
+Thrill,video://https://saileitv.com/play.html?channelId=n2b05b19d
+TLC,video://https://saileitv.com/play.html?channelId=n6760b00d
+Warner TV,video://https://saileitv.com/play.html?channelId=6235d917
+
