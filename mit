@@ -57,8 +57,8 @@ CGTN-F,video://http://wcetv.com/videos/view/liv/5
 廣東衛視,video://http://wcetv.com/videos/view/liv/11
 
 US italkbbtv,#genre#
-无线新闻台,video://https://news.tvb.com/tc/live/C
-无线財經頻道,video://https://news.tvb.com/tc/live/F
+无线新闻台,webview://https://news.tvb.com/tc/live/C
+无线財經頻道,webview://https://news.tvb.com/tc/live/F
 凤凰资讯台,video://https://m.italkbbtv.com/live/62cc97174725b5305843c454
 凤凰美洲台,video://https://m.italkbbtv.com/live/62cc96a74725b5305843c0d5
 翡翠综合台 TVBJ1,video://https://tvbanywherena.com/cantonese/live/tvb-j1
