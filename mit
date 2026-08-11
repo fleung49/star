@@ -2660,16 +2660,10 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN DOCUMENTARY,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN DOCUMENTARY,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CNBC,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6482/index.m3u8
-CNBC,https://tvpass.org/live/CNBC/hd
 CNBC WORLD,http://live.btv.mx:2424/stream/279678/smAVz_uhytj5REM-4pYNZbkrcB2
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
-CNN,http://41.205.64.66/CNN/index.m3u8
-CNN,http://41.223.30.230/CNN/index.m3u8
-CNN,https://tvpass.org/live/CNN/hd
 CNN,https://jmp2.uk/stvp-GBBD8000016N
 CNN,http://lunar.pm:8080/live/kita/Twin/104092.ts
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN INTL,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/31301/index.m3u8
 CNN INTL,http://lunar.pm:8080/live/kita/Twin/120251.ts
 CNN INTL,https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
@@ -2699,7 +2693,6 @@ MSNBC,http://41.205.64.66/MSNBC/index.m3u8
 MSNBC,http://41.223.30.230/MSNBC/index.m3u8
 MSNBC,http://bgdc.live:25461/rodneyb5777/5777/31407
 MSNBC,http://lunar.pm:8080/live/kita/Twin/9326.ts
-MSNBC,https://tvpass.org/live/MSNBC/hd
 NBC NEWS NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC NEWS NOW,http://41.223.30.230/NBC/index.m3u8
 NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
@@ -2716,21 +2709,16 @@ THE WEATHER CHANNEL,http://bgdc.live:25461/rodneyb5777/5777/10449
 beIN SPORTS XTRA en Espanol,https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol,https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-Concerto,https://tv.iill.top/myTV/CONC
 MAGIC,http://185.18.56.26:8888/magic/index.m3u8
 MAGIC,http://84.54.128.52:9090/play/a00c/index.m3u8
 NOW 70s,https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 NOW 70s,https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 NOW 70s,https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-NOW 70s,https://tv.iill.top/myTV/NOW7
 NOW 80s,https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 Now 80s,https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 NOW 80s,https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-NOW 80s,https://tv.iill.top/myTV/NOW8
 Now 90s,https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-NOW 90s00s,https://tv.iill.top/myTV/NOW9
 NOW ROCK,https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-NOW ROCK,https://tv.iill.top/myTV/NOWR
 Stingray Nothin' But 90s,https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 ﻿Stingray Flashback 70's,https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 Stingray Everything '80s,https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
@@ -2998,8 +2986,11 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 伍佰合集,http://vd3.bdstatic.com/mda-pe07i71fkd531zj1/sc/bd265_cae_roi_v5/1682947766065803786/mda-pe07i71fkd531zj1.mp4
 冷漠40首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5212916677664919326_hlsb.m3u8
 刀郎《山河廖哉》,https://vdse.bdstatic.com//5f006559d60e485ba725c1026772717f.mp4
+刀郎2007演唱会,https://txmov2.a.kwimgs.com/bs3/video-hls/5258797028296098366_hlsb.m3u8
 刀郎合集1,https://vd3.bdstatic.com/mda-pat22g6vrma1n8b2/576p/h264/1674869354107877822/mda-pat22g6vrma1n8b2.mp4
 刀郎合集2,https://vd3.bdstatic.com/mda-pat2dzrxjp4fkzdb/576p/h264/1674870199072291490/mda-pat2dzrxjp4fkzdb.mp4
+刀郎 v1,https://txmov2.a.kwimgs.com/bs3/video-hls/5242471545841178542_hlsb.m3u8
+刀郎 v2,https://txmov2.a.kwimgs.com/bs3/video-hls/5216857256107793702_hlsb.m3u8
 刘德华16首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5193213420289935762_hlsb.m3u8
 刘德华合集,https://vd2.bdstatic.com/mda-ni103pry5e4aqk39/sc/cae_h264/1662084584421447983/mda-ni103pry5e4aqk39.mp4
 刘德华,https://vd2.bdstatic.com/mda-pjkfx92jybywmm4j/720p/h264/1697888378863819752/mda-pjkfx92jybywmm4j.mp4
@@ -3028,14 +3019,19 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 姜育恒合集,https://vd3.bdstatic.com/mda-pkbc2e5j82e0n1kp/1080p/cae_h264/1699964723210625345/mda-pkbc2e5j82e0n1kp.mp4
 孙燕姿合集,https://vd3.bdstatic.com/mda-paj227g2z43rby0b/sc/cae_h264/1674182747611865385/mda-paj227g2z43rby0b.mp4
 孙燕姿精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
+孙露1,http://www.iesdouyin.com/aweme/v1/play/?video_id=v0300fg10000cd8ge8bc77u61rhg0ul0&ratio=1080p&line=0
+孙露2,http://www.iesdouyin.com/aweme/v1/play/?video_id=v0200fg10000cm1tshfog65h8e0kfo40&ratio=1080p&line=0
 孟庭苇合集,https://vd4.bdstatic.com/mda-pah0g785da3bd8cg/hd/cae_h264/1674003403215729852/mda-pah0g785da3bd8cg.mp4
 孟庭苇塘14首经典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664900039596920_hlsb.m3u8
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
 庾澄庆合集,https://vd4.bdstatic.com/mda-pawe0vd3ni6nzh8m/hd/cae_h264/1675210890051408273/mda-pawe0vd3ni6nzh8m.mp4
+张信哲,https://txmov2.a.kwimgs.com/bs3/video-hls/5219672073739744157_hlsb.m3u8
 张信哲合集,https://vd4.bdstatic.com/mda-paq1rstx5psmnh4d/sc/cae_h264/1674629486930515540/mda-paq1rstx5psmnh4d.mp4
 张国荣合集1,https://vd3.bdstatic.com/mda-na9i15iap05efpff/sc/cae_h264_delogo/1641828605628346695/mda-na9i15iap05efpff.mp4
 张国荣合集2,https://vd2.bdstatic.com/mda-na8hrvu9tk4svhrf/sc/cae_h264_delogo/1642260080397657076/mda-na8hrvu9tk4svhrf.mp4
 张国荣永远想念哥哥,https://vd4.bdstatic.com/mda-pk4edusu417t16yk/1080p/cae_h264/1699230648697960971/mda-pk4edusu417t16yk.mp4
+张学友1,https://k0ub7yffy10yezw2409x875ex5088x330xxez.djvod.ndcimgs.com/bs3/video-hls/5207287162232816373_hlsb.m3u8
+张学友2,https://txmov2.a.kwimgs.com/upic/2020/10/20/18/BMjAyMDEwMjAxODEyMDFfMTc4NDYxNDcyNl8zNzk4NDE2MTk3MV8yXzM=_b_B468e68508fc9e08728ffea7dc0438511.mp4
 张学友合集,https://vd2.bdstatic.com/mda-nm6fky2jmywpcdj9/cae_h264/1670413517411532119/mda-nm6fky2jmywpcdj9.mp4
 张宇合集1,https://vd4.bdstatic.com/mda-paq1swz9kfiww0nf/720p/h264/1674609379540322499/mda-paq1swz9kfiww0nf.mp4
 张宇合集2,https://vd4.bdstatic.com/mda-pkb28ajhwe174f7j/1080p/cae_h264/1699846476579882257/mda-pkb28ajhwe174f7j.mp4
@@ -3073,6 +3069,8 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 林志颖合集,https://vd4.bdstatic.com/mda-nksb70tv5vt9d5ta/sc/cae_h264/1669539791287641428/mda-nksb70tv5vt9d5ta.mp4
 林玉英合集,https://vd3.bdstatic.com/mda-pjek8ypuvcz29eqc/1080p/cae_h264/1697481625020944488/mda-pjek8ypuvcz29eqc.mp4
 林翠萍合集,https://vd4.bdstatic.com/mda-pjgii34m31isd2jf/1080p/cae_h264/1697664890514725754/mda-pjgii34m31isd2jf.mp4
+林忆莲1,https://k0ub7yffy10yez.djvod.ndcimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
+林忆莲2,https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 梁咏琪合集1,https://vd3.bdstatic.com/mda-nkm0vwwxem7nnicp/sc/cae_h264/1669097506610820128/mda-nkm0vwwxem7nnicp.mp4
 梁咏琪合集2,https://vd2.bdstatic.com/mda-pk0i3ne0iajinp9x/1080p/cae_h264/1698888105262004319/mda-pk0i3ne0iajinp9x.mp4
 梁静茹合集1,https://vd2.bdstatic.com/mda-nkm0tccmp4h9mbzx/sc/cae_h264/1669099609536177298/mda-nkm0tccmp4h9mbzx.mp4
@@ -3106,6 +3104,9 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 王心凌经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
 王杰合集,https://vd3.bdstatic.com/mda-paj24w3pip97yamz/sc/cae_h264/1674185355776462627/mda-paj24w3pip97yamz.mp4
 王杰精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
+王杰1,https://txmov2.a.kwimgs.com/bs3/video-hls/5228679203370871856_hlsb.m3u8
+王杰2,https://txmov2.a.kwimgs.com/bs3/video-hls/5243878850883611700_hlsb.m3u8
+王杰3,https://txmov2.a.kwimgs.com/bs3/video-hls/5257389653492247586_hlsb.m3u8
 王菲合集1,https://vd4.bdstatic.com/mda-pg3m9czi01sgmas7/sc/cae_h264/1688505868106382211/mda-pg3m9czi01sgmas7.mp4
 王菲合集2,https://vd3.bdstatic.com/mda-paj24ccexzab4113/sc/cae_h264/1674182919884158754/mda-paj24ccexzab4113.mp4
 王菲合集3,https://vd3.bdstatic.com/mda-pjp2zxvdg24z7xyy/1080p/cae_h264/1698217775802767942/mda-pjp2zxvdg24z7xyy.mp4
@@ -3159,12 +3160,14 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 陈淑桦,https://txmov2.a.kwimgs.com/bs3/video-hls/5207850128833175307_hlsb.m3u8
 陈淑桦合集1,https://vd2.bdstatic.com/mda-paib4m1zb47fz3j0/sc/cae_h264/1674117441894799856/mda-paib4m1zb47fz3j0.mp4
 陈淑桦合集2,https://vd3.bdstatic.com/mda-pjtbz7bfjt6ws8b5/1080p/cae_h264/1698507803720574035/mda-pjtbz7bfjt6ws8b5.mp4
+陈瑞合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429788093934_hlsb.m3u8
 陈瑞经典音乐合集40首,https://txmov2.a.kwimgs.com/bs3/video-hls/5202220639951372084_hlsb.m3u8
 陈百强合集,https://vd3.bdstatic.com/mda-nkg6zym5hmcmhcth/sc/cae_h264/1668667805400554098/mda-nkg6zym5hmcmhcth.mp4
 陈百强情歌王子,https://vd4.bdstatic.com/mda-pk3fyap9swqifck2/1080p/cae_h264/1699188655808689759/mda-pk3fyap9swqifck2.mp4
 陶喆精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
 陶喆经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
-韩宝仪,https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
+韩宝仪1,https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
+韩宝仪2,https://txmov2.a.kwimgs.com/bs3/video-hls/5199405878731760679_hlsb.m3u8
 韩宝仪合集,https://vd3.bdstatic.com/mda-pjk6ibxy1x1hbjw0/1080p/cae_h264/1697957504757447922/mda-pjk6ibxy1x1hbjw0.mp4
 颜人中精选36首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0
 飞轮海精选30首(2小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
@@ -3172,17 +3175,20 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 黄品源合集,https://vd2.bdstatic.com/mda-ni506bsvmmdm4bdv/sc/cae_h264/1662424001611264977/mda-ni506bsvmmdm4bdv.mp4
 黄安合集,https://vd4.bdstatic.com/mda-paj1yviih627m7br/sc/cae_h264/1674182480562260368/mda-paj1yviih627m7br.mp4
 黄莺莺合集,https://vd4.bdstatic.com/mda-nkm0h1vrypczxbtg/720p/h264/1669076515355370249/mda-nkm0h1vrypczxbtg.mp4
+黎明,https://k0ub7yffy10y8z.djvod.ndcimgs.com/bs3/video-hls/5257671152053263747_hlsb.m3u8
 黎明合集,https://vd3.bdstatic.com/mda-nkm0q4v1cnx3dg0q/sc/cae_h264/1669099217121656933/mda-nkm0q4v1cnx3dg0q.mp4
 齐秦合集1,https://vd3.bdstatic.com/mda-nksbca2gxqm392y9/sc/cae_h264/1669538208173071679/mda-nksbca2gxqm392y9.mp4
 齐秦合集2,https://vd3.bdstatic.com/mda-pk81ynf799fieche/1080p/cae_h264/1699745925707435905/mda-pk81ynf799fieche.mp4
 苏芮合集,https://vd4.bdstatic.com/mda-pj9ecyaqv7ke9dwv/1080p/cae_h264/1696990214183284814/mda-pj9ecyaqv7ke9dwv.mp4
 千百惠合集,https://vd3.bdstatic.com/mda-pkfjntxm4epf60yt/1080p/cae_h264/1700182786339021269/mda-pkfjntxm4epf60yt.mp4
 凤飞飞帽子歌后合集,https://vd3.bdstatic.com/mda-pj7i4xxzrf0zxn73/1080p/cae_h264/1696817917584246186/mda-pj7i4xxzrf0zxn73.mp4
+龙飘飘,https://txmov2.a.kwimgs.com/bs3/video-hls/5208976024485136549_hlsb.m3u8
 龙飘飘合集,https://vd3.bdstatic.com/mda-pjfbcn2u4ddzy1uv/1080p/cae_h264/1697573757485631425/mda-pjfbcn2u4ddzy1uv.mp4
 梅艳芳合集,https://vd3.bdstatic.com/mda-pjq3ne0y56wdxf2s/1080p/cae_h264/1698276899495565793/mda-pjq3ne0y56wdxf2s.mp4
 钟镇涛,https://vd4.bdstatic.com/mda-pk913ejp0ug5sf86/720p/h264/1699578762094668028/mda-pk913ejp0ug5sf86.mp4
 费玉清,https://vd4.bdstatic.com/mda-pk63wga09k1j5hfc/720p/h264/1699327052348725929/mda-pk63wga09k1j5hfc.mp4
 潘美辰,https://vd4.bdstatic.com/mda-pk651vw86q7z5jbi/720p/h264/1699329318527214555/mda-pk651vw86q7z5jbi.mp4
-任贤齐,https://vd2.bdstatic.com/mda-pk218iztk2svc1ef/1080p/cae_h264/1699061650530228247/mda-pk218iztk2svc1ef.mp4
-
-
+任贤齐1,https://vd2.bdstatic.com/mda-pk218iztk2svc1ef/1080p/cae_h264/1699061650530228247/mda-pk218iztk2svc1ef.mp4
+任贤齐2,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
+阿杜1,https://txmov2.a.kwimgs.com/bs3/video-hls/5238249422593655681_hlsb.m3u8
+阿杜2,https://txmov2.a.kwimgs.com/bs3/video-hls/5202502029789644760_hlsb.m3u8
