@@ -390,9 +390,9 @@ FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79
 FAIRCHILD 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
 FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90352
 
+hmy,#genre#
 鳳凰中文,http://vlive.itink.com.cn:80/live/uk0LD9mk4WBlzQHoppeOnfmJfdibCkBbjqBC31BPWgLTYcDBdjyYgHgHpBbX.flv
 鳳凰資訊,http://play.wenxiang.cn:80/live/e167ffd9b2f6dad45dc9413c265a474c.flv
-鳳凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
 無綫新聞,http://play.wenxiang.cn:80/live/70bc837132569e14ddbee2b20661f297.flv
 翡翠台,http://play.wenxiang.cn:80/live/9ce3ffa16f3d278f3a7e4b994ad1c0a4.flv
 翡翠台,http://play.wenxiang.cn:80/live/e240363d284b6f41fcb7136eef507ef6.flv
@@ -437,7 +437,6 @@ TVBS新聞,http://play.wenxiang.cn:80/live/FwFhAMlWku2OgbzPbdvgklP6y8Erp1ympsKjV
 華視新聞,http://play.wenxiang.cn:80/live/JmFMhl1ETu1FEChoIVCjP3dq1M6RPIGQwi5TP9XaOoSLNZWDDj4SsOY8fkXCG.flv
 華視,https://flv-play.clouda.com/live/MuYWSLTra9haGudeonStdr3ZsjXWzT64RfMO5jp8Jcv3Z.flv
 民視新聞,http://play.wenxiang.cn:80/live/0kxLySQQuzW5gfHy7AklV9C9ZWHgrp74axLCUe2Nz41pQCOOn9Z9VxHTgE0t.flv
-民視,http://49.232.143.177:80/pyxg/hmy.php?id=民視&key=***
 民視台灣,https://flv-play.clouda.com/live/AwjyjLiw7bwqGy4ZIT7Wtr6zOmpQ7niQHrNtRRbbxEXtI.flv
 民視第一,https://flv-play.clouda.com/live/RlIjHir5IeW410N59xzvGKwxn8AHmdyzZbqt2GQnnBSM1.flv
 台視新聞,http://play.wenxiang.cn:80/live/rsR8J9TM1732Owd4ZrnpzHHH5n4P9249JiQquDPBwipvu75pc0RlSMW4VRx31ZVx.flv
