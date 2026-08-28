@@ -191,6 +191,7 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 千禧经典台,https://cdn3.123.rr.kg/163189/tvbc
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,https://cdn6.123.rr.kg/163189/fhzw
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,video://https://www.faintv.com/channel/204
 凤凰中文,video://http://115.190.252.60/gangaotai/play.php?name=凤凰中文
 凤凰中文,http://123.234.2.58/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -198,10 +199,12 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰资讯,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34641
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,https://cdn6.123.rr.kg/163189/fhzx
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,video://https://www.faintv.com/channel/120
 凤凰资讯,video://http://115.190.252.60/gangaotai/play.php?name=凤凰资讯
 凤凰资讯,http://123.234.2.58/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰香港,https://cdn6.123.rr.kg/163189/fhhk
 凤凰香港,video://https://www.faintv.com/channel/18965
 凤凰香港,video://http://115.190.252.60/gangaotai/play.php?name=凤凰香港
@@ -209,35 +212,29 @@ TVB戏曲,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u
 凤凰美洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
 凤凰美洲台,video://http://115.190.252.60/gangaotai/play.php?name=凤凰美洲
 凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156408
-凤凰美洲台,https://live-s.italkdd.com/cds160/hls/tv501/480.m3u8?hdntl=exp=1784763463~acl=/*~data=hdntl~hmac=6856838e2259e72a1b990b53ccf9d1ca66f1a39061cf9580bef1e2632a94bbe5&hdnts=st=1784677063~exp=1784680663~hmac=deab4206d32e4bc7fe582b76e244ec68c843fe444472055b15355e83526cf83a
 HOY76,https://cdn11.123.rr.kg/163189/hoy76
+HOY77,https://cdn6.cc.cd/163189/hoy
+HOY77,https://fast.hidns.vip/163189/hoy
 HOY77,https://cdn.123.rr.kg/163189/hoy
 HOY78,https://cdn.123.rr.kg/163189/hoy78
+HOY78,https://fast.hidns.vip/163189/hoy78
 HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活台,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪谈台,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY体育台,https://cdn11.163189.xyz/163189/19256090154aa9e9
-RTHK-31,https://cdn.123.rr.kg/163189/rthk31
-RTHK-32,https://cdn.123.rr.kg/163189/rthk32
+RTHK31,https://cdn.123.rr.kg/163189/rthk31
+RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK32,https://fast.hidns.vip/163189/rthk32
+RTHK32,https://cdn.123.rr.kg/163189/rthk32
 NOW新闻台,https://cdn.123.rr.kg/163189/now
-NOW新闻台,https://cdn.qd.je/163189.php?id=now
-NOW新闻台,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
-NOW财经台,https://cdn.19891230.eu.org/hk/now-333/index.m3u8
-Now直播台,https://cdn.19891230.eu.org/hk/now-331/index.m3u8
-Now Sports Prime,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
-Now18台,http://124.244.129.167:9004/0.ts
-Now18台,http://qingyi.7766.org:9004/0.ts
-Now 618,http://42.98.241.116:9241/0.ts
-Now 618,http://shatian.7766.org:7168/0.ts
-Now爆谷台,http://124.244.129.167:7007/0.ts
-Now爆谷台,http://qingyi.7766.org:7007/0.ts
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-Now星影台,http://124.244.129.167:7003/0.ts
-Now星影台,http://qingyi.7766.org:7003/0.ts
+NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 POPC电影,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 VIUTV,https://cdn.123.rr.kg/163189/viu
+VIUTV,https://10.fast.hidns.vip/163189/viu/
+VIUTV6,https://10.fast.hidns.vip/163189/viu6/
 VIUTV6,http://cdn10.123.rr.kg/163189/viu6/
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
@@ -1720,77 +1717,6 @@ Hub Premier 8 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/
 Hub Premier 9 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/14550
 Hub Premier 10 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/14549
 Hub Premier 11 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/14548
-
-4gtv.cnlive,#genre#
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
-TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
-大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
-人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
-尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
-達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-台灣傳奇-FastTV飛速看,http://4gtv.cnlive.club/channel/n496c6dde/index.m3u8?q=1782639885837
-哆啦A夢-FastTV飛速看,http://4gtv.cnlive.club/channel/9fc6b5c/index.m3u8?q=1782639885837
-國外電影精選-FastTV飛速看,http://4gtv.cnlive.club/channel/32bc6076/index.m3u8?q=1782639885837
-客家好劇-FastTV飛速看,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
-懷舊經典電影-FastTV飛速看,http://4gtv.cnlive.club/channel/n424d08b7/index.m3u8?q=1782639885837
-日韓電影大賞-FastTV飛速看,http://4gtv.cnlive.club/channel/n5541a0ca/index.m3u8?q=1782639885837
-東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
-精彩陸劇1台-FastTV飛速看,http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782639885837
-精彩陸劇2台-FastTV飛速看,http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782639885837
-精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
-精選華語電影-FastTV飛速看,http://4gtv.cnlive.club/channel/750a2ada/index.m3u8?q=1782639885837
-經典卡通-FastTV飛速看,http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
-經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
-經典迪士尼-FastTV飛速看,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
-金光布袋戲-FastTV飛速看,http://4gtv.cnlive.club/channel/n3000a7f1/index.m3u8?q=1782639885837
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
-DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 
 bztv央卫视频,#genre#
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
