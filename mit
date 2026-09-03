@@ -2778,39 +2778,31 @@ Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsu
 Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 TRACE Urban,https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-m
 
-2k LOS ANGELES,#genre#
-KABC,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/548980.ts
-KCAL,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/760122.ts
-KCBS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/549636.ts
-KCBS,https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2622
-KNBC,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/550382.ts
-KTLA,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469336.ts
-KTTV,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/549875.ts
-SPECTRUM NEWS 1 LOS ANGELES,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1396452.ts
+nocable LOS ANGELES,#genre#
+KABC,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/324431
+KCAL,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/120654
+KCBS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/324432
+KNBC,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/324434
+KTLA,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/120889
+KTTV,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/324433
 
-2k NEWS,#genre#
-ABC NEWS LIVE,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551995.ts
-ACCU WEATHER,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469342.ts
-ALJAZEERA,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469293.ts
-BBC WORLD NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577227.ts
-BLOOMBERG,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469299.ts
-CBS NEWS 24/7,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551996.ts
-CNN,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/552001.ts
-CNN INTL,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551998.ts
-CNBC,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551993.ts
-DW NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469315.ts
-FOX BUSINESS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551968.ts
-FOX NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551982.ts
-FOX WEATHER,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/886925.ts
-FRANCE 24,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577218.ts
-MSNBC,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551986.ts
-RT NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577215.ts
-RTE NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/578145.ts
-SKY NEWS,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577515.ts
-TRT World,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577212.ts
-TVG,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/487634.ts
-FANDUEL TV RACING,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1171180.ts
-THE WEATHER CHANNEL,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469343.ts
+nocable NEWS,#genre#
+BBC WORLD NEWS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/305067
+BLOOMBERG,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/272900
+CBS NEWS 24/7,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/21259
+CNN,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/1817
+CNN INTL,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/57398
+CNBC,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/9815
+CP24,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/57401
+DW NEWS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/266586
+FOX BUSINESS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/17639
+FOX NEWS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/1818
+FRANCE 24,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/266584
+MSNBC,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/21376
+RTE NEWS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/79108
+SKY NEWS,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/53757
+FANDUEL TV RACING,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/10259
+THE WEATHER CHANNEL,http://nocable.cc:8080/darriusthomas115@gmail.com/darriusthomas115@2025/18926
 
 🎸演唱会现场,#genre#
 2025大湾区电影音乐晚会,https://vip.dytt-kan.com/20251002/7177_2723ad49/index.m3u8
