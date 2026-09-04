@@ -2559,13 +2559,14 @@ VEVO REGGAETON & TRAP,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=0
 News jmp2,#genre#
 ABC 20/20,https://jmp2.uk/stvp-US4800001W5
 ABC News Live,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8#https://jmp2.uk/stvp-USBC39000171G
+AccuWeather NOW,https://jmp2.uk/stvp-US50000551O
 Aljazeera,https://jmp2.uk/stvp-GB2300005ML#https://jmp2.uk/stvp-IT23000034W#https://jmp2.uk/stvp-FR23000013B
 Asianet News,https://jmp2.uk/stvp-IN800012RO
 BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8#ttps://jmp2.uk/stvp-US4000033L
 BFM Business,https://jmp2.uk/stvp-FRBD4100006OC
 Bloomberg Originals,https://jmp2.uk/stvp-USAJ30000041W
 Bloomberg TV+,https://jmp2.uk/stvp-USAJ3400011A8#https://jmp2.uk/stvp-DEBA3300027ZJ#https://jmp2.uk/stvp-FR1400004VF#https://jmp2.uk/stvp-ATBA3300018K1#https://jmp2.uk/stvp-CHBA3300018TD#https://jmp2.uk/stvp-ITBA3300025F5#https://jmp2.uk/stvp-GBBA3300033C2
-CBC News,https://jmp2.uk/stvp-CABC2300009KD
+CBC News,https://jmp2.uk/stvp-CABC2300009KD#https://jmp2.uk/stvp-USBC4400003OU
 CBS News 24/7,https://jmp2.uk/stvp-USBA370000104#https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8#https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 Class CNBC,https://jmp2.uk/stvp-IT2700002ZN
 CNBC,https://jmp2.uk/stvp-ESBD36000026Z#https://jmp2.uk/stvp-GBBD3600001NO#https://jmp2.uk/stvp-ITBD3600002PA
@@ -2577,6 +2578,7 @@ Euronews EN DIRECT,https://jmp2.uk/stvp-FR2600004SS
 Euronews LIVE,https://jmp2.uk/stvp-DE2600003TR#https://jmp2.uk/stvp-GB2600019ON#https://jmp2.uk/stvp-CH26000037F#https://jmp2.uk/stvp-AT2600002KW
 FanDuel TV Extra,https://jmp2.uk/stvp-US1400012RF
 FOX News Los Angeles,https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
+LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
 FOX Weather,https://jmp2.uk/stvp-USBD700003L7
 FRANCE 24 FAST,https://jmp2.uk/stvp-DEBD1100002II#https://jmp2.uk/stvp-CHBD1100003CW#https://jmp2.uk/stvp-ATBD1100002TA#https://jmp2.uk/stvp-GBBD1100002L5#https://jmp2.uk/stvp-ITBD1100002WX
 GB News,https://jmp2.uk/stvp-GBBB1600008R3
@@ -2593,6 +2595,7 @@ Talk,https://jmp2.uk/stvp-GB1200006IV
 Tech & Co,https://jmp2.uk/stvp-FRBD4100010ZZ
 The Weather Network,https://jmp2.uk/stvp-CABC23000223U
 TV5 Monde Info,https://jmp2.uk/stvp-IT18000033C#https://jmp2.uk/stvp-FR1800005X0
+Yahoo Finance,https://jmp2.uk/stvp-USAJ4300005PJ
 
 primep2 LOS ANGELES,#genre#
 KABC,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/98469.ts
