@@ -156,13 +156,12 @@ G60新桥收费口,video://https://www.9kds.com/zbzg.php?index=1
 
 港澳台|备①,#genre#
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线新闻,http://173.208.234.146/live/inews.m3u8
 无线新闻,https://cdn6.cc.cd/163189/wxxw
 无线新闻,https://cdn6.123.rr.kg/163189/wxxw
 无线新闻,https://cdn6.123.rr.kg/163189/wxxwt
 无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 无线新闻,http://ysift55.xyz/52TLK6U/TNLMRY9/616461
-无线新闻,http://74.91.26.218:82/live/inews.m3u8
+无线新闻,http://173.208.234.146/live/inews.m3u8
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
 无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=153399
 翡翠台,http://173.208.234.146/live/jade.m3u8
@@ -264,7 +263,6 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 八度空间,https://cdn6.cc.cd/163189/8tv
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CH5,https://cdn6.cc.cd/163189/ch5
 CH8,https://cdn6.cc.cd/163189/ch8
 CHU,https://cdn6.cc.cd/163189/chu
@@ -329,15 +327,11 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34793
 镜新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34876
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
-中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 中天新闻,http://31.43.191.125:8080/VIP012581749560258483/ccce84a4a874/34817
 中天新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34817
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -345,19 +339,13 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中天娛樂HD,https://mqitv.luckyboy.cc.cd/live1023/index.m3u8
 中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
-中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
-TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS亞洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500947.ts
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
-东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
-三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 年代新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34869
-华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华偶像,https://8.fast.hidns.vip/163189/lhox
