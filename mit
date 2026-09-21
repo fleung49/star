@@ -85,15 +85,17 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 民視新聞台,video://https://m.italkbbtv.com/live/62cc94464725b5305843ae15
 台視綜合台,video://https://m.italkbbtv.com/live/62cc94be4725b5305843b142
 台視新聞台,video://https://m.italkbbtv.com/live/62cc95424725b5305843b54d
-东方卫视4K-V,video://https://live.kankanews.com/huikan?id=1
-东方卫视4K,webview://https://live.kankanews.com/huikan?id=1
-五星体育,webview://https://live.kankanews.com/huikan?id=10
-魔都眼,webview://https://live.kankanews.com/huikan?id=11
-上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
-上海都市,webview://https://live.kankanews.com/huikan?id=4
-第一财经,webview://https://live.kankanews.com/huikan?id=5
-哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-人文纪实,webview://https://live.kankanews.com/huikan?id=12
+东方卫视4K,video://https://live.kankanews.com/huikan?id=1
+上海新闻综合,video://https://live.kankanews.com/huikan?id=2
+上海电视连续剧,video://https://live.kankanews.com/huikan?id=3
+上海都市,video://https://live.kankanews.com/huikan?id=4
+第一财经,video://https://live.kankanews.com/huikan?id=5
+哈哈炫动,video://https://live.kankanews.com/huikan?id=9
+五星体育,video://https://live.kankanews.com/huikan?id=10
+魔都眼,video://https://live.kankanews.com/huikan?id=11
+人文纪实,video://https://live.kankanews.com/huikan?id=12
+上海这一刻,video://https://live.kankanews.com/live/8029037XEw6
+决战亚洲之巅一起见证国乒荣耀,video://https://live.kankanews.com/live/PqwPla7XawV
 
 US北美（聯通）,#genre#
 中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
