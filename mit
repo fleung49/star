@@ -43,8 +43,6 @@ CCTV-6,https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 张学友醒着做梦音乐会,https://h5vod.kylintv.tv/vod/vol27/hd/20190201/hdzxyxzzm0qt/hdzxyxzzm0qt.mp4/hdzxyxzzm0qt_1_2500_ipad.mp4.m3u8
 
 US WCETV銀視,#genre#
-CCTV-1,video://https://saileitv.com/play.html?channelId=65b36335&channelName=CCTV-1%20综合
-CCTV-2,video://https://saileitv.com/play.html?channelId=65b5b8f5
 CCTV-4美洲,video://http://wcetv.com/videos/view/liv/0
 CGTN,video://http://wcetv.com/videos/view/liv/1
 CGTN DOCUMENTARY,video://http://wcetv.com/videos/view/liv/2
@@ -684,147 +682,106 @@ HZTV-2,http://8.134.175.232:4022/rtp/239.77.1.233:5146
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
-4Gtv-220,#genre#
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
-寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇新闻台湾台,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
-镜新闻,http://220.135.64.124:5050/of-4gtv-4gtv075/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-中视经典,http://220.135.64.124:5050/of-4gtv-4gtv080/index.m3u8?proxy=true
-中视菁采,http://220.135.64.124:5050/of-4gtv-4gtv064/index.m3u8?proxy=true
-中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-tvbs,http://220.135.64.124:5050/of-4gtv-4gtv073/index.m3u8?proxy=true
-tvbs新闻台,http://220.135.64.124:5050/of-4gtv-4gtv072/index.m3u8?proxy=true
-tvbs欢乐台,http://220.135.64.124:5050/of-4gtv-4gtv068/index.m3u8?proxy=true
-tvbs精采台,http://220.135.64.124:5050/of-4gtv-4gtv067/index.m3u8?proxy=true
-tvbs综艺台,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
-tvbs台剧台,http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
-东森新闻,http://220.135.64.124:5050/of-4gtv-4gtv152/index.m3u8?proxy=true
-东森财经,http://220.135.64.124:5050/of-4gtv-4gtv153/index.m3u8?proxy=true
-东森购物1,http://220.135.64.124:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
-东森购物2,http://220.135.64.124:5050/of-4gtv-4gtv103/index.m3u8?proxy=true
-东森购物3,http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
-东森购物5,http://220.135.64.124:5050/4gtv-live049/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true#http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-三立综合,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
-民视,http://220.135.64.124:5050/of-4gtv-4gtv002/index.m3u8?proxy=true
-民视台湾,http://220.135.64.124:5050/of-4gtv-4gtv001/index.m3u8?proxy=true
-民视影剧,http://220.135.64.124:5050/of-litv-ftv09/index.m3u8?proxy=true
-民视新闻,http://220.135.64.124:5050/of-litv-ftv13/index.m3u8?proxy=true
-民视旅游,http://220.135.64.124:5050/of-litv-ftv07/index.m3u8?proxy=true
-民视第一,http://220.135.64.124:5050/of-4gtv-4gtv003/index.m3u8?proxy=true
-民视综艺,http://220.135.64.124:5050/of-4gtv-4gtv004/index.m3u8?proxy=true
-台视,http://220.135.64.124:5050/of-4gtv-4gtv066/index.m3u8?proxy=true
-台视新闻,http://220.135.64.124:5050/of-4gtv-4gtv051/index.m3u8?proxy=true
-台视财经,http://220.135.64.124:5050/of-4gtv-4gtv056/index.m3u8?proxy=true
-华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-公视戏剧,http://220.135.64.124:5050/of-4gtv-4gtv042/index.m3u8?proxy=true
-非凡商业,http://220.135.64.124:5050/of-4gtv-4gtv048/index.m3u8?proxy=true
-非凡新闻,http://220.135.64.124:5050/of-4gtv-4gtv010/index.m3u8?proxy=true
-八大精彩,http://220.135.64.124:5050/of-4gtv-4gtv034/index.m3u8?proxy=true
-八大综艺,http://220.135.64.124:5050/of-4gtv-4gtv039/index.m3u8?proxy=true
-原住民族,http://220.135.64.124:5050/of-4gtv-live014/index.m3u8?proxy=true
-客家电视,http://220.135.64.124:5050/of-4gtv-4gtv043/index.m3u8?proxy=true
-大爱1,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
-大爱2,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
-好消息1,http://220.135.64.124:5050/of-litv-ftv16/index.m3u8?proxy=true
-好消息2,http://220.135.64.124:5050/of-litv-ftv17/index.m3u8?proxy=true
-人间卫视,http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
-猪哥亮歌厅秀,http://220.135.64.124:5050/of-4gtv-4gtv006/index.m3u8?proxy=true
-金光布袋,http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
-霹雳布袋,http://220.135.64.124:5050/4gtv-live145/index.m3u8?proxy=true
-台湾戏剧台,http://220.135.64.124:5050/of-litv-longturn22/index.m3u8?proxy=true
-华仁纪实,http://220.135.64.124:5050/of-4gtv-4gtv013/index.m3u8?proxy=true
-全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
-韩国娱乐,http://220.135.64.124:5050/of-4gtv-4gtv016/index.m3u8?proxy=true
-阿里郎台,http://220.135.64.124:5050/of-4gtv-4gtv079/index.m3u8?proxy=true
-采昌影剧,http://220.135.64.124:5050/of-4gtv-4gtv049/index.m3u8?proxy=true
-靖天卡通,http://220.135.64.124:5050/of-4gtv-4gtv044/index.m3u8?proxy=true
-靖天国际,http://220.135.64.124:5050/of-4gtv-4gtv063/index.m3u8?proxy=true
-靖天戏剧,http://220.135.64.124:5050/of-4gtv-4gtv058/index.m3u8?proxy=true
-靖天日本,http://220.135.64.124:5050/of-4gtv-4gtv047/index.m3u8?proxy=true
-靖天映画,http://220.135.64.124:5050/of-4gtv-4gtv055/index.m3u8?proxy=true
-靖天欢乐,http://220.135.64.124:5050/of-4gtv-4gtv054/index.m3u8?proxy=true
-靖天电影,http://220.135.64.124:5050/of-4gtv-4gtv061/index.m3u8?proxy=true
-靖天综合,http://220.135.64.124:5050/of-4gtv-4gtv046/index.m3u8?proxy=true
-靖天育乐,http://220.135.64.124:5050/of-4gtv-4gtv062/index.m3u8?proxy=true
-靖天资讯,http://220.135.64.124:5050/of-4gtv-4gtv065/index.m3u8?proxy=true
-靖洋卡通,http://220.135.64.124:5050/of-4gtv-4gtv057/index.m3u8?proxy=true
-靖洋戏剧,http://220.135.64.124:5050/of-4gtv-4gtv045/index.m3u8?proxy=true
-龙华偶像,http://220.135.64.124:5050/of-litv-longturn12/index.m3u8?proxy=true
-龙华卡通,http://220.135.64.124:5050/of-litv-longturn01/index.m3u8?proxy=true
-龙华戏剧,http://220.135.64.124:5050/of-litv-longturn18/index.m3u8?proxy=true
-龙华日韩,http://220.135.64.124:5050/of-litv-longturn11/index.m3u8?proxy=true
-龙华洋片,http://220.135.64.124:5050/of-litv-longturn02/index.m3u8?proxy=true
-龙华电影,http://220.135.64.124:5050/of-litv-longturn03/index.m3u8?proxy=true
-龙华经典,http://220.135.64.124:5050/of-litv-longturn21/index.m3u8?proxy=true
-博斯网球,http://220.135.64.124:5050/of-litv-longturn09/index.m3u8?proxy=true
-博斯魅力,http://220.135.64.124:5050/of-litv-longturn04/index.m3u8?proxy=true
-博斯无限1,http://220.135.64.124:5050/of-litv-longturn10/index.m3u8?proxy=true
-博斯无限2,http://220.135.64.124:5050/of-litv-longturn13/index.m3u8?proxy=true
-博斯运动1,http://220.135.64.124:5050/of-litv-longturn07/index.m3u8?proxy=true
-博斯运动2,http://220.135.64.124:5050/of-litv-longturn08/index.m3u8?proxy=true
-博斯高球1,http://220.135.64.124:5050/of-litv-longturn05/index.m3u8?proxy=true
-博斯高球2,http://220.135.64.124:5050/of-litv-longturn06/index.m3u8?proxy=true
-亚洲旅游,http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
-历史频道,http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
-古典音乐,http://220.135.64.124:5050/of-4gtv-4gtv059/index.m3u8?proxy=true
-影迷纪实,http://220.135.64.124:5050/of-litv-ftv15/index.m3u8?proxy=true
-戏剧壹台,http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
-数位电影,http://220.135.64.124:5050/of-4gtv-4gtv011/index.m3u8?proxy=true
-时尚运动,http://220.135.64.124:5050/of-4gtv-4gtv014/index.m3u8?proxy=true
-智林体育,http://220.135.64.124:5050/of-4gtv-4gtv101/index.m3u8?proxy=true
-欧洲电影,http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-滚动人生,http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
-生活英语,http://220.135.64.124:5050/of-litv-longturn20/index.m3u8?proxy=true
-互动英语,http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
-电影原声4Gtv,http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
-空间居家,http://220.135.64.124:5050/4gtv-live206/index.m3u8?proxy=true
-第壹商业,http://220.135.64.124:5050/of-4gtv-4gtv109/index.m3u8?proxy=true
-精选动漫,http://220.135.64.124:5050/4gtv-live024/index.m3u8?proxy=true
-经典卡通,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
-经典电影,http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
-罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
-美国之音,http://220.135.64.124:5050/of-litv-ftv03/index.m3u8?proxy=true
-车迷体育,http://220.135.64.124:5050/4gtv-live201/index.m3u8?proxy=true
-达文西台,http://220.135.64.124:5050/of-4gtv-4gtv018/index.m3u8?proxy=true
-国会频1,http://220.135.64.124:5050/of-4gtv-4gtv084/index.m3u8?proxy=true
-国会频2,http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-国家地理,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-国际财经,http://220.135.64.124:5050/of-4gtv-4gtv104/index.m3u8?proxy=true
-ALJAZEERA,http://220.135.64.124:5050/of-litv-ftv10/index.m3u8?proxy=true
-Amc电影,http://220.135.64.124:5050/of-4gtv-4gtv017/index.m3u8?proxy=true
-BLoomberg,http://220.135.64.124:5050/4gtv-live059/index.m3u8?proxy=true
-CINEMAX,http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-CNBC,http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
-Dream Work,http://220.135.64.124:5050/4gtv-live017/index.m3u8?proxy=true
-DW,http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
-ELTA娱乐,http://220.135.64.124:5050/of-4gtv-4gtv070/index.m3u8?proxy=true
-ELTA旅游,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
-FRANCE 24,http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
-FUN娱乐,http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
-GINX_TV,http://220.135.64.124:5050/of-4gtv-4gtv053/index.m3u8?proxy=true
-GLOBAL,http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
-HIt,http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
-INULTRA,http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
-Life Time,http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
-LUXE-TV,http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
-magellan,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
-MEZZO KIVE,http://220.135.64.124:5050/of-4gtv-4gtv083/index.m3u8?proxy=true
-MOMO-亲子,http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
-MTV Live,http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
-nick动漫,http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
-nick少儿,http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
-PET CLUB,http://220.135.64.124:5050/4gtv-live110/index.m3u8?proxy=true
-rock娱乐,http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
-rock电影,http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
-SMART TV,http://220.135.64.124:5050/of-litv-longturn19/index.m3u8?proxy=true
-TRACE URBAN,http://220.135.64.124:5050/of-4gtv-4gtv082/index.m3u8?proxy=true
-TRACE SPORT STARS,http://220.135.64.124:5050/of-4gtv-4gtv077/index.m3u8?proxy=true
-TV5monde,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
+YT ChiSheng9,#genre#
+CCTV-4美洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+中天 CTI+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS選新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+東森LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV95.m3u8
+東森综合台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV96.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森購物台CH34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+東森購物台CH46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+東森購物台CH47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV4.m3u8
+東森購物台CH60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+公視新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV92.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+華視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV93.m3u8
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+華視公眾安全資訊觀測站,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV94.m3u8
+華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+人间卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV97.m3u8
+大愛一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+小猪佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+新唐人LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+8视界,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
+ABC News Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+Al Jazeera Arabic,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+ANN News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+Asianet News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+Dave and Ava,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+Disney Junio,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+Earth TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+Entertainment - Mediacorp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+Haberturk TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+Live NOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+Lofi Girl,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+Mediaone TV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+MLB,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV98.m3u8
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+NBC News Now,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+News Tamil 24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+NHK WORLD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV99.m3u8
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+Taiwan Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+Talking Tom,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+Talking Friends TVMini,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+Tayo the Little Bus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+TV5 News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 74.91 CN,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
