@@ -2182,6 +2182,26 @@ Hub Premier 9 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/
 Hub Premier 10 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/14549
 Hub Premier 11 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/14548
 
+82ys央视,#genre#
+CCTV1,http://82.157.249.28:4009/ys.php?id=cctv1
+CCTV2,http://82.157.249.28:4009/ys.php?id=cctv2
+CCTV3,http://82.157.249.28:4009/ys.php?id=cctv3
+CCTV4,http://82.157.249.28:4009/ys.php?id=cctv4
+CCTV5,http://82.157.249.28:4009/ys.php?id=cctv5
+CCTV5+,http://82.157.249.28:4009/ys.php?id=cctv5p	
+CCTV6,http://82.157.249.28:4009/ys.php?id=cctv6
+CCTV7,http://82.157.249.28:4009/ys.php?id=cctv7
+CCTV8,http://82.157.249.28:4009/ys.php?id=cctv8
+CCTV9,http://82.157.249.28:4009/ys.php?id=cctv9
+CCTV10,http://82.157.249.28:4009/ys.php?id=cctv10
+CCTV11,http://82.157.249.28:4009/ys.php?id=cctv11
+CCTV12,http://82.157.249.28:4009/ys.php?id=cctv12
+CCTV13,http://82.157.249.28:4009/ys.php?id=cctv13
+CCTV14,http://82.157.249.28:4009/ys.php?id=cctv14
+CCTV15,http://82.157.249.28:4009/ys.php?id=cctv15
+CCTV16,http://82.157.249.28:4009/ys.php?id=cctv16
+CCTV17,http://82.157.249.28:4009/ys.php?id=cctv17
+
 204 央卫视频,#genre#
 CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
