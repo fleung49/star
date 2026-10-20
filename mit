@@ -520,8 +520,6 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东新闻,http://tv.8610000.cn:555/gdtv/gdtv.php?id=45
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://xhyx.gz.cn:1698/hls/63/index.m3u8
-广东民生,http://173.208.234.146/live/gdtvs1.m3u8
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
 广东民生,http://tv.8610000.cn:555/gdtv/gdtv.php?id=48
 广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -555,6 +553,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东移动,http://173.208.234.146/live/gdyd.m3u8
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东移动,http://tv.8610000.cn:555/gdtv/gdtv.php?id=74
+广东经济科教,http://173.208.234.146/live/gdtvs1.m3u8
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
 广东经济科教,http://xhyx.gz.cn:1698/hls/28/index.m3u8
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
