@@ -1,4 +1,1493 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.ott-app.cc/xmltv.php"
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,凤凰中文
+http://app.kds666.top:5566/api.php?id=1&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,凤凰中文
+http://app.kds666.top:5566/api.php?id=1&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,凤凰资讯
+http://app.kds666.top:5566/api.php?id=2&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,凤凰资讯
+http://app.kds666.top:5566/api.php?id=2&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,凤凰香港
+http://app.kds666.top:5566/api.php?id=3&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,无线新闻
+http://app.kds666.top:5566/api.php?id=7&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,无线新闻
+http://app.kds666.top:5566/api.php?id=5&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,翡翠台
+http://app.kds666.top:5566/api.php?id=6&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,翡翠台
+http://app.kds666.top:5566/api.php?id=4&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-翡翠4k
+http://app.kds666.top:5566/api.php?id=4&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-翡翠
+http://app.kds666.top:5566/api.php?id=5&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-明珠
+http://app.kds666.top:5566/api.php?id=11&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB_Plus
+http://app.kds666.top:5566/api.php?id=8&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB PLUS
+http://app.kds666.top:5566/api.php?id=6&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB娱乐新闻台
+http://app.kds666.top:5566/api.php?id=10&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB娱乐新闻台
+http://app.kds666.top:5566/api.php?id=7&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB娱乐新闻台
+http://app.kds666.top:5566/api.php?id=36&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB翡翠剧集
+http://app.kds666.top:5566/api.php?id=19&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-翡翠剧集
+http://app.kds666.top:5566/api.php?id=17&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB星河(粤)
+http://app.kds666.top:5566/api.php?id=37&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB星河(国)
+http://app.kds666.top:5566/api.php?id=38&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-黄金华剧
+http://app.kds666.top:5566/api.php?id=9&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-e
+http://app.kds666.top:5566/api.php?id=36&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-J1
+http://app.kds666.top:5566/api.php?id=12&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,TVB-1
+http://app.kds666.top:5566/api.php?id=13&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,功夫台
+http://app.kds666.top:5566/api.php?id=39&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,功夫台
+http://app.kds666.top:5566/api.php?id=40&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV 18台
+http://app.kds666.top:5566/api.php?id=18&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 1
+http://app.kds666.top:5566/api.php?id=11&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 2
+http://app.kds666.top:5566/api.php?id=12&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 3
+http://app.kds666.top:5566/api.php?id=17&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 4
+http://app.kds666.top:5566/api.php?id=21&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 5
+http://app.kds666.top:5566/api.php?id=22&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 6
+http://app.kds666.top:5566/api.php?id=23&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 7
+http://app.kds666.top:5566/api.php?id=25&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,MYTV SUPER 8
+http://app.kds666.top:5566/api.php?id=26&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,HK1
+http://app.kds666.top:5566/api.php?id=8&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,香港卫视
+http://app.kds666.top:5566/api.php?id=8&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,RTHK31
+http://app.kds666.top:5566/api.php?id=15&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,RTHK32
+http://app.kds666.top:5566/api.php?id=15&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,ViuTV
+http://app.kds666.top:5566/api.php?id=11&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,ViuTV6
+http://app.kds666.top:5566/api.php?id=12&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,HOY76
+http://app.kds666.top:5566/api.php?id=13&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,HOY77
+http://app.kds666.top:5566/api.php?id=14&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,HOY78
+http://app.kds666.top:5566/api.php?id=14&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now-新闻
+http://app.kds666.top:5566/api.php?id=16&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now-爆谷(国)
+http://app.kds666.top:5566/api.php?id=18&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now-星影(粤)
+http://app.kds666.top:5566/api.php?id=19&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now-华剧台
+http://app.kds666.top:5566/api.php?id=22&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports Prime
+http://app.kds666.top:5566/api.php?id=25&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports EPL 1
+http://app.kds666.top:5566/api.php?id=27&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 1
+http://app.kds666.top:5566/api.php?id=28&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 2
+http://app.kds666.top:5566/api.php?id=29&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 3
+http://app.kds666.top:5566/api.php?id=30&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 4
+http://app.kds666.top:5566/api.php?id=31&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 5 W-SPORTS
+http://app.kds666.top:5566/api.php?id=32&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 6
+http://app.kds666.top:5566/api.php?id=33&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Now Sports 7
+http://app.kds666.top:5566/api.php?id=34&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,环球电视台
+http://app.kds666.top:5566/api.php?id=23&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,中国电影频道
+http://app.kds666.top:5566/api.php?id=24&s=5
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,美亚电影(粤)
+http://app.kds666.top:5566/api.php?id=13&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,天映经典
+http://app.kds666.top:5566/api.php?id=15&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,天映经典
+http://app.kds666.top:5566/api.php?id=41&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,天映频道
+http://app.kds666.top:5566/api.php?id=42&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,赛马88台
+http://app.kds666.top:5566/api.php?id=43&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,赛马88台
+http://app.kds666.top:5566/api.php?id=44&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,重温经典
+http://app.kds666.top:5566/api.php?id=45&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳門Macau
+http://app.kds666.top:5566/api.php?id=46&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳視澳門
+http://app.kds666.top:5566/api.php?id=9&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳門资讯
+http://app.kds666.top:5566/api.php?id=54&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳門體育
+http://app.kds666.top:5566/api.php?id=48&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳門綜藝
+http://app.kds666.top:5566/api.php?id=49&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,澳門蓮花
+http://app.kds666.top:5566/api.php?id=50&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,AITV
+http://app.kds666.top:5566/api.php?id=53&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,C+
+http://app.kds666.top:5566/api.php?id=52&s=2
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,PopC电影
+http://app.kds666.top:5566/api.php?id=16&s=1
+#EXTINF:-1 group-title="👇KDS香港,#genre#" ,Thrill
+http://app.kds666.top:5566/api.php?id=14&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,寰宇新闻台
+http://app.kds666.top:5566/api.php?id=6&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,寰宇新闻台湾台
+http://app.kds666.top:5566/api.php?id=8&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,寰宇財經
+http://app.kds666.top:5566/api.php?id=30&s=5
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,镜新闻
+http://app.kds666.top:5566/api.php?id=4&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,中天新闻
+http://app.kds666.top:5566/api.php?id=1&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,中天亞洲台
+http://app.kds666.top:5566/api.php?id=14&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,中旺电视
+http://app.kds666.top:5566/api.php?id=28&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,中视新闻
+http://app.kds666.top:5566/api.php?id=2&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,中视
+http://app.kds666.top:5566/api.php?id=16&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS
+http://app.kds666.top:5566/api.php?id=17&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS新闻台
+http://app.kds666.top:5566/api.php?id=9&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS精采台
+http://app.kds666.top:5566/api.php?id=18&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS欢乐台
+http://app.kds666.top:5566/api.php?id=19&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS亚洲
+http://app.kds666.top:5566/api.php?id=31&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVBS亚洲
+http://app.kds666.top:5566/api.php?id=55&s=2
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森新闻
+http://app.kds666.top:5566/api.php?id=5&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森中国台
+http://app.kds666.top:5566/api.php?id=49&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森财经新闻
+http://app.kds666.top:5566/api.php?id=50&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森AMERICA
+http://app.kds666.top:5566/api.php?id=27&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森美洲
+http://app.kds666.top:5566/api.php?id=29&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,东森超视34.5
+http://app.kds666.top:5566/api.php?id=30&s=1
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,三立LIVE新闻
+http://app.kds666.top:5566/api.php?id=10&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,三立iNEWS
+http://app.kds666.top:5566/api.php?id=11&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,三立台湾台
+http://app.kds666.top:5566/api.php?id=51&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,三立综合台
+http://app.kds666.top:5566/api.php?id=52&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,三立都会台
+http://app.kds666.top:5566/api.php?id=53&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,华视
+http://app.kds666.top:5566/api.php?id=12&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,华视新闻
+http://app.kds666.top:5566/api.php?id=3&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视
+http://app.kds666.top:5566/api.php?id=13&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视新闻台
+http://app.kds666.top:5566/api.php?id=7&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视台湾台
+http://app.kds666.top:5566/api.php?id=41&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视第一台
+http://app.kds666.top:5566/api.php?id=42&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视旅游台
+http://app.kds666.top:5566/api.php?id=43&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视影剧台
+http://app.kds666.top:5566/api.php?id=44&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,民视综艺台
+http://app.kds666.top:5566/api.php?id=45&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,台视
+http://app.kds666.top:5566/api.php?id=15&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,台视财经
+http://app.kds666.top:5566/api.php?id=27&s=5
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,公视戏剧
+http://app.kds666.top:5566/api.php?id=16&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,年代新闻
+http://app.kds666.top:5566/api.php?id=57&s=2
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,猪哥亮歌厅秀
+http://app.kds666.top:5566/api.php?id=26&s=5
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,哈哈台HAHA TAI
+http://app.kds666.top:5566/api.php?id=56&s=2
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,哈哈台HAHA TAI
+http://app.kds666.top:5566/api.php?id=56&s=2
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,JET综合
+http://app.kds666.top:5566/api.php?id=58&s=2
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,幸福空間居家台
+http://app.kds666.top:5566/api.php?id=57&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,八大精彩台
+http://app.kds666.top:5566/api.php?id=46&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,八大综合台
+http://app.kds666.top:5566/api.php?id=47&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,八大娱乐台
+http://app.kds666.top:5566/api.php?id=48&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,台湾戏剧台
+http://app.kds666.top:5566/api.php?id=17&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天卡通
+http://app.kds666.top:5566/api.php?id=22&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖洋卡通
+http://app.kds666.top:5566/api.php?id=23&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖洋戏剧
+http://app.kds666.top:5566/api.php?id=24&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天综合
+http://app.kds666.top:5566/api.php?id=25&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天资讯
+http://app.kds666.top:5566/api.php?id=26&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天欢乐
+http://app.kds666.top:5566/api.php?id=27&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天映画
+http://app.kds666.top:5566/api.php?id=28&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天戏剧
+http://app.kds666.top:5566/api.php?id=29&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天电影
+http://app.kds666.top:5566/api.php?id=30&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天育乐
+http://app.kds666.top:5566/api.php?id=31&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天日本
+http://app.kds666.top:5566/api.php?id=32&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,靖天国际
+http://app.kds666.top:5566/api.php?id=33&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华卡通
+http://app.kds666.top:5566/api.php?id=34&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华洋片
+http://app.kds666.top:5566/api.php?id=35&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华日韩
+http://app.kds666.top:5566/api.php?id=36&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华偶像
+http://app.kds666.top:5566/api.php?id=37&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华经典
+http://app.kds666.top:5566/api.php?id=38&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华戏剧
+http://app.kds666.top:5566/api.php?id=39&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,龙华电影
+http://app.kds666.top:5566/api.php?id=40&s=3
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯运动1
+http://app.kds666.top:5566/api.php?id=1&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯运动2
+http://app.kds666.top:5566/api.php?id=2&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯高球1
+http://app.kds666.top:5566/api.php?id=3&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯高球2
+http://app.kds666.top:5566/api.php?id=4&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯魅力
+http://app.kds666.top:5566/api.php?id=5&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯網球
+http://app.kds666.top:5566/api.php?id=6&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯無限I
+http://app.kds666.top:5566/api.php?id=7&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,博斯無限II
+http://app.kds666.top:5566/api.php?id=8&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,纬来综合
+http://app.kds666.top:5566/api.php?id=9&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,纬来育乐
+http://app.kds666.top:5566/api.php?id=10&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,纬来日本
+http://app.kds666.top:5566/api.php?id=12&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,采昌影劇
+http://app.kds666.top:5566/api.php?id=15&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,影迷紀實台
+http://app.kds666.top:5566/api.php?id=46&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,AMC電影台
+http://app.kds666.top:5566/api.php?id=18&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,ANIMAL PLANET
+http://app.kds666.top:5566/api.php?id=53&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,ANIMAX
+http://app.kds666.top:5566/api.php?id=34&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,ASIA TRAVEL
+http://app.kds666.top:5566/api.php?id=55&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,BBC CBEEBIES
+http://app.kds666.top:5566/api.php?id=35&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,BBC EARTH
+http://app.kds666.top:5566/api.php?id=51&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,BBC LIFESTYLE
+http://app.kds666.top:5566/api.php?id=52&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,CNEX
+http://app.kds666.top:5566/api.php?id=47&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,CRIME+INVESTIGATION
+http://app.kds666.top:5566/api.php?id=54&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,DA VINCI
+http://app.kds666.top:5566/api.php?id=45&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,FGM GOLD
+http://app.kds666.top:5566/api.php?id=20&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HBO HD
+http://app.kds666.top:5566/api.php?id=28&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HBO HITS
+http://app.kds666.top:5566/api.php?id=30&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HBO FAMILY
+http://app.kds666.top:5566/api.php?id=31&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HBO SIGNATURE
+http://app.kds666.top:5566/api.php?id=29&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HISTORY
+http://app.kds666.top:5566/api.php?id=49&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,HITS
+http://app.kds666.top:5566/api.php?id=27&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,KIX
+http://app.kds666.top:5566/api.php?id=21&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,LOVE NATURE
+http://app.kds666.top:5566/api.php?id=48&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,LUXE TV
+http://app.kds666.top:5566/api.php?id=58&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,Magellan TV
+http://app.kds666.top:5566/api.php?id=50&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,MCE
+http://app.kds666.top:5566/api.php?id=19&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,MOMO親子台
+http://app.kds666.top:5566/api.php?id=40&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,NICK JR
+http://app.kds666.top:5566/api.php?id=37&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,NICKELODEON
+http://app.kds666.top:5566/api.php?id=38&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,ROCK ACTION
+http://app.kds666.top:5566/api.php?id=23&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,ROCK XSTREAM
+http://app.kds666.top:5566/api.php?id=25&s=4
+#EXTINF:-1 group-title="👇KDS台湾,#genre#" ,TVN
+http://app.kds666.top:5566/api.php?id=22&s=4
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV1
+http://app.kds666.top:5566/api.php?id=48&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV2
+http://app.kds666.top:5566/api.php?id=49&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV3
+http://app.kds666.top:5566/api.php?id=50&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV4
+http://app.kds666.top:5566/api.php?id=51&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV5
+http://app.kds666.top:5566/api.php?id=52&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV5+
+http://app.kds666.top:5566/api.php?id=53&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV6
+http://app.kds666.top:5566/api.php?id=54&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV7
+http://app.kds666.top:5566/api.php?id=55&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV8
+http://app.kds666.top:5566/api.php?id=56&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV9
+http://app.kds666.top:5566/api.php?id=57&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV10
+http://app.kds666.top:5566/api.php?id=58&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV11
+http://app.kds666.top:5566/api.php?id=59&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV12
+http://app.kds666.top:5566/api.php?id=60&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV13
+http://app.kds666.top:5566/api.php?id=61&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV14
+http://app.kds666.top:5566/api.php?id=62&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV15
+http://app.kds666.top:5566/api.php?id=63&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV16
+http://app.kds666.top:5566/api.php?id=64&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV17
+http://app.kds666.top:5566/api.php?id=65&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV4欧洲
+http://app.kds666.top:5566/api.php?id=66&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV4K
+http://app.kds666.top:5566/api.php?id=67&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV8K
+http://app.kds666.top:5566/api.php?id=68&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV怀旧剧场
+http://app.kds666.top:5566/api.php?id=69&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV第一剧场
+http://app.kds666.top:5566/api.php?id=70&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV风云剧场
+http://app.kds666.top:5566/api.php?id=71&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV风云音乐
+http://app.kds666.top:5566/api.php?id=72&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV风云足球
+http://app.kds666.top:5566/api.php?id=73&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV兵器科技
+http://app.kds666.top:5566/api.php?id=74&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV世界地理
+http://app.kds666.top:5566/api.php?id=75&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV女性时尚
+http://app.kds666.top:5566/api.php?id=76&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV央视台球
+http://app.kds666.top:5566/api.php?id=77&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV电视指南
+http://app.kds666.top:5566/api.php?id=78&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV高尔夫·网球
+http://app.kds666.top:5566/api.php?id=79&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV央视文化精品
+http://app.kds666.top:5566/api.php?id=80&s=11
+#EXTINF:-1 group-title="👇KDS央视,#genre#" ,CCTV卫生健康
+http://app.kds666.top:5566/api.php?id=81&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东卫视
+http://app.kds666.top:5566/api.php?id=82&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,深圳卫视
+http://app.kds666.top:5566/api.php?id=83&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东新闻
+http://app.kds666.top:5566/api.php?id=95&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东新闻
+http://app.kds666.top:5566/api.php?id=96&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东体育
+http://app.kds666.top:5566/api.php?id=89&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东珠江
+http://app.kds666.top:5566/api.php?id=90&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东少儿
+http://app.kds666.top:5566/api.php?id=91&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东影视
+http://app.kds666.top:5566/api.php?id=92&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东经济科教
+http://app.kds666.top:5566/api.php?id=94&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东嘉佳卡通
+http://app.kds666.top:5566/api.php?id=97&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,广东岭南戏曲
+http://app.kds666.top:5566/api.php?id=98&s=11
+#EXTINF:-1 group-title="👇KDS广东,#genre#" ,江门综合
+http://app.kds666.top:5566/api.php?id=99&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,广东卫视
+http://app.kds666.top:5566/api.php?id=82&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,深圳卫视
+http://app.kds666.top:5566/api.php?id=83&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,广西卫视
+http://app.kds666.top:5566/api.php?id=3&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,海南卫视
+http://app.kds666.top:5566/api.php?id=8&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,三沙卫视
+http://app.kds666.top:5566/api.php?id=28&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,东南卫视
+http://app.kds666.top:5566/api.php?id=88&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,厦门卫视
+http://app.kds666.top:5566/api.php?id=26&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,海峡卫视
+http://app.kds666.top:5566/api.php?id=31&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,重庆卫视
+http://app.kds666.top:5566/api.php?id=1&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,四川卫视
+http://app.kds666.top:5566/api.php?id=12&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,贵州卫视
+http://app.kds666.top:5566/api.php?id=11&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,云南卫视
+http://app.kds666.top:5566/api.php?id=13&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,东方卫视
+http://app.kds666.top:5566/api.php?id=87&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,浙江卫视
+http://app.kds666.top:5566/api.php?id=7&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,江苏卫视
+http://app.kds666.top:5566/api.php?id=4&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,安徽卫视
+http://app.kds666.top:5566/api.php?id=6&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,北京卫视
+http://app.kds666.top:5566/api.php?id=84&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,天津卫视
+http://app.kds666.top:5566/api.php?id=2&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,吉林卫视
+http://app.kds666.top:5566/api.php?id=17&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,山东卫视
+http://app.kds666.top:5566/api.php?id=14&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,山西卫视
+http://app.kds666.top:5566/api.php?id=15&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,湖南卫视
+http://app.kds666.top:5566/api.php?id=85&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,湖北卫视
+http://app.kds666.top:5566/api.php?id=86&s=11
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,江西卫视
+http://app.kds666.top:5566/api.php?id=5&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,河南卫视
+http://app.kds666.top:5566/api.php?id=9&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,河北卫视
+http://app.kds666.top:5566/api.php?id=10&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,甘肃卫视
+http://app.kds666.top:5566/api.php?id=16&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,辽宁卫视
+http://app.kds666.top:5566/api.php?id=18&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,陕西卫视
+http://app.kds666.top:5566/api.php?id=19&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,黑龙江卫视
+http://app.kds666.top:5566/api.php?id=20&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,内蒙古卫视
+http://app.kds666.top:5566/api.php?id=21&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,西藏卫视
+http://app.kds666.top:5566/api.php?id=22&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,青海卫视
+http://app.kds666.top:5566/api.php?id=23&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,宁夏卫视
+http://app.kds666.top:5566/api.php?id=24&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,新疆卫视
+http://app.kds666.top:5566/api.php?id=25&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,兵团卫视
+http://app.kds666.top:5566/api.php?id=27&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,延边卫视
+http://app.kds666.top:5566/api.php?id=29&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,农林卫视
+http://app.kds666.top:5566/api.php?id=30&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,CHC动作电影
+http://app.kds666.top:5566/api.php?id=32&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,CHC影迷电影
+http://app.kds666.top:5566/api.php?id=33&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,CHC家庭影院
+http://app.kds666.top:5566/api.php?id=34&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,北京卡酷少儿
+http://app.kds666.top:5566/api.php?id=35&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,哈哈炫动
+http://app.kds666.top:5566/api.php?id=36&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,环球旅游
+http://app.kds666.top:5566/api.php?id=38&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,求索纪录
+http://app.kds666.top:5566/api.php?id=40&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,求索动物
+http://app.kds666.top:5566/api.php?id=41&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,求索科学
+http://app.kds666.top:5566/api.php?id=42&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,精品剧场1
+http://app.kds666.top:5566/api.php?id=43&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,精品剧场2
+http://app.kds666.top:5566/api.php?id=44&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,精品剧场3
+http://app.kds666.top:5566/api.php?id=46&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,精品剧场4
+http://app.kds666.top:5566/api.php?id=47&s=6
+#EXTINF:-1 group-title="👇KDS卫视,#genre#" ,精品剧场5
+http://app.kds666.top:5566/api.php?id=48&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,精彩影视
+http://app.kds666.top:5566/api.php?id=45&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,金鹰纪实
+http://app.kds666.top:5566/api.php?id=50&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,劲爆体育
+http://app.kds666.top:5566/api.php?id=51&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,五星体育
+http://app.kds666.top:5566/api.php?id=52&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,晴彩赛事1
+http://app.kds666.top:5566/api.php?id=53&s=6
+#EXTINF:-1 group-title="环球精选http://app.kds666.top:5566/api.php?id=49&s=6" ,晴彩赛事2
+http://app.kds666.top:5566/api.php?id=54&s=6
+#EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58592.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58596.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVBJ1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58588.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVB1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58589.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVB1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58594.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVB DRAMA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58591.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVBE
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58593.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,凤凰美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58610.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,凤凰美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58600.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,凤凰资讯
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58611.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,凤凰资讯
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58601.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CCTV4 美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58615.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CCTV4 美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CCTV15
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58616.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CCTV 娱乐
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58618.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CCTV 戏曲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58619.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,CGTN
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58637.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,GREAT WALL ELITE
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58629.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,中国电影
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58624.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,华夏电视
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58633.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,海峡卫视
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58627.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,安徽国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58620.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,北京国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58621.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东方国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58626.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,江苏国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58632.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,江苏新闻
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58646.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,深圳国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58634.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,浙江国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58635.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,华视
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59155.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东森中国台
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59156.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东森戏剧
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59157.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东森财经美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59158.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东森卫视美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59159.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,东森美洲
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59160.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,三立国际
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59163.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,台视综合
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59166.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,台视新闻
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59168.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVBS ASIA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58598.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVBS ASIA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59167.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,TVBS ASIA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58590.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,YOYO TV
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59169.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,HUB SPORTS 1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58573.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,HUB SPORTS 2
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58574.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,HUB SPORTS 3
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58575.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,BEIN SPORTS 1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58577.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,BEIN SPORTS 2
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58578.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,BEIN SPORTS 3
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58579.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,BEIN SPORTS 1 PH
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59494.ts
+#EXTINF:-1 group-title="📺OIIB CN" ,BEIN SPORTS 3 PH
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/59493.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KABC
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/19651.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KCBS
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/19862.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KCAL
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/19865.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KNBC
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/20318.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KTLA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13435.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KTLA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/25203.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,KTTV
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/20092.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,SPECTRUM NEWS 1 SO CAL
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13515.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,ABC News Live
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13424.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,ACCU WEATHER
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1439980.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,ALJAZEERA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/56147.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,BLOOMBERG
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440017.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,BBC WORLD NEWS
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440004.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CBS NEWS 24/7
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13433.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CGTN
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1369791.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CGTN
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58622.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CGTN DOCUMENTARY
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/44693.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CNBC
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13444.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CNBC WORLD
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13445.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CNN
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13442.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,CNN INTL
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/36876.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,DW
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/44698.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,FOX BUSINESS
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440106.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,FOX NEWS CHANNEL
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440107.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,FOX Weather
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440112.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,FRANCE 24
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/36894.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,MSNBC
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440197.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,NBC News Now
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/29220.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,REUTERS 60
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/14416.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,SKY NEWS
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/36750.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,THE WEATHER CHANNEL
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13396.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,TVG
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13409.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,TVG2
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13410.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,TVG/FANDUELTV
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/13628.ts
+#EXTINF:-1 group-title="📺OTTB NEWS" ,YAHOO FINANCE
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440367.ts
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,凤凰中文
+http://tv.cloudcdn.me:80/live.ts?channelId=133041&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,凤凰资讯
+http://tv.cloudcdn.me:80/live.ts?channelId=133100&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TVB星河
+http://tv.cloudcdn.me:80/live.ts?channelId=133057&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TVB星河
+http://tv.cloudcdn.me:80/live.ts?channelId=133059&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TVB娱乐新闻台
+http://tv.cloudcdn.me:80/live.ts?channelId=132168&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,明珠台
+http://tv.cloudcdn.me:80/live.ts?channelId=133058&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,天映经典
+http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,天映频道
+http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TVBS ASIA
+http://tv.cloudcdn.me:80/live.ts?channelId=132170&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ARIRANG
+http://tv.cloudcdn.me:80/live.ts?channelId=133069&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO AEC
+http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO AOD
+http://tv.cloudcdn.me:80/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO ARENA 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO ARENA 2
+http://tv.cloudcdn.me:80/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO ARENA BOLA 1
+http://tv.cloudcdn.me:80/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO ARENA BOLA 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO BADMINTON 1
+http://tv.cloudcdn.me:80/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO BADMINTON 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO CRICKET
+http://tv.cloudcdn.me:80/live.ts?channelId=128494&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO GLOBAL TREKKER
+http://tv.cloudcdn.me:80/live.ts?channelId=133053&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO GOLF
+http://tv.cloudcdn.me:80/live.ts?channelId=133089&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO GRANDSTAND
+http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO PREMIER LEAGUE 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO QJ
+http://tv.cloudcdn.me:80/live.ts?channelId=133055&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ASTRO SPORTS PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=133115&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=133116&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=133117&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS EN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS FR 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125089&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS FR 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125090&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS FR 3
+http://tv.cloudcdn.me:80/live.ts?channelId=125091&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS TR 1
+http://tv.cloudcdn.me:80/live.ts?channelId=132179&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS TR 2
+http://tv.cloudcdn.me:80/live.ts?channelId=132175&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS TR 3
+http://tv.cloudcdn.me:80/live.ts?channelId=132176&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,BEIN SPORTS TR 4
+http://tv.cloudcdn.me:80/live.ts?channelId=132177&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,DAZN DE 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,DAZN DE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125425&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,DAZN EN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125435&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,DAZN CHAMPIONSHIP
+http://tv.cloudcdn.me:80/live.ts?channelId=132806&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ESPN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128704&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ESPN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,ESPN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=132808&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,FS1
+http://tv.cloudcdn.me:80/live.ts?channelId=102480&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,FS2
+http://tv.cloudcdn.me:80/live.ts?channelId=132180&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,HUB PTEMIER 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128708&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=129132&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 6
+http://tv.cloudcdn.me:80/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 7
+http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS 4K
+http://tv.cloudcdn.me:80/live.ts?channelId=132134&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=129140&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS PREMIER 1
+http://tv.cloudcdn.me:80/live.ts?channelId=129136&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS PREMIER 2
+http://tv.cloudcdn.me:80/live.ts?channelId=129137&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS PREMIER 4
+http://tv.cloudcdn.me:80/live.ts?channelId=129138&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS PREMIER 5
+http://tv.cloudcdn.me:80/live.ts?channelId=129139&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,NOW SPORTS PREMIER 6
+http://tv.cloudcdn.me:80/live.ts?channelId=132133&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,RACING TV
+http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS MAIN EVENT
+http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS RACING
+http://tv.cloudcdn.me:80/live.ts?channelId=132131&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SKY SPORTS TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=132530&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SONY SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SONY SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SONY SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SONY SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SONY SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SPOTV 1
+http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,SPOTV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TNT SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TNT SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TNT SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TNT SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TNT SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TSN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TSN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TSN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TSN 4
+http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,TSN 5
+http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Mix" ,W-SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=133130&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KABC
+http://tv.cloudcdn.me:80/live.ts?channelId=126868&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KCBS
+http://tv.cloudcdn.me:80/live.ts?channelId=126975&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KCAL
+http://tv.cloudcdn.me:80/live.ts?channelId=127128&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KTLA
+http://tv.cloudcdn.me:80/live.ts?channelId=126664&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KNBC
+http://tv.cloudcdn.me:80/live.ts?channelId=127217&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn Los Angeles" ,KTTV
+http://tv.cloudcdn.me:80/live.ts?channelId=132633&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Accu Weather
+http://tv.cloudcdn.me:80/live.ts?channelId=126650&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,ALJAZEERA
+http://tv.cloudcdn.me:80/live.ts?channelId=133070&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,BBC News
+http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Black News Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=126917&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Bloomberg TV
+http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CBC NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=46813&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CCTV4
+http://tv.cloudcdn.me:80/live.ts?channelId=133078&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CGTN
+http://tv.cloudcdn.me:80/live.ts?channelId=133864&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CGTN DOCUMENTARY
+http://tv.cloudcdn.me:80/live.ts?channelId=127317&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CNA
+http://tv.cloudcdn.me:80/live.ts?channelId=133040&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CNBC
+http://tv.cloudcdn.me:80/live.ts?channelId=46798&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CNBC ASIA
+http://tv.cloudcdn.me:80/live.ts?channelId=133038&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CNN
+http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CNN INTL
+http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,CP24
+http://tv.cloudcdn.me:80/live.ts?channelId=46836&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,DW English
+http://tv.cloudcdn.me:80/live.ts?channelId=72951&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,EURONEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=91008&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Fox Business Network
+http://tv.cloudcdn.me:80/live.ts?channelId=127049&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Fox News Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=127093&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,FOX Weather
+http://tv.cloudcdn.me:80/live.ts?channelId=127116&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,FRANCE 24
+http://tv.cloudcdn.me:80/live.ts?channelId=133039&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,MSNBC
+http://tv.cloudcdn.me:80/live.ts?channelId=127129&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,RT News
+http://tv.cloudcdn.me:80/live.ts?channelId=36131&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,SKY NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,The Weather Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=127301&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,TRT WORLD
+http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,TVG Network
+http://tv.cloudcdn.me:80/live.ts?channelId=126192&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="😎cloudcdn News" ,Weather Nation
+http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,ABC 7 KABC
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213872.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,CBS 2 KCBS
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213933.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,CBS 9 KCAL
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213994.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,CBSN LOS ANGELES
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032473.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,FOX 11 KTTV
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/214418.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,KTLA 5
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1321712.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,KTLA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/30435.ts
+#EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,SPECTRUM NEWS 1 SO CAL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284290.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,7 NEWS BOSTON (WHDH) HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/910812.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,ABC 13 HOUSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71638.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,ABC NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/248840.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,ACCU WEATHER UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71503.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,AL JAZEERA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/243953.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BBC WORLD NEWS UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71484.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BBC NEWS FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1382478.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BEK SPORTS NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032478.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BLAZE TV HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1088233.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BLOOMBERG+ UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/271345.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BLOOMBERG TV+ FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792246.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,BLOOMBERG HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71498.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,C-SPAN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71506.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,C-SPAN 2 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71507.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,C-SPAN 3 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1298269.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN BAY AREA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032468.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN BOSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032469.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN CHICAGO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032470.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN DALLAS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032471.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN DENVER HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032472.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN MINNESOTA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032474.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN NEW YORK HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032475.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN PHILADELPHIA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032476.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBSN PITTSBURGH HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032477.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBS NEWS BOSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/364778.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBS NEWS DETROIT FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/364781.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CBS 11 HOUSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71672.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CHEDDAR BUSINESS FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71499.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CHICAGO NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063018.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNBC HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71485.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNBC WORLD HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71492.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNN UHD+
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/76564.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNN UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71493.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/72329.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,CNN INTERNATIONAL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71486.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,DEFIANCE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/277136.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,ESTRELLA NEWS FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792250.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX 26 HOUSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71620.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX BUSINESS NETWORK HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71494.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX NEWS LIVE NOW HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/957038.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX NEWS CHANNEL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71487.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX NEWS CHANNEL [BK] HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1084575.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FOX WEATHER HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/521134.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,FREE SPEECH HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/657920.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,HLN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71367.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,I24 NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/906943.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,INFOWARS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1086616.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,KTLA 5 LOS ANGELES HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1321712.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,MS NOW HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71491.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,MS NOW HD [BK]
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1383250.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC NEWS NOW UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/232800.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC 2 HOUSTON TX HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71585.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC CHICAGO NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063020.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC DATELINE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1281001.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC LOS ANGELES NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063022.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC LOS ANGLES NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063014.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC PHILADELPHIA NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063024.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC PHILEDELPHIA NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063015.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC WASHINGTON DC NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063025.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NBC LX HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/275009.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NE CABLE NEWS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71501.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 LONG ISLAND UHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/181244.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 HUDSON VALLEY FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1301743.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 BROOKLYN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/267018.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 CONNECTICUT HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/276944.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 THE BRONX HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/332937.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 12 WESTCHESTER HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/181243.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 9 SAN DIEGO (KUSI) HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1345058.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 25 BOSTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/214461.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWS 69 PHILADELPHIA (WFMZ) SD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/767859.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEW JERSEY NEWS 12 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1011739.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWSMAX TV HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/169717.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,NEWSNATION HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/332166.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,ONE AMERICA NEWS NETWORK HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71483.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,PIX11 (WPIX) NEW YORK HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/984840.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,REAL AMERICA'S VOICE FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1282170.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,RT NEWS AMERICA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/773812.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,SCRIPPS NEWS FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792253.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,SPECTRUM NEWS 13 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/974332.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,SPECTRUM NEWS NY1 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1200218.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,THE FIRST TV FHD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1403615.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,THE WEATHER CHANNEL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71504.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,THE SPOT 66 (WXPX) TAMPA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1379606.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,TYT NETWORK HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032479.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,UNIVISION 45 HOUSTON TX HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/271349.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,VEGAS34 (KMCC) LAS VEGAS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1408604.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,WEATHER NATION HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71489.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,WGN 9 CHICAGO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/330207.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,WSVN7 MIAMI HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1172727.ts
+#EXTINF:-1 group-title="☕ysift55 NEWS" ,WPIX 11 New York HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/984812.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284260.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM XCAST HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284319.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM XCAST 2 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284318.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM XCAST 3 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284320.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM DEPORTES LA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284261.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM LOCAL 77 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284262.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS - (NEW YORK) ROCHESTER HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284266.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS - ALBANY CAPITAL REGION HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284267.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS - AUSTIN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284268.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS - HUDSON VALLEY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284269.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS - NY1 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284270.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 ALBANY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284291.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 BUFFALO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284292.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 CAROLINAS MOUNTAIN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284293.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 CHARLOTTE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284272.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 CHARLOTTE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284294.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 CINCINNATI HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284283.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 CLEVELAND/AKRON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284284.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 COASTAL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284273.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 COLUMBUS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284285.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 COVINGTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284277.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 DALLAS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284276.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 DALLAS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284295.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 DALLAS -FT WORTH HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284286.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 DAYTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284287.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 EL PASO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284296.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 EL PASO TEXAS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284288.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 EVANSVILLE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284278.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 HUDSON VALLEY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284297.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 KANSAS CITY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284289.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 KANSAS CITY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284298.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 LEXINGTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284279.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 LOUISVILLE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284280.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 MILWAUKEE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284265.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 MOUNTAIN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284274.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 OHIO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284299.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 PITTSFIELD HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284281.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 PITTSFIELD HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284300.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 RALEIGH HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284275.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 RALEIGH HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284301.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 ROTX HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284302.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 SAN ANTONIO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284271.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 SO CAL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284290.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 SPRINGFIELD HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284282.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 SPRINGFIELD HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284303.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 WILMINGTON HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284304.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 1 WISCONSIN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284305.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS 9 BAY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1370142.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS AUSTIN HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284306.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS MAINE HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284307.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS MO ST LOUIS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284308.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS SAN ANTONIO HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284309.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NEWS ST LOUIS HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284310.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM NOTICIAS NY1 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284311.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM RADAR HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284312.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM SPORTS 1 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284313.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM SPORTS 2 HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284314.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM SPORTSNET LA HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284315.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM SURF CHANNEL HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284316.ts
+#EXTINF:-1 group-title="☕ysift55 SPECTRUM NETWORK" ,SPECTRUM TRAFFIC ALBANY HD
+http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284317.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,无线新闻
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/616461.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,明珠台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052638.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,TVB娱乐新闻台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052635.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,千禧经典台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052632.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,凤凰中文
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052575.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,凤凰资讯
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269823.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,凤凰美洲台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269828.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,凤凰美洲台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269822.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,天映频道
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052448.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,TVB1
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269834.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,TVBJ1
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269835.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,TVBe
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269832.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,TVB DRAMA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269830.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 1 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748430.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 2 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748431.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 3 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748432.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 4 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748433.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 5 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748434.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 6 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748435.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 7 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748436.ts
+#EXTINF:-1 group-title="☕ysift55 HK" ,NOW HK PREMIER SPORTS 8 FHD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748437.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CCTV 4
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/957712.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CCTV 4 美洲
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269826.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CCTV-OPERA HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269824.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CCTV-ENTERTAINMENT HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269825.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CGTN-ESPANOL
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269816.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CGTN HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269817.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,BABYTV MANDARIN HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269827.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,CHINA MOVIE CHANNEL
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269813.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,GUANGDONG SOUTHERN TV SD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269819.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,浙江国际
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269818.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,江苏國際
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269807.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,北京國際
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269814.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,東方國際
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269815.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,湖南國際
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269812.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,安徽國際
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269810.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,长城精品频道
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269821.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,华厦电视台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269808.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,海峡卫视
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269806.ts
+#EXTINF:-1 group-title="☕ysift55 CHINA" ,深圳国际
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269811.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,东森美洲
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,东森卫视
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269926.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,东森财经
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269924.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,东森戲劇
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269925.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,东森中國
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269927.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,台視新闻
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269922.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,台視綜合
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269928.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,华视美洲
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269929.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,美國城市衛視ICITI
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269919.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,SKYLINK TELEVISION HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269921.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,SKYLINK TELEVISION 2 HD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269920.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,TVBS ASIA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269833.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,TVBS ASIA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269918.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,TVBS ASIA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052643.ts
+#EXTINF:-1 group-title="☕ysift55 TAIWAN" ,YOYO TV
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269917.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,Astro欢喜台
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052397.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ALJAZEERA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052534.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,BBC WORLD NEWS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543290.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,BLOOMBERG
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543286.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CHANNEL 5 SG
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986278.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CHANNEL 8 SG
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986282.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CHANNEL U SG
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986286.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CNA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052455.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CNBC ASIA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052459.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,CNN
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052462.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,DW
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052485.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,FRANCE 24
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052494.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,KBS WORLD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543274.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,NHK WORLD
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1003472.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,NHK WORLD PREMIUM
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1003470.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,SKY NEWS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052585.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,BEIN SPOTYS 1
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052432.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,BEIN SPOTYS 2
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052426.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,BEIN SPOTYS 3
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052430.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO PREMIER LEAGUE
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955661.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO PREMIER LEAGUE 2
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955663.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO PREMIER LEAGUE 4
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955665.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO ARENA
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052376.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO ARENA 2
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052374.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ASTRO CRICKET
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274760.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,A-SPORTS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1292018.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,FOX SPORTS 501
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274758.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,NBA TV
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1380370.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ONE SPORTS+
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543261.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,ONE SPORTS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543262.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,PTV SPORTS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274771.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,SKY SPORTS CRICKET
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274763.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,SUPERSPORT CRICKET
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274762.ts
+#EXTINF:-1 group-title="☕ysift55 ASIA" ,TEN SPORTS
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/129201.ts
+
 #EXTINF:-1 group-title="1tv41 LOS ANGELES" ,KABC
 http://1tv41.icu:8080/darriusthomas115@gmail.com/darriusthomas115@2025/324431
 #EXTINF:-1 group-title="1tv41 LOS ANGELES" ,KCAL
