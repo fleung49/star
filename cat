@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTM3U x-tvg-url="https://epg.ott-app.cc/xmltv.php"
-#EXTM3U
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰中文
 http://app.kds666.top:5566/api.php?id=1&s=1
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰中文
@@ -768,6 +767,188 @@ http://app.kds666.top:5566/api.php?id=53&s=6
 http://app.kds666.top:5566/api.php?id=54&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,晴彩赛事3
 http://app.kds666.top:5566/api.php?id=55&s=6
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KABC
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/548980.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KCBS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/549636.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KCAL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/760122.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KTLA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469336.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KNBC
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/550382.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,KTTV
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/549875.ts
+#EXTINF:-1 group-title="🎀2k Los Angeles" ,SPECTRUM NEWS 1 SO CAL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1396452.ts
+#EXTINF:-1 group-title="🎀2K News" ,ABC NEWS LIVE
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551995.ts
+#EXTINF:-1 group-title="🎀2K News" ,ALJAZEERA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469293.ts
+#EXTINF:-1 group-title="🎀2K News" ,BBC News
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551984.ts
+#EXTINF:-1 group-title="🎀2K News" ,Bloomberg TV
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469299.ts
+#EXTINF:-1 group-title="🎀2K News" ,CBC NEWS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/627017.ts
+#EXTINF:-1 group-title="🎀2K News" ,CBS NEWS 24/7
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551996.ts
+#EXTINF:-1 group-title="🎀2K News" ,CCTV4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1371567.ts
+#EXTINF:-1 group-title="🎀2K News" ,CCTV4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1394216.ts
+#EXTINF:-1 group-title="🎀2K News" ,CGTN
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/311633.ts
+#EXTINF:-1 group-title="🎀2K News" ,CGTN DOCUMENTARY
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1394219.ts
+#EXTINF:-1 group-title="🎀2K News" ,CNBC
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551993.ts
+#EXTINF:-1 group-title="🎀2K News" ,CNBC PRIME
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/843895.ts
+#EXTINF:-1 group-title="🎀2K News" ,CNBC WORLD
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551992.ts
+#EXTINF:-1 group-title="🎀2K News" ,CNN
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/552001.ts
+#EXTINF:-1 group-title="🎀2K News" ,CNN INTL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551998.ts
+#EXTINF:-1 group-title="🎀2K News" ,CP24
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626998.ts
+#EXTINF:-1 group-title="🎀2K News" ,DW English
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469315.ts
+#EXTINF:-1 group-title="🎀2K News" ,EURONEWS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551987.ts
+#EXTINF:-1 group-title="🎀2K News" ,Fox Business Network
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551968.ts
+#EXTINF:-1 group-title="🎀2K News" ,Fox News Channel
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551982.ts
+#EXTINF:-1 group-title="🎀2K News" ,FOX Weather
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/886925.ts
+#EXTINF:-1 group-title="🎀2K News" ,FRANCE 24
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469321.ts
+#EXTINF:-1 group-title="🎀2K News" ,MSNBC
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/551986.ts
+#EXTINF:-1 group-title="🎀2K News" ,RTE NEWS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/578145.ts
+#EXTINF:-1 group-title="🎀2K News" ,RT News
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577215.ts
+#EXTINF:-1 group-title="🎀2K News" ,SKY NEWS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577229.ts
+#EXTINF:-1 group-title="🎀2K News" ,The Weather Channel
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/469343.ts
+#EXTINF:-1 group-title="🎀2K News" ,TRT WORLD
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577212.ts
+#EXTINF:-1 group-title="🎀2K News" ,TVG Network
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/487634.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,FAIRCHILD 1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/311633.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,FAIRCHILD 2
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500944.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,FAIRCHILD WEST
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500943.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,凤凰资讯
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500960.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,凤凰资讯
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1394220.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,凤凰美洲台
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500958.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,凤凰美洲台
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1394221.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,无线新闻
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500949.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,无线新闻
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500953.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVB娱乐新闻台
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500946.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVB娱乐新闻台
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500951.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVBS ASIA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500947.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVBS ASIA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500956.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVBE
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500950.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVBJ1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500945.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TVBS DRAMA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500948.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,天映经典
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/854504.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,ASTRO FOOTBALL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/854449.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,ASTRO GRANDSTAND
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/854448.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,ASTRO PREMIER LEAGUE
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/854447.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,ASTRO UNIFI SPORTS
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/854450.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/828089.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 2
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/828088.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 3
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016922.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016923.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 5
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016924.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 6
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016925.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 7
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016926.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 8
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016927.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,BEIN SPORTS 9
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1016928.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827982.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 2
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827981.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 3
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827979.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827978.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 5
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827977.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,HUB PREMIER 6
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/827976.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,RACING TV
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577958.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SKY SPORTS +
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577944.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SKY SPORTS FOOTBALL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577941.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SKY SPORTS MIX
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577939.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SKY SPORTS NFL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577945.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SKY SPORTS RACING
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577937.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SUPERSPORT EFL
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577919.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SUPERSPORT LALIGA
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577929.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,SUPERSPORT SERIES A
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577920.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TNT SPORTS 1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/578001.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TNT SPORTS 2
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/578000.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TNT SPORTS 3
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577999.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TNT SPORTS 4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/782732.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TNT SPORTS 5
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/804331.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TSN 1
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626876.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TSN 2
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626875.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TSN 3
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626874.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TSN 4
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626873.ts
+#EXTINF:-1 group-title="🎀2K MIX" ,TSN 5
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/626872.ts
 #EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
 http://mtayeh.ottb.xyz/live/774710333494/659822672281/58592.ts
 #EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
