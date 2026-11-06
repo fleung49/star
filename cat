@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTM3U x-tvg-url="https://epg.ott-app.cc/xmltv.php"
+#EXTM3U
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰中文
 http://app.kds666.top:5566/api.php?id=1&s=1
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰中文
@@ -9,6 +10,8 @@ http://app.kds666.top:5566/api.php?id=1&s=2
 http://app.kds666.top:5566/api.php?id=2&s=1
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰资讯
 http://app.kds666.top:5566/api.php?id=2&s=2
+#EXTINF:-1 group-title="👇KDS香港" ,凤凰香港
+http://app.kds666.top:5566/api.php?id=129&s=11
 #EXTINF:-1 group-title="👇KDS香港" ,凤凰香港
 http://app.kds666.top:5566/api.php?id=3&s=2
 #EXTINF:-1 group-title="👇KDS香港" ,无线新闻
@@ -85,24 +88,36 @@ http://app.kds666.top:5566/api.php?id=15&s=2
 http://app.kds666.top:5566/api.php?id=11&s=2
 #EXTINF:-1 group-title="👇KDS香港" ,ViuTV6
 http://app.kds666.top:5566/api.php?id=12&s=2
+#EXTINF:-1 group-title="👇KDS香港" ,VIU华剧台
+http://app.kds666.top:5566/api.php?id=131&s=11
 #EXTINF:-1 group-title="👇KDS香港" ,HOY76
 http://app.kds666.top:5566/api.php?id=13&s=2
 #EXTINF:-1 group-title="👇KDS香港" ,HOY77
 http://app.kds666.top:5566/api.php?id=14&s=5
 #EXTINF:-1 group-title="👇KDS香港" ,HOY78
 http://app.kds666.top:5566/api.php?id=14&s=2
-#EXTINF:-1 group-title="👇KDS香港" ,Now-新闻
+#EXTINF:-1 group-title="👇KDS香港" ,Now-财经台
 http://app.kds666.top:5566/api.php?id=16&s=2
-#EXTINF:-1 group-title="👇KDS香港" ,Now-爆谷(国)
+#EXTINF:-1 group-title="👇KDS香港" ,Now-财经台
+http://app.kds666.top:5566/api.php?id=134&s=11
+#EXTINF:-1 group-title="👇KDS香港" ,Now-爆谷台
 http://app.kds666.top:5566/api.php?id=18&s=2
-#EXTINF:-1 group-title="👇KDS香港" ,Now-星影(粤)
+#EXTINF:-1 group-title="👇KDS香港" ,Now-爆谷台
+http://app.kds666.top:5566/api.php?id=133&s=11
+#EXTINF:-1 group-title="👇KDS香港" ,Now-星影台
 http://app.kds666.top:5566/api.php?id=19&s=2
+#EXTINF:-1 group-title="👇KDS香港" ,Now-星影台
+http://app.kds666.top:5566/api.php?id=136&s=11
 #EXTINF:-1 group-title="👇KDS香港" ,Now-华剧台
 http://app.kds666.top:5566/api.php?id=22&s=2
+#EXTINF:-1 group-title="👇KDS香港" ,Now-华剧台
+http://app.kds666.top:5566/api.php?id=132&s=11
 #EXTINF:-1 group-title="👇KDS香港" ,Now Sports Prime
 http://app.kds666.top:5566/api.php?id=25&s=2
 #EXTINF:-1 group-title="👇KDS香港" ,Now Sports EPL 1
 http://app.kds666.top:5566/api.php?id=27&s=2
+#EXTINF:-1 group-title="👇KDS香港" ,Now Sports EPL 1
+http://app.kds666.top:5566/api.php?id=138&s=11
 #EXTINF:-1 group-title="👇KDS香港" ,Now Sports 1
 http://app.kds666.top:5566/api.php?id=28&s=2
 #EXTINF:-1 group-title="👇KDS香港" ,Now Sports 2
@@ -155,6 +170,12 @@ http://app.kds666.top:5566/api.php?id=52&s=2
 http://app.kds666.top:5566/api.php?id=16&s=1
 #EXTINF:-1 group-title="👇KDS香港" ,Thrill
 http://app.kds666.top:5566/api.php?id=14&s=1
+#EXTINF:-1 group-title="👇KDS台湾" ,壹新闻
+http://app.kds666.top:5566/api.php?id=106&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,壹电影
+http://app.kds666.top:5566/api.php?id=107&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,壹综合
+http://app.kds666.top:5566/api.php?id=108&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,寰宇新闻台
 http://app.kds666.top:5566/api.php?id=6&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,寰宇新闻台湾台
@@ -165,6 +186,12 @@ http://app.kds666.top:5566/api.php?id=30&s=5
 http://app.kds666.top:5566/api.php?id=4&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,中天新闻
 http://app.kds666.top:5566/api.php?id=1&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,中天新闻
+http://app.kds666.top:5566/api.php?id=141&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,中天综合
+http://app.kds666.top:5566/api.php?id=127&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,中天娱乐
+http://app.kds666.top:5566/api.php?id=128&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,中天亞洲台
 http://app.kds666.top:5566/api.php?id=14&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,中旺电视
@@ -173,6 +200,10 @@ http://app.kds666.top:5566/api.php?id=28&s=1
 http://app.kds666.top:5566/api.php?id=2&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,中视
 http://app.kds666.top:5566/api.php?id=16&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,中视经典
+http://app.kds666.top:5566/api.php?id=26&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,中视菁采
+http://app.kds666.top:5566/api.php?id=23&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,TVBS
 http://app.kds666.top:5566/api.php?id=17&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,TVBS新闻台
@@ -187,16 +218,26 @@ http://app.kds666.top:5566/api.php?id=31&s=1
 http://app.kds666.top:5566/api.php?id=55&s=2
 #EXTINF:-1 group-title="👇KDS台湾" ,东森新闻
 http://app.kds666.top:5566/api.php?id=5&s=3
-#EXTINF:-1 group-title="👇KDS台湾" ,东森中国台
-http://app.kds666.top:5566/api.php?id=49&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,东森财经新闻
 http://app.kds666.top:5566/api.php?id=50&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,东森电影
+http://app.kds666.top:5566/api.php?id=114&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,东森综合
+http://app.kds666.top:5566/api.php?id=115&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,东森洋片
+http://app.kds666.top:5566/api.php?id=116&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,东森戏剧
+http://app.kds666.top:5566/api.php?id=117&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,东森中国台
+http://app.kds666.top:5566/api.php?id=49&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,东森AMERICA
 http://app.kds666.top:5566/api.php?id=27&s=1
 #EXTINF:-1 group-title="👇KDS台湾" ,东森美洲
 http://app.kds666.top:5566/api.php?id=29&s=1
 #EXTINF:-1 group-title="👇KDS台湾" ,东森超视34.5
 http://app.kds666.top:5566/api.php?id=30&s=1
+#EXTINF:-1 group-title="👇KDS台湾" ,三立新闻
+http://app.kds666.top:5566/api.php?id=19&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,三立LIVE新闻
 http://app.kds666.top:5566/api.php?id=10&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,三立iNEWS
@@ -227,30 +268,52 @@ http://app.kds666.top:5566/api.php?id=44&s=3
 http://app.kds666.top:5566/api.php?id=45&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,台视
 http://app.kds666.top:5566/api.php?id=15&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,台视新闻
+http://app.kds666.top:5566/api.php?id=18&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,台视财经
 http://app.kds666.top:5566/api.php?id=27&s=5
+#EXTINF:-1 group-title="👇KDS台湾" ,台视综合
+http://app.kds666.top:5566/api.php?id=21&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,公视戏剧
 http://app.kds666.top:5566/api.php?id=16&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,非凡新闻
+http://app.kds666.top:5566/api.php?id=20&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,非凡商业
+http://app.kds666.top:5566/api.php?id=29&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,年代新闻
 http://app.kds666.top:5566/api.php?id=57&s=2
+#EXTINF:-1 group-title="👇KDS台湾" ,年代MUCH
+http://app.kds666.top:5566/api.php?id=124&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,猪哥亮歌厅秀
 http://app.kds666.top:5566/api.php?id=26&s=5
 #EXTINF:-1 group-title="👇KDS台湾" ,哈哈台HAHA TAI
 http://app.kds666.top:5566/api.php?id=56&s=2
 #EXTINF:-1 group-title="👇KDS台湾" ,哈哈台HAHA TAI
 http://app.kds666.top:5566/api.php?id=56&s=2
+#EXTINF:-1 group-title="👇KDS台湾" ,高点综合
+http://app.kds666.top:5566/api.php?id=104&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,JET综合
 http://app.kds666.top:5566/api.php?id=58&s=2
+#EXTINF:-1 group-title="👇KDS台湾" ,华艺中文台
+http://app.kds666.top:5566/api.php?id=30&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,幸福空間居家台
 http://app.kds666.top:5566/api.php?id=57&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,美食星球
+http://app.kds666.top:5566/api.php?id=105&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,八大精彩台
 http://app.kds666.top:5566/api.php?id=46&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,八大综合台
 http://app.kds666.top:5566/api.php?id=47&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,八大娱乐台
 http://app.kds666.top:5566/api.php?id=48&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,八大第一台
+http://app.kds666.top:5566/api.php?id=109&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,八大戏剧台
+http://app.kds666.top:5566/api.php?id=110&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,台湾戏剧台
 http://app.kds666.top:5566/api.php?id=17&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,靖天中文
+http://app.kds666.top:5566/api.php?id=24&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,靖天卡通
 http://app.kds666.top:5566/api.php?id=22&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,靖洋卡通
@@ -289,6 +352,10 @@ http://app.kds666.top:5566/api.php?id=38&s=3
 http://app.kds666.top:5566/api.php?id=39&s=3
 #EXTINF:-1 group-title="👇KDS台湾" ,龙华电影
 http://app.kds666.top:5566/api.php?id=40&s=3
+#EXTINF:-1 group-title="👇KDS台湾" ,龙华电视
+http://app.kds666.top:5566/api.php?id=121&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,龙翔时代
+http://app.kds666.top:5566/api.php?id=125&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,博斯运动1
 http://app.kds666.top:5566/api.php?id=1&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,博斯运动2
@@ -309,12 +376,44 @@ http://app.kds666.top:5566/api.php?id=8&s=4
 http://app.kds666.top:5566/api.php?id=9&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,纬来育乐
 http://app.kds666.top:5566/api.php?id=10&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,纬来体育
+http://app.kds666.top:5566/api.php?id=119&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,纬来日本
 http://app.kds666.top:5566/api.php?id=12&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,纬来电影
+http://app.kds666.top:5566/api.php?id=120&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,采昌影劇
 http://app.kds666.top:5566/api.php?id=15&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,影迷紀實台
 http://app.kds666.top:5566/api.php?id=46&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,好莱坞电影台
+http://app.kds666.top:5566/api.php?id=113&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,智林体育
+http://app.kds666.top:5566/api.php?id=40&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,ELTA综合
+http://app.kds666.top:5566/api.php?id=6&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,ELTA日韩
+http://app.kds666.top:5566/api.php?id=7&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,ELTA体育1台
+http://app.kds666.top:5566/api.php?id=10&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,ELTA体育2台
+http://app.kds666.top:5566/api.php?id=11&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,ELTA体育3台
+http://app.kds666.top:5566/api.php?id=12&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 大联盟1台
+http://app.kds666.top:5566/api.php?id=1&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 大联盟2台
+http://app.kds666.top:5566/api.php?id=2&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 足球1台
+http://app.kds666.top:5566/api.php?id=3&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI WBC 1台
+http://app.kds666.top:5566/api.php?id=4&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 体育1台
+http://app.kds666.top:5566/api.php?id=5&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 体育2台
+http://app.kds666.top:5566/api.php?id=22&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,HAMI 热播台
+http://app.kds666.top:5566/api.php?id=41&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,AMC電影台
 http://app.kds666.top:5566/api.php?id=18&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,ANIMAL PLANET
@@ -329,14 +428,50 @@ http://app.kds666.top:5566/api.php?id=35&s=4
 http://app.kds666.top:5566/api.php?id=51&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,BBC LIFESTYLE
 http://app.kds666.top:5566/api.php?id=52&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,BEIN SPORTS XTRA
+http://app.kds666.top:5566/api.php?id=7&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,CARTOONITO
+http://app.kds666.top:5566/api.php?id=33&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,CATCHPLAY
+http://app.kds666.top:5566/api.php?id=25&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,CB
+http://app.kds666.top:5566/api.php?id=35&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,CINEMAX
+http://app.kds666.top:5566/api.php?id=123&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,CN
+http://app.kds666.top:5566/api.php?id=31&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,CNEX
 http://app.kds666.top:5566/api.php?id=47&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,CNN
+http://app.kds666.top:5566/api.php?id=139&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,CRIME+INVESTIGATION
 http://app.kds666.top:5566/api.php?id=54&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,DA VINCI
 http://app.kds666.top:5566/api.php?id=45&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,DAZN
+http://app.kds666.top:5566/api.php?id=43&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,DISCOVERY ASIA
+http://app.kds666.top:5566/api.php?id=28&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,DMAX
+http://app.kds666.top:5566/api.php?id=38&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,EUROSPORT 1
+http://app.kds666.top:5566/api.php?id=13&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,EUROSPORT 2
+http://app.kds666.top:5566/api.php?id=14&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,EVE
+http://app.kds666.top:5566/api.php?id=39&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,EYETV 戏剧
+http://app.kds666.top:5566/api.php?id=111&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,EYETV 旅游
+http://app.kds666.top:5566/api.php?id=112&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,FGM GOLD
 http://app.kds666.top:5566/api.php?id=20&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,FTV
+http://app.kds666.top:5566/api.php?id=140&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,GET WIN SPORT
+http://app.kds666.top:5566/api.php?id=41&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,GINX TV
+http://app.kds666.top:5566/api.php?id=39&s=7
 #EXTINF:-1 group-title="👇KDS台湾" ,HBO HD
 http://app.kds666.top:5566/api.php?id=28&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,HBO HITS
@@ -345,10 +480,20 @@ http://app.kds666.top:5566/api.php?id=30&s=4
 http://app.kds666.top:5566/api.php?id=31&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,HBO SIGNATURE
 http://app.kds666.top:5566/api.php?id=29&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,HGTV
+http://app.kds666.top:5566/api.php?id=36&s=8
 #EXTINF:-1 group-title="👇KDS台湾" ,HISTORY
 http://app.kds666.top:5566/api.php?id=49&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,HITS
 http://app.kds666.top:5566/api.php?id=27&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,JSPORTS 1
+http://app.kds666.top:5566/api.php?id=28&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,JSPORTS 2
+http://app.kds666.top:5566/api.php?id=29&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,JSPORTS 3
+http://app.kds666.top:5566/api.php?id=30&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,JSPORTS 4
+http://app.kds666.top:5566/api.php?id=31&s=7
 #EXTINF:-1 group-title="👇KDS台湾" ,KIX
 http://app.kds666.top:5566/api.php?id=21&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,LOVE NATURE
@@ -361,16 +506,48 @@ http://app.kds666.top:5566/api.php?id=50&s=4
 http://app.kds666.top:5566/api.php?id=19&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,MOMO親子台
 http://app.kds666.top:5566/api.php?id=40&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,MOMO TV
+http://app.kds666.top:5566/api.php?id=27&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,MY VIDEO 体育台
+http://app.kds666.top:5566/api.php?id=42&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,NATGRO WILD
+http://app.kds666.top:5566/api.php?id=142&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,NICK JR
 http://app.kds666.top:5566/api.php?id=37&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,NICKELODEON
 http://app.kds666.top:5566/api.php?id=38&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,PTS XS
+http://app.kds666.top:5566/api.php?id=126&s=11
 #EXTINF:-1 group-title="👇KDS台湾" ,ROCK ACTION
 http://app.kds666.top:5566/api.php?id=23&s=4
 #EXTINF:-1 group-title="👇KDS台湾" ,ROCK XSTREAM
 http://app.kds666.top:5566/api.php?id=25&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,SCI
+http://app.kds666.top:5566/api.php?id=37&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,SKY SPORTS TENNIS
+http://app.kds666.top:5566/api.php?id=26&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,STAR MOVIES
+http://app.kds666.top:5566/api.php?id=143&s=11
+#EXTINF:-1 group-title="👇KDS台湾" ,TNT SPORTS 2
+http://app.kds666.top:5566/api.php?id=1&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TRACE SPORT STARS
+http://app.kds666.top:5566/api.php?id=38&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TSN 1
+http://app.kds666.top:5566/api.php?id=8&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TSN 2
+http://app.kds666.top:5566/api.php?id=9&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TSN 3
+http://app.kds666.top:5566/api.php?id=10&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TSN 4
+http://app.kds666.top:5566/api.php?id=11&s=7
+#EXTINF:-1 group-title="👇KDS台湾" ,TSN 5
+http://app.kds666.top:5566/api.php?id=12&s=7
 #EXTINF:-1 group-title="👇KDS台湾" ,TVN
 http://app.kds666.top:5566/api.php?id=22&s=4
+#EXTINF:-1 group-title="👇KDS台湾" ,WB TV
+http://app.kds666.top:5566/api.php?id=34&s=8
+#EXTINF:-1 group-title="👇KDS台湾" ,YOYO
+http://app.kds666.top:5566/api.php?id=118&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV1
 http://app.kds666.top:5566/api.php?id=48&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV2
@@ -379,6 +556,8 @@ http://app.kds666.top:5566/api.php?id=49&s=11
 http://app.kds666.top:5566/api.php?id=50&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV4
 http://app.kds666.top:5566/api.php?id=51&s=11
+#EXTINF:-1 group-title="👇KDS央视" ,CCTV4欧洲
+http://app.kds666.top:5566/api.php?id=66&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV5
 http://app.kds666.top:5566/api.php?id=52&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV5+
@@ -407,8 +586,6 @@ http://app.kds666.top:5566/api.php?id=63&s=11
 http://app.kds666.top:5566/api.php?id=64&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV17
 http://app.kds666.top:5566/api.php?id=65&s=11
-#EXTINF:-1 group-title="👇KDS央视" ,CCTV4欧洲
-http://app.kds666.top:5566/api.php?id=66&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV4K
 http://app.kds666.top:5566/api.php?id=67&s=11
 #EXTINF:-1 group-title="👇KDS央视" ,CCTV8K
@@ -441,8 +618,6 @@ http://app.kds666.top:5566/api.php?id=80&s=11
 http://app.kds666.top:5566/api.php?id=81&s=11
 #EXTINF:-1 group-title="👇KDS广东" ,广东卫视
 http://app.kds666.top:5566/api.php?id=82&s=11
-#EXTINF:-1 group-title="👇KDS广东" ,深圳卫视
-http://app.kds666.top:5566/api.php?id=83&s=11
 #EXTINF:-1 group-title="👇KDS广东" ,广东新闻
 http://app.kds666.top:5566/api.php?id=95&s=11
 #EXTINF:-1 group-title="👇KDS广东" ,广东新闻
@@ -461,8 +636,16 @@ http://app.kds666.top:5566/api.php?id=94&s=11
 http://app.kds666.top:5566/api.php?id=97&s=11
 #EXTINF:-1 group-title="👇KDS广东" ,广东岭南戏曲
 http://app.kds666.top:5566/api.php?id=98&s=11
+#EXTINF:-1 group-title="👇KDS广东" ,广州新闻
+http://app.kds666.top:5566/api.php?id=100&s=11
 #EXTINF:-1 group-title="👇KDS广东" ,江门综合
 http://app.kds666.top:5566/api.php?id=99&s=11
+#EXTINF:-1 group-title="👇KDS广东" ,深圳卫视
+http://app.kds666.top:5566/api.php?id=83&s=11
+#EXTINF:-1 group-title="👇KDS广东" ,深圳都市频道
+http://app.kds666.top:5566/api.php?id=101&s=11
+#EXTINF:-1 group-title="👇KDS广东" ,深圳电视剧
+http://app.kds666.top:5566/api.php?id=102&s=11
 #EXTINF:-1 group-title="👇KDS卫视" ,广东卫视
 http://app.kds666.top:5566/api.php?id=82&s=11
 #EXTINF:-1 group-title="👇KDS卫视" ,深圳卫视
@@ -567,6 +750,8 @@ http://app.kds666.top:5566/api.php?id=46&s=6
 http://app.kds666.top:5566/api.php?id=47&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,精品剧场5
 http://app.kds666.top:5566/api.php?id=48&s=6
+#EXTINF:-1 group-title="👇KDS卫视" ,环球精选
+http://app.kds666.top:5566/api.php?id=49&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,精彩影视
 http://app.kds666.top:5566/api.php?id=45&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,金鹰纪实
@@ -575,10 +760,14 @@ http://app.kds666.top:5566/api.php?id=50&s=6
 http://app.kds666.top:5566/api.php?id=51&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,五星体育
 http://app.kds666.top:5566/api.php?id=52&s=6
+#EXTINF:-1 group-title="👇KDS卫视" ,五星体育
+http://app.kds666.top:5566/api.php?id=103&s=11
 #EXTINF:-1 group-title="👇KDS卫视" ,晴彩赛事1
 http://app.kds666.top:5566/api.php?id=53&s=6
 #EXTINF:-1 group-title="👇KDS卫视" ,晴彩赛事2
 http://app.kds666.top:5566/api.php?id=54&s=6
+#EXTINF:-1 group-title="👇KDS卫视" ,晴彩赛事3
+http://app.kds666.top:5566/api.php?id=55&s=6
 #EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
 http://mtayeh.ottb.xyz/live/774710333494/659822672281/58592.ts
 #EXTINF:-1 group-title="📺OIIB CN" ,无线新闻
