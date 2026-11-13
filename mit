@@ -389,8 +389,8 @@ Weather Nation,http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&devic
 无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 无线新闻,http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/616461
 无线新闻,http://173.208.234.146/live/inews.m3u8
-无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=153399
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495601
+无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
 翡翠台,http://173.208.234.146/live/jade.m3u8
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
@@ -403,11 +403,11 @@ TVB Plus,https://cdn6.cc.cd/163189/tvbp
 TVB Plus,https://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
-TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495602
+TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495602
 TVB1,https:/cdn6.cc.cd/163189/tvb1
 TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
 TVBJ1,https://cdn6.cc.cd/163189/j1
-TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495598
+TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495598
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
@@ -441,7 +441,7 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰香港,video://https://www.faintv.com/channel/18965
 凤凰香港,video://http://115.190.252.60/gangaotai/play.php?name=凤凰香港
 凤凰美洲台,video://http://115.190.252.60/gangaotai/play.php?name=凤凰美洲
-凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=156408
+凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156408
 HOY76,http://173.208.234.146/live/hoy76.m3u8
 HOY76,https://cdn11.123.rr.kg/163189/hoy76
 HOY77,http://173.208.234.146/live/hoy77.m3u8
@@ -554,22 +554,17 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
 寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-寰宇新闻台,http://31.43.191.125:8080/restream/restream/34793
-镜新闻,http://31.43.191.125:8080/restream/restream/34876
+寰宇新闻台,http://app.kds666.top:5566/api.php?id=6&s=3
+镜新闻,http://app.kds666.top:5566/api.php?id=4&s=3
+中天新闻,http://app.kds666.top:5566/api.php?id=141&s=11
+中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
+中天新闻,http://dev.sugonedu.com:8081/live/999ztxw.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,http://app.kds666.top:5566/api.php?id=1&s=3
-中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
-中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=ztxw
-中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
-中天新闻,http://31.43.191.125:8080/restream/restream/34817
-中天新闻,http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/34817
-中天新闻,http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34817
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天綜合,http://31.43.191.125:8080/restream/restream/34898
-中天娛樂HD,https://mqitv.luckyboy.cc.cd/live1023/index.m3u8
+中天综合,http://app.kds666.top:5566/api.php?id=127&s=11
+中天娱乐,http://app.kds666.top:5566/api.php?id=128&s=11
 中天亞洲台,http://app.kds666.top:5566/api.php?id=14&s=4
-中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
 中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
@@ -623,12 +618,9 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 东方卫视,http://58.245.255.38:8888/tsfile/live/0107_1.m3u8?key=txiptv&amp;authid=0
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
-FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90350
-FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
-FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90351
-FAIRCHILD 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
-FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90352
+FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90350
+FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90351
+FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90352
 
 广东频道,#genre#
 广东大湾区卫视,http://173.208.234.146/live/nfws.m3u8
