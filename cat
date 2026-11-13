@@ -1753,6 +1753,78 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=10223&deviceMac=00:1A:79:07:
 http://tv.cloudcdn.me:80/live.ts?channelId=126192&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 group-title="😎cloudcdn News" ,Weather Nation
 http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,ABC KABC
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109800.ts
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,CBS KCAL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109404.ts
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,CBS KCBS
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109405.ts
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,CW KTLA
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/98469.ts
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,FOX KTTV
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109511.ts
+#EXTINF:-1 group-title="📺primestreams LOS ANGELES" ,NBC KNBC
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109603.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,ABC News Live
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119030.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,AccuWeather
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/114265.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Aljazeera
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119442.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,BBC America
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1329.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,BBC World News
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109111.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Bloomberg
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/30274.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CCTV4
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119452.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CGTN Documentary
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/110127.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CNBC
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1346.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CNBC World
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/91153.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CNN
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1347.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CNN
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/36923.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,CNN INTERNATIONAL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109883.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Fox Business
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/27167.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Fox News
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/31684.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Fox Weather
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118687.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,France 24
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119471.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,HLN
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38633.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,MSNBC
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/30001.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Newsmax
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90392.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Newsmax 2
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90393.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,NewsNation
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/99458.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,RTE NEWS
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/98809.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,SKY NEWS
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120391.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,The Weather Channel
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1454.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,FANDUEL RACING
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/97589.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,FANDUEL TV
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/35449.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,TYT Network
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/117499.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Weather Nation
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90389.ts
+#EXTINF:-1 group-title="📺primestreams NEWS" ,Yahoo Finance
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118679.ts
 #EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,ABC 7 KABC
 http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213872.ts
 #EXTINF:-1 group-title="☕ysift55 LOS ANGELES" ,CBS 2 KCBS
