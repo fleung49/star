@@ -43,6 +43,7 @@ CCTV-6,https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 张学友醒着做梦音乐会,https://h5vod.kylintv.tv/vod/vol27/hd/20190201/hdzxyxzzm0qt/hdzxyxzzm0qt.mp4/hdzxyxzzm0qt_1_2500_ipad.mp4.m3u8
 
 US WCETV銀視,#genre#
+巴士的AITV,video://https://www.bastillepost.com/hongkong/article/16450062-巴士的ai-tv
 CCTV-4美洲,video://http://wcetv.com/videos/view/liv/0
 CGTN,video://http://wcetv.com/videos/view/liv/1
 CGTN DOCUMENTARY,video://http://wcetv.com/videos/view/liv/2
@@ -471,6 +472,7 @@ VIUTV,https://cdn.123.rr.kg/163189/viu
 VIUTV,https://10.fast.hidns.vip/163189/viu/
 VIUTV6,https://10.fast.hidns.vip/163189/viu6/
 VIUTV6,http://cdn10.123.rr.kg/163189/viu6/
+巴士的AITV,http://app.kds666.top:5566/api.php?id=53&s=2
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -925,7 +927,8 @@ HZTV-2,http://www.yahao.host:4022/rtp/239.77.1.233:5146
 
 YT,#genre#
 鳳凰衛視#24小時直播間,https://www.youtube.com/watch?v=Ry--eMIjYLQ
-CCTV中文国际,https://www.youtube.com/watch?v=vNVp6bxkL1c
+CCTV中文国际,https://www.youtube.com/watch?v=X-HTZdV960U
+CCTV中文国际（美洲）,https://www.youtube.com/watch?v=PiSwAy-blvA
 BNE 佳讯-24小时新闻1,https://www.youtube.com/watch?v=peZgMZEJLzg
 BNE 佳讯-24小时新闻2,https://www.youtube.com/watch?v=X7u-nh7tCqY
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
