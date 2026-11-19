@@ -386,6 +386,7 @@ Weather Nation,http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&devic
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线新闻,http://app.kds666.top:5566/api.php?id=5&s=2
 无线新闻,http://app.kds666.top:5566/api.php?id=7&s=1
+无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 无线新闻,http://ysift55.xyz/9F54C43547F0/28EB3B5ABFD4/616461
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495601
 无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
@@ -396,6 +397,7 @@ Weather Nation,http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&devic
 華麗翡翠台(硬字幕),https://cdn6.cc.cd/163189/jade
 華麗翡翠台(新加坡),https://cdn3.123.rr.kg/stream/live/jade/
 明珠台,https://cdn6.cc.cd/163189/mzt
+TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn6.cc.cd/163189/tvbp
 TVB Plus,https://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
@@ -463,10 +465,14 @@ NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 NOW财经台,http://app.kds666.top:5566/api.php?id=17&s=2
 Now-爆谷台,http://app.kds666.top:5566/api.php?id=18&s=2
 Now-爆谷台,http://app.kds666.top:5566/api.php?id=133&s=11
+Now-爆谷台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
 Now-星影台,http://app.kds666.top:5566/api.php?id=19&s=2
 Now-星影台,http://app.kds666.top:5566/api.php?id=136&s=11
+Now-星影台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
 Now-华剧台,http://app.kds666.top:5566/api.php?id=22&s=2
 Now-华剧台,http://app.kds666.top:5566/api.php?id=132&s=11
+Now-华剧台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
+Now-紫金台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
 美亚电影,http://app.kds666.top:5566/api.php?id=13&s=1
 POPC,http://app.kds666.top:5566/api.php?id=16&s=1
 ViuTV,http://app.kds666.top:5566/api.php?id=11&s=2
@@ -555,7 +561,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
-寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻台,http://app.kds666.top:5566/api.php?id=6&s=3
 镜新闻,http://app.kds666.top:5566/api.php?id=4&s=3
 中天新闻,http://app.kds666.top:5566/api.php?id=1&s=3
@@ -570,6 +576,8 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
+中视经典,http://167.88.62.43:64008/0.ts
+中视菁采,http://167.88.62.43:64009/0.ts
 TVBS亞洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500947.ts
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
@@ -590,6 +598,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 大湾区卫视,http://173.208.234.146/live/nfws.m3u8
 大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+大湾区卫视,http://167.88.62.43:64011/0.ts
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
@@ -600,6 +609,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://167.88.62.43:64013/0.ts
 广东移动,http://173.208.234.146/live/gdyd.m3u8
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东民生,http://173.208.234.146/live/gdgg.m3u8
@@ -622,6 +632,8 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90350
 FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90351
+FAITCHILD 1,http://167.88.62.43:64026/0.ts
+FAITCHILD 2,http://167.88.62.43:64022/0.ts
 FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90352
 
 广东频道,#genre#
@@ -632,6 +644,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东大湾区卫视（海外版）,http://tv.8610000.cn:555/gdtv/gdtv.php?id=46
 广东大湾区卫视,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
+广东大湾区卫视,http://167.88.62.43:64011/0.ts
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 广东卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
@@ -667,6 +680,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东体育,http://tv.8610000.cn:555/gdtv/gdtv.php?id=47
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://xhyx.gz.cn:1698/hls/4/index.m3u8
+广东体育,http://167.88.62.43:64013/0.ts
 广东少儿,http://173.208.234.146/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
